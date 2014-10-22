@@ -260,7 +260,7 @@ print OUT $text;
 
 foreach my $id (sort {$a<=>$b} keys %newTrans){
 	if ($newTrans{$id}{'speaker'} eq 'unknown'){$newTrans{$id}{'speaker'} = 'unknown_'.$videoName }
-	print OUT "$videoName 1 $newTrans{$id}{'start'} $newTrans{$id}{'end'} $newTrans{$id}{'speaker'} <o,f0,unknown> $newTrans{$id}{'text'}\n";
+	print OUT "$videoName 1 $newTrans{$id}{'speaker'} $newTrans{$id}{'start'} $newTrans{$id}{'end'} <o,f0,unknown> $newTrans{$id}{'text'}\n";
 }
 close(OUT);
 
