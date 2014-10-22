@@ -1,0 +1,1297 @@
+There were a couple of areas that have been discussed a little bit, which I wanted to 
+elaborate on because I think it is significant. 
+One of them relates to intact aborts. 
+The question of a crew escape system and whether that should be automated, whether the crew 
+should have control and what is required if you actually have the crew take control. 
+I think Chris Kraft gave an interesting perspective with the idea that because of the difficulties, 
+or given the requirements, really, the impossibility of incorporating a capsule escape system for 
+the Shuttle, the project basically took the point of view that the Shuttle itself was 
+the escape pod, which means that you have to recover the Shuttle intact regardless of 
+any engine failures. 
+Now that, of course, requires 100% reliability of the solid rocket boosters which we never 
+did achieve with Challenger. 
+Although, of course, had we operated it within its spec limits it might be another story. 
+But, in any case, I want to go through some of the details of a return to launch site 
+abort and then I will describe an incident which occurred on our last flight to give 
+you an idea of what is involved in the actual operation of abort modes. 
+The idea is you have the two solid rocket boosters which have to light. 
+And they are going to perform no matter what. 
+If one of those boosters doesn't light and the other does it is a bad day. 
+What can you say? 
+And, obviously, if one of them fails during flight it is a bad day. 
+And, which was more of a design problem, if they don't tail off at just the identical 
+rate so that you get asymmetric thrust greater than a certain capability of the Shuttle to 
+control, you have had a bad day. 
+And because of the requirement to have symmetric thrust, I don't think if this was discussed 
+before, when the solid rocket boosters are poured, they mix a batch of propellant sort 
+of like you mix bread dough. 
+And then they pour the propellant into both the left and the right booster segments at 
+the same time so each booster segment has the identical batch of propellant in it. 
+It may not be the same from the bottom to the top, but it is the same from the left 
+to the right. 
+And that is critical. 
+And then they always reserve a certain proportion of the propellant. 
+And they do tests on that to make sure that there are no process control problems. 
+OK. 
+You still need the three main engines to have enough thrust. 
+The boosters each give you about 2.5 million pounds thrust, so that is about five million 
+pounds to get off the ground. 
+These give you about a half a million pound thrust at vacuum, four hundred and some odd 
+thousand pounds thrust, so still over a million pounds thrust. 
+And, of course, the problem you have during first stage is you have big gravity losses. 
+The Shuttle on the pad weighs about 5.5 million pounds with all the propellant. 
+If you don't fire your main engines you are barely going to lift off the ground. 
+Actually, I guess it is a little bit less than five million pounds. 
+But, in any case, without the three main engines firing you don't have enough thrust to get 
+into orbit. 
+Now, remember we talked about for deorbit burn, normally we fire both OMS engines. 
+If one of the OMS engines is out you can fire one engine for twice as long. 
+Or, if they are both out, you can fire the four RCS thrusters for twice as long again. 
+Because you are in orbit, you are weightless, you don't have gravity losses, so firing half 
+as many engines for twice as long is completely equivalent. 
+When you are taking off against gravity that is not true. 
+I mean if you only have five million pounds of thrust for a five million pound payload 
+you are just going to sit on the pad and burn all your fuel. 
+OK. 
+You need your three engines. 
+And, in fact, another interesting point, the attachment between the external tank and the 
+Shuttle, that is stressed to assume that you have at least one engine burning. 
+They tell me that if the Shuttle took off with just the solid boosters and you didn't 
+have any thrust, sort of keeping the Shuttle up with the external tank, that the structural 
+attachment points would fail. 
+Anyway, you need your engines. 
+What happens if you lose an engine early on? 
+If you are far enough into the launch, you are over the main gravity loss segment usually 
+starting at about 3.5 to 4 minutes into launch. 
+If you lose one engine you can make it over the ocean, And that is called a Trans-Atlantic 
+Abort. 
+And, when you do that, you are basically flying upside down. 
+You will do a roll maneuver, drop your external tank and come in and land. 
+And you are basically going in the same direction which is nice when you are flying a rocket. 
+These things are hard to turn around. 
+But if you are going to do a return to launch site abort that is exactly what you have to 
+do. 
+So, this is a procedure that has been analyzed to death in many, many computer simulations. 
+The basic procedure is you take off and you lose an engine. 
+Now, it doesn't matter when you lose an engine in the first 2.5 minutes. 
+You don't do anything while the solid rocket boosters are firing. 
+They basically have open loop guidance. 
+There is a certain projector programmed in and you cannot readjust that trajectory with 
+a closed loop guidance solution to accommodate for any sort of a malfunction. 
+So, you don't even declare an RTLS abort. 
+And that, by the way, is done by the crew punching a button which essentially is a protected 
+button. 
+You punch that. 
+And you can also do it via a computer input if something goes wrong with the button. 
+You declare an RTLS abort after SRB separation. 
+Immediately what happens is your trajectory increases because you want to gain altitude, 
+and you will see why in a minute. 
+But what happens now is you've got a pretty hefty downrange velocity already and you have 
+got to turn around and come back. 
+You have also got to worry about the disposal of your external tank. 
+If you turn around and you come back, you are still burning your engines, you are still 
+riding your tank, and you don't want the tank coming down on Melbourne or Disney World or 
+anything like that. 
+The basic procedure is as follows. 
+You are going out, you loft your trajectory a bit, once you get far enough out now what 
+you do is you do a powered pitch around. 
+A very sporty maneuver. 
+The external tank is here. 
+Now you are flying backwards into your plume and everybody has speculated on what that 
+would actually look like. 
+Now you are flying backwards decelerating. 
+And, as you decelerate, of course, gravity is starting to push you down so you've got 
+to increase your pitch velocity until finally you basically have no more horizontal velocity 
+and are just sitting statically on top of your exhaust. 
+And now you gradually pitch forward and you start to fly back. 
+Again, you have got to plan your trajectory so that when you drop the tank it is going 
+to come down in the ocean. 
+And then, if all that goes well, now you enter the heading alignment circle. 
+And, of course, you are a heavy weight vehicle because you also, in the process of the RTLS, 
+dump your OMS tanks and your RCS propellant so that you want to make sure you are as light 
+as possible. 
+Plus, in case you have any problem with landing you don't want your hypergolic propellant 
+tanks to rupture. 
+If all that goes well, now you enter the heading alignment circle and you have hopefully a 
+nominal landing. 
+As I say, this has been analyzed in high-fidelity dynamic simulations. 
+The crew practices it over and over again. 
+Everybody knows the procedures. 
+Nobody wants to be the first crew to try this out. 
+Before STS-1, you remember we talked about how there were lots of problems with the tiles 
+falling off. 
+I remember one of the people very high up in NASA, I don't remember if it was the administrator 
+or one of the deputies, suggested that maybe the safest thing to do would be to do a planned 
+RTLS because an RTLS, of course, you don't get up to those high velocities. 
+And so you don't have any thermal problems. 
+And so if a whole bunch of tiles had fallen off on the launch pad you could safely do 
+an RTLS. 
+Well, obviously, they did not appreciate the difficulties of doing an RTLS and that suggestion 
+was not taken up. 
+We basically decided we were not going to fly until we had confidence that the tiles 
+were going to stay on. 
+Cut forward to February of 1996, which was my fifth and final Shuttle flight. 
+I was the second flight engineer so I was sitting right behind the pilot who is responsible 
+for the main engine performance. 
+Now, I should tell you, we have had, in the course of the 114 Shuttle flights we have 
+had four pad shutdowns, pad aborts. 
+And I think we talked about that briefly. 
+The main engines turn on six seconds before the solids. 
+Just reviewing that does two things. 
+It gives the engines time to come up to full thrust and then you can perform checks on 
+them to make sure that they are operating properly before you commit yourself to flight. 
+And, of course, it gives time, because of the asymmetric thrust, for what we call the 
+And then, when you get to the vertical, you light the boosters. 
+In fact, when they had the first test firing on the pad before STS-1, one of the reasons 
+that they wanted to do that, in addition to just confirming that everything was working 
+right, is they really wanted precise timing on the twang. 
+People had calculated it, but that is not something you want to get wrong. 
+So, they wanted an experimental verification. 
+Of the four pad shutdowns, two of them were caused by instrumentation and two of them 
+were real engine problems. 
+I remember the first one was the last flight before what would have been my first flight 
+back in 1984. 
+And the main engine cutoff is called MECO. 
+So, 8.5 minutes into the flight. 
+After they had a pad abort the flight engineer called to Mission Control we have MECO, somehow 
+I thought we would be a little bit higher. 
+And, of course, when that happens now you've got to pull all the engines out, take them 
+back to the shop, bring in new engines and it is about a two or three week stand down. 
+And the crew has to go back to Houston. 
+And, of course, all of your friends and family are there and they have to go home. 
+It is no fun. 
+I mean nobody complains if it is safe. 
+We're sitting on the pad, we're counting down and everything was on schedule. 
+In fact, the first of my five flights it had zero problems, zero delays. 
+We were going on the day that was predicted on the time. 
+Countdown to six seconds. 
+You can feel the engines. 
+Everything starts to rumble. 
+The engines start up. 
+There is what we call a steam gage, a vertical bar which shows the engine power. 
+Center and right engines come up to 100%. 
+The left engine comes up to 40%. 
+The pilot calls out left engine at 40%. 
+In times like this, your mind is working pretty fast. 
+I remember thinking to myself oh, damn, we are going to have a pad shutdown, we have 
+got to go back to Houston and back to the simulators. 
+I mean stupid things to be thinking about at that time, but that is sort of the way 
+it works. 
+And all of a sudden kaboom. 
+I feel this big kick in my back. 
+The solids have lit. 
+What in the hell is going on? 
+We were supposed to have a pad abort. 
+Now we are going with an engine. 
+And, actually, when you are going through maximum dynamic pressure, max q, the engines 
+throttle down to about 65%. 
+And there is a malfunction if one of your engines gets stuck it is called getting stuck 
+in the thrust bucket. 
+If it doesn't come back to full power you are RTLS abort. 
+Well, we were taking off with one engine at 
+It sort of dawned on me that we were going to be the first crew to do an RTLS, so at 
+that point I start going through my checklists. 
+And the pilot calls to the ground we have ignition, left engine at 40%. 
+And so, for about the first 15 seconds or so, I just had barely time to get out the 
+RTLS checklist and start getting ready to read the procedures. 
+And then it turns out that the ground has more insight than the crew does. 
+And it turns out that there are several sensors, one of which feeds that gauge. 
+But, in fact, that sensor had gone bad. 
+And, in fact, the left engine was performing nominally and the ground was able to confirm 
+that both by the other sensors and by looking at the acceleration. 
+And so, everything was OK, I put away the checklist and enjoyed the ride. 
+But, first of all, it was kind of a scary situation. 
+But it also shows the difficulty. 
+Now, suppose we, as the crew, had been responsible for declaring an abort. 
+If you are going to build in a system where this is the crew's responsibility then you 
+better design your instrumentation so that the crew has all the instrumentation required 
+to make that decision correctly. 
+Similarly, if this were to be an automatic abort, you've got to have failure detection, 
+identification, reconfiguration. 
+The last thing you want is to go into an abort situation when you don't have to because there 
+is no way that an abort is going to be anywhere near as safe as a nominal mission. 
+Obviously, it's just a good story now. 
+But I think it does have something to inform about how you are going to have to design 
+abort systems. 
+And, as both Aaron Cohen and Chris Kraft said, although the astronauts always felt comfortable 
+with their abort system but I am not sure that all the people in Mission Control were 
+quite so comfortable knowing the things that might go wrong with it. 
+And, in fact, as he said, they always breathe a sigh of relief after first stage when the 
+abort rocket would detach and fire itself away. 
+Yeah. 
+If one of the engines is not working or not working properly, I guess the other two engines 
+try to do the work [NOISE OBSCURES]. 
+Well, they certainly will throttle up to 109% if they need to, but they cannot make up for 
+the first engine when you're in the first stage and you have lots of gravity losses. 
+In fact, when you get, like I said, to about 
+and downrange velocity to make it across. 
+And then at some point you get to the situation where you basically gained your altitude. 
+And, although you are not at orbital velocity yet so you still have some gravity losses, 
+the gravity losses are small enough that if you have a loss of an engine you can still 
+make it to a lower orbit. 
+That is called abort to orbit, ATO. 
+And you will hear the call press to ATO means that you can now make it to a lower orbit 
+which is the safest thing to do with two engines. 
+And then a little bit later on you will hear like single engine TAL which means if you 
+lose two engines with only one engine you can make it across the Atlantic. 
+And then later on you will hear single engine ATO and then finally single engine. 
+Then you will also hear press to MECO which means at this point if you lose an engine 
+you can make it through your nominal orbit. 
+And usually about the last call a single engine press to MECO which means even if you lose 
+two engines you can still make it to MECO. 
+What happens then if there  
+is an instrumentation problem [NOISE OBSCURES]? 
+The crew will never declare an abort on their own because it is just realized that the ground 
+has so much more information. 
+The only exception is if you lose comm. 
+If we had lost comm. 
+and we saw our engine at 40%, I mean there were a few other displays which the pilot 
+was starting to call up. 
+And it could be that he would have figured it out perhaps, perhaps not, but that is the 
+only circumstance under which the crew would make that call. 
+There was abort at some stage. 
+What happened to that? 
+Did they manage to make it [OVERLAPPING VOICES]? 
+I was trying to remember. 
+Did I talk about that in class? 
+Well, all right, I will run through that because it was, again, a very interesting story. 
+The things that you are afraid about is that if things go back in a hurry in an engine 
+that an engine can actually blow up. 
+And it is one thing if an engine gets shutdown. 
+Now you are just flying on two engines. 
+But if an engine blows up and takes out your whole rear section you have had a bad day. 
+The instrumentation is biased towards an early shutdown. 
+If you sense that something has gone wrong shut it down. 
+We have got intact aborts. 
+Better to err on the side of safety, even if that might potentially put you into an 
+abort situation. 
+And I am trying to exactly reconstruct it. 
+The thing is that if you lose one engine now you are abort ATO. 
+Now, if you lose a second engine you might be in a situation where certainly you cannot 
+make it to orbit. 
+And, because you have changed your trajectory, you might not be able to make it to a good 
+Trans-Atlantic landing site. 
+So, at that point, if you have lost one engine there is a switch on the center console where 
+you can override the engine shutdown command. 
+What you are now saying is we are in an unsurvivable situation if we only have one engine. 
+And, therefore, we will take the extra chance of getting an instrumentation caused engine 
+shutdown. 
+We are not going to take that chance so we are going to disable the ability of instrumentation 
+to shut down the engine and we will just take our chances. 
+The ground will continue the calculation. 
+And, as soon as you get to the point where you have the capability of doing a single 
+engine TAL or a single engine abort to orbit, you re-enable the instrumentation. 
+What happened is the Shuttle launched. 
+It must have been about 4 or 5 minutes into launch because they lost an engine, it shut 
+down automatically, they are now abort to orbit lower orbit, but they were abort to 
+orbit. 
+Take the switch, put it to inhibit. 
+Now, the main propulsion flight controller was very good. 
+She realized right away that it was an instrumentation problem because sometimes you can see certain 
+trends or you see things change in a way that tells you that this is not the way a real 
+engine behaves, that this is more typical of instrumentation. 
+She suspected she had an instrumentation problem. 
+Now they get a little further along in the launch where they could have potentially done 
+West Coast of Africa, but they could have made a nighttime landing at some emergency 
+airport in the Congo, I think it was, if they had lost another engine. 
+But, by the flight rules, they take the switch back to enable so that now, because you can 
+So, now they are enabled. 
+Now the flight controller sees that the instrumentation on one of the other two engines is starting 
+to go back the way the first one was. 
+And she realized that in about 15 seconds that engine was going to shut down so she 
+immediately called the flight director and said flight, take the switch back to inhibit. 
+And this is where the discipline becomes very important, luckily flight didn't get into 
+a long involved discussion about why do you want to do that, what is going on, but just 
+said CAPCOM engine switch to inhibit. 
+They took it. 
+And sure enough the instrumentation went bad but the engine was OK. 
+They got to orbit. 
+Then they used some of their OMS propellant to raise their orbit a little bit. 
+That was a Spacelab mission. 
+And they had a good mission. 
+But the flight controller actually won a big award for that because she really saved the 
+day. 
+So, yeah, that is the closest we ever came to a real intact abort. 
+Yeah. 
+Two questions. 
+The first one is going back to the return to launch site. 
+Do all of the main engine propellant get used up before the tank gets dropped or do you 
+not burn some of the propellant? 
+You know, I don't know the answer to that. 
+I don't. 
+And the other one is on the pad, with your flight, wouldn't the sequencing computer shut 
+down the other engines if it detected that one of them had failed? 
+And so it must have used the good sensor. 
+Yeah, that is right. 
+And, luckily, our little gauge was just fed by one. 
+And, in retrospect, you can say probably that's not a good way to design it but that is the 
+way it was designed. 
+You're right. 
+If the engine controller senses with a majority or however they program it, I don't know the 
+details of the guts of the software there. 
+But if it is convinced that one of the engines is not working right it shuts down all three 
+engines, which is what happened on four occasions. 
+Yeah. 
+When you talked about the forced pitch over in the return to launch site, was that just 
+the gambling of the main engines that gives you that? 
+Yeah, because you are off the solids at that point. 
+And that is the thing. 
+I mean with the solids there is such an enormous thrust and the aerodynamic loads are huge. 
+You don't want to deviate from your planned trajectory because one of the things that 
+they do is program in load relief for the aerodynamic surfaces. 
+They take the day of winds launch. 
+And, if you have wind shears or other atmospheric high jet streams that you are going to fly 
+through, they actually program the elevons and the body flap to move in such a way as 
+to relieve the aerodynamic loading on the wings. 
+And that is preprogrammed in. 
+It is not a closed loop. 
+It is totally open loop so you don't want to change the trajectory once you've put all 
+that load relief in. 
+How long does that take? 
+It's pretty quick. 
+It's about ten seconds, if I remember from the simulator. 
+It is a sporty maneuver, I will tell you. 
+No RCS that goes into that? 
+Oh, the RCS is trivial compared to what you're getting out. 
+You've got 500,000 pounds coming out of each engine. 
+The primary RCS is 750 pounds. 
+But, like I said, they do then open up the RCS as you are flying back. 
+And what they do is they open up all the engines so that you have symmetrical thrusts so that 
+you are firing out of both sides. 
+The idea is just to deplete the tanks as much as possible. 
+The second technical area that I had been hoping that Al Louviere would get into and 
+didn't have a chance to was the payload bay doors which are a fascinating mechanism. 
+And it is also going to be a segue into EVA because it was a strange situation. 
+It is kind of relate back to that now when you look at how many successful EVAs have 
+been done and the Hubble repair and the building of Space Station and all the other things, 
+but management at Johnson Space Center was not particularly friendly to EVA back in the 
+I asked Chris Kraft about that. 
+At first he denied it. 
+He said well, I always liked EVA. 
+He said well, maybe it was the management of the Astronaut Office that didn't like EVA. 
+He did admit that Bob Gilruth who was the Director of Johnson Space Center at the time, 
+this was when Chris Kraft was head of flight operations, definitely did not like EVA. 
+He was afraid of it. 
+He didn't think it was safe, despite the fact that back in 1973 EVA had saved the entire 
+Skylab project. 
+Hopefully most of you know that story. 
+I know it is ancient history. 
+And clearly we had done a lot of safe EVAs on the surface of the Moon, but basically 
+EVA was looked at it was expensive, it was potentially hazardous. 
+Given the things that the Shuttle was supposed to do in the original planning, mainly launch 
+satellites, launch pieces of the Space Station, that went away, Launch Defense Department 
+satellites, commercial satellites, EVA was not really part of the big picture in planning. 
+And, although they did design an airlock for the Shuttle, there were real questions of 
+how much preparation do we have to do for EVA? 
+Do we really even need it? 
+Maybe we could save some weight by not having space suits aboard. 
+That is  
+where we finally ended up. 
+That is the Hubble Telescope. 
+This is the side of the payload bay. 
+I mean, obviously, EVA became a very successful activity. 
+These are the payload bay doors. 
+This is in the orbiter processing facility. 
+And one of the things, well, I have a picture of closing the door. 
+But the mechanism of these doors is extraordinary. 
+There are two motors, one at the front and one at the back of each. 
+Each of the motors has two drive units and they work through a differential so that if 
+one of the motors fails the other one can still drive although at half the speed, just 
+similar to the way a car works. 
+There is a long torsion rod which runs the length of the Shuttle. 
+And then that torsion rod is attached to these bars over here. 
+And I am sorry the picture was scanned in and is not terribly sharp. 
+As the torsion bar twists then these rods lift up the payload bay door and bring it 
+to a close. 
+The mechanism, this is the best picture I could find, you notice there is a strong back 
+because, as was mentioned, the doors cannot support their own weight in 1G. 
+But the system of latches here, you have to remember that the payload bay can expand and 
+contract by several inches due to thermal environment. 
+And so you have to design a latch system that can accommodate this thermal behavior. 
+It was an incredible mechanical challenge. 
+And the complexity of this system, I mean I am always amazed when I look at how the 
+thing works. 
+I have a schematic of them later, which you can look at, but basically you close the doors. 
+And then the first thing you do is you want to close the latches on either end. 
+And then there is also center line latches. 
+And I think Al Louviere did discuss the fact that these payload bay doors are part of the 
+structural element of the Shuttle during reentry. 
+You cannot reenter if the doors are not just closed by latched. 
+You need them latched for structural strength. 
+There is a series of bollards here, little protrusions which these latches grab on. 
+And they have designed the rigging of the rods such that the latches that are close 
+to the hinge line actually close before the latches that are further away. 
+It is a sequential closing of the latches all with a single mechanism so that basically 
+you pull the part of the door that is closest to the torque rod, you latch that down first, 
+and then it is kind of a zipper effect where then you pull it down so that even if the 
+door is a little bit warped thermally you will get the door to close properly. 
+You wouldn't want to close this latch first and then have the door in a situation where 
+it was buckled out. 
+And then, of course, the center line latch, because of the thermal expansion, you can 
+have the doors coming together like that or like that. 
+And you have got to have centerline latches that can accommodate for that. 
+It is really quite an incredible design. 
+And Al Louviere had said that he was going to talk about it, but he didn't have time 
+to. 
+There is plenty of redundancy in here because there are these double motors, but because 
+this is so critical people started to look at suppose you have some degree stuck in the 
+mechanism, it doesn't matter how many motors, you cannot get it closed. 
+Suppose the motors jam on one side. 
+Now the other motor is not going to be able to drive it. 
+So, various things were done to allow for EVA intervention. 
+And, in the early Shuttle flights, this was the only thing that the crew trained for with 
+EVA, it was just payload bay door contingencies. 
+For instance, the PDU, the drive unit, this is the payload bay door drive unit or PLBDU. 
+That is what we call a nested acronym. 
+That is part of the game there. 
+You have to go out and actually peel away the liners of the payload bay. 
+And inside here there is a little mechanism where you can insert a special tool and twist 
+it. 
+And that actually disconnects that motor drive unit from the torque so that it can turn freely. 
+And I hope, when you look at these things, you will get some sense of the complexity 
+of these mechanisms. 
+And so what we do for training -- Of course they build mockups of this in the water and 
+we also look at the real Shuttle down in Florida to actually see these units. 
+And, for the people who are on the EVA crew, you spend a lot of time crawling around the 
+payload bay getting intimately familiar with a lot of the actual mechanisms just in case 
+you actually have to go out and do something with it. 
+Then suppose the problem is not with the drive unit but that one of these latches get jammed 
+up. 
+This is actually a tube cutter. 
+It is a little hard to see. 
+I don't know if you are familiar with the things. 
+They are on a ratchet. 
+And, as it gradually cuts, you push the blade in bit by bit. 
+And then eventually you cut away. 
+And this gives you an idea that they just gave us a lot of tools, a pin extractor, a 
+crowbar, vice grips, you name it. 
+How much did that crowbar cost? 
+Well, the crowbar probably cost about $10 at Sears. 
+And then they had to put on all of the Velcro and the tethers to go in the tool thing, and 
+that probably cost a few hundred dollars. 
+And then they had to make a drawing of it, and you know how it goes. 
+EVA is very expensive because everything has to be custom made. 
+I mean that is one of the things that, because of the constraints of the suits and the gloves, 
+you cannot, in most case, just use regular tools. 
+And, as I say, everything is tethered. 
+And I will show you pictures later. 
+We have a little mini workstation. 
+They built little receptacles on the side of the suit because it is a hard upper torso 
+which can take a certain amount of load. 
+And so you plug basically a tool caddy into your suit. 
+And then you hang all of these tools on the tool caddy. 
+And you will see some pictures later of how that works. 
+If the motors don't work and you have now freed the doors so that the door can move 
+but you have no motor to drive it, now we have a mechanical winch and a rope on it. 
+And I'm not making this up. 
+You actually run the rope up. 
+These are the little bollards that the latches catch onto. 
+You run the rope up over that and then you have to crawl out on the payload bay door, 
+which would be a lot of fun, and attach it here. 
+And then you actually wind it closed. 
+And we do this in the water. 
+I mean this is all fully mocked up. 
+Yeah. 
+What do you do if you have trouble opening the doors just after launch? 
+Well, if you cannot open the doors then you come home. 
+You wouldn't want to. 
+I mean if there was something seriously wrong with the doors you better come home. 
+Yeah, we can do this to get them closed. 
+But you don't want to purposely put yourself in that situation if you know you have a problem 
+beforehand. 
+Yeah. 
+We think it could be done with one person. 
+Normally, we only go out with two. 
+But in the orbital flight test, the first four flights only had two crew members. 
+Was of them was EVA trained. 
+And then what happens if you get the doors closed by the latches don't latch? 
+They actually made latches that we could put on by hand. 
+These are the latches for the side. 
+And this is the schematic that sort of show the latches going on the orders in that order 
+one, two, three and four. 
+And, again, the way they designed this so that they actually close in sequence but you 
+only have one drive unit is really just a beautiful mechanical system. 
+But if they don't close then you take this, and I won't go into the details, but you have 
+to spring it around at least two of those. 
+And that will give you the structural strength to come home. 
+And then if the center line latches don't close, again, you can look at the mechanism 
+here. 
+And they have yet a different tool. 
+Now, this is actually shown on its side, but this is actually on the top. 
+And this is a bitch in the water because, yeah, your suit is weightless but the tool 
+is not. 
+And so you are holding this tool. 
+When you're holding the tool you want to sink to the bottom, and so you are trying to hold 
+on with one hand. 
+And you have a tether so you try to tie yourself to the top there so that you're kind of hanging 
+on the tether. 
+But then, depending on how your weigh out is, if you move this big tool back and forth 
+your body is sort of rocking back and forth. 
+And you are working above your head. 
+I mean everybody has to do it. 
+If you are going to be an EVA crew member and you cannot do this job you are disqualified. 
+But nobody likes it. 
+It is a real pain. 
+That is basically how EVA got sold to the Shuttle System. 
+I will show you a few pictures of general EVA activities to give you an idea of how 
+the system works. 
+And then I want to go into the question of the interaction between EVA and the pressurization 
+and the environmental control system of the rest of the Shuttle because, again, this is 
+a systems engineering problem. 
+And you cannot, in most cases, do one thing without it having an impact on something else. 
+I talked about doing all this training. 
+Now we are stepping ten years into the future so that is training for the Hubble Telescope. 
+And, actually, the telescope is so tall that we couldn't get the whole thing in. 
+The pool wasn't deep enough so we had to actually cut it in half, and we would work on one half 
+and then work on the other half. 
+Here is an example. 
+This is me installing the Wide Field/Planetary Camera. 
+Now, the training, people normally see the water tank. 
+You're not weightless. 
+You all understand that. 
+If you go upside down the blood rushes to your head. 
+If you're holding onto tools, the tools will fall down. 
+And of course you don't have these guys when you're out in space. 
+Angels if you saw them out in space. 
+If you're moving around large objects, they have resistance from the water, so you need 
+to get a sense of how easy it is to push things around so you don't get things moving too 
+fast. 
+We also train on air bearing floors. 
+This is a mass model of the Wiff-Pick. 
+The same mass, moments of inertia. 
+And I am up here on a weight relief system. 
+And you can really get a sense of what it feels like. 
+And so you are trying to build a kind of muscle memory so that when you get in space you are 
+not trying to push things as hard as you push them in the water. 
+And you also remember that if you want to stop something you also have to be able to 
+exert a force on it. 
+Whereas, in the water, all you have to do is stop pushing. 
+Now we go into space and we are ready for the EVA. 
+I will sort of take you through what is involved to give you a sense of the complexity of this 
+system. 
+First of all are tools. 
+That is what I looked like before all the cosmic rays made my hair fall out. 
+It is just one of the hazards of spaceflight. 
+Here you see the kind of tool caddies. 
+This is for a ratchet wrench. 
+And we had about 250 different tools. 
+About a hundred planned to use and the rest were for contingencies. 
+And we had to take them all out. 
+We call this our fish stringer. 
+Sort of like a Portuguese fishermen. 
+The fisher wives hang all the fish on the string and then hang them out. 
+And then we take this out on the fish stringer. 
+This is the airlock at launch. 
+And it is totally packed. 
+And, in fact, we had four spacesuits rather than the normal two so there wasn't a whole 
+lot of room. 
+And the first thing is you go and you start checking the various systems. 
+And then you have to unpack everything and move it into the flight deck. 
+That is Story. 
+We went out together. 
+This is the hard upper torso. 
+This is looking down into the inside of the spacesuit. 
+The back of the spacesuit there is battery and lithium hydroxide CO2 scrubber. 
+The CO2 scrubber has to be replaced after every EVA. 
+It is good for about 12 hours. 
+And normally if you're only going out once you don't worry about recharging the batteries, 
+but since we were doing successive every day EVAs we would have to take the batteries out 
+every night and charge them. 
+Take the ones that had been charged and put them into the suits that are going to go out 
+the next day. 
+And just keeping track of which cartridges have been used and which batteries have been 
+charged and how much, I mean there is a tremendous amount of overhead effort just in managing 
+all of this equipment. 
+And we had practiced doing this a lot on the ground, as you can imagine, before we went 
+up. 
+The morning of the EVA. 
+You get up early and eat as big a breakfast as you can because you are not going to get 
+much to eat for the next eight hours. 
+These are radiation monitors. 
+For Hubble we were actually up at about 600 kilometers, which is as high as the Shuttle 
+ever goes, so we got really the highest radiation dose that you can get on the Shuttle on a 
+normal mission. 
+It was about between one and two REMs which is no big health problem. 
+But typically the dose on a Shuttle flight at a more typical 300 kilometers is more like 
+tens or maybe a little over 100 milliREMs. 
+They did want us to take the radiation monitor. 
+Now we are in the mid-deck. 
+And when you see these pictures you get a sense of when you're doing an EVA the entire 
+middeck is just full of stuff. 
+I mean there is so much equipment. 
+You've got the pants units floating over there, plus the two extra suits and all of the auxiliary 
+equipment. 
+You try to keep things organized. 
+Then for thermal control, the original Apollo spacesuits were designed for daytime use on 
+the Moon when it is very hot. 
+And, in addition, people are walking so they are putting a lot of metabolic heat into the 
+suit. 
+And so they were very concerned about being able to have sufficient cooling. 
+They developed a very, very efficient sublimator cooling unit. 
+You have a little layer of ice that is continually fed from the bottom and it is sublimates. 
+That basically is how you get rid of your heat. 
+And then you run your cooling water underneath that ice and it cools off. 
+And then it is run through what they call LCVG, liquid cooling and ventilation garment 
+which has lots of Tygon tubing that goes through it so that it carries the cold water next 
+to your skin. 
+And also the oxygen that comes into the suit comes through the helmet over the back of 
+your head so it flows over your face so you breathe the fresh oxygen. 
+But you would like to get ventilation through the entire suit so you don't build up lots 
+of humidity in your arms and legs. 
+What you do is the return valve actually comes through these air ducts. 
+And so the return is picked up at the bottom of your arms and at the bottom of your legs. 
+That insures that the air does get circulated through your arms and legs. 
+But when we started doing Shuttle EVAs metabolically you are not nearly as stressed. 
+Plus, you spend almost half your time in the dark and it gets really, really cold. 
+And this has been a constant problem. 
+And here is an interesting systems problem to show how everything relates to one another. 
+We were very concerned about when you open up the doors of the Hubble Telescope, if direct 
+sunlight comes in, it will cause an out-gassing of the internal material which could pollute 
+the ultraviolet mirrors. 
+The ultraviolet optics are very, very sensitive to organic contamination, so under no circumstances 
+could we have sunlight penetrating the interior of the telescope. 
+But we were going to be spending a lot of time with the doors open, so how do you insure 
+that you will never get the sun coming in? 
+Well, the Hubble Telescope is sitting up here like this. 
+If that is the sun, just make sure that the belly of the orbiter is always pointed towards 
+the sun. 
+Then you never have to worry about sun coming into the telescope. 
+But what you do have to worry about is that, well, during the dayside of your orbit, if 
+the sun is over here and the earth is over here, during the day your payload bay is going 
+to be pointed towards the earth. 
+And so, you basically have a radiative heat exchange with something that is at about 20 
+degrees C. 
+No big deal. 
+If you go around the other side now, you at nighttime, you're pointed at deep space. 
+And so you're radiating towards absolute zero or three degrees Kelvin. 
+And that is a concern. 
+And you get very cold. 
+They were predicting temperatures of as much as 150 below zero Celsius. 
+We were very concerned not only were our hands going to get cold but some of our tools might 
+not work. 
+We pushed very hard for a test in a thermal vacuum chamber. 
+Our tools are stored in a toolbox outside in the cargo bay. 
+And we wanted to go through going out and taking the tools out. 
+And, of course, they are held in there because they have launch locks so there are little 
+pit pins and latching mechanisms that you have to remove so that you can get the tools 
+out. 
+I went in to do the first test. 
+And it is a vacuum chamber. 
+And the walls are painted black. 
+And they can run liquid nitrogen through the vacuum chamber. 
+And they could cool it down to the lowest temperatures that we were expecting to experience. 
+I opened up the toolbox and about 75% of the tools the launch release mechanisms were just 
+frozen shut. 
+I couldn't get them out. 
+So, that started to get people's attention. 
+They sent the engineers in to redo some of the tolerance. 
+They played around with the lubrication a little bit. 
+Then Story went in a week later to do his run and he was able to get most of the tools 
+out. 
+I think he got all the tools out, actually, because I was only in for a few hours. 
+Because once we realized that it wasn't working I came out. 
+He was in there. 
+I remember he said at one point just holding onto these tools my hands are really, really 
+cold. 
+I don't know. 
+About an hour or so later someone asked him how his hands were. 
+He said oh, they are fine, they've warmed up. 
+Well, Story is from the South. 
+Those of you with experience in winter know that if your hands are really cold and after 
+a while you don't feel them anymore, it doesn't necessarily mean that they have warmed up. 
+When they took him out of the chamber his hands were deep purplish black and he had 
+severe frostbite to the point where they sent him up to Alaska to some frostbite specialists. 
+In the end, he was very fortunate. 
+He got off with no major permanent damage and was able to fly. 
+But, as you can imagine, that got serious management attention. 
+So, gloves now have electrical heating units in them. 
+But we didn't have that available. 
+What we had to do was to change the attitude profile so that we were basically pointing 
+towards the earth. 
+Now, that is generally OK. 
+If you are pointing towards the earth and the sun is coming from your belly you are 
+not going to hurt the Shuttle, but a quarter way around the earth you do have the possibility 
+now that the sun is going to hit the telescope. 
+What they had to do was to do two attitude maneuvers every orbit in order to basically 
+keep us in a more benign thermal attitude for the EVA. 
+But to prevent the sun from shinning on the telescope. 
+And we didn't the reaction control system propellant budget to support that. 
+Remember we were going into a high orbit which meant we needed to use a lot of OMS fuel to 
+get up there? 
+And we needed a lot of propellant for the deorbit because the higher you are the more 
+you have to burn to get down. 
+And so the flight control community, together with the pilots got together and developed 
+a special way that we could do maneuvers using only half the number of jets that you normally 
+use. 
+And so this is an interconnection between the thermal environment of EVA and the reaction 
+control propellant budget which nobody in the early days of flight planning would ever 
+have believed that there is this sort of connection. 
+But it is just another good example of how these systems all play with one another and 
+you cannot make changes in one without another. 
+I am going to finish this unit and then we will take a little break and then I will do 
+the last part. 
+The process of getting in the suit. 
+First you get in LTA, lower torso assembly, basically the pants. 
+And, of course, this is one time when you can put your pants on both legs at a time. 
+You cannot do that too often. 
+But, again, look at the middeck here. 
+It is full. 
+This, by the way, is the escape pole. 
+We talked about this earlier. 
+During launch and entry it is actually bolted into position so that it will take you out 
+the door, but once you are in orbit you just sort of float it up and out of the way and 
+it just kind of Velcroed to the ceiling. 
+And, of course, it has no weight up there so it is perfectly happy. 
+You get in the pants. 
+Now, the upper torso of the suit is attached to the wall inside the airlock. 
+Now you have to float into the airlock. 
+And that is what you're looking at when you're getting into the suit. 
+There are a lot of connections you have to make. 
+This is the water bag. 
+This is the comm. 
+connection for your Snoopy cap. 
+This is the water and air connection which you have to hook into your LCBG. 
+And these are the arms that you have to get into. 
+And the problem in the design here is your shoulders are wider than your chest. 
+When you are actually inside the suit you want the distance between these two arms to 
+be conformal with your armpits. 
+Because, if it is out here that cuts way down on your mobility. 
+But if it is too narrow you cannot get into it. 
+That is the basic design problem in this sort of a suit. 
+Now, the Russians have a rear entry suit that doesn't have that problem. 
+It is always a challenge and you really have to push and struggle to get in. 
+Eventually they wanted to design this suit so that one person could get in by themselves, 
+but it cannot be done. 
+I mean you can get in like this but you just cannot pull up the waist ring and attach it 
+by yourself. 
+Nobody has been able to do that. 
+It is a great feeling of accomplishment when you finally get inside. 
+Then you put your helmet on. 
+Now you're starting to see what we are dealing with because we have to take all this stuff 
+outside in addition to the tools that are already outside. 
+These are the plugs which we put the mini work station. 
+We haven't put it on quite yet but it is just a whole bunch of equipment which you have 
+to manage. 
+At this point we purge the suit with an oxygen flow. 
+Now, remember, we are at an atmospheric pressure, or almost an atmospheric pressure, I will 
+get into that later, of pure oxygen, so that also puts very serious flammability constraints. 
+Although, when you go outside, you are only at 4 psi. 
+When you are inside here you are at the full cabin pressure. 
+Actually, in order to do your leap check you have to go to 4 psi above cabin pressure. 
+You are actually working at above one atmosphere of pressure of pure oxygen, so that is a very 
+serious flammability design constraint. 
+And we have to sit and breathe pure oxygen then for about 40 minutes to get the nitrogen 
+out of our blood. 
+And, again, I will be discussing this whole atmospheric and bends problem. 
+But, if you don't, when you drop down to 4 psi, the nitrogen in your blood bubbles out 
+and you get the bends, just like a diver who comes up too fast from a dive. 
+Just one or two pictures of what went on outside. 
+There is Hubble. 
+I was changing some fuels there. 
+It was kind of neat working underneath the solar panel. 
+Those were the old ones which we took off and replaced the next day. 
+But you have to be really careful because you don't want to bang against it. 
+And, of course, you cannot see above your head, so we always have other people looking 
+at us. 
+This is the kind of situation where if you had a little heads up display where you could 
+get this sort of a view to show what you're really doing it would really improve your 
+situational awareness. 
+But, at the moment, we don't have that. 
+It takes not just the people outside but the people inside paying full attention, reading 
+procedures. 
+Historically, we carried all of our procedures on a cuff checklist, like so. 
+But the procedures for Hubble and some of the other flights are so complex that you 
+just cannot do it. 
+So, nowadays, these are just emergency procedures. 
+I will pass this around. 
+I would like it back. 
+Let's see. 
+After putting in the new Wiff-Pick, ground had to do some tests on it, so I got Claude 
+to fly me out over the arm. 
+And we had one of the old Lunar Hasselblad cameras which they let us carry. 
+Normally, we just use Nikons on the Shuttle, but they let us take a Hasselblad. 
+That gives a view of what the payload bay looks like EVA. 
+Here is Story over here working on one of the other things. 
+The Earth is not flat, don't worry about the picture. 
+I went around it many times. 
+And, I mean, some parts of EVA, I really should share it because it just gets really spectacular. 
+This is about 50 feet, I don't know whether to say above or below or whatever of the Shuttle, 
+but you're just out there in the middle of nowhere. 
+And, at this point, I was the free-floater. 
+One of the people is always attached to the end of the arm, which is good when you have 
+to move around big pieces of equipment because now you can react the forces with your feet. 
+When you are a free-floater either you're in a foot restraint, which limits your mobility, 
+or one hand has to actually be holding you so that you can react forces. 
+Of course, we are attached by a waste tether, which is then attached to a long real of stainless 
+steel. 
+But you can set it so that the springiness is taken out. 
+And so I could basically, and I did from time to time, must sort of let go. 
+And it is a really neat feeling because once you convince yourself that you're not going 
+to fall down, which I'm enough of a physicist to understand the orbital mechanics, but, 
+nevertheless, the first time I let go it was an interesting feeling. 
+The thing is when you're holding onto something, whether by your feet or your hands, of course 
+the Shuttle is so much more massive that you feel yourself physically related. 
+You are controlled by the Shuttle. 
+And so the Shuttle is your point of reference. 
+Maybe the Shuttle is in orbit but you are attached to the Shuttle. 
+As soon as I let go, the physics totally changes. 
+And it was really this transformation into being a human satellite. 
+I mean I really felt like I was a satellite now. 
+I wasn't attached to the Shuttle. 
+And sometimes, if I could turn around before I let go so I didn't see the Shuttle, it was 
+really kind of neat, especially at night, just sort of floating there and all the stars 
+and everything. 
+Yeah. 
+Do they build in time for you to be able to kind of do that kind of thing? 
+No, they don't build in the time. 
+But, like in this case, two days before on Story's and my last EVA we had replaced -- Not 
+replaced. 
+These are the magnetometers up at the top. 
+The gross maneuvering of Hubble is done by reaction wheels, but the reaction wheels, 
+when they get spinning too fast, you have to be able to desaturate them so they have 
+magnetic torquers, these long torque rods which create a magnetic field. 
+There are no jets on Hubble because it would cause pollution of the optics, so you need 
+magnetometers up at the top to sense the magnetic field in order to operate the torquers. 
+The magnetometers were never designed to be replaced. 
+They weren't supposed to fail. 
+Well, both of them failed in the first couple of years. 
+We couldn't take them off so they designed two new magnetometers that we could actually 
+insert and bolt on, on top of the old ones. 
+And then we took the electrical and data connections and hooked them up. 
+But I noticed on that day -- We were very concerned with quality control. 
+First of all, that we didn't break anything that wasn't already broken but also to look 
+for any signs of damage because, you know, this was a telescope that was supposed to 
+be maintained. 
+We saw a little bit of paint chipping off the outside of the old magnetometers. 
+They were concerned that they might float around and get into the optics. 
+We went into the payload bay the next day, the other EVA team, and they cut off some 
+of this gold insulation material from one of the thermal enclosures that some of the 
+equipment was in. 
+And I'm not supposed to stand in front. 
+I keep forgetting that. 
+We made those covers, and then we had to go up and install them. 
+But, actually, after we installed them then the ground wanted photographic documentation. 
+We took pictures. 
+And then the crew inside got their telephoto lenses and they took a lot of pictures. 
+And then they got the television camera on the end of the arm to take pictures. 
+And so, during all that time, you do have a little bit of free time just to sort of 
+enjoy the environment. 
+It would be a shame not to because it is such a spectacular place. 
+Yeah. 
+How do you work when there is not light when you're on the dark side. 
+Let me turn the laser pointer on here. 
+Oh, no, what did I do? 
+That is a good time for a break, right? 
+Take a two-minute break. 
+And then, of course, when the sun rises you know it so you can turn your lights off. 
+OK. 
+I talked about the necessity of doing a nitrogen purge and pre-breathing oxygen to get the 
+nitrogen out of your blood. 
+This turns out to be an interesting systems problem because it doesn't just affect the 
+suit, it affects the spacecraft. 
+Those of you who were here at the beginning saw I was blowing up a balloon which unfortunately 
+popped. 
+It was only to make the point that you can look at a spacesuit, the arms and legs, cylindrical. 
+It is like one of those balloons. 
+And when you try to bend the balloon it doesn't like to stay bent because you are compressing 
+the gas and you're doing elastic work on the material of the balloon and it wants to snap 
+back. 
+And spacesuits basically work the same way. 
+The old-fashioned pressure suits that test pilots used to wear, which were the genesis 
+of the original Mercury suits, they basically stiffen you. 
+And, in fact, the launch entry suits that we use on the Shuttle are not designed for 
+joint mobility. 
+They are just pressurized. 
+And we do a pressure check before the mission when we're getting suited up. 
+And they blow it up and you just go like that. 
+You can move a little bit, you know, enough so that if you're sitting in your seat with 
+a seatbelt holding you in form so that your waist is bent, you can move your arms enough 
+to get to the controls. 
+But I certainly wouldn't want to try and go out and do any useful work in that. 
+It has really been an extraordinary design process that people have been able to develop 
+spacesuits with articulating joints. 
+I mean it is certainly not like walking around and doing things just with your body, but 
+it is amazing how flexible spacesuits are. 
+And it is a continual challenge to develop, particularly for the gloves. 
+And, when we get back to the moon, to have legs that can actually walk in so that you 
+don't have to hop around all the time. 
+Although, there are times when that is good, too. 
+But, in any case, the stiffness of the suit, because it turns out that most of the stiffness 
+comes from compressing the gas, you want to try, first of all, to build articulated joints 
+that don't change their volume. 
+And, actually, people have designed metallic suits that look like Robby the Robot. 
+So, they truly are zero delta volume suits. 
+The problem is they are very heavy and there are other problems with metallic suits. 
+And I don't have time to go into that. 
+Given that you're going to have some volume change, the amount of work that you do is 
+thermodynamically pressure times volume. 
+You are going to have a delta V. 
+You want to reduce the pressure. 
+The lower your suit pressure, the easier it is to bend. 
+Basically, you don't want to fill your suit with any gas that you don't really need. 
+We certainly don't need nitrogen to stay alive, not on a short-term basis, so we fill the 
+suit with oxygen. 
+And we run it at about 4.3 psi for the Shuttle. 
+This is just historically Mercury, Gemini and Apollo, the suit pressure was a little 
+bit lower. 
+Doctors felt, after doing calculations, what you're really interested in is the partial 
+pressure of oxygen in your blood. 
+And they wanted a little bit more margin. 
+Since the Shuttle was supposed to be operational this and operational that, they wanted a little 
+bit more margin. 
+And so we bumped up the suit pressure a little bit. 
+Mercury, Gemini and Apollo cabin was 100% oxygen at the same pressure so that you didn't 
+have to worry about pre-breathing. 
+In Skylab, it was not pure oxygen but it was a high enough oxygen that, again, they didn't 
+have to worry about pre-breathe. 
+It wasn't until we went to the Shuttle, which typically the Shuttle is at 14.7 or 100 kilopascals 
+normal atmospheric pressure. 
+If we know we are going to be doing a lot of EVAs, and I will talk about this later, 
+what we do is we drop the overall cabin pressure, but we keep the partial pressure of oxygen 
+the same so you end up bumping up the oxygen concentration. 
+We don't do that with the ISS. 
+The decision was made by the life scientists that since they wanted to study biology on 
+the Space Station and all of our database is at one atmosphere, that if they took the 
+Space Station down to 10.2 psi basically it would invalidate all of their life science 
+research. 
+So, the Station was only designed for one atmosphere. 
+The operational people, when they started to talk about how much EVA was going to be 
+involved in building and maintaining the Space Station, the astronauts said this is crazy. 
+And you will see the impact of this later. 
+This is just looking in the future. 
+These are decisions that are going have to be made for future space systems, and they 
+are looking at a lower working pressure. 
+And you will see why as I go through this presentation. 
+I think I'm not going to go through those charts. 
+Again, this is a system. 
+So, you are affecting a great many different things. 
+Let's see. 
+Which is the laser here? 
+There we go. 
+One of the interesting things here with EVA, just like in any ECLS system, is that the 
+human body becomes one of your subsystems that you have to take care of. 
+And, in many cases, we don't have a whole lot of design flexibility with our bodies 
+because they come predesigned. 
+So, we have to deal with that. 
+We have all of the physiology, the bends. 
+Materials. 
+I talked about flammability in a pure oxygen environment. 
+I talked about the constraints of microgravity and partial gravity physiology studies in 
+the ISS. 
+Of course, NASA has decided that we don't need to do that anymore. 
+And, I guess, our international partners are still going to want to do this. 
+In any case, the Station is designed. 
+The cooling we talked about, I think, in the ECLA section lecture, the fact that if you 
+drop your cabin pressure now you've got to pump more air for all the air cooled things. 
+And if you really want a design for a variable cabin pressure then that flows over into the 
+cooling requirements, more water cooling, different fan requirements and so on. 
+And it goes on. 
+If you are going to do multiple EVAs, what you're really interested in, when you're looking 
+at efficiency, is what we call EVA Work Efficiency Index. 
+It is the total amount of time involved in preparing for and carrying out an EVA, the 
+ratio of that to the actual useful working time you get outside. 
+And the more time you have to spend breathing pure oxygen to denitrogenate your blood, that 
+is taking away from your overall work efficiency. 
+When we do tests on the ground and we start out at normal sea level pressure and we want 
+to go down to 4.3 psi pure oxygen, we actually have to do a four hour nitrogen purge. 
+We have to just sit in the suit or stand in the suit for four hours, this is in the EVA 
+test chambers, before we actually can go down to pressure. 
+If you want to get an eight hour work day of EVA, that is just unacceptable. 
+And that is why they made the decision to lower the Shuttle's cabin pressure. 
+Then you only have to do about a 40 minute EVA. 
+And I have some of the specific numbers on that later. 
+As I say, just the review here is that we do have this capability on the Shuttle. 
+We don't have it on the Station. 
+They have figured out a few ways to make the denitrogenation process a little bit more 
+efficient on the Station, but it is still a big overhead hit. 
+And we are very concerned for the future because EVA is not just an afterthought when you're 
+going to be exploring on the Moon or Mars. 
+You are going there basically to do EVA. 
+Otherwise, why bother? 
+We have got to deal with this. 
+Here is the basic physiology that we are dealing with. 
+Oxygen percentage on the abscissa, total pressure on the ordinate and all different units. 
+Millimeters of mercury, psi, and I think now people use kilopascals, which I don't really 
+relate to. 
+But I know about 100 kilopascals is about one atmosphere, so luckily that makes it easy. 
+Normally, we are at one atmosphere 20% or 
+normal sea level equivalent. 
+You start dropping the pressure and you have to increase the percentage of oxygen. 
+There is a maximum level of breathing oxygen at pressure oxygen toxicity because oxygen 
+is almost totally absorbed through your alveoli. 
+And normally our alveoli stay inflated because we have 80% nitrogen which is only very reluctantly 
+absorbed. 
+I mean it does get through, that is how it gets into our blood and so on, but it is a 
+much slower transport. 
+But oxygen gets right through. 
+And if you breathe pure oxygen for a long time you can really hurt your lungs and it 
+can be lethal at a certain point. 
+We actually don't have any good physiological data. 
+I was down in Houston last week at a big EVA conference. 
+That is why we didn't have class on Tuesday. 
+They were talking about what about long-term planetary EVAs, even at 4 psi pure oxygen, 
+is that going to be harmful to health? 
+We honestly don't know. 
+I mean that is an active area which needs research. 
+On the other side, of course you get into hypoxia which you have all heard of. 
+You get it when you go up on Mount Everest and so on. 
+So, you've got a boundary that you have to work in. 
+Now, this is sort of where things have fallen. 
+The blue line is the hypoxic boundary. 
+The green line is normal oxygen. 
+When we were using pure oxygen spacecraft environments, we were well above that. 
+You would like to stay as close as possible. 
+With Shuttle EVA, we moved a little bit closer to hypoxic, but we're still in a physiologically 
+perfectly reasonable environment. 
+Decompression sickness, just a quick review. 
+Any scuba divers here? 
+You are all familiar with this. 
+There are various levels of decompression sickness anywhere from just a mild tingling 
+of the skin to joint pain to phase three DCS where you get central nervous system impairment 
+which can actually cause death, so you don't want to mess around with it. 
+People refer to this famous R value. 
+You run into this all the time. 
+What you are really interested in is what is the ratio between the actual partial pressure 
+of nitrogen in your blood compared to your suit pressure? 
+And this over here shows this R value. 
+If you are down at one the nitrogen isn't going to bubble out at all so you have no 
+incidence of bends. 
+VGE, venous gas emboli. 
+And then, as the R value increases, the dotted line gas emboli, that just means you have 
+bubbles forming. 
+DCS means actual symptoms of bends. 
+And then grade three DCS which is very serious indeed. 
+The way they make these measurements, they have these large physiological studies where 
+they actually get people to volunteer to go through these pumped down protocols. 
+And then they actually put sensitive microphones and ultrasound things that can actually hear 
+the bubbles as they move around your veins. 
+I have never been able to figure out why anybody would volunteer for these experiments. 
+I take my hat off to them. 
+Because the only way you build up this data is that some people actually do get the bends 
+from these experiments. 
+And, of course, they have hyperbaric chambers which, as soon as there are any symptoms, 
+they put them right into the chamber and pump them to pressure and it goes away. 
+And I don't think that they have lost any volunteers. 
+Like I say, that is not something I am going to volunteer for. 
+Other factors, this is something that becomes important. 
+It turns out that the amount of time you spend at reduced pressure is important. 
+Also exercise. 
+It turns out that the more you exercise, maybe it makes sense, you're moving your joints 
+around, but the bubbles come out. 
+Actually, what they have started to do on the Space Station, since we cannot go to a 
+reduced cabin, that while they are breathing oxygen for the first hour or so they do very 
+exhaustive exercise, both upper and lower body on an exercise bike with arm exercise 
+as well. 
+To try to drive away as much of the oxygen early on in the decompression preparation 
+as you can. 
+OK. 
+Where does that put us? 
+As I said, the more nitrogen you have in your blood to start out with, the longer a pre-breathe 
+you are going to have to do before you can go out. 
+These are the normoxic and hypoxic lines, which I showed you before. 
+And then these are the contours of the amount of time you have to pre-breathe. 
+Remember, I told you if you are at one atmosphere, 
+four hours. 
+This is to get yourself down to an R value of 1.65. 
+This is not 100% safe because, remember, at 
+Now, the interesting thing, these are the statistics that come from the laboratory trials, 
+we have never had a reported case of bends during EVAs. 
+And people are not quite sure why. 
+Some people suspect that maybe even if an astronaut is getting joint pain they are not 
+going to report it because maybe that would prevent you from doing another EVA. 
+I mean there are enough other pains that you undergo in just using a spacesuit that maybe 
+you don't even notice it. 
+You feel a problem in your joints or your fingers and you say oh, damn, my gloves don't 
+fit right or something like that. 
+I have another slide mentioning this later. 
+There is some suspicion that weightlessness may have an impact, which means that the bends 
+susceptibility on the Moon or on Mars may actually be greater than it is in weightlessness. 
+We just don't know. 
+Here is where we have gotten to on the Shuttle EVA. 
+Again, this is no pre-breathe, this is one hour pre-breathe, so we are at about 40 minutes 
+on the Shuttle. 
+That is where we are. 
+Now, this is a design problem. 
+How are we going to design the CEV? 
+How are we going to design the equipment, the habitats that we are going to use on the 
+Moon and Mars? 
+Now we're talking about surface exploration. 
+And, as I said, there is a lot of uncertainty about the affect of gravity. 
+But we suspect that it may be more bends inducing than weightlessness. 
+And so what they are doing for safety and conservatism is instead of using the R value 
+of 1.65, which we use on the Shuttle, they are taking it down to about 1.3, 1.4. 
+Now, what does that do? 
+Here is 1.4, 1.3. 
+Where does that put the Shuttle EVA we now would have to get down to that R value? 
+We have got a two hour pre-breathe. 
+To get down to 1.3, we have got a 2.5 hour pre-breathe. 
+And this is with the normal spacesuit at 4.3 psi. 
+We are heading an operational problem. 
+If you want to go out on your geology traverse on the Moon, you have got to depressurize, 
+denitrogenate for 2, 2.5 hours. 
+I don't think so. 
+But what are we going to do? 
+Well, if you increase the suit pressure now the R value, at a given level of nitrogen, 
+goes down. 
+And so at 6 psi, even for an R of 1.3, you are in the zero pre-breathe range, which would 
+be great. 
+People have suggested, well, maybe we should build a variable pressure suit so that you 
+could go out at 6 psi, sort of get things set up. 
+And then all that time counts towards your denitrogenation so maybe then after two hours 
+into your EVA now you can drop your pressure. 
+And now, if you have any things where you need more dexterity, you will be OK. 
+But the pressure control system in a spacesuit is a very complex undertaking. 
+The Russians do have a dual pressure suit. 
+They never used the lower pressure, to my knowledge. 
+And it is a big hit to try to design this into the suit. 
+And, of course, to design a suit to operate at a higher pressure. 
+The Russians work at about 5 psi, but it means your suit is less flexible, heavier and is 
+just going the opposite direction from the desire to accomplish useful work, which is 
+why you are putting on the spacesuit in the first place. 
+This is what we are working against. 
+Again, we have got a systems problem. 
+It is not just the pressure. 
+It is the oxygen. 
+In Skylab, in Apollo, because you were working in a pure oxygen environment, now, of course, 
+we're talking about what is the pressure going to be in the cabin. 
+You want to keep the cabin at a higher oxygen environment. 
+Your material selection is highly limited. 
+As it says, they tended to use a lot of metallic materials. 
+Well, what do we know about metals? 
+Particularly aluminum. 
+First of all, aluminum will burn at 100% oxygen. 
+But your cabin, even if it is not 100% oxygen, you are going to have a lot of metallic material. 
+Well, metal, when you're dealing with radiation, you hit metal, aluminum or even higher atomic 
+number metals with primary cosmic rays and you get spallation. 
+You produce a lot of secondary particles. 
+And you end up with actually more radiation than you would have gotten if you had just 
+gotten hit by the incident cosmic ray. 
+What you really prefer is to have low atomic number. 
+Hydrogen is best. 
+Water, hydrogen, oxygen and so forth. 
+If you are forced to increase the metallic content of your spacecraft because of the 
+oxygen flammability problems now you are going in the wrong direction for radiation protection 
+which becomes an issue when you're dealing with long duration stays on the Moon, interplanetary 
+transport and so on. 
+So, it is all interrelated. 
+You cannot change one thing without changing the other. 
+Flammability. 
+Well, we have been talking about that. 
+I won't stay on that. 
+But, again, it is very dependent on oxygen. 
+Oxygen restricts the use of non-metallic materials. 
+But nonmetallic materials are what we would like to use from a radiation point of view. 
+You would like to have a lot of hydrocarbons, you know, polyethylene plastic in your spacecraft 
+because they absorb cosmic rays. 
+But, in any case, it is pretty well agreed that we never want to go above 30% oxygen. 
+It just becomes too restrictive on the types of materials we can use. 
+That is going to be a design constraint. 
+And, remember, we are aiming towards a systems level design of our long duration space habitats 
+which are EVA compatible. 
+Now we are back to this. 
+Now we can draw a red line. 
+And we have got to stay on the left of that line. 
+We have got to stay above the blue hypoxic line. 
+Now, also remember that we have got these pre-breathe lines. 
+Let's say we are going to limit pre-breathe to no more than one hour. 
+Well, we are cutting down on our design space here. 
+We have got the oxygen flammability which is cutting off to the right. 
+We have got the hypoxic limit which is cutting off in this direction. 
+And we have got the pre-breathe limit which is cutting off there. 
+We are kind of in a, I won't call it a box, a rather small triangle. 
+Now, if we go to a 6 psi spacesuit, as I said, we open up the design space a lot. 
+But at a price of flexibility, maneuverability and the ability to do the things that we want 
+to do in the first place. 
+Where are we going to go with this? 
+As I say, it is an active area of research. 
+I cannot tell you what the answer is going to be but it looks like they are going to 
+probably be going for 8 to 9 psi with an oxygen concentration approaching 30%. 
+And that the CEV, from what I have been told, is most likely going to be designed with a 
+variable pressure capability because it also has to be able to dock with the Space Station 
+which means it has to be able to take one atmosphere. 
+And also, because the CEV by itself is not going to have an airlock, if you would have 
+to do an emergency EVA out of the CEV, for whatever reason, you are going to have to 
+depressurize like we did back in the Gemini days, or Apollo. 
+And, of course, that is going to affect the design of all the other systems on the CEV 
+because they will have to be able to operate from a vacuum all the way up to one atmosphere. 
+Just in the end, I hope what you have gotten out of this is, again, we are trying to look 
+at things from a systems engineering point of view. 
+And this is one big system where EVA cannot be considered just on its own. 
+I gave an example of how it affects the RCS system with Hubble. 
+Here it affects the environmental control life support. 
+Flammability, radiation protection, it is all linked together. 
+This was the recommendation that we came out with, slightly below 9 psi pushing 30%. 
+But, as I said, there is a lot of research that has to be done to understand the way 
+bends behave at partial gravity. 
+How we are going to do that? 
+I have no idea. 
+As I said, for the International Space Station, we have to be able to go up to regular atmosphere. 
+We were making this presentation as part of the study we were doing last year on CEV, 
+but it was so relevant to what we did here that I didn't see any point in modifying it 
+for this class. 
+But we had to make these decisions on the Shuttle based on similar calculations looking 
+at the design space. 
+The difference was with the Shuttle we were using an R value of 1.6, 1.7. 
+And so we were able to get down to a 40 minute pre-breathe. 
+What we do with the Shuttle is about the day before you are going to do your first EVA 
+you actually drop the cabin pressure. 
+And when we had the lecture on environmental control, remember there is a cabin pressure 
+controller at 14.7 and a pressure controller at 8 psi. 
+But when they designed the Shuttle, nobody was thinking about EVA or about this pre-breathe 
+time. 
+And so, there is no 10.2 controller. 
+We have to do that manually. 
+You drop it and then you add a little bit of nitrogen or a little bit of oxygen, depending 
+on what the instrumentation tells you you need. 
+And then there is a periodic maintenance which you have to perform in order to keep the proper 
+gas concentrations. 
+And then we leave it down there for the duration of all the EVAs. 
+And then, when the last EVA is finished, then you turn the 14.7 controller back on. 
+Now, of course, since you have the proper oxygen partial pressure, most of the gas that 
+comes into the cabin is nitrogen. 
+And, actually, I think we may have mentioned this before, it comes in the bathroom. 
+And so, for the time when you are re-pressurizing the cabin, the bathroom is off limits. 
+And I think that is basically it. 
+The timing has been pretty good. 
+Questions? 
+Comments? 
+Yeah. 
+Is anybody looking at using a fully one atmospheric spacesuit? 
+Actually, it turns out there is a principle called holdings principle. 
+Let me get this up because I have some pictures of what we were doing. 
+If you change by less than a factor of two you don't get the bends. 
+This is an empirical finding. 
+And so, the idea was if you could have a suit that worked at about 8 psi you would have 
+a zero pre-breathe suit. 
+And I participated in a bunch of tests. 
+These are some other robotic things. 
+This was the hard suit designed by Ames. 
+Because it is a constant volume suit it is not sensitive to the pressure the way that 
+a soft suit is. 
+And we did a lot of tests, actually. 
+We always came unstuck on the gloves. 
+Nobody has been able to design an 8 psi glove that really gives you sufficient mobility. 
+I mean it is a dream. 
+People would love to be able to do it. 
+If we could figure it out that would solve all these problems. 
+Although, if you are going to Mars maybe you don't want full pressure because if you have 
+one atmosphere compared to 8 or 9 psi your structure has to be that much thicker and 
+heavier. 
+They went through some of those calculations. 
+This is now on the hand with the Space Station. 
+And they figured that for all the meteorite shielding and everything they had to put on 
+the outside of the Space Station that actually the change in thickness that would be involved 
+in changing the pressure from one atmosphere to another really wouldn't make that much 
+of a difference. 
+All of these things, again, they are interrelated. 
+But it is a good point. 
+That is why I showed those designs for 6 psi because people are still thinking suppose 
+we could design a spacesuit to work at a higher pressure. 
+But right now we don't know how to do that. 
+I hope everybody has a very happy Thanksgiving. 
+We will see you a week from today. 
+And if there are any questions, again, about either your oral presentations or the written 
+presentations, I will be here today. 
+And then I am gone for the rest of the week, but I will be looking at emails so you can 
+send me emails and we can discuss things. 
+OK. 

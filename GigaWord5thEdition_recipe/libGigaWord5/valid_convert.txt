@@ -1,0 +1,12 @@
+@AT-SIGN  at
+&AMPERSAND	 and
++PLUS	  plus
+=EQUALS	  equals
+%PERCENT  percent
+/SLASH	  slash
+.POINT	point
+Dr.	doctor
+Pr.	Professor
+Mr.	Mr
+Mrs.	Mrs
+Ms.	Ms

@@ -1,0 +1,1258 @@
+Let's see. 
+The original schedule today had Colonel Gordon Fullerton going to come and talk to us about 
+both cockpit design, but primarily about test flying the Shuttle. 
+Unfortunately, he is in charge of Flight Operations. 
+Well, not unfortunately. 
+He is in charge of Flight Operations at Dryden Flight Research Center for NASA. 
+Unfortunately for us, since the time that we had agreed on this date, they scheduled, 
+at the beginning of next week, a major base inspection. 
+And if any of you are connected with the military you know what that involves. 
+And, since he is head of flight operations, he really has to be there to make sure that 
+they are ready for it. 
+He has rescheduled. 
+He will be here in November. 
+And I will make adjustments to the syllabus. 
+On Thursday, Bob Ried is going to talk about aerothermodynamics. 
+And what I thought I would do today is kind of a potpourri maybe doing a little bit of 
+recap on where we've gotten to so far. 
+And also I brought a few videos just to give you a visual reminder of some of the things 
+that we've been talking about with the Shuttle. 
+Any sort of general questions about what I handed back to you? 
+I am happy to meet with teams individually to discuss any specific questions. 
+OK. 
+Let's see. 
+One thing that I -- Hi. 
+I was just telling the class Gordon Fullerton was supposed to be here, but he has had to 
+postpone to November because they're having a base inspection of flight operations. 
+So, he is not here. 
+I had an email from Professor Cohen who will be here. 
+And let's see if this is -- He had an idea that now that we've kind of started going 
+into details on various subsystems that it might be interesting to work our way through 
+a Shuttle flight and just remind ourselves of the different subsystems that are brought 
+into play at various times during a Shuttle mission. 
+This is kind of part of the systems integration process. 
+And remember that we talked at the beginning how in the systems engineering process we 
+always want to keep in mind the eventual operational use of the systems that are being designed. 
+So, the idea, for instance, would be start at the very beginning. 
+You're sitting on the pad. 
+You could even go further than that because remember we talked about how systems had to 
+be developed, for instance, for loading the payload into the cargo bay. 
+They have that big payload changeout room. 
+They had to design the hypergolic reaction control and OMS motors in such a way that 
+the pods were actually removable from the Shuttle because they were using hazardous 
+hypergolic fuel and they cannot be serviced in the main hanger. 
+They have to be taken over to a remote section of the Kennedy Space Center. 
+And then, of course, the servicing of the tiles. 
+There is a lot of servicing and maintenance work that has to be done on all the subsystems. 
+And, ideally, it should be designed in from the beginning. 
+Of course, in many cases, we got a lot smarter after we started to use the Shuttle. 
+And, if we were doing it again, which is something that you will be thinking about, we would, 
+in fact, have built certain things into the subsystems which would have made it easier 
+for them to be maintained and repaired. 
+What I am going to do, just as an experiment here, let's think briefly about these subsystems. 
+And I've got a little video taking us through the launch and the entry stages. 
+And then I have one or two other things to show you, which will just illustrate certain 
+other aspects of the Shuttle Mission. 
+Right at the moment of liftoff, just kind of to set the stage, the final countdown starts 
+at T minus nine minutes. 
+They typically will have holds built into the count so that particularly when you're 
+going for a very tight launch window, like if you're on a rendezvous mission to the Space 
+Station, you have to launch when the Space Station basically is pretty much going overhead. 
+And, since the Space Station is in a 51-degree orbit, it takes more energy to get into a 
+Because normally if you launch from Cape Canaveral, hopefully you understand the orbital dynamics, 
+if you launch due east you get the full speed of the earth's rotation. 
+And since the latitude of Cape Canaveral is 
+is inclined 28 degrees to the equator. 
+That is what we did when we did a rendezvous with the Hubble Telescope which is in 28 degrees. 
+In fact, I remember my brother was telling me that we launched about 4:00 AM so it was 
+night. 
+And just about 20 minutes before we launched they saw Hubble fly over and everybody thought 
+that is a good sign, they seem to know what they are doing. 
+you can think of as being roughly fixed in inertial space, obviously it precesses a few 
+degrees every day. 
+But if you think of it as fixed in inertial space on the time scale of a day or so then 
+the earth is turning underneath it. 
+And you have to launch basically when you are in that orbital plane. 
+Now, if you have a little bit of extra energy to burn you can launch a little bit earlier 
+or a little bit later and use that extra delta V to change your velocity to get into that 
+plane. 
+If you're launching to rendezvous with Hubble, say, which is in a 28-degree orbit, you have 
+a bigger launch window than you do if you launch into the Space Station at a 51-degree 
+orbit. 
+Because, going into a 51-degree orbit, you are using a lot of extra delta V just to change 
+from a 28 to a 51-degree inclination. 
+So the launch window to rendezvous with the Space Station is very short. 
+It is only about five minutes. 
+So in order to make sure that they have the maximum chance of making the launch window, 
+they actually build in some extra large holes, even more so than for a normal launch. 
+But you pick up the final count at nine minutes. 
+The Shuttle, at that point, is on external power. 
+At about seven minutes, the pilot, that is the person sitting on the right-hand side 
+who should be called the copilot, and I've talked about this with a few of you. 
+None of the astronaut test pilots, you know, these are kind of big ego people. 
+Nobody wants to be called a copilot. 
+The person sitting in the right seat is the pilot. 
+The person sitting in the left seat, who is really the pilot, is called the commander. 
+The pilot does not fly the Shuttle, except for usually if you have a nice commander he 
+will let the pilot -- when you're pulling away from the Space Station it is kind of 
+a tradition that you give the pilot the stick and let the pilot do a fly around. 
+And, in the old days, some of the commanders actually gave the pilots a little bit of stick 
+time before landing. 
+But that generally doesn't happen now. 
+Anyway, the pilot is in charge of a lot of the subsystems, the main engines, the electrical 
+power system, the auxiliary power units. 
+It is the pilot who has to throw a switch to put the Shuttle on internal power. 
+At about eight minutes before a launch you go onto fuel cell power. 
+Then at about 5.5 minutes before a launch you turn on the auxiliary power unit. 
+Remember we talked about that subsystem. 
+That generates the hydraulic pressure to move the flight control surfaces and the main engine 
+bells. 
+And you will see, if you watch a launch sequence, starting at about three minutes after the 
+auxiliary power unit comes on -- at that point you can sort of feel a little bit of humming 
+in the vehicle when you're sitting in it -- they then move the engine bells back and forth 
+through their entire range just to make sure that the hydraulics are working. 
+And actually the whole Shuttle shakes when that happens so you can sort of feel that 
+when you're sitting there. 
+And then, of course, one of the challenges with a cryogenic engine -- and this going 
+to be an interesting development project for the future when they want to have a restartable 
+engine. 
+Remember these are cryogenic engines and so you have to do a cool down. 
+And so you start to flow the liquid oxygen and liquid hydrogen through the piping. 
+Again, inside a minute you can feel kind of a rumbling down below as valves are opening 
+and things are starting to flow. 
+At 31 seconds the launch control center gives control over to the Shuttle computers. 
+And the last 31 seconds are controlled entirely by the Shuttle computers. 
+They look at thousands of data points to make sure that everything is working properly. 
+At T minus six seconds the engines go through an ignite sequence. 
+The engine starts are staggered. 
+And you will see that when you look at the slow motion of the video that I am going to 
+show you. 
+That reduces the shock on the system. 
+It only takes a couple of seconds for the engines to come up to full power. 
+You certainly don't want to commit yourself to lighting the solid boosters unless you 
+are 100% sure that your main engines are firing. 
+Because if even one main engine is not operating at 100% efficiency you cannot make it to orbit. 
+In fact, if you have one engine out on the pad, you have to do a return to launch site 
+abort. 
+We will talk about the details of that whole process at some point. 
+AUDIENCE QUESTION You can abort launch right up to when the solid -- Once the boosters 
+are lit you are going. 
+Just hope you're pointed in the right direction because there is no thrust termination on 
+the solids. 
+And it has happened four times that we have had pad shutdowns. 
+The engines are monitored. 
+On two of those occasions it turned out that the problems were instrumentation. 
+On two occasions it turned out that there were, in fact, real engine problems. 
+And I would say, for a 50% success rate, you're doing well. 
+I mean it was the right thing to shut down the engines all those times. 
+Although, the very first time when they had an engine shutdown on the pad, well first 
+of all, just an acronym is MECO, main engine cutoff, which normally happens about 8.5 minutes 
+after launch. 
+The comment by Steve Hawley, who was the flight engineer in the center seat when they had 
+was, "Somehow I thought we would be a little bit higher at MECO." And it turned out, they 
+didn't realize it at the time, but they actually had a hydrogen fire on the pad. 
+Remember we talked about how there was a lot of hydrogen. 
+And, of course, before the engine ignition, we have those sparklers to get rid of the 
+excess hydrogen. 
+But, in the process of shutting down the engines, there was also a lot of excess hydrogen which 
+got into the engine [UNINTELLIGIBLE]. 
+And the problem is that a hydrogen fire, as you know, is pretty much invisible. 
+And they didn't have any infrared cameras at the time. 
+And so basically everybody went around, the crew took their time and everybody went out. 
+Once they realized it, they put on a water douse. 
+Now we have infrared cameras. 
+And, whenever you have an engine shutdown, you have to be very careful that you don't, 
+in fact, have a hydrogen fire. 
+Coming back to the subsystem, the last stage of the launch, the main engines have gone 
+on. 
+You have turned on the hydraulic system both for the main engine and the boosters have 
+their own hydraulic systems and the boosters have their own auxiliary power unit. 
+Guidance navigation and control, of course, is absolutely critical. 
+Now, first stage is what they call basically open loop guidance. 
+There is a specific projectory that you are supposed to follow. 
+Once the solid boosters are off you are following a closed loop guidance which is taking you 
+to a specific point and velocity in time and space and the trajectory is actively adjusted 
+to get there. 
+Because the solid boosters have so much thrust you don't want to do a lot of sporty maneuvering. 
+In fact, the biggest challenge from a maneuvering point of view is when you're going through 
+max Q and maximum dynamic pressure and you have to relieve wind shear loads on the aero 
+surfaces. 
+Basically, when the boosters are firing, from the crew's point of view, it is hands-off. 
+There is now way that you could take manual control over the boosters. 
+There is just too much power. 
+And just a little bit of deviation from your course and you will break up aerodynamically. 
+It is hands-off. 
+The fuel cells are generating all of the power. 
+The guidance, navigation and control is being done inside the Shuttle and the results are 
+sent to the solid boosters. 
+The gimbals can move. 
+So the roll maneuver, for instance, is done by the solid engines. 
+How do the solids gimbal? 
+The solids can gimbal, yeah. 
+How do they gimbal? 
+The same way as the main engines. 
+I mean they are on a mounting with hydraulic actuators. 
+And so the actuators expand and contract. 
+And you can imagine the forces that are involved there because these are 2.5 million pound 
+thrust engines. 
+It is pretty amazing. 
+Going through maximum dynamic pressure, SRB separation, main engine cutoff, basically 
+the same systems are working. 
+The critical things are, of course, the main engine has to be throttleable. 
+This was a big challenge, as we heard, in making the main engine. 
+It is throttleable for two reasons. 
+Going through a maximum dynamic pressure. 
+And at that point, the solids are also, you know, the way the solid propellant is loaded, 
+the actual cross-sectional profile is such that you don't have a constant thrust profile. 
+The thrust profile is very high right at liftoff where you need a lot of thrust. 
+It falls off as you're going through maximum dynamic pressure. 
+And then it builds up as you burn through the last two minutes of SRB firing. 
+The Shuttle is pulling about 2.5 Gs at SRB cutoff. 
+The aerodynamic separation of the solids got a lot of attention. 
+To have a re-contact would be a disaster, so you have four separation motors, two at 
+the top and two at the bottom which basically push the solid boosters away from the Shuttle. 
+And, of course, those motors are pointed right at the Shuttle in order to move the boosters 
+away. 
+It is pretty spectacular when you're inside, especially at night. 
+They are little solid rocket motors and they are firing right at you so visually it's spectacular. 
+But it also, unfortunately, leaves kind of a nasty coating on the front windshield most 
+of which luckily gets burned off during reentry. 
+But the pilots were a little bit concerned that that might hurt their visibility in landing, 
+particularly if you had a bad sun angle. 
+They always try to consider the sun angle for landing, as well as winds. 
+After SRBs come off, now you're back to about one G. 
+You have second-stage guidance, which is closed loop. 
+You're sensing acceleration and orientation. 
+Nowadays they often fire the OMS engines for part of liftoff as well just to get a little 
+extra oomph when they're going up to the Space Station, so that's another system which is 
+brought into play during ascent. 
+Then you get into, after MECO, 8.5, 8.75 minutes. 
+Now you have to get rid of the external tank and you've got a lot to do basically to power 
+down the main engines. 
+Remember, you have been burning liquid oxygen, liquid hydrogen. 
+You've got a tremendous amount of ice which forms in the engine. 
+I have some pictures to show you of what that looks like when you get into orbit. 
+Also, you've got thousands of pounds of hydrogen and oxygen left inside the pipes. 
+And if you just close your valves, eventually that will all vaporize, build up pressure 
+and actually could cause an explosion. 
+One of the first things that you have to do, when you get into orbit, is to vent the main 
+propulsion system. 
+Let's see. 
+Actually, Professor Cohen did not put on RCS here, which is absolutely critical, because 
+you have explosive bolts to separate you from the external tank. 
+But basically the external tank has no propulsion on its own so you, on the Shuttle, have to 
+fly away from it. 
+So you use your plus Z. 
+That is the downward thrusters. 
+Remember we talked about how the Shuttle has two RCS systems. 
+It has the primary systems which have about 
+And then once you're in orbit and you don't have to do a lot of propulsive maneuvering, 
+then we shut down the primaries and we use the verniers which only have 25 pounds. 
+That takes a lot less fuel. 
+But those primary thrusters we use not only the ones in the aft but in the forward so 
+that you have balanced thrust. 
+If you're trying to move away from the external tank you want to fire the thrusters both in 
+the nose and in the tail so that you move straight up. 
+Well, we're sitting up in the nose. 
+And when those thrusters go off, I mean I've never been in a war or a battle, but it strikes 
+me that the sound is what you would get if mortar shells were exploding around you. 
+I mean it is just a boom. 
+And right after riding through launch, the first thing that happens is you go weightless. 
+But then the next thing is you're hearing these explosions all around you. 
+And it can be quite exciting. 
+Actually, I will just share a story with you. 
+On my first flight, they decided to do a special kind of a test. 
+There are fill and drain valves for the main engine on the side of the Shuttle. 
+Usually we vent the propulsion out through the engines themselves, but they wanted to 
+look for a quicker way to do it. 
+Let's see. 
+This was the sixteenth Shuttle flight, which was my first flight, and they gave us what 
+they call a detailed test objective where right after external tank separation we opened 
+the side fill and drain valve. 
+And I remember the commander asked some of the guidance and control people is the Shuttle 
+RCS going to be able to compensate for the extra thrust that you get? 
+They said, yeah, no problem, we've done the calculations and it looks fine. 
+And this is the reason why you do tests because, in fact, what happened was we came off the 
+tank, opened the fill and drain valve and the Shuttle rolled over 90 degrees and the 
+RCS jets started going like crazy to try to correct us. 
+They were in a force fight. 
+After about 15 seconds the pilot said to the commander, do you think I should shut the 
+valve, because the noise was incredible. 
+Like I say, it was like you were in the middle of a battlefield. 
+And at that point the commander said, well, it's too late now because we had gotten through 
+most of the disturbance. 
+And we did recover and got to normal attitude, but it was pretty exciting. 
+The point is that at that point you are in a transitional state. 
+Your computers are still in the launch configuration. 
+You have your primary RCS. 
+And what you have to do is transform the Shuttle now into an on-orbit configuration. 
+The Shuttle computers are so ancient. 
+Has anyone here ever, never mind used an overlay technique, but, even heard of computer overlays? 
+No, I didn't think so. 
+Back in the old days when computers had rather small memory and you had to run large programs, 
+what you would do is you would have your entire program, well, originally it was on punch 
+cards and then eventually on magnetic tape. 
+But you would segment your program and then you would load the first part of your program 
+as much as you could fit into memory. 
+Run that, save the results, load the second part, transfer the results, run on that and 
+so on. 
+Well, believe it or not, that's the way the Shuttle computers still operate. 
+It is an overlay system. 
+They cannot hold all the software for the entire flight so we have a launch overlay, 
+an ascent, an on-orbit and an entry. 
+Now, the backup flight system is stripped down. 
+And so the backup computers hold the software for the entire mission, but there are a lot 
+of things that they don't do that the main computers do. 
+What you actually have to do is perform what they call a major mode transition, which basically 
+means you punch a few buttons, tell the computers to go into orbit mode and then all the screens 
+go blank. 
+I mean it is a very kind of a strange feeling. 
+And you just have to sort of hold your hands and not touch anything for about a minute 
+or so while the tape recorders are spinning down in the guts of the Shuttle and they're 
+loading the stuff onto the Shuttle computers. 
+Now, I think they upgraded the tape recorders to solid state, I believe. 
+That's correct, isn't it? 
+Do you know that? 
+I don't think they use tape recorders in the Shuttle anymore, but they did, in any case, 
+at the beginning. 
+I mean just maintaining this computer system has been a big challenge. 
+And then you get into the orbit configuration. 
+In the ascent configuration your vernier RCS isn't even enabled. 
+And inside the ascent configuration, of course, you have not just your nominal ascent but 
+you have all of the launch abort modes or return to launch site, transatlantic abort 
+and abort to orbit or abort once around. 
+All that gets flushed, and now you are on-orbit. 
+Your on-orbit software does not give you the ability to do entry and landing. 
+You are going to have to re-do another overlay or what we call major mode transition before 
+you do that. 
+Yeah? 
+Right. 
+depending on where in the ascent you run into a problem. 
+abort site which is chosen. 
+And usually what happens is, I mean there are several transatlantic launch sites, sometimes 
+one or more of them is down because of weather. 
+And, in fact, if all of them are down, even if the weather is perfect in Florida, you 
+scrub because you need to have an abort site. 
+OK. 
+I am going to show you a video now. 
+OK. 
+I will try to walk you through some of these. 
+Remember that is the water deluge to stop the shockwave coming back. 
+Now you have the stage combustion. 
+These are the OMS engines, the RCS and the main engines. 
+Remember we talked about the off-angle thrust. 
+Those are the bolts which hold the solid boosters down. 
+All eight of them have to fire at exactly the moment of SRB ignition. 
+If you watch closely, when you see it go up, you can actually see it sort of moving that 
+way, again, because of the off-angle thrust of the main engine. 
+This is the roll maneuver which puts you -- You go over on your back, headed towards the proper 
+orbit. 
+And then, as you go through max dynamic pressure and break mach one, you often get those condensation 
+trails. 
+This is a pilot's eye view now of a Shuttle launch. 
+This is speeded up by a factor of two. 
+That was the roll maneuver and the Florida coastline. 
+And I always thought one of the amazing things was actually how fast the blue sky turns black 
+as you are going up. 
+SRB separation, you're up at an altitude of about 20 miles. 
+And you can see up there that very quickly the blue sky of earth is turning into the 
+black of space. 
+This launch was a high inclination launch so they were actually going into a 58 degree 
+orbit, so they flew literally right up the Eastern seaboard. 
+AUDIENCE QUESTION 
+It was a SpaceLab mission, I believe, and one of the things they were going to do was 
+observe the earth so they wanted to get into as high an inclination as possible. 
+Remember when Bass Redd was talking about the aerodynamics of the Shuttle he said that 
+one of the things that they never were able to get quite right was the plume. 
+And he talked a lot about the angle of the skirt and how that affects the aerodynamics 
+of the plume. 
+And you can watch how the plume is continually changing as you are getting higher in the 
+atmosphere and you have less and less pressure. 
+You also notice some of the flames are getting sucked back. 
+In between the Shuttle and the external tank, of course that is where we had the problems 
+with the foam shutoff, you've got supersonic shockwaves bouncing around. 
+It is a very, very nasty environment in there. 
+And you see, when the external tank comes off, often there is a lot of area here which 
+is charred and burned out just because of the shocks. 
+You can see now that the plumes are tremendously expanded. 
+The other thing that you can -- Well, I will wait until SRB separation. 
+As I say, you are up to about 2.5 Gs at this point, and now you can see that the solids 
+are starting to tail off. 
+You can see a qualitative difference in the flame pattern. 
+And now you can definitely feel this inside. 
+You see the separation motors. 
+The boosters fall off. 
+And, as you know, they were recovered. 
+Making sure that the thrust tail-off matches, as we heard, was critical. 
+Now here is a picture from a belly camera of the boosters falling off. 
+Now the main engines are firing. 
+When this happens -- I don't know if you have seen pictures of Saturn launches. 
+They actually have some of the most beautiful patterns of the reentering plumes. 
+But the plumes, as you get up into a vacuum, the exhaust plume expands. 
+And it actually folds back around the vehicle which is not a danger to the vehicle, but 
+visually can be quite spectacular. 
+On the first night launch of the Shuttle -- During the day the plume is so faint that you really 
+cannot see it from outside the windows. 
+From the ground you can see the bright points when you're looking right at the tail of the 
+Shuttle but you don't actually see the plumes. 
+But the second flight engineer who has a good view out the overhead window, about five minutes 
+into launch he asked the pilot, who is in charge of looking after the main propulsion 
+system, is everything OK with the engines? 
+Yeah, everything is OK. 
+In about six minutes, everything OK with the engines? 
+Yeah. 
+And after they were on-orbit the pilot asked him why did you keep asking me about the engines? 
+Everything was fine. 
+Well, apparently the guy had been looking out the overhead window and had seen flames 
+starting to come out which is essentially the expanding plume. 
+Of course it was the first night launch so nobody had ever seen that on the Shuttle before. 
+And so you're always looking for something off nominal. 
+But, as it turned out, it is just normal plume behavior. 
+Now we've got a few minutes riding on the main engine to build up to orbital velocity. 
+Essentially, we are flying up the Eastern seaboard. 
+And it will give you some sense of the acceleration. 
+Hopefully, you will recognize some of the geography. 
+When they talk about taking the Shuttle from Washington to Boston or back, this is the 
+real thing. 
+It takes about 8 minutes, 8.5 minutes, to get from Cape Canaveral to Cape Cod. 
+There is Long Island coming up. 
+I heard Plattsburgh, New York was an alternate landing site? 
+Yeah. 
+We are really moving at this point. 
+You're going about five miles a second orbital velocity. 
+There is Cape Cod. 
+And now you will see a little bit of a pitch as we separate from the tank. 
+And here, again, is the belly camera as the tank comes off. 
+And you can see these little charred patterns in here. 
+That is where the big piece of foam came off which destroyed the Columbia. 
+We've talked about, for its orbital operation, it was all the different things that the Shuttle 
+was supposed to do that really drove the design. 
+Speaking of which, how did things go last Thursday? 
+Colonel Young gave the lecture on the military. 
+I haven't had a chance to talk with him yet but hopefully maybe he had some new insights. 
+I know we talked a lot already about military requirements. 
+But, in addition to launching large satellites, of course we have repaired satellites, we 
+have done science experiments, we have done a lot of educational activities. 
+And I am not going to deal with those subsystems so much now. 
+Remember that the computers now really don't deal with the main propulsion system anymore. 
+The only thing that you have to be concerned about generally in orbit you still have to 
+maintain thermal control over all of the parts of the Shuttle, so the thermal subsystem is 
+very critical. 
+We talked about the problems with hydrazine. 
+If hydrazine freezes and then it expands when it thaws it can break the lines. 
+Hydrazine leaks are very nasty. 
+We had one instance on a Shuttle flight where one of the thrusters did develop a leak, and 
+you could just see the exhaust coming out of it until they shut off the isolation valve. 
+There are several sets of RCS thrusters, each of which is connected to the tanks by a set 
+of isolation valves. 
+You have essentially triple redundancy in your reaction control system. 
+And if any one of the systems develops a leak you can isolate individual thrusters to tell 
+them not to fire if it's a leak which only occurs when you fire it, or you can shut down 
+an isolation valve for an entire set of jets. 
+I won't go into great details but we talked about the importance of redundancy. 
+And that is one of the ways that it is built in. 
+Let's see. 
+What else do we want to say about subsystems during orbit? 
+What are some of the other subsystems which get called into play for orbital operations? 
+Environmental subsystems. 
+Environmental. 
+Is that controlled by the computer or is that kind of done separate and automated? 
+A little bit of both. 
+For instance, pressure valves are mechanical so they will open at a specific pressure mechanically. 
+If you have an overpressure or you set your, we have different settings. 
+The normal setting is for sea 0:43:20.526 level atmosphere. 
+And, of course, you have to balance the oxygen and the nitrogen. 
+And so there is a fairly complex algorithm. 
+Well, it is fairly simple, I suppose. 
+But there is an algorithm which senses both the overall pressure and the oxygen partial 
+pressure so that if your pressure goes down a little bit, the system has to know whether 
+to open up the oxygen valve or the nitrogen valve. 
+Also, if we are going to be doing extended space walks, and I will be giving a talk on 
+the airlock and the spacesuit and the other systems that get involved in space walks, 
+so I won't go into that in detail here, but we actually have to bring the cabin down to 
+two-thirds of an atmosphere, 10.2 pounds per square inch. 
+We keep the partial pressure of oxygen at sea level so that raises the oxygen concentration 
+to about 30%. 
+And the reason we do that is to purge the nitrogen out of our bodies so that you don't 
+get the bends when you go down to the 4 psi, at pure oxygen, which is what we run our suits 
+at. 
+At that point, we actually have to trick the system because they didn't build in a 10.2 
+controller. 
+They have a 14.7 psi controller. 
+But, in any case, that we control manually. 
+And we basically bring the cabin down to 10.2 psi. 
+Humidity control, we have the water system. 
+Of course, we make a lot of water with our fuel cells for the electrical power system. 
+There are five different water tanks. 
+One of the tanks is sterilized for drinking. 
+In the early days they put too much iodine in the water. 
+In fact, when I came back from my first flight my teeth were totally brown. 
+The dentist had a fit, and they actually have cut back on that. 
+And the water is actually reasonably palatable at this point. 
+You couldn't drink it early on unless you mixed it with Kool-Aid or Tang or something, 
+which is even worse, but that's another story. 
+The rest of the water tanks, there is just a lot more water than anybody can drink, and 
+so those are called supply water tanks. 
+And we use that water for cooling. 
+Remember that is another part of the environmental control system. 
+We have talked about all of these a little bit. 
+This is just kind of a review. 
+Remember that during ascent, once you get above 100,000 feet and during the early time 
+on-orbit, we get rid of excess heat by water boiler. 
+Now, it is an interesting system, a multi-component system. 
+Out in the cargo bay we use Freon to bring the heat through the radiators. 
+First it goes through the radiators, and so once the payload bay doors are open, particularly 
+if you're pointed away from the sun, you can radiate a lot of heat. 
+After the Freon runs through the radiators, if it is still hot, you can activate the water 
+boilers. 
+And so if the payload bay doors are closed or if there is some problem with the radiators 
+and you need excess cooling capacity you activate the water spray boilers. 
+Now the water boilers, if that is your only cooling system, they use water at a rate faster 
+than the fuel cells produce it. 
+If you cannot get your payload bay doors open 
+remember, which Henry Pohl talked about -- if you cannot get your payload doors open within 
+a few hours, you have to turn around and come home because you will run out of water. 
+Now, on the other hand, how do you get the heat out of the crew cabin? 
+You don't want Freon running around the crew cabin because it is nasty stuff if you develop 
+a leak. 
+There are actually two ways. 
+First of all, you circulate the cabin air which gets heated up both by the people and 
+the electronics. 
+And you run the cabin air through a heat exchanger where it dumps its heat into a cold water 
+loop. 
+And the cold water loop takes cabin heat, and then the cold water loop is also circulated 
+by some of the electronics. 
+Some of the electronics are air-cooled. 
+And, of course, there is no density driven thermal convection in weightlessness. 
+You have to have forced-air convection, so there are fans all over the place blowing 
+air at the electronics and at the crew as well. 
+And these are all small fans running at very high RPM and so they tend to be very noisy. 
+In fact, the typical environment in a space cabin is dominated by high-pitched fan noise. 
+In fact, it gets so bad that in the Russian Mir, we found this once US astronauts starting 
+to fly up there, it was actually causing permanent hearing damage in a lot of crew members. 
+And people were having to wear earplugs or headphones while they were working near some 
+of the equipment. 
+From a human factors point of view, to have earplugs in and then somebody tries to call 
+to you from the next module because there is an emergency, that is not a good deal. 
+Yeah. 
+There are a lot of electrical signals up there because the crew uses wireless headsets, but 
+everything is checked for electromagnetic compatibility. 
+And, in fact, if you try to fly a payload on the Shuttle or the Station, you have to 
+pass a lot of EMC compatibility testing. 
+Anyway, the water from the cabin, which is taking the heat both from the air and the 
+electronics, is then taken out of the cabin and passed through a water Freon heat exchanger. 
+And then the Freon takes the heat further aft where it is dumped into the radiator or 
+the water spray boiler. 
+Cabin air revitalization. 
+We re-breathe the air. 
+It's not like in scuba diving where you take a breath of air and then you just blow it 
+all away. 
+We cannot afford that so the air is re-breathed, which means you have to scrub out the carbon 
+dioxide. 
+The Shuttle is not designed for long duration, and so we use lithium hydroxide scrubbers, 
+lithium hydroxide plus carbon dioxide makes lithium carbonate plus water plus heat. 
+And so those are canisters which have to be replaced twice a day. 
+And, in fact, the preparation for replacing the lithium hydroxide scrubbers is you have 
+to turn the cabin fans off so you don't get a lot of air going through the cylinders where 
+you put the scrubbers. 
+For that one minute, you can actually appreciate the peace and quiet of being in orbit. 
+And then you turn the fans on again and you realize how noisy it is. 
+Because, after a while, you get used to it and you don't hear the noise until you turn 
+it off. 
+So, that's air revitalization system. 
+Humidity separation. 
+You're pumping out a lot of humidity in your sweat, and that is put through a cooler and 
+essentially a centrifugal, they call it a slinger which gets rid of the water. 
+And that goes into the wastewater tank, along with urine from the waste collection system. 
+And that is also dumped overboard. 
+There are separate dumps for the supply water and the waste water. 
+And, when the water is dumped overboard, of course up in orbit the pressure is below the 
+triple point of water so liquid water cannot exist. 
+You either have gaseous water vapor or ice. 
+And so, as soon as the water comes out the wastewater dump valve, it solidifies. 
+And you get essentially a snowstorm blowing away from you. 
+And, if the sun is lighting it up in just the right way, it can be quite spectacular. 
+If I have time, I will show you a picture of that. 
+Let's see. 
+Other on-orbit systems? 
+Of course, we have the payload systems. 
+We talked about the remote manipulator, the robotic arm. 
+Anything else? 
+Typically, the center of the front cockpit has mostly the airplane-type controls which 
+you use for flying the Shuttle. 
+The systems controls tend to be around the sides. 
+And then the controls for doing rendezvous and operating payloads are in the aft part 
+of the cockpit. 
+The forward center cockpit is not used very much when you're on-orbit. 
+Overhead panels is mostly OMS and RCS. 
+And then electrical stuff is over the right. 
+And environmental control is over on the left. 
+During the early phases of the rendezvous, when you cannot see anything, typically the 
+commander and the pilot will sit in the front seats. 
+But once you get close enough to have visual contact, you typically don't approach straight 
+on, you typically approach with your payload bay pointing towards the object you're rendezvousing 
+with. 
+That way the rendezvous radar can pick it up. 
+There is a rendezvous radar system, KU band radar, which is on the starboard side. 
+And there are also star trackers which can pick it up when it is farther away. 
+And then visually you just look out the overhead windows. 
+And so you control the final phases of the rendezvous, which we call proximity operations, 
+from the aft flight deck. 
+And there is a controller stick there. 
+And, actually, it is interesting. 
+This is part of the human factors. 
+Both for controlling the manipulator arm and the Shuttle, there is a switch. 
+For instance, there is a translational hand controller and a rotational hand controller. 
+The translational is to make the Orbiter go in plus or minus X, Z or Y. 
+Normally, you think of the Shuttle, when you push the stick back, you want the Shuttle 
+to go in the direction of the stick. 
+And so that would be a plus or minus X, which is along the long axis of the Shuttle. 
+And that is the way the forward controller works. 
+And you can set the back controller up so that it is just the inverse of the forward 
+controller so, when you push on the stick, the Shuttle goes backwards. 
+But, when you are actually looking out the window and you see the object -- the Space 
+Station, or Hubble or whatever you're rendezvousing with -- is ahead of you and you want to go 
+towards it, you would like to be able to push the stick. 
+And so what they've done is,  here is the upper window, they have the stick actually at an angle. 
+Depending on how you set the switch, you can make it so that when you push on that stick 
+it gives you a minus X or you can put it in the Z mode so when you push the stick it gives 
+you a minus Z. 
+And that is a nice human factor. 
+They have a similar situation for the manipulator arm. 
+On the end of the end effector, when you're coming into a grapple fixture, there are actually 
+three wires inside the end effector. 
+And those actually are moved around like so, so that they tighten up over the little knob. 
+But there is a camera up here. 
+And then above the grapple fixture there is kind of a bull's-eye with a little stick on 
+it. 
+The stick is like this. 
+And if you're off to the side a little bit you can see by the angle on the stick both 
+how you are in translation and in the attitude of the end effector. 
+The thing is when you're actually flying the 
+window, I might want to be able to push the translational hand controller and the end 
+effector will move away from me in the cargo bay. 
+That is called a Shuttle Coordinate Mode. 
+And they have a nice setup. 
+Again, this was from a lot of human factor studies. 
+You can then go into a different mode when you're actually bringing the end effector 
+right up to the docking fixture where you switch over into what they call end-effector 
+mode. 
+Now, I am actually looking in the television picture and I see this image. 
+And I want to correct it and I want to move to the side a little bit and go in, but I 
+want to do that in the frame of reference of the end effector. 
+And so by going into end-effector mode, when I'm working the translational and rotational 
+hand controller, it actually works around that coordinate system. 
+And there are actually two other coordinate systems for different types of payload operations. 
+They have done a lot of work in these systems essentially to use computer-assisted modes 
+to make it easier to operate both the robotic and also the Shuttle rendezvous and docking 
+system. 
+What else do we want to say about on-orbit? 
+That will probably do it. 
+Let's take a two-minute break and then we will move ahead to entry. 
+Enough of a stretch. 
+Yeah? 
+Before we leave the on-orbit part, how much of the crews' time was taken up with changing 
+the carbon dioxide scrubbers, dumping wastewater, just the general like you've got to do it 
+to survive stuff versus [UNINTELLIGIBLE]? 
+Typically one person can take care of most of the on-orbit just maintenance activities. 
+You have to do things like periodically check your filters. 
+Every one or two days you have to go through with a vacuum cleaner and clear your filters. 
+You have to change the lithium hydroxide. 
+There you want somebody to help to turn off the cabin fans while the person downstairs 
+is changing them out. 
+Periodically clean the toilet. 
+Prepare food. 
+I would say more or less one person around the clock can take care of most of the things 
+that have to get done, if nothing goes wrong. 
+You kind of alternate between crew members? 
+Yeah. 
+Typically, you can have either a one shift or a two shift flight, depending on whether 
+your payload requires 24-hour operations. 
+And typically the pilot and the commander are considered to be the Orbiter crew, and 
+so they will take care of Orbiter-related things. 
+And other people concentrate more on the payload or doing space walks or whatever the mission 
+is about. 
+Everybody is more or less trained to perform maintenance activities so you can share the 
+load, but typically with a crew of six or seven you have the luxury of specialization. 
+Let's see. 
+I spoke at length about what goes on during entry so I am not going to go through all 
+that again. 
+I will just run the video here to remind you. 
+But do remember, again, before you are ready to do your de-orbit burn once again you have 
+to reconfigure your computer system. 
+Again, everybody gets in their seats, hands-off because you don't want to throw any switches, 
+and you definitely don't want to touch the computer while it is going through this major 
+mode reconfiguration. 
+It is sort of like when your computer is booting up, you don't want to mess with anything around. 
+You just keep your hands off. 
+Once you are in the de-orbit and entry major mode, that is actually then subdivided into 
+sub-modes where one of the software loads controls your de-orbit burn and then another 
+one is in effect while you are essentially in free fall before you hit the atmosphere. 
+And then, once you hit the atmosphere, you go through a series of sub-modes depending 
+on your altitude. 
+And remember we spoke about how the flight control system continually has to upgrade 
+its flight control laws depending on the atmospheric condition, so you need to know your nav. 
+state. 
+And then finally it switches into the final approach and landing mode when you go around 
+the heading alignment circle. 
+That is the final step, which I don't think we talked about. 
+Remember I pointed out to you that since the Shuttle is a glider that energy management 
+is absolutely critical. 
+And so you always come in with a little bit more energy than you are going to need because 
+it is easier to bleed the energy off through a series of S turns. 
+And then they make the transition when you're essentially mach 2 or mach 3 and you are over 
+the landing field, either in Florida or in California. 
+If this is your landing runway, a regular airplane will typically do a downwind, a base 
+and then come in for a landing. 
+With the Shuttle, we actually want a much larger pattern to give you more opportunity 
+for energy control. 
+At about 50,000 feet the Shuttle should be essentially overhead. 
+And then it makes a big spiral. 
+And, since you're in this big spiral, you have the option of either making the spiral 
+slightly bigger or slightly smaller in order to control your energy. 
+If you're a little bit too hot, have too much energy, then you make your spiral a little 
+bit bigger. 
+If you are a little low on energy you make your spiral smaller. 
+But by having every landing end in this spiral which you can adjust the radius, but the basic 
+procedure and navigation is not going to change from flight to flight, so that makes the whole 
+training process much easier. 
+You go into the so-called heading alignment circle and the pilot does have energy displays 
+available so you get predictors. 
+It tells you where you will be 30 seconds, one minute and 90 seconds in the future. 
+You get a vertical display showing your energy, a horizontal display. 
+Unfortunately, and this is something for the people who are looking at displays, the horizontal 
+and the vertical displays are not well integrated. 
+In the talk that some of you heard on the cockpit electronics upgrade, they had some 
+plans to upgrade that and have a unified landing display. 
+But at the moment we don't have that. 
+There is active guidance so that there are guidance needles which you can fly to. 
+And, of course, the pilots are well enough trained that they are using their out-the-window 
+cues as well to make sure that they get the right visual picture just in case something 
+should be wrong with guidance. 
+Yeah. 
+This is a ways back. 
+How noticeable are the big changes in acceleration during like SRB separation or de-tail? 
+SRB separation, as I said, right before SRB tail-off, F equals MA and the force is pretty 
+much constant at that point, but the mass is decelerating because you're burning a ton 
+of fuel, over a ton per second. 
+So the acceleration is increasing. 
+And you've built up to about 2.5 Gs when the SRBs finally tail-off. 
+Then you drop down to about one G. 
+You're sitting in your seat. 
+This is one G into your chest. 
+Remember at this point the Shuttle is kind of upside down. 
+And, since you haven't achieved orbital velocity yet, you still have some weight pulling you 
+out of the seat. 
+But you are strapped into the seat. 
+And mostly you feel yourself pulled back into the seat. 
+And, of course, as your velocity increases and you get closer and closer to orbital velocity 
+then the downward acceleration to the earth essentially matches more and more the acceleration 
+of the Shuttle itself until, by the time you're in orbit, you are in freefall. 
+MECO is different. 
+The same thing happens. 
+The main engines are working at maximum, well, 
+We don't take them up to the 109% which is emergency only. 
+They are working at 104% thrust and your acceleration now starts to pick up. 
+After about seven minutes you've gotten up to 3 Gs. 
+And the Shuttle was designed for a 3 G maximum. 
+They wanted to have smooth, easy right for the payloads. 
+And they also wanted to make it possible for nonprofessional astronauts to fly on the Shuttle 
+as well, the payload specialist scientists. 
+The engines start to throttle down in order to hold your acceleration to 3 Gs. 
+And they throttle down eventually to about 
+So you are sitting in your seat pulling 3 Gs, eyeballs-in, for the last minute and a 
+half or so. 
+tolerate 3 Gs for a minute or two. 
+It is not a real big deal. 
+There have been concerns. 
+If the pilots have to reach some of the overhead switches to reconfigure the OMS or the RCS 
+at 3 Gs, could they actually reach it? 
+And some of the shorter pilots decided, with the Gs, they probably couldn't. 
+And so they actually made a special tool, we called it a swizzle stick. 
+It is an aluminum rod about, I don't know, 
+so you can actually use that. 
+And you have a little mirror if you need it as well so that you can flick the overhead 
+switches when you're pulling Gs. 
+You cannot ignore human factors in these things when you're designing it. 
+If you've really got to flip those switches. 
+And it is not just the problem of being able to reach it. 
+It's also you have a helmet on. 
+And, when you're pulling 3 Gs, your helmet which may have weighed 15 pounds now weighs 
+And so you really cannot move your head around very much. 
+And so just being able to pull yourself away from the seat and look up, you cannot do at 
+So you do need some assistance there. 
+In principle, for future designs, I would think taking advantage of the ability to send 
+commands through computers would make a lot of that easier, if your computer is within 
+easy reach. 
+This was the early days of fly-by-wire and people felt that they really wanted to have 
+a hard switch that they could throw. 
+But, in fact, in most cases, not all, but in most cases the switches go through the 
+computer system. 
+And it is possible, in fact, to go into the guts of the computer. 
+And all the switches tend to be multiple pole. 
+I am getting into some of the details now, maybe more than ever wanted to know, but just 
+to give you an idea of the levels of redundancy that they have. 
+Every switch has multiple poles, and it is possible that you can get a little solder 
+ball or a little piece of wire or just one of the pole units that stops working. 
+You can actually call up that switch on the computer and disable one or more of the poles 
+or you can disable the entire switch and take over computer control of the switch. 
+Like I say, most of the switches work like that. 
+Not all of them. 
+But it is very much a computer-controlled system. 
+Yeah? 
+How does the acceleration compare to a de-orbit burn? 
+De-orbit burn is interesting. 
+When two OMS engines fire they only produce about a tenth of G acceleration. 
+However, you have been weightless for a week, a month, six months depending what your mission 
+has been. 
+And I will tell you, the Shuttle is accelerating forward, although you're actually going backwards. 
+But internally, the Shuttle is accelerating forward, so everything wants to go aft. 
+And, in fact, it is kind of fun. 
+We have done just experiments and taking pictures of it where you can actually pour water at 
+a tenth of a G and watch the water slowly go through an arc into a cup. 
+And then, of course, you've got to get it closed up before the burn stops. 
+And you can take a little pencil and push it in the y-axis and watch it gradually curve 
+as you're accelerating. 
+It is only a tenth of a G but, I will tell you, it feels like you're pressed against 
+the wall if you're not sitting in your seat, just because you haven't been experiencing 
+any acceleration for all that time. 
+And then it gets a lot worse, as you hit the atmosphere. 
+By that time hopefully you are sitting in your seat. 
+It is kind of interesting. 
+What I tended to like to do is keep a pencil sort of floating in front of me. 
+And, after a while, you see very slowly the pencil is starting to come down. 
+And then you would pick it up and then it is coming a little faster. 
+One of the early things that you realize, you know, if you've seen pictures of people 
+in orbit, you're hands are always floating up here. 
+The same thing as if you go into a swimming pool, just hold your breath and float under 
+water. 
+Your natural total relaxed body position is sort of bent over a little bit and your hands 
+are out front. 
+Try it some time. 
+It is quite relaxed, quite comfortable. 
+And it was a strange feeling. 
+Again, I got used to it after my first entry. 
+But the first time, when I realized that I was sitting in my seat and my hands were actually 
+in my lap, and that hadn't happened. 
+I had realized all the time before that your hands were sort of floating out there. 
+And then I reached for the camera to take a picture out the window of the shockwaves 
+behind the Shuttle, and all of a sudden it has got weight. 
+It is amazing how the human mind can get used to a very bizarre situation, you know, like 
+weightlessness, such that when you get back it feels strange. 
+It doesn't stay strange for long. 
+I mean you grew up in one G and your body has a pretty good memory, so it doesn't take 
+long to get back. 
+But there are potential vestibular problems. 
+We have people in the Manned Vehicle Lab who have spent their lifetimes studying some of 
+these phenomena. 
+A lot of your orientations for up or down come from your inner ear, which have gravity 
+receptors. 
+Well, those basically don't work very well. 
+They don't work at all, because the little bone particles inside there are basically 
+floating around. 
+You don't get the proper feedback, but you still get visual feedback and you get rotational 
+feedback from your inner ear. 
+And so your body has to essentially reprogram the feedback loops so that you can maintain 
+your sense of orientation. 
+And that leads to space sickness. 
+And about roughly two-thirds of people who go up experience some form of space sickness. 
+It is sort of like seasickness. 
+Anywhere from mild -- [LOST VIDEO AND AUDIO] 
+But launch is really an overwhelming experience with all the vibration and the power and the 
+acceleration and everything. 
+And I remember thinking to myself at MECO when I started floating, I thought now I'm 
+in an environment that I understand. 
+Because I had had so many 135 parabolas that the feeling of being weightless was not as 
+overwhelmingly new as it otherwise might have been. 
+Although, what I realized after about a minute, I was sort of holding onto the seat waiting 
+for the pullout. 
+That is when I realized, no, wait a minute, no pullout, you're really in orbit. 
+And that is when I got really excited and sort of floated over to the window. 
+And I basically couldn't wipe the smile off my face for about seven days. 
+Yeah? 
+What about the internal clock? 
+Do you still have 24-hour days? 
+Yeah, basically. 
+The sun rises and sets every 90 minutes. 
+What we try to do, this wasn't done in the early Shuttle flights, but often you have 
+to launch at odd hours, if you're doing a rendezvous particularly. 
+For instance, when we launched to repair Hubble, the launch was 4:00 AM because that's when 
+Hubble happened to be flying over. 
+Now 4:00 AM, typically your body is at about its lowest point in the 24-hour cycle. 
+You know, your basal metabolism, your temperature. 
+Not the condition you want to be in when you go through a launch in case there is any problem. 
+What you want to do is adjust your sleep cycle. 
+It is very hard to adjust your sleep cycle when you have the sun rising and setting every 
+before a launch, the crew goes into a medical quarantine so that you don't get exposed to 
+any cold germs because you don't want to get sick on-orbit. 
+And so at that time what they have done is use some medical research over the last 20 
+years or so which indicates that bright lights, at the right time of day, can actually help 
+your body change to a new time zone. 
+That's why they say when you fly over to Europe, you fly overnight and you don't usually sleep 
+too much in the airplane. 
+You land early in the morning. 
+And a lot of people then want to go to their hotel and go to sleep for a while, but the 
+doctors tell you that is the worst thing to do as far as getting used to the new time 
+zone. 
+What you really want to do is go stay out in the bright sunlight at a time when your 
+body thinks it should be dark, get the sunlight into your brain. 
+And that is what we do. 
+In the quarantine quarters everything is white. 
+The tables have white butcher paper. 
+And the walls and the ceiling are white. 
+And there is essentially wall-to-wall fluorescent lights on the ceiling. 
+And so it is really bright. 
+I mean you have to wear sunglasses when you first go in the room. 
+And it is too bright to watch television or even to use your computer, but it works. 
+And after about two days you are pretty much accommodated to the new time. 
+And then, if you want to go out during the day when the sun is out but it is a time when 
+the sun shouldn't be out for the time you are trying to switch to, you have to wear 
+really, really dark sunglasses so you don't get deprogrammed. 
+The problem is sometimes when you're on-orbit, because of the procession of orbits, you tend 
+to have to re-enter, on a short shuttle flight 
+launch time. 
+And that means that you have to often do a sleep shift in orbit. 
+And that is much more difficult, particularly if you try to shift earlier. 
+It is relatively easy to stay awake for an extra hour. 
+I mean everybody likes to lie in bed for an extra hour. 
+That is easy. 
+But to go to bed an hour or two hours early it is hard to get to sleep. 
+And then you have to wake up two hours early, that is difficult. 
+But that typically is what you have to do. 
+The medical people have actually imposed maximum shifts both per day, per week and per month 
+for how much the crew can be asked to shift their sleep schedule. 
+The Russians have another problem when they do space walks because they don't have a full 
+equivalent of a TDRS system, tracking data relay system, like we do. 
+They like to be doing their space walks when they're making passes over Russia so that 
+they can get ground tracking. 
+And so often when a Russian crew is preparing for a space walk, they have to shift sometimes 
+by eight hours at a time. 
+And it can be really tough on a crew to have to do that. 
+If any of you have worked third shift. 
+It's not like pulling an all-nighter where the next day you go back onto your normal 
+shift. 
+To actually stay on a different shift for three or four days at a time can be tough 
+when you don't have any light cues to accommodate you. 
+Yeah? 
+Just an observation that all those measures to shift the sleep cycle are obsolete now 
+with the no night launches, right? 
+As long as there are no night launches that is probably true. 
+And what that means, of course, is that they can only launch to the Space Station at certain 
+times of the year. 
+That is the price you pay. 
+Yeah? 
+On the launch pad, what is supporting the entire weight of the Orbiter? 
+And, secondly, if you are on the mid-deck, are there any windows? 
+And, if not, can you see? 
+I should bring in the launch bolts. 
+I have a couple in my office. 
+The entire weight of the Shuttle stack is supported on the two solid rocket boosters, 
+so the bottom skirts of the boosters are actually sitting on the launch pad. 
+And so on each of the boosters there are four big nuts and bolts, four on each booster. 
+They are explosive nuts. 
+And at the moment that the solid rocket boosters ignite, all eight of those nuts are split 
+in half so that the boosters can lift off. 
+Now, I asked the question what would happen if one of them didn't go. 
+And the answer was, well, we think that the booster is strong enough that it would just 
+rip it out, but nobody wants to find out. 
+Obviously, these are redundant explosive bolts or nuts. 
+They did have, on one flight, they found that one or two of the redundant firing units did 
+not fire. 
+And that got people's attention. 
+And I don't know what the final resolution was. 
+But basically those bolts, you know, if there is wind blowing and the Shuttle is rocking 
+back and forth, all of that load is taken through those bolts. 
+The structure of the solid boosters has to be able to accommodate that. 
+You asked me another question as well. 
+Oh, the mid-deck. 
+The hatch, where the crew gets in, has a window in it. 
+Before Challenger, one seat in the mid-deck was right next to the hatch. 
+My first flight, I actually sat next to the hatch during ascent downstairs but had a great 
+view out the window. 
+Now, after Challenger, we have an ejection pole, a telescoping pole which is suspended 
+from the ceiling. 
+I think we talked about this before. 
+If the Shuttle is in a situation where it is in stable flight but you cannot make it 
+to a runway, at about 40,000 feet you blow the hatch. 
+The telescoping pole, you release the pin, the pole will extend, and then one by one 
+you clip onto the pole and you jump out. 
+And the pole takes you below the wing so that you won't hit the Shuttle structure. 
+And then eventually your parachute will open. 
+That now takes up the area over by the window and the three seats no longer have a view. 
+If you're sitting on the mid-deck how during a launch, how do you know what is going on...? 
+loop. 
+And if you have a nice commander he will tell you. 
+For instance, if you have a rookie astronaut onboard, they want to know when they go through 
+astronaut wings. 
+So, if the commander is nice, he will call 
+the new rookies. 
+But basically that is about it. 
+And the same for entry, you don't have a view. 
+There are still plenty of physiological things to keep your attention, so it is not like 
+it is a boring ride, but you don't have the view. 
+OK. 
+Let me run the entry picture here. 
+OK. 
+OMS engine ignition is when you see that big flame pattern. 
+During the burn you don't see anything. 
+Now, looking out the front, you see the plasma sheath. 
+It goes from a dull red gradually to orange and then eventually white hot. 
+You can only see this at night. 
+It is fairly faint, but typically a lot of flights you land during the early part of 
+the day on the ground. 
+And, of course, you do your burn halfway around the world so the early part of your entry 
+is very often at night and then you fly into the day. 
+And then I think there is another shot looking out the aft window where you actually see 
+the plasma wake in the back of the Shuttle. 
+And you can see this is the old-fashioned computer screen. 
+That is the wake looking out the overhead window. 
+And, where these converge, that little point there they say is about 10,000 degrees Fahrenheit, 
+which is the surface temperature of the sun. 
+It is remarkably stable, although every once in a while you get those instabilities. 
+And every once in a while you get big bright things go flying past, which I assume are 
+gap fillers coming out. 
+And I remember I would always think to myself I hope that is nothing important. 
+You're basically riding on a meteorite because it is supposed to make it all the way down 
+to the earth. 
+But that is essentially what you are seeing, that trail behind you. 
+And I am sure you have all seen these landings. 
+Remember all the talk about the landing gear and the brakes. 
+I looked for a video from my first flight to show you the blowout. 
+I couldn't find one, but if I find one I will bring it in and show you another time. 
+This is a landing out at Edwards. 
+Have you ever landed at night? 
+I have landed at night. 
+I was going to show you one other. 
+It doesn't have a landing light, does it? 
+No. 
+Do they light up the runway? 
+Yeah. 
+They have two banks of xenon lights which light up the runway for you. 
+Actually, this next video is from my last flight where we deployed the tethered satellite. 
+I am not going to show you all that stuff, but I wanted to show you the launch sequence 
+because we have a few pictures showing the opening of the payload bay doors. 
+And then you can actually see back to the aft end of the Shuttle where you have the 
+main engine. 
+And remember I talked about how the hydrogen and oxygen have now combined into water and 
+that forms ice. 
+And so for the first day or so on-orbit there are just constant ice particles coming out 
+of the engines, and you are surrounded by this cloud of ice. 
+Unfortunately the pictures are black and white because it is low-light level TV, but visually 
+it is spectacular because these little ice particles glint in the sunlight. 
+And they are rotating so they go through all the different colors of the spectrum and you 
+are surrounded by this. 
+You will also see one of the RCS jets firing. 
+Water deluge. 
+Main engine sequence. 
+Again, you see the whole tilt. 
+When it gets back to vertical we take off. 
+This is a much shorter sequence here for the launch than the last one. 
+How does it roll? 
+The SRB boosters go like that. 
+Is it the entire stack or just the lower...? 
+No, it is just the nozzle at the bottom. 
+This was Columbia. 
+You can always tell Columbia because, if you look at the vertical stabilizer up here, that 
+is an infrared pod. 
+I will talk about that in a minute. 
+The payload bay doors open right away. 
+And so now you can see, when we've done the engine vent, you can see all the ice particles 
+coming out. 
+And you will see a primary RCS thruster go in there. 
+It can be pretty spectacular. 
+And that just keeps going for about a day and then you've gotten rid of most of the 
+ice particles. 
+OK. 
+That is enough of that. 
+Yeah? 
+In fact, all of the vernier thrusters are downward thrusting only. 
+Remember we talked about with the primary thrusters, they were designed and sized for 
+rendezvous where you actually have to have controlled propulsion. 
+And if you want a Z propulsion of the Shuttle, you want to be able to get a pure Z so you 
+fire thrusters on each end. 
+And the same for roll and yaw. 
+And you don't want a lot of cross-coupling because you're targeting your burn to fractions 
+of a foot per second in order to get your rendezvous to come out right. 
+And so that is when you're using the primary thrusters. 
+Other than that, the primaries use a lot of propellant. 
+And so we disable the primaries and use the verniers. 
+With the verniers there are two verniers in the nose which are sort of canted down at 
+about 45 degrees. 
+And, in the rear, there are two pointing straight down and two pointing straight out. 
+Typically, for a given maneuver, you will fire only one or two. 
+If you want to do a roll, for instance, you will fire the 45-degree down forward thruster 
+and the downward pointing aft thruster. 
+But they are not completely balanced so you will get a little bit of pitch and a little 
+bit of yaw. 
+And you don't use the verniers for propulsion at all. 
+Although, because all of the verniers are essentially downward firing, if you are, for 
+instance, station keeping, if here is the Space Station and you're in the same orbit 
+but, say, half a mile in front of it, now you're station keeping using your vernier 
+thrusters, typically that does give you, after a while, a little bit of propulsive maneuver 
+which pushes you in. 
+So, you have to compensate for that. 
+The verniers are single string. 
+There is no redundancy. 
+They do have access-to-access cross-coupling. 
+They are designed for attitude control only; 
+I thought at the end we could explore a little bit together some of the ideas of improvements 
+to the Shuttle which you are going to be thinking about. 
+And one of the things that I thought would be interesting to think about, you know we 
+talked about the fact that if you're designing the Shuttle to the same set of requirements 
+that were originally put on it, your ability to change some of the major physical characteristics 
+of the Shuttle are very limited. 
+We can do a lot with electronics and some of the other systems. 
+The new vehicle, the crew exploration vehicle, is being designed not just to go to earth 
+orbit but they want a vehicle that can actually return to the earth from the moon or from 
+mars. 
+That means instead of an orbital velocity of five miles per second you have a reentry 
+velocity, a hyperbolic velocity, of about eight miles per second. 
+Does anybody remember the relationship between low orbital velocity and escape velocity? 
+If your lower velocity is V, what is your escape velocity? 
+Square root of 2V. 
+That is a nice thing to remember. 
+It is an easy way to keep those things straight. 
+First of all, you don't need wings to go to the moon. 
+They don't do you much good when you get there. 
+To have a winged vehicle that you can thermally protect against a hyperbolic reentry velocity 
+just doesn't make sense. 
+It would be too heavy. 
+We don't think we can do that. 
+And, in fact, the Russians are now talking about building this new clipper vehicle which 
+possibly will have wings on it or be a lifting body. 
+And that actually probably means that they will only use it for low earth orbit. 
+But it does bring up the interesting question, if you are designing a vehicle that is only 
+designed to go to earth orbit as a passenger carrying vehicle, one of the first things 
+that we ought to ask ourselves, if we're doing a new design, is should we have wings? 
+Think a little bit about the advantages and disadvantages of wings. 
+If you're sitting down now with a blank drawing board going through a design process, first 
+of all, what are the advantages of wings? 
+You've heard quite a bit about Shuttle aerodynamics. 
+What advantages do you get from using wings during a reentry? 
+And, obviously, it's only during entry that the wings are going to help you because they 
+are a real nuisance during ascent. 
+Greater cross-range? 
+Cross-range helps with the wings. 
+The glide? 
+Yeah, it allows you to land on a runway. 
+In terms of having to design against the shock, you know, the Crew Exploration Vehicle is 
+going to land with parachutes. 
+And they still don't know are they going to use airbags or retrorockets or crushable structure 
+or whatever. 
+They don't know. 
+But it is going to take a much harder hit. 
+That may potentially affect reusability, maintainability. 
+Yeah? 
+I was going to say just purely control while coming back in ... 
+Well, we had the cross-range. 
+But targeting I guess, too? 
+Targeting. 
+If you were to land, say, in a certain part of the desert in New Mexico, you would want 
+to have a lot more accuracy? 
+Right. 
+For the CEV, they are just basically saying they are going to land out in the Western 
+desert somewhere. 
+Now, the Apollo shots were getting pretty accurate. 
+The last couple of Apollos landed within visual range of the aircraft carrier that went to 
+pick them up, so they were getting pretty good. 
+But that's within a couple of miles, which is fine when you're landing in the ocean. 
+And maybe it's OK if you're landing in the Western desert. 
+It is certainly not OK if you're going to land on a runway. 
+Hardly an engineering consideration, but how much thought in the design was put into making 
+it a winged vehicle for it to be a comfortable and familiar look to people, especially if 
+the idea was to have nonprofessional astronauts fly? 
+It seems more comfortable to get in something that looks like an airplane? 
+I don't know about comfort from that point of view, but there is no question that the 
+whole aviation metaphor dominated discussion in the early days. 
+And I think you have gotten a sense of this. 
+The idea was we want a reusable vehicle. 
+That means we have to have airline-type operations. 
+Well, if you're going to have airline-type operations then you want a vehicle that lands 
+on the runway. 
+You take it into the hangar. 
+You turn it around. 
+You launch it again. 
+I mean it's a very powerful metaphor. 
+What are some of the disadvantages of wings? 
+What are some of the things that argue against wings? 
+Again, we're going right back to the conceptual design exercise here. 
+And this is not what you're doing for your papers because we're totally changing the 
+concept of the Shuttle. 
+But, for the purpose of the class, let's think it through. 
+What are the disadvantages of wings? 
+I think a lot of what we talked about is initial design cost versus, you know, and no wings 
+obviously has a lot less initial design cost because you don't have to design the structure 
+to support the wings and it is a lot simpler design, I think. 
+So, that probably saves you money in your initial development. 
+the theory of reentry bodies, but the reentry of a ballistic capsule typically gives you 
+much higher Gs than you can get if you have a lifting body. 
+And, of course, with wings you get much more lift. 
+You can actually decrease the G loading so that with the Shuttle we can have a reentry 
+pulling no more than about 1.5 Gs. 
+Whereas, you come back in a capsule even from low earth orbit and you're going to be pulling 
+And that does relate back to the idea that we wanted the Shuttle to be able to take much 
+more delicate payloads and hopefully take people who were not necessarily trained astronauts. 
+So, again, it's an advantage but a disadvantage of wings. 
+The area under the wings is huge, so that puts huge demands on your thermal protection 
+system. 
+I don't know what they're going to end up using on the CEV, but it is going to be a 
+much smaller area that has to be protected. 
+Another interesting thing, when you think about a winged vehicle like the Shuttle, now 
+I know that Buran, the Russian Shuttle, made its one flight unmanned. 
+They had some tense moments at the end, but they did manage to land it successfully. 
+But the way we fly our Shuttle, we have to have two trained pilots who spend a tremendous 
+amount of time doing nothing but learning how to land the Shuttle. 
+Sometimes we don't think about the crew requirements on the design, but training is not an insignificant 
+part of the cost of operating the Shuttle. 
+There is a huge enterprise involved in training astronauts. 
+And training pilots particularly is very expensive. 
+You have to keep them qualified as pilots so NASA maintains a fleet of T38 supersonic 
+jets, which are great fun. 
+I mean I love to fly backseat in them. 
+But the only justification for having them is if somebody is going to be a pilot they 
+have got to stay current as a pilot which means you have got to fly. 
+And we have the Shuttle Training Aircraft which I have spoken to you about. 
+And we have all the simulator time. 
+And then we have the problem that people said 
+about having the Shuttle spend extended periods of time up at the Space Station, you know, 
+a month, maybe two months, make some adjustments to the Shuttle System so you can do that. 
+Then the problem is, well, who is going to land the Shuttle, because I talked to you 
+about the spatial disorientation and everything that you feel during reentry. 
+Well, you don't want a pilot to do that. 
+And, if a pilot has been up in the Space Station for one or two months, has not had any stick 
+time, is going to have potentially serious neurovestibular problems during entry. 
+And so the real question was what's the maximum time that it is OK for a pilot to spend in 
+space? 
+We will never actually have to answer that because 17 or 18 days was the maximum Shuttle 
+Mission. 
+That turned out to be OK. 
+And we are never going to do long duration missions with the Shuttle and the Space Station. 
+Yeah? 
+They learn a lot of the malfunction procedures, but you don't actually fly the ballistic capsule. 
+I mean I am not in any sense denigrating the training that the Apollo astronauts needed 
+to land their capsule, but it did not compare in the least to the amount of training, for 
+instance, to land on the moon where you were actually piloting the vehicle. 
+OK. 
+Well, I hope just that very brief exploration will make you think about designing new vehicles 
+from a slightly different point of view. 
+In other words, when we designed the Shuttle, it was just assumed as gospel essentially 
+that if you want a reusable vehicle put wings on it. 
+I don't know what the right answer is. 
+It probably depends on some of the details of the mission, but you really have to go 
+back and question your most basic assumptions. 
+When you're doing your concepts and you're setting out your requirements, you don't want 
+to write your requirements in such a way that they presuppose the technical solution. 
+If you write your requirements for a winged vehicle you have already shut down a whole 
+part of designed space. 
+And, as designers, you don't want to do that. 
+Yeah? 
+Last question. 
+The Russians have actually taken, my understanding is, they have taken some of the electronics 
+out of capsules and reused internal parts. 
+But the exterior shell of the capsules I don't believe have ever been reused. 
+OK. 
+We will see you Thursday. 
+Bob Ried is going to give a talk on aerothermodynamics. 
+And I will look forward to seeing your journals. 
+Any questions on the reports, the outlines that I returned, email me, come to see me. 
+I am happy to talk with you about it. 

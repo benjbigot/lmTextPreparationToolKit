@@ -1,0 +1,70 @@
+#!/bin/bash
+
+#################################
+# Tested on Ubuntu 12.04
+# need Perl 5
+# need to install the module Number::Spell to convert numeric to letters
+# sudo cpan -i Number::Spell
+#
+################################
+logValue=$$
+logFile="log/$logValue.log"
+echo "logs are written to the file" $logFile
+
+
+
+##################################################
+# 0. first backup the files in inFiles.backup
+#
+for file in $(find inFiles -type f); do
+	if [ ! -e inFiles.backup/$(basename $file) ]; then 
+		echo "copying input files $file in inFiles.backup" >> $logFile 2>&1
+		cp -R $file inFiles.backup/$(basename $file)
+	else
+		echo "backup file of $file already exists, not overwritting" >> $logFile 2>&1
+	fi
+done
+
+####################################################"
+# 1. Windows to Linux (special characters conversion)
+# sudo apt-get install dos2unix
+
+for file in $(ls inFiles); do 
+	dos2unix inFiles/$file >> $logFile 2>&1
+done
+
+######################################################
+# 2. check charset encoding => have to be UTF-8
+#
+for file in $(ls inFiles); do 
+	type=$(file inFiles/$file | cut -f2 -d" ")
+	if [[ $type != 'UTF-8'  && $type != 'ASCII' ]]; then
+		echo $file ' is ' $type ' - trying to change it to UTF-8'
+		iconv -t UTF-8 inFiles/$file -o inFiles/$file >> $logFile 2>&1		
+	else
+		echo $file " is already UTF-8 or ASCII" >> $logFile 2>&1
+	fi
+done
+
+###############################################################
+# 3. cleaning text files using a Perl script
+#
+mkdir -p $logValue.outFiles >> $logFile 2>&1
+/usr/bin/perl cleanText.pl $logValue.outFiles >> $logFile 2>&1
+echo clean text have been generated in $logValue.outFiles
+
+###############################################################
+# 4. Preparing the data for language modeling
+#
+echo building LM directory
+mkdir -p $logValue.LM >> $logFile 2>&1
+for file in $(find $logValue.outFiles -type f); do 
+	cat $file | add-start-end.sh | gzip -c >> $logValue.LM/text.txt.gz
+done
+
+build-lm.sh -i "gunzip -c $logValue.LM/text.txt.gz " -o $logValue.LM/text.ilm.gz -k 4 -n 5 -s kneser-ney -v
+compile-lm $logValue.LM/text.ilm.gz --text=yes /dev/stdout | gzip -c > $logValue.LM/text.lm.gz
+dict -i="gunzip -c $logValue.LM/text.txt.gz" -o=$logValue.LM/text.dict -f=y -sort=no
+
+
+

@@ -1,0 +1,9 @@
+# preparation of GigaWord #
+
+
+English Gigaword 5th Edition is available from the Linguistic Data Consortium
+https://catalog.ldc.upenn.edu/LDC2011T07
+
+
+to prepare the clean data, run prepaCleanGigaWord.sh
+

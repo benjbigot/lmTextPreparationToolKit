@@ -1,0 +1,33 @@
+# abbreviation list for identifying non-sentence-final periods
+# created by Dave Graff for use with sentag.c
+Alex.	Alexander (keyed to occurrences of "Alex. Brown" in WSJ)
+Adm.	Admiral
+Brig.	Brigadeer
+Capt.	Captain
+Cie.	Compagnie #(French corporate abbrev. typically non-final in name)
+Cmdr.	Commander
+Col.	Colonel
+Cpl.	Corporal
+Drs.	Doctors
+Fr.	Friar
+Ft.	Fort
+Gen.	General
+Gov.	Governor
+Lt.	Lieutenant
+Maj.	Major
+Messrs. Misters
+Mr.	Mister
+Mrs.	Mistress
+Ms.	Miz
+Mt.	Mount
+Prof.	Professor
+Prop.	Proposition
+Pte.	Point
+Pvt.	Private
+Rep.	Representative
+Reps.	Representatives
+Rev.	Reverend
+Sen.	Senator
+Sens.	Senators
+Sgt.	Sargent
+Ste.	Saint

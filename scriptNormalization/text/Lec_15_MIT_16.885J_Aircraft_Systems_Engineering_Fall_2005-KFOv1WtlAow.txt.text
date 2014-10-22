@@ -1,0 +1,1443 @@
+Professor Sheila Widnall. 
+We are really lucky that she is able to come and talk to us today. 
+She has been here at MIT since 1964 as a professor and then as provost, but she didn't serve 
+very long as provost because she was assigned to go to Washington by the President to be 
+the Secretary of the Air Force, which she did for almost five years, I guess. 
+Four years. 
+Then came back here. 
+And she is now an institute professor which basically means you can do anything you want, 
+right, including come and talk to our class. 
+In particular, Professor Widnall was on the Columbia Accident Investigation Board. 
+And that specifically is what she's going to talk to us about today, along with just 
+general comments about how this relates back to systems engineering, the design, operation 
+of the Shuttle, and basically anything else that you would like to say because it is your 
+time. 
+So thanks for being with us, Sheila. 
+OK. 
+Well, thank you, Jeff. 
+As I understand the schedule. 
+It is two hours. 
+And if I don't finish, we still take a break. 
+And then we come back and finish, is that right? 
+Generally, the way we've run the classes is that we encourage students to ask questions 
+while you're talking. 
+Absolutely. 
+That will probably slow me down a little bit. 
+Up to you. 
+Anyway, two hours, we'll just take it as it comes. 
+OK. 
+Well, I am going to focus on the Columbia Accident Investigation. 
+I must say, and I'm sure I will say many times as I go through it, that it was an incredible 
+experience to be a member of that board. 
+The reason I show this is for two reasons. 
+First of all, I mean it was, in fact, an incredible event. 
+I am sure that all of you can remember where you were that morning when that happened. 
+I also show it because of the expression on the face of the principal mission controller, 
+Leroy Cain, when he realized that the Shuttle was lost. 
+And if the Shuttle doesn't make it to Cape Kennedy, more or less on schedule, there is 
+no engine at that point, you've got a problem. 
+And so he was in a windowless box in Houston. 
+And so he had no kind of external, although all the citizens of Texas knew what had happened, 
+the guys in the windowless box did not. 
+So it was really an incredible emotional experience for all of NASA as an agency. 
+But then what happens after that? 
+Well, fortunately the Challenger Commission had anticipated the need for a method to call 
+an accident board into being if there should be another Shuttle accident. 
+And so there were individuals who were more or less ex-officio by rank or title waiting 
+to be called. 
+So, the fact of the matter is, that on Saturday, when this all happened, the Accident Investigation 
+Board was pretty much called into being at that point. 
+Now, who were the Accident Investigation Board at that point? 
+Well, they were primarily government employees. 
+Not so much NASA employees. 
+That clearly would have been unacceptable. 
+But they were military. 
+Three Air Force generals, the head of Air Force Safety, a general from Space Command 
+and a general from Material Command who had actually served as an executive staff to the 
+Challenger Commission. 
+That would be General Barry. 
+So, they had some very good experience. 
+The board was chaired by Admiral Hal Gehman who had been the Vice Chief of Naval Operations. 
+He had also been the Chairman of the Cole Investigation. 
+I don't remember how many of you remember the Cole Investigation, but there was a big 
+explosion. 
+It is in the Middle East. 
+I don't remember. 
+Where was it? 
+Yemen. 
+It was probably Yemen killing 19 people. 
+And there were other government employees. 
+Somebody from the National Transportation Safety Board. 
+Jim Hallock who is across the street here at the Department of Transportation, the head 
+of NASA Ames and the head of Navy Safety, Admiral Turcotte. 
+It was a smaller board than it ultimately ended up being. 
+Prize physicist from Stanford. 
+You have to have a Nobel Prize physicist on a Shuttle investigation. 
+Also, somebody who had been looking into issues of policy and history with respect to the 
+Shuttle Program. 
+And I am not getting any of these names right so I'm not even going to try. 
+Pardon? 
+The class has met John Logsdon. 
+John Logsdon, right. 
+Thank you, John Logsdon. 
+Doug Osheroff was the Stanford physicist. 
+He was kind of a kick because at the beginning he was very media shy. 
+He just wouldn't talk to the media, but then he really got into it and he went way outside 
+the box, which was kind of interesting to see how that all happened. 
+In any case, we were all pulled together and we were chartered to uncover the facts, as 
+well as the actual or probable cause of the Shuttle mishap and recommend preventative 
+and other appropriate actions to preclude the recurrence of a similar mishap. 
+Yes? 
+Professor Widnall, before you and Sally Ride came on there were no females? 
+That's right, no women. 
+I'm not sure. 
+Maybe a little bit. 
+But, actually, the day of the accident, of course everybody was saying what happened? 
+That's not what I was saying. 
+I was saying I wonder who is going to be on the board. 
+I actually had a strong sense that I, in fact, would be on the board. 
+Think about it. 
+Gene Covert had been on the Challenger. 
+I think, like you have to have Nobel Prize physicist from Stanford, you have to have 
+an aeronautical engineer from MIT. 
+I think the other thing was, as Secretary of the Air Force, I was really in charge of 
+accident investigation. 
+All accident investigations reported to me. 
+Well, you guys don't know a lot about accident investigations in the military. 
+But there are two accident investigations in the military. 
+One called a safety investigation, which is privileged, and you take testimony and you 
+seal it. 
+And I will talk about that later because we tried to replicate some of that on the Columbia 
+investigation. 
+You have that one and then you have the public investigation which you take testimony, people 
+can be court-martialed. 
+There is an Accident Investigation procedure that goes on in the Air Force, and I had really 
+been in charge of that. 
+In addition to be an aerodynamicist, which is always good, I was the aerodynamicist on 
+the commission, I was a faculty member at MIT, I had been Secretary of the Air Force, 
+I had been in charge of accidents. 
+Also, I had spent my last five years really being interested in space, safety and mission 
+assurance in space. 
+I mean all these things kind of came together. 
+Sally Ride was obvious. 
+She was an astronaut. 
+And she had been a member of the Challenger investigation board. 
+She brought that historic knowledge. 
+I don't think that was the primary thing, but it is probably good to have a balanced 
+group. 
+See, I actually did come on board pretty much February 18th. 
+That was when I came. 
+I think that one of the early issues that we faced was our relationship with NASA. 
+I think at the very beginning NASA had this image that we would work for them. 
+That was one thing. 
+And the second thing was that we would find the widget that failed and then we would leave 
+leaving them to carry on. 
+Not with this group of people you don't do that, and not in this situation. 
+We very clearly and fairly early established our independence. 
+We removed a number of senior NASA people from inline responsibility for the investigation 
+like Ralph Rowe. 
+Again, I'm blanking on these names, but the people who had been in charge of the program. 
+Of course, some of them quit even before we got there. 
+Linda Ham was right in the middle of things. 
+And we just said look, we're not questioning your integrity but you just cannot investigate 
+yourself so we need to move you aside. 
+Go back to your normal responsibilities and bring in independent people who had not been 
+so deeply involved. 
+And they will be the primary interface between the Accident Investigation Board and NASA 
+because we really needed to use NASA. 
+I basically had very strong interactions with the NASA aerodynamics division. 
+And you will see the reasons why as we proceed. 
+But at the end of my interaction with them, which occurred at the end of June, and they 
+presented their 450 page report to me with all the calculations and studies and things 
+that they had done at my direction, I basically looked to the group and said well, I think 
+I could probably give 22 PhDs at this point to this group. 
+Because we had really pressed the envelope in terms of improving the methodology that 
+we used to analyze some of the details of kind of what I'm going to talk about. 
+But, in any case, the issue of independence was extremely important. 
+And I recall a lot of meetings with a lot of banging on the table and yelling and screaming 
+before we finally got this all straightened out. 
+Admiral Gehman was an incredible leader. 
+He really just did such good work. 
+He had a sense of where to press and where to stay on pad and how to interact. 
+He really was a marvelous chairman. 
+Incidentally, he recently served on the BRAC Commission so he is somebody who is deeply 
+involved in public service. 
+And I know, from my conversations with him, that he is a person who refuses to serve on 
+any board of directors that has anything to do with the Department of Defense because 
+he does not want to give the appearance of a conflict of interest. 
+And he is just a man of incredible integrity. 
+Obviously, I am a big fan. 
+In any case, we proceeded then to wrap our group together and begin our interactions 
+with NASA. 
+And this happened in about 81 seconds, two seconds after launch. 
+I don't remember the mach number, but I think it was something like 2, 2.5, something like 
+that. 
+This is the video. 
+And you see the piece coming off and smashing. 
+And I will show it again. 
+That video was pretty much available the weekend of the launch. 
+There was an understanding among senior program managers that there could be a problem. 
+Now, what did we know about it? 
+Well, there were video cameras at the site. 
+There was a video camera located here, a video camera located here. 
+A rather shallow angle to try to do any triangulation. 
+But, obviously, you use what you have. 
+And so, as a result of triangulated these two video cameras, we were able to make an 
+estimate. 
+It's probably also worth mentioning that there were other video cameras but they were out 
+of order. 
+Right. 
+And I was going to talk about that with respect to our recommendations. 
+One of our recommendations was that working video cameras were an absolute necessity for 
+launch. 
+In other words, you do not launch if you don't have a reasonable set of video cameras. 
+And, by the way, you don't launch at night because then, obviously, the video cameras 
+would not be any good. 
+That was one of our recommendations, what I would call a near term recommendation, return 
+to flight recommendation. 
+Yes? 
+I don't know the answer to that. 
+Maybe you know the answer to that. 
+It is very interesting because I have been doing a lot of mission assurance and space 
+accident stuff. 
+You almost always have a picture of a space accident mostly because they occur on launch. 
+So, in the case of the Challenger, we had excellent video. 
+We could see the little hole in the Challenger. 
+We could see the stuff coming out. 
+In this case, we had reasonable video of potential impact. 
+You can launch with an 8000 foot ceiling. 
+In which case we would not have seen the Challenger. 
+Yeah, at that point. 
+I don't think it's true now. 
+And I don't know how they followed up on that, but there is also a possibility of using aircraft 
+if they cannot get the video. 
+In any case, it turns out to be an important issue. 
+And we made recommendations. 
+What we knew about the impact was we figured 
+this is. 
+This is the left wing underside. 
+This is where the curvature changes, and so it was kind of right in here some place, what 
+we refer to as panel seven, panel eight, panel nine of the underside of the composite material 
+that surrounds the leading edge. 
+Now, I don't know if you guys have studied that composite material. 
+It is a truly marvelous material. 
+And I may say a little bit more about it. 
+So, we sort of knew where the impact had occurred. 
+Obviously, we were hampered by the shallow angle of the video but this was our best estimate. 
+The velocity was estimated to be roughly 800 feet per second. 
+And that was obtained from several different methods. 
+One was a computational fluid dynamics calculation of how would the airstream accelerate a piece 
+of foam of that particular shape weighing two pounds and having it hit? 
+And the other thing was from the video itself. 
+We had pretty good correlation between the estimates based on the video and the estimates 
+based on calculations using computational fluid dynamics, so we felt pretty comfortable 
+about this velocity. 
+What did we know? 
+When I joined the board what did we know? 
+What kind of data did we have? 
+Well, this particular vehicle had some telemetry of some sensors in the wing and in other places. 
+At this point in the investigation, we had not recovered the flight data recorder. 
+The other thing that is interesting is that this is the only vehicle with a flight data 
+recorder. 
+This is the vehicle that was considered to be a research and development vehicle. 
+All the other vehicles were operational. 
+They did not equip them with flight data recorders. 
+Now, I will get back to this point when I talk about the criticisms that we had of the 
+agency. 
+But we took strong exception to the notion that the Shuttle had be declared to be operational. 
+And, therefore, there was no need to continue to study it as a research and development 
+vehicle. 
+It was just like a piper cub or a 747. 
+That takeoff was a routine event and was not, in fact, a major event. 
+And even in this system, if a sensor failed in the flight data recorder it was not replaced. 
+So what we had on the Columbia was a wasting asset, but at least we had an asset. 
+We had a flight data recorder. 
+At this point we had not found it. 
+Where were these sensors located? 
+Well, there were a lot of sensors in the wheel well. 
+There were some temperature sensors in this region of the leading edge. 
+There were some temperature sensors back in here and different places. 
+Now, one thing that is significant about this is that these temperature sensors were connected 
+to two different boxes. 
+Actually, it looks like three but what I'm going to focus on are these wires. 
+Some of the temperature sensors were connected to wires that were basically in this region 
+and running along the wheel well. 
+what had gone wrong. 
+Now, you see the time was sort of 8:44. 
+That is Eastern Standard, I think. 
+I was shopping, actually, at the time. 
+Between 8:44 and 9:00 is when all of this took place, so we're talking about 15 minutes 
+of problems. 
+At 8:44 everything was fine and at 9:00 the vehicle had crashes. 
+It was because the wire that controls these sensors is located here in this sort of critical 
+area, so that was the wire cutting. 
+Yes? 
+You said the other orbiters don't have flight data recorders. 
+Right. 
+Commercial, that's a whole different mindset. 
+Yeah. 
+I mean those carry people and  
+it  
+is an FAA regulation. 
+And so we could follow the failure of these sensors right up to the point when the vehicle, 
+we had loss of signal which was at about 8:59. 
+This whole thing happened fairly rapidly, of course, and this was the trajectory of 
+the vehicle. 
+I will show another picture, but the whole problem sort of started off Hawaii and then 
+the vehicle began to break up here in Texas. 
+This was kind of what we knew on roughly February 
+In fact, that's all we knew really. 
+I mean the temperature increases were not particularly dramatic, you know, 50 degrees, 
+That's not really interesting. 
+What was interesting is the wires were cut. 
+That was more interesting. 
+OK. 
+We began to look for the debris. 
+We had people essentially marching over the State of Texas about that far apart. 
+It was an extremely expensive thing, but we recovered about 40% of the material that came 
+from Columbia. 
+And, of course, it is all these little pieces of stuff that fell on the ground. 
+Fortunately, it fell in a fairly rural area. 
+Nobody was hurt. 
+I don't think there was any damage to structures or anything like that. 
+And we were able to recover a great deal of it. 
+A lot of it, because I actually looked at the weather radar, was very small particles 
+that actually floated into the Gulf of Mexico. 
+I mean you could see it on the weather radar, the NEXRAD system. 
+You guys all know what the weather radar is. 
+But you could see the particles streaming into the Gulf of Mexico. 
+I think a lot of it was just sort of vaporized. 
+And there is a footprint of the debris. 
+And we did a lot of searching in that area. 
+We tried to search upstream. 
+We were really trying to find the earliest pieces of debris, but these fell down onesies 
+and twosies in really strange places like in mountains in Utah and stuff like that. 
+So we were never really successful, although some of these had been tracked on radar by 
+the FAA. 
+And there is the debris collection, a hanger down at Kennedy. 
+This is pretty standard stuff for a commercial aircraft, I think you all know that. 
+When you have an accident, what you try to do is recover the debris and reconstruct the 
+vehicle. 
+This debris was particularly interesting. 
+And I don't know if I have a graph later, but let me talk a little bit about the temperatures 
+involved. 
+We're talking about reentry of a damaged vehicle at mach 25. 
+Now, of course, that is the course that I tried to get out of when I was a graduate 
+student, was that high temperature stuff where the gas begins to ionize and dissociate and, 
+you know, all that enthalpy stuff. 
+I really tried to avoid that, so I got paid back. 
+Anyway, that is the subject of high-speed gas dynamics. 
+And so I had to take a refresher course. 
+And Judd Barren, one of our faculty members, was extremely helpful. 
+I used to go over to his house on Saturdays and he would give me references. 
+But, roughly speaking, if the gas didn't dissociate, the temperatures on reentry at the leading 
+edge of this vehicle would give off 50,000 degrees Fahrenheit, which is really pretty 
+hot. 
+The fact that the gas does dissociate -- Ionization at this mach number is not that important. 
+It interferes with the radio signals but does not, in fact, absorb a lot of energy. 
+The gas is slightly ionized 1%, something like that, 2%, but not enough to be a big 
+energy issue. 
+But the dissociation of oxygen, dissociation of nitrogen is an extremely important phenomenon. 
+And, because of that, the gas temperature is roughly 10,000 degrees Fahrenheit which 
+is a lot better than 50,000 degrees Fahrenheit. 
+So that makes a big difference. 
+Let's talk about the leading edge material. 
+The leading edge material is, in fact, an incredible material. 
+It is a carbon-carbon composite material. 
+It is about a quarter of an inch thick and it can withstand a temperature of 3200 degrees 
+Fahrenheit. 
+And the Shuttle was conceived in, what are we talking about here, '70? 
+Yeah, '69, '70. 
+We don't have much better materials today. 
+We might be able to go to 3400 degrees Fahrenheit instead of 3200 degrees Fahrenheit, so we've 
+made some progress, but this is a marvelous material. 
+Now, how in the world, with the gas temperature of 10,000 degrees Fahrenheit, can you use 
+a material of 3200 degrees Fahrenheit? 
+Well, that's the other part that I tried to avoid as a graduate student. 
+It is called radiation. 
+And what is it? 
+The Stefen-Boltzmann Law of Radiation, T to the fourth. 
+And you could write it down on the back of an envelope and you can calculate it. 
+And it turns out that the gas coming in does heat the leading edge up, but then the leading 
+edge radiates out the right amount of energy to basically have an equilibrium temperature 
+of the order of magnitude of, say, 2800 degrees or maybe 3000 degrees. 
+It is comfortable below its maximum temperature, but this is obviously a very dangerous situation. 
+In the early days of the Shuttle Program they made some tests of this material, its ability 
+to withstand impact. 
+They shot BBs at it and made quarter inch holes in it. 
+And then I'm a little fuzzy on this part. 
+They may have tested those quarter inch holes in an arc jet to see would they ablate, how 
+would they behave and would they grow? 
+And I think at that point they felt comfortable that they could withstand the impact of a 
+BB and not be destroyed. 
+So that is an important set of issues. 
+I guess the other thing I want to point out is if you have a good solid continuous edge 
+you can support a temperature of 3200 degrees because of radiation. 
+But if you get a hole in that leading edge then the gas that goes into the cavity behind 
+the leading edge is your old friend 10,000 degrees. 
+But there is no radiation balance to bring you back down to 3200 degrees so you have 
+a 7000 to 10,000 degree arc jet coming through any major size hole in the leading edge of 
+the shuttle. 
+And that is, of course, exactly what happened. 
+And, to remind people, 10,000 degrees is the surface temperature of the sun. 
+Oh, it's very hot. 
+Yes. 
+There is no material that will withstand this. 
+And this happens routinely in shuttle operations is that the shuttle reenters at mach 25 and 
+the temperatures of the gas surrounding the shuttle are about 10,000 degrees. 
+And we've successfully gone through how many shuttle flights in total? 
+It's a sporty course. 
+Now, I want to talk about something else we knew before we found the flight data recorder. 
+And this was of great interest to me for lots of different reasons, but one of the things 
+we were able to do is infer the aerodynamics of the damaged vehicle by looking at what 
+the Flight Control System had to do in order to keep the Shuttle perfectly on its pre-assigned 
+flight path. 
+In other words, until very late in the flight the Shuttle was doing exactly what it was 
+programmed to do. 
+But it was working a lot harder and in very off nominal ways. 
+And we had to back this out. 
+Now, this is almost like a zero over zero calculation so it's a little sensitive, a 
+little hard to do, but this was something the aerodynamics group did. 
+And I worked really closely with these guys. 
+I have great admiration for them. 
+They were able to back out the off nominal roll moments and the off nominal yaw moments 
+of the Shuttle during this final reentry. 
+And I made this little schematic of kind of where were they when some of these things 
+happened in terms of the Coast of California and their flight over New Mexico and down 
+to loss of control over Texas. 
+Before I do that, let me just add to my previous remark that you almost always have a picture 
+of a space accident. 
+Now, normally that's because space accidents occur on launch. 
+This is a remarkable photo of a space accident. 
+This photo was taken by modestly my guys at Kirtland Air Force Base. 
+And basically they had been working with optics. 
+That is basically their business. 
+And so Saturday morning IBM personal computer, fooling around with some little telescope 
+that they had been developing for tracking things. 
+This is a bulge at the leading edge showing some distortion of the shock shape due to 
+vehicle damage. 
+And I obviously consider this photo to be extremely probative. 
+And also there is a small amount of debris that has got some optical signature to it 
+that is sort of streaming out of that general area indicating -- I mean there are all sorts 
+of things going on in this vehicle, but one of the things that was going on was the melting 
+of aluminum, the vaporization of aluminum and the combustion of aluminum because aluminum 
+will burn. 
+I don't know how many of you know it but aluminum is something you add to rocket engines in 
+order to get higher temperatures. 
+It burns when it gets hot enough. 
+It can be a very dangerous material. 
+In any case, we suspect there was a lot of aluminum combustion going on while this thing 
+was happening. 
+Had there been, for reference, any similar photographs? 
+No. 
+So we didn't have a nominal baseline. 
+No, as far as I know. 
+I actually don't know the answer to that question. 
+I know, because I know the guys who took the photo and I know their boss, that they were 
+doing it for a very specific reason that had nothing to do with anything they had done 
+in the past. 
+They were trying to develop a little telescope to track things because that's what they do 
+at Kirtland, is they work with optics. 
+But I don't know whether anybody has tried to do it. 
+I suspect their level of precision is a little greater than the average citizen trying to 
+take a picture of the Shuttle coming in. 
+But this was not a really high powered telescope. 
+I mean they had some really high powered telescope at Kirtland. 
+This was just a small one. 
+Anyway, I don't know the answer to that. 
+Well, I think what we're looking at here is the glowing of this 10,000 degree envelope 
+that surrounds the Shuttle. 
+That is what we're looking at, is we're looking at the radiation, basically, from the gas 
+surrounding the Shuttle. 
+It was normal. 
+But, of course, this was 8:50 in the morning Boston time. 
+This is February so it probably was dark in New Mexico. 
+That is kind of the picture that we go, which I think is really neat. 
+This is the trajectory, but this is the backing out of the off nominal moments. 
+Now, let me talk about the yaw moments just to give you a feeling for what does all this 
+mean. 
+I contend that off nominal aerodynamic forces are an indication of external damage to the 
+vehicle. 
+That is basically what it is. 
+The vehicle was flying because its reaction jets were moving and doing all sorts of things. 
+The aerodynamic surfaces were virtually useless at these dynamic pressures. 
+This was a reaction jet controlled vehicle, but we knew how much force the reaction jets 
+were putting out so we could do the vehicle aerodynamics. 
+Let me talk about the yaw moment. 
+What we have here is that as the accident began the yaw moment became negative, kind 
+of flattened out for a little while and then became very strongly negative. 
+What is yaw moment? 
+Yaw moment is the force turning the vehicle this way. 
+If I have a damaged left wing, what is my yaw moment going to be and why? 
+Well, I'm going to have increased drag on this wing because I've got a big chunk out 
+of the leading edge, I've got a disturbed shock, I've got all sorts of stagnation pressure 
+in this region where in normal circumstances it would be smoothly flowing. 
+I've got increased drag on this wing, and so that's going to drive me this way which 
+is exactly what you see. 
+That is off nominal yaw moment. 
+Roll moment is a little stranger. 
+Basically, as the drag increases, and you probably lose lift so your roll moment begins 
+to go like that, you have decreasing roll moment. 
+This was a bit of a mystery because basically what it said is you lose roll moment, but 
+then all of a sudden your roll moment increases. 
+That is a problem that only an aeroelastician could solve. 
+I happened to be an aeroelastician. 
+Do you know what I'm talking about? 
+If you stick your hand out of the car window and you turn it slightly what happens? 
+It goes up. 
+And it may also turn some more. 
+In other words, if you lose the leading edge spar of a wing, you lose its resistance to 
+torsion. 
+Now, we don't have all the data we need to prove that that's what was going on. 
+But I believe a strong hypothesis that we lost the strength in the leading edge spar 
+and the leading edge spar tipped up. 
+And obviously the lift would increase because the angle-of-attack was increasing. 
+But this was a very, very puzzling and very interesting phenomenon. 
+But, in any case, what happened is that both the roll moments and the yaw moments got too 
+strong for the control system of the vehicle which, again, was just the reaction control 
+jets that are on the area around the vertical tail. 
+Then, ultimately, the thing went into a spin, lost control and then, of course, the vehicle 
+was lost, began to break apart. 
+This was a very interesting set of data. 
+And, as I say, when we started, this was pretty much all we had. 
+There was a pivotal moment, and it occurred sort of at the end of March, about March 27th. 
+Remember, the accident occurred February 1st. 
+We found the flight data recorder. 
+And we found it by these guys walking across the field looking for stuff. 
+And the flight data recorder was found. 
+And it was in pretty good condition considering it had done a reentry at mach 25. 
+We were able to recover the data from the flight data recorder. 
+I think we pretty much got it all. 
+At that point we had hundreds and hundreds of data points. 
+And I would say, at this point, NASA's attitude changed. 
+I think up until this point there had been a certain level of denial about the accident, 
+about what caused it. 
+Maybe it was a micro meteorite. 
+Maybe it was some unexplained system failure. 
+They were not really sure that we were pursuing the right road until the flight data recorder 
+was found. 
+And I think maybe that's to NASA's credit. 
+NASA is data driven. 
+And when they began to see the data and they began to see how well the data correlated 
+with the hypothesis and the models then they hopped right onboard and did a tremendous 
+amount of work to try to help us unscramble all of this and come to a hypothesis. 
+What kind of data did we have? 
+Well, this is a picture of the leading edge spar, this big thing here. 
+And this is a picture of the hypothesis sort of about a piece of foam taking out a fairly 
+large piece of this carbon-carbon fiber and allowing hot gas to enter into the region 
+behind the leading edge. 
+This leading edge region is, as you can see by the picture, sort of hollow. 
+There isn't anything back there. 
+There is a layer of insulation covering this, but that is because of the radiation. 
+In other words, because this, in fact, is 
+It radiates in both directions. 
+And so there is a layer of insulation here to protect against radiation. 
+But that insulation will not protect against the equivalent of an arc jet. 
+That is just, again, burrowing and blasting it. 
+It was fairly quickly that this gas just blew a hole through the leading edge spar. 
+How did we know that? 
+Well, it's kind of interesting. 
+Let's look at one of these. 
+We had all these wires back here. 
+And we had these temperature sensors. 
+Let's just pick one temperature sensor. 
+I didn't even know where it was located, but it was not located in this region. 
+It was located back someplace else. 
+So we looked at the temperature sensor and compared it with earlier flights where the 
+earlier flights would show this behavior and this temperature sensor kind of did this. 
+It began to go up and then all of a sudden we lost it. 
+What happened? 
+being cut to the sensor of this, in fact, entire region beginning to sort of fill up 
+with extremely hot gas, 7000 degrees roughly, eventually entering the wheel well, although, 
+that was later in the flight. 
+We did have some indication of the gas in the wheel well because of the temperatures 
+and the loss of sensors. 
+Because of this the focus turned to the question of this what we call RCC, which is this composite 
+material that surrounds the leading edge. 
+And where did we find it? 
+And we found a lot of it. 
+I mean we found it all along in Texas. 
+The other thing we were able to look at, with respect to the RCC, is its pattern of erosion. 
+I mean this RCC was kind of flopping out in the breeze here at roughly 7000 to 10,000 
+degrees. 
+And so it was a material that was being effectively subject to an arc jet. 
+And, if you took a material like that and stuck it in an arc jet, it probably would 
+ablate and it would maybe sharpen up and you'd have maybe little pointy edges where it had 
+ablated. 
+And so we looked at the part that was particularly eroded. 
+And that would be the yellow stuff. 
+And we found that upstream of the stuff that was more put together, the rest of the RCC 
+from the wing. 
+And, from the right wing, we found the right wing downstream of the left wing which means 
+that the left wing came off first. 
+Now, the image that emerges from this is hole in the leading edge, material coming off, 
+but gas flow going down this what some people called the "chunnel." I never liked that term, 
+but it's a big open cavity. 
+Gas flowing down this open cavity and simply destroying all the fittings that held the 
+RCC onto the wing. 
+I mean the screws and the brackets and all of that. 
+And, again, gas is coming in. 
+And the wing just unzips. 
+All this stuff just kind of unzips and falls off. 
+And, of course, that is where we find it, just lying on the ground. 
+It all unzipped and fell off. 
+What did we actually find? 
+And we had to be able to analyze, according to the rules of that discipline, and line 
+them all up for consistency. 
+And I would say that we never found a theoretical or experimental result that was in conflict 
+with our basic hypothesis. 
+And that everything sort of lined up. 
+I was more or less in charge of the aerodynamic analysis, as well as my favorite subject thermodynamic 
+analysis. 
+I never liked that part either, but the whole question of heat transfer and how fast these 
+materials would melt, I was pretty much involved in that. 
+I may have another picture later, but let me just show you some pictures that we had. 
+There is a hypersonic wind tunnel down at Langley. 
+And we did a lot of tests in that wind tunnel. 
+One of the things we did was we had a score of wind tunnel models. 
+They were about this big. 
+But we took chunks out of their leading edge. 
+We have our wind tunnel model which was the nominal shuttle. 
+And then we'd have a nominal shuttle with panel six missing and then a nominal shuttle 
+with panel seven missing and a nominal shuttle with panel eight missing. 
+That is probably a little intermediate temperature. 
+And then you see the blue. 
+That is probably lower. 
+But, if you look at this, being an aerodynamicist, I can tell you where that vehicle gets hot. 
+It gets hot near stagnation points and near leading edges. 
+And especially at the stagnation point on the vehicle. 
+You can put a wind tunnel model like that in a hypersonic tunnel painted with this special 
+paint, and you can take pictures of it and you can get that temperature distribution. 
+Here is my little figure of aerodynamic forces. 
+We had all sorts of data from both the flight data recorder and the telemetry that gave 
+us a pretty good indication of the timeline. 
+If any of you ever want to come into my office, I have this enormous poster. 
+It's like ten feet long which basically shows the timeline of the Shuttle reentry with all 
+kinds of the individual data bits, the temperature distributions and all the things that kind 
+of we could fit on this enormous poster. 
+That is kind of what we were trying to do. 
+We looked at the debris. 
+We looked at forensic analysis of the debris. 
+Where was it ablated? 
+What was its chemical composition? 
+Did we see melted Incanol? 
+I mean we saw all these things and were able to figure it out. 
+Well, we knew what temperature Incanol melts at so, therefore, the temperature on this 
+particular piece was, I don't know what the temperature of Incanol is, but let me say 
+It would be that kind of  material. 
+This material is the same material that was used on the original shuttles. 
+Every time it flies it loses a little bit of stuff through vaporization. 
+And so then they kind of tried to paint it again, but I think our hypothesis is it just 
+gets weaker and weaker as it is being used. 
+And the problem is it is hardly being made anymore. 
+It is material that was all made at the beginning of the program. 
+It is not being made anymore. 
+It is very expensive. 
+It is not a material that is easy to get. 
+And, in fact, that became an issue for us because one of the things I will show is we 
+wanted to do a full scale mockup of the leading edge and we wanted to test it with a piece 
+of foam going 800 feet per second. 
+Now, why would we want to do that? 
+Well, that is exactly the test conditions that we wanted to simulate. 
+Well, that is not only expensive but this material just doesn't exist. 
+I don't remember where we got the material. 
+We probably took it off of Endeavor or something like that. 
+But, I mean, this was a big deal that we should run this test because the material is very 
+precious. 
+But, anyway, we banged on the table and said that we were going to do this and that they 
+had to support us. 
+We did the wind tunnel test. 
+I have a question about that test. 
+Yes? 
+My reaction, as an outsider, when they published the pictures of the holes on that test was 
+wow. 
+Wow. 
+That was my reaction, too. 
+Yeah, my reaction was wow. 
+did forensic analysis of debris, both chemical and sort of physical. 
+We did a lot of different in-depth analysis. 
+The test itself, in addition to being expensive and working with material that was really 
+hard to pull together enough of this material to run the test was also emotional. 
+It was also an emotional event for the people involved. 
+And just very late in the game NASA said we are prepared to accept that the foam put a 
+hole in the leading edge so don't run the test. 
+And we said well, you may be prepared to accept his but somewhere down in your organization 
+is someone who doesn't believe that, and this test is for him. 
+I actually met that guy. 
+I mean there are people in NASA who do not believe this. 
+So maybe what makes sense is let me show the movies and then we will have our break. 
+Here is the wow. 
+Can I hear it from the class? 
+Wow. 
+And this really was. 
+I mean the guy who developed this material, and, as I say, I have great respect for that 
+material. 
+This is inside. 
+They had a camera mounted inside. 
+That is kind of gee whiz thing because you can see the deformation before it breaks. 
+Was this done in the wind tunnel? 
+No, this was a full scale mockup that was done at Southwest Research Institute. 
+We had a big mockup of the vehicle. 
+It was done outside. 
+Southwest Research has been involved in the Shuttle Program for quite a while. 
+They have a foam gun that they have used to shoot foam primarily at the underbody tiles. 
+The concern has always been on the strength of the tiles. 
+Do you guys know what the tiles are? 
+The sort of foam stuff that is underneath the vehicle. 
+They have done a lot of tests on foam. 
+Not big pieces of foam but sort of small pieces of foam. 
+Never tested the leading edge because it is damn expensive to test this leading edge material. 
+And the only tests I am aware of were these BBs that were shot. 
+This was really the first time this test was done. 
+Now, let me make a profound comment about space systems. 
+There is a fundamental principle in the development of space systems, test-as-you-fly. 
+You all know that. 
+I hope you all know that. 
+This test should have been done at the beginning of the Shuttle Program. 
+It was not done. 
+And the reason it wasn't done is because there was a requirement in the Shuttle Program that 
+foam shouldn't come off the orbiter or off, whatever that thing is, the tank. 
+It was a requirement that foam shouldn't come off the tank so, therefore, why do the test 
+if it's a requirement that foam not come off? 
+Well, the fact of the matter is foam has come off on every single shuttle flight, as far 
+as we know. 
+So this was a violation of the test-as-you-fly principle. 
+That is, I would say, the number one principle in the development of space systems is test-as-you-fly. 
+It is the most important thing. 
+Anyway, we can take our break now. 
+And remember JR Thompson's remarks about testing to failure, which they did on the main engine, 
+didn't do on the SRBs, and they clearly didn't do here. 
+OK, a quick two minute, you know the drill. 
+What you see is sort of an aluminum frame. 
+I mean what you have here is really what would be called a full scale mockup. 
+It is an aluminum frame that holds the tile in the right position. 
+And I suppose holds it with fittings of the right strength. 
+In other words, what you're trying to do is replicate with what would be called a full 
+scale mockup the structural conditions of the leading edge. 
+You would have fittings holding the panels and then you would have it angled properly 
+to the foam gun, which is over here some place, and then you fire the foam at 800 feet per 
+second. 
+So that's basically the test. 
+And, as I say, it was done outdoors. 
+It was quite spectacular. 
+A big audience, you know, there was the media and NASA. 
+A big audience. 
+It was quite an event. 
+As a result of this, the committee felt pretty confident that we had identified the technical 
+cause of the accident. 
+When we started this, we didn't know how sure we would be so we had all these words like 
+probably, more likely than not, conceivably. 
+Because we needed to think about describing our certainty whether we knew, in fact, what 
+had happened. 
+But by the time we finished all of this, because everything had lined up so well, we felt pretty 
+confident that we knew, in fact, what had happened. 
+And so we all sat down around the table and argued about these words. 
+This was a committee consensus. 
+We voted on every word. 
+Well, not every word. 
+Some of the words are obvious. 
+But we basically came to consensus on every single important word in this statement of 
+technical cause. 
+I will just sort of let you read it because it took us a long time to write. 
+I should mention that one of the things. 
+And I think this was from the flight data recorder. 
+I really have not given you as much data about the flight data recorder. 
+But one of the things we had from the flight data recorder is an indication of conditions 
+on assent relative to earlier flights. 
+And if you look at the conditions on assent, you can make a pretty good case that there 
+was a hole in the leading edge on assent after the foam had hit. 
+Because you see increased temperatures on the sensor right behind that region of the 
+leading edge. 
+And so you can make a pretty good case that the hole was there on assent after mach 2.5 
+or whatever the mach number was. 
+But that was data from the data recorder? 
+I believe it was from the flight data recorder. 
+They didn't get that on telemetry? 
+They did not have that from telemetry. 
+I'm pretty sure about that but I'm not absolutely sure. 
+Yes? 
+Oh, they knew that weekend. 
+Oh, in fact, I'm going to talk about that because that's part of the organizational 
+and cultural issues. 
+Finishing the technical cause, this was our final statement about the cause of the accident. 
+But we didn't stop there. 
+Not this group of people. 
+Yes? 
+I was going to ask how soon did you arrive at the hypothesis that the hole led to the 
+gases that led to the [OVERLAPPING VOICES]? 
+I think pretty quickly? 
+Yeah, I would say it was pretty quickly. 
+Now, there was a little pushback from NASA on that. 
+But I described my appearance on February 
+the wire cutting sensor information, that we had the video of the foam hitting the Shuttle 
+and exploding. 
+In other words, there was a shattering of the foam. 
+And we had the aerodynamic forces which indicated damage to the vehicle which were consistent 
+with the wing leading edge. 
+We have a picture from Kirtland of some bulging around the wing leading edge. 
+I would think by sort of the third week in February that's where we were headed. 
+Now, you don't want to get blindsided. 
+Sure, we don't want to get blindsided. 
+We got lots of inputs from the public, as well as from the scientific community. 
+And there was an input we felt we had to take seriously. 
+And I can sort of say what it was. 
+We got an input from sort of solar physicists who said that on that day there was a violent 
+sun episode that would have sent a shower of solar radiation to the earth on that particular 
+day. 
+And that it was possible that this could have created some kind of shockwave in the vicinity 
+of the Shuttle and done some damage. 
+I mean it was a credible hypothesis. 
+I called the Air Force. 
+Out at Hanscom we have these guys who do basically radiation physics, radiation weather, space 
+weather. 
+And Jim Hallock from DOT kind of shepherded that part of the project, but Jim is a physicist. 
+He has a PhD from MIT and works at the Department of Transportation. 
+And so the two of us go together and said we have to take this seriously. 
+We have to put an expert team together and completely examine this hypothesis. 
+So we did that. 
+And we had data from all over the world of this radiation coming in, and so it was very 
+exhaustive. 
+It turned out that this radiation didn't reach the earth until 3:00 PM on that day, but we 
+took it seriously. 
+I think that was probably one of the most credible things. 
+We obviously got a lot of junk stuff that it was an Israeli plot or something like that. 
+I cannot even remember those things. 
+And then I think there was always this suggestion that it was just a micro meteorite, but I 
+think because of the magnitude of the damage and the fact that, I think this is general 
+knowledge, the Air Force watches space junk. 
+They have a catalog of everything that is lying up there, and there wasn't really a 
+piece up there large enough to do that kind of damage so that was eliminated. 
+There were a number of hypotheses. 
+But, again, when we did the data, we didn't go in with a hypothesis. 
+We went in to see what the data told us. 
+That was a bit of independence with respect to the data and the analysis. 
+Yes? 
+No, it  is melting. 
+No,  the temperatures. 
+See, it's aluminum. 
+Eventually. 
+Well, I think heat was the main culprit. 
+The dynamic pressures, and I am sorry I didn't bring the graph, in this regime were not that 
+large. 
+I am thinking they were less than 100 pounds per square foot because you're really up at 
+very high altitude. 
+And, even though you're going very fast, the dynamic pressures are not that high. 
+I actually have a graph of dynamic pressures. 
+In fact, come into my office and you will see the dynamic pressure as a function. 
+I would think the way to think about it is that the important parts melted. 
+See, we know from observations, and I didn't show all of these, but people were recording, 
+I don't remember what we called them, but big pieces of the Shuttle were coming off. 
+You saw the video with all these pieces flying in, but we have pieces coming off as early 
+as California. 
+And I think we hypothesized at one point that the upper wing came off. 
+In other words, the upper surface of the wing just lifted off. 
+And the reason it did is not so much from pressure is that all this gas is in there. 
+Aluminum melts at 700 degrees Fahrenheit or some ridiculously low number. 
+We're talking 7000 degrees Fahrenheit so we're talking about destruction primarily by arc 
+jet. 
+You have to think of the atmosphere as a big arc jet. 
+And eventually the vehicle became uncontrollable, unflyable because the aerodynamics were so 
+off nominal and the vehicle couldn't be controlled. 
+But, again, I think the dynamic pressures didn't get larger than 200 pounds per square 
+foot. 
+I don't think. 
+Which is about what I am doing right here. 
+That is about 200 pounds per square foot. 
+Yes? 
+What happened to the crew? 
+I probably don't want to talk about that. 
+We have some information. 
+Well, let me say what I can say. 
+The vehicle itself stayed intact through a large part of the reentry and got into what 
+would be called the fighter pilot's regime, you know, 50,000 feet. 
+The actual cause of the death of the crew was what any fighter pilot would experience 
+if he lost his vehicle at 50,000 feet. 
+It's blunt force trauma. 
+That is what it was. 
+And we found a lot of the cockpit. 
+Reentry is really interesting. 
+There is something called ballistic coefficient. 
+Do you know about ballistic coefficient? 
+We found briefcases, pillows. 
+Ballistic coefficient, people talk about it in two different ways, and one is the reciprocal 
+of the other. 
+I always get confused about that. 
+But if you have a low ballistic coefficient and you drop a pillow at mach 25 at 400,000 
+feet, it would probably make it to the earth because it will slow down and then it will 
+just gradually float down to earth. 
+We found a lot of the crew compartment, a lot of pillows, chairs, all the stuff that 
+was really light just reentered without burning up because of ballistic coefficient. 
+There was a lot there. 
+so that gets into some of your questions having to do with when did they know. 
+And, of course, the big why question. 
+Let me go to that. 
+Now I'm going to go off into the second part of our investigation. 
+And we consider this to be as important, if not more important than our technical investigation. 
+We talked a little bit about the history of the Shuttle Program. 
+And I am sure that is something that you have been through in terms of the budgets, the 
+margins, what we believe is a mischaracterization of the vehicle as a mature operational system. 
+And we think that there is a story here to be told, and so we looked into this. 
+Now, I have to say that I was not as much a part of this as some other members because 
+I was busy on the aerodynamics part of it. 
+But you had John Logsdon, we had quite a number of the Air Force people, and Admiral Gehman 
+were more deeply involved in pulling together the sort of history of how this happened, 
+the cultural issues. 
+I am sort of reporting on behalf of my fellow board members what our conclusions were and 
+the data that we gathered together to put this together. 
+The things that were pointed out are that there was this fundamental uncertainty in 
+the Shuttle Program and that led to a sort of fluctuating attitude towards investing 
+in upgrades and infrastructure. 
+The nation didn't really know where it was going. 
+And I hope you won't take offense at this. 
+I worked for NASA. 
+You worked for NASA. 
+We found them to be an extremely insular organization. 
+And I think, actually, they still are. 
+They don't take advice from the outside. 
+And I will be prepared to admit that they are the only organization that does human 
+spaceflight, at least in our nation, but they are not the only organization that handles 
+risky technologies. 
+And they have a lot to learn from other organizations. 
+And they have not been a part of that conversation with the type of people like the nuclear navy 
+and some of the commercial industries that use extremely risky technologies. 
+They have not been a part of that dialogue. 
+And that is where we have criticized them. 
+As I say, they are insular. 
+They think that they cannot learn anything from anybody else. 
+That they know how to do all these things and that they don't need to accept any external 
+suggestions. 
+That is a very dangerous line of reasoning for an organization, really, no matter how 
+good you are. 
+So we felt that the people at NASA, that leadership clearly believed these things and the people 
+in the engineering workforce were under tremendous pressure to go along, in some sense, with 
+these basic attitudes. 
+And we saw that in our investigation of kind of the what went on during the flight. 
+I mentioned before that there is this history of foam. 
+And let me introduce the word anomaly. 
+Have you talked about anomaly? 
+Not directly. 
+OK. 
+Anomaly is one of the most important words in space systems. 
+Anomaly means that something happened that shouldn't happen. 
+Anomaly should bring your organization to a standstill while you figure out what happened 
+and why it happened. 
+Anomaly is a violation of requirements. 
+Sometimes I think it's a euphemism for failure. 
+Well, yeah. 
+Hopefully you catch it before failure. 
+Anomaly is a clue that something may even worse happen down the road. 
+It is something to be taken extremely seriously. 
+Foam shedding off the tank was an anomaly. 
+It didn't destroy the vehicle but it is a violation of requirements. 
+And, in the early days, it was really put on a list of problems to be worked. 
+I mean NASA didn't completely ignore it, but they put it on a list of the other 5000 problems 
+that needed to be worked. 
+And they just kept flying until foam shedding really became a normal expectation that all 
+the flights would have foam shedding and that nothing serious would ever happen. 
+It was treated as a maintenance turnaround problem, you know, when the vehicle gets back 
+we can fix it. 
+And that was true in this case, too. 
+They said something like well, if foam hits the Shuttle, we'll fix it when it gets back. 
+I mean that was the stance. 
+Now, I think what's interesting about this, if you think about this, is that the anomaly 
+of foam shedding without hurting the Shuttle was treated as if it were a planned engineering 
+test. 
+In other words, it was a test that was planned to see if foam could hurt the Shuttle. 
+And the fact that foam didn't hurt the Shuttle was treated as confirmation that foam couldn't 
+hurt the Shuttle. 
+Now, I think that's kind of a fundamental. 
+I like that particular phrase. 
+There was enormous schedule pressure on NASA. 
+They had already slipped a couple of times because of other what I would call strong 
+signals. 
+We use the word strong signals. 
+When something really dramatic is identified NASA shuts down. 
+And I don't remember the issues. 
+There was something about a connector that didn't seem to work properly and it just grounded 
+the Shuttle fleet for three months or something. 
+And there was some other problem that was a strong signal and they simply shut it down. 
+The foam we put in the category of a weak signal. 
+It is something that while you're fighting all the strong signals it is hard to justify 
+shutting the organization down for what you perceive as a weak signal. 
+So they had used up almost all of their margin to complete the Space Station. 
+And they were under tremendous pressure. 
+Sean O'Keefe was obviously sent to NASA to put the house in order, put the schedule and 
+the budget in shape and get this Space Station finished by February 19th. 
+Ooh, we've already passed that one. 
+We will talk a little bit about what happened on the ground while the vehicle was in the 
+air. 
+I mentioned before that in the military we do two investigations. 
+We do a safety investigation where the testimony is privileged and we do an investigation which 
+is public. 
+And our group was kind of doing both. 
+In other words, we were obviously doing a public investigation. 
+We had press conferences every week and the media would come and we'd share everything 
+with them. 
+But, because we did have so many military people who understood the importance of accident 
+investigation, we also had, I don't know, an annex, I guess you'd call it, a way to 
+take testimony and keep it privileged. 
+And we did that. 
+We took testimony from individual people at NASA. 
+It was privileged testimony. 
+And they felt free to share with us their participation and what happened and who said 
+what when and all of that. 
+And we had the damnedest trouble keeping this from Congress. 
+I mean it really was. 
+And anything that's written down is accessible to Congress, at least that's the way they 
+look at it, but we really held very firm and we would not allow this privileged testimony 
+to be accessed. 
+And I think the compromise we made was that a staffer could come over to where we were 
+located, he could read the testimony and take no notes. 
+Well, they soon tired of that so the fact of the matter is they didn't come. 
+But we had a lot of privileged testimony that allowed us to put this picture together with 
+employees not being too concerned about the implications of sharing with us. 
+So, the weekend that the flight went up, NASA knew that there was a potential problem. 
+And they put in place something called the 
+to look at all the data that they had and decide whether or not there was a problem. 
+Now, I've chaired a lot of committees, not only here at MIT but other places. 
+And I understand how important it is for a committee to have a clear charter and a clear 
+line of reporting and to have a certain level of independence from their home organization. 
+For example, if I were chairing a committee here at MIT on an important research issue 
+or important policy issue and members of my committee were getting pressure from their 
+department heads, I would blow the whistle. 
+I would say that is not the way a committee works. 
+A committee has a charter. 
+It has independence. 
+It is not subject to outside influence from the people to whom these people report in 
+their normal way of life. 
+So, with respect to the debris assessment team, I would make two comments. 
+First of all, they had a very unclear charter. 
+It wasn't clear kind of who they reported to or what their authority was. 
+And they, as individuals, were getting pressure from their home organization, both NASA and 
+the companies, the USA, Lockheed, Boeing, because those guys were getting pressure from 
+NASA. 
+It was just an enormous amount of pressure being applied to various people in what I 
+considered to be a totally inappropriate way. 
+In any case, this team, I admire them. 
+I mean I think they were doing a good job. 
+They wanted to get on-orbit pictures to see whether or not using national assets we could 
+take pictures of the Shuttle. 
+And so, who do you contact when you want something like that? 
+You talk to the Air Force. 
+And the Air Force is, of course, like a great collie dog just waiting to show what they 
+can do. 
+You know? 
+I mean oh, great, we've got this wonderful opportunity to take these pictures. 
+It's really going to be fun. 
+We're going to show what we can do. 
+They are very enthusiastic about responding to that kind of request, but NASA didn't want 
+the pictures. 
+I mean the senior managers of NASA didn't want the pictures. 
+The debris assessment team did want the pictures. 
+And they tried to make these requests of different parts of the organization. 
+And every time they would make a request it would get slapped down by senior managers. 
+Well, I guess we have it. 
+This is a highly classified area, but let me just say there were eight separate opportunities 
+where we could have gotten some significant information about the state of the Shuttle 
+and we didn't do it. 
+We didn't do it because every time there was a flurry of activity around there NASA said 
+they didn't need it. 
+They'd fix the Shuttle when it got back. 
+If the damage had been discovered what do you think would have been done? 
+Well, I can talk to that issue. 
+I mean this is as good a time as any. 
+We actually asked NASA to do some studies about what could have been done. 
+This is a nation that will save a whale that is trapped in the Arctic or Baby Jessica in 
+the well. 
+I mean if we find that there is a crisis we will mobilize. 
+There is no question about it. 
+It would be a very chancy situation. 
+We know the vehicle is destroyed. 
+The vehicle is lost. 
+There is no question about that the vehicle cannot reenter safely with the people. 
+So what was the best option? 
+I mean we looked at the possibility of stuffing the hole with things, you know, old sleeping 
+bags and suitcases and stuff. 
+There wasn't anything onboard that could have withstood the temperatures. 
+And, of course, one of our recommendations was that there should be some capability for 
+in-flight repair. 
+That has been a big issue. 
+But the only other thing you could do is to sort of go into life support mode. 
+Stop doing the science. 
+Jettison the module, I guess, which would make the vehicle lighter and then maybe the 
+reentry would be a little more successful. 
+Conserve electricity. 
+Conserve water. 
+Conserve food. 
+Try to stay in orbit for an additional, I don't remember the number, 15, 16 days, something 
+like that so that you could send up a second shuttle. 
+I think it was Atlantis. 
+They could get Atlantis ready and send it up. 
+It was sort of by chance, but it just happened that in this mission they did have the possibility 
+of doing a rescue. 
+Right. 
+It's a gutsy move, but I have a feeling that if we actually had that information that we 
+could have put that together. 
+It is interesting that when you read some of the stuff that is being talked about, like 
+the Hubble and things like that, we did not recommend that a second shuttle be standing 
+by. 
+But that seems to have been internalized at NASA as a potential safety measure. 
+That they will always want to have a second shuttle standing by if they send the shuttle 
+up. 
+The problem with that is it's a bit of a "going out of business" strategy because there aren't 
+that many left. 
+Yes? 
+We never looked at that option. 
+We simply didn't. 
+This particular vehicle was not in an orbit that could have reached the Space Station. 
+And that is another big issue, is whether you want to have the Space Station available 
+for a safe house if you have an accident. 
+In this particular case, this vehicle could not have reached the Space Station. 
+Soyuz could not have reached this because Soyuz launches from 51 degrees. 
+This was in 28 degrees. 
+Also remember there were seven people aboard so you would have needed three Soyuzs. 
+The Russians just don't have them available. 
+It was either Atlantis or nothing. 
+Larry, you had a question. 
+Yeah, going back to the on-orbit photo. 
+It was alleged at the time that the NASA management thought that the quality of the photos was 
+what it had been several years earlier and, therefore, would not have helped them. 
+Let me speak to that because I was going to mention that. 
+In the early days of the Shuttle Program there was, in fact, a good interaction between NASA 
+and the national security apparatus that does this sort of work. 
+And people at NASA were cleared, to an appropriate level, to have this interaction. 
+That has atrophied. 
+The current people at NASA basically have no experience with that world, are not cleared 
+to an appropriate level, have just not had an interaction and see it as a bigger deal 
+than it really is. 
+It is not a big deal. 
+We do it all the time with my collie dog friend. 
+I mean it's just not a big deal. 
+So our recommendation was that there should be a better interaction between NASA and the 
+national security apparatus. 
+And that the senior people at NASA should be cleared to an appropriate level to have 
+that interaction. 
+And that this should be, in fact, routine that you always take pictures when the shuttle 
+is in orbit. 
+And so I think that was basically one of our recommendations. 
+In any case, we were not pleased with the decision or the failure to take photos onboard. 
+Its fundamental purpose was to figure out whether foam would hurt the tiles. 
+It was developed as a result of the experiments done at Southwest Research Institute of shooting 
+small pieces of foam at the tiles. 
+Not the leading edge but the tiles. 
+And it was sort of all things kind of rolling together. 
+The people who developed this model were in Huntington Beach, California when they transferred 
+the operation to the Cape or to Houston, I don't remember. 
+The senior people in that group refused to move so they turned the tool over to junior 
+people. 
+There was a loss of corporate memory, a loss of understanding, and so it just got worse 
+and worse and worse. 
+And so finally the people who were applying these tools were not the same people who were 
+in the development of the tool and really lacked understanding of what this tool was 
+all about. 
+The tool predicted that you had a serious problem. 
+But they said, oh, well, the tool always over-predicts. 
+They ignored it and said there was no problem. 
+I mean it was just cascading of kind of bad things happening. 
+We talked a little bit about the organization of NASA. 
+And I don't know whether you talked to Aaron, but this would be a good question to ask Aaron 
+Cohen. 
+I am setting him up here. 
+About an independent safety organization at NASA. 
+Yes? 
+As far as we can tell nothing until about one or two minutes before. 
+Actually, Mission Control had arranged for a press conference with the crew in orbit. 
+Right. 
+Are you going to mention that? 
+I will talk about that. 
+Because the crew new that some foam had come off, but they were told that it was no problem. 
+Yeah, but that's different than the crew knowing. 
+Right. 
+No, I think that is true. 
+That the crew was notified that there had been an incident on liftoff but there was 
+no problem. 
+And the only reason they told them was because somebody from the press might ask them. 
+Yeah. 
+And I have had media training so I know exactly what they were thinking about. 
+The Shuttle lands, the astronauts get out, the microphone gets into the mouth and they 
+say do you know? 
+And the astronauts would say of course, we knew, and we understood it was no problem. 
+I mean it was a pre-media sort of skull session for the astronauts, as opposed to a more responsible 
+concern. 
+What we do know about the astronauts is we have the voice recording and stuff, and I 
+think there was something from Mission Control to the astronauts saying we see a temperature 
+anomaly in your wheel well. 
+The temperature was 50 degrees higher than would have normally been. 
+And this was literally just like I don't think any more than five minutes before the vehicle 
+lost control. 
+Maybe even less than that. 
+I mean it's all in the timeline. 
+And that is probably all I want to say about it. 
+I think the evidence we have seems to indicate that the astronauts knew. 
+Obviously, when the vehicle went out of control they knew there was a problem, when it began 
+spinning and stuff like that. 
+But, as far as we know, there was no indication prior to that. 
+Everything else was sort of nominal. 
+Yes? 
+After both shuttle accidents, you have investigation boards, but what happened after Apollo 1, 
+for example? 
+I don't know the answer to that. 
+Well, actually, that's what Aaron did talk about, safety organization with respect to 
+that and Apollo 13 and the fact that when it was set up, they did start out with a very 
+strong independent safety organization which did not exist before Apollo 1. 
+Well, you're all engineers. 
+The idea behind an independent safety organization is that you should have engineers fighting. 
+How do engineers fight, in an ideal world? 
+They fight with data and analysis and hypothesis and testing. 
+In other words, if the program wants to waive a requirement, change a requirement then they 
+have to present a case. 
+And if the safety organization feels that there is crossing the line then they present 
+a case. 
+And the two organizations basically try to bring together the best analytical and experimental 
+framework they can in order to determine what should be done. 
+And so that's the notion of an independent safety organization. 
+I guess the thing that I was somewhat gratified by, we will see how it all works out, is that 
+we recommended, as a return to flight thing, that NASA present a plan for an independent 
+safety organization with the idea that in the midterm they would actually begin such 
+an organization. 
+Sean O'Keefe took the bit in his teeth, I guess is the way to say it, and he moved out 
+much more strongly on that than I would have anticipated. 
+We met with him last December. 
+I guess it was December. 
+These years go by very quickly. 
+But he had actually put in place a structure, to get ready for the flight, that had outside 
+experts from within NASA to sort of come together as an independent safety board to look at 
+anomaly resolution. 
+I guess they didn't do too good on the foam. 
+But, in any case, as far as the structure goes, it was a stronger safety structure than 
+had existed before. 
+That was something that we recommended. 
+It was very important that there be an independence in the safety organization and that this is, 
+in fact, a characteristic of an organization that effectively manages high-risk. 
+And we would claim that there are several such organizations in our country. 
+And there is a lot to be learned and a lot to be shared. 
+We also looked at the comparisons between this accident and the Challenger accident. 
+And, in fact, found more similarity than you might have expected given that Challenger 
+occurred on liftoff and this occurred, well, in reentry, but did occur on liftoff. 
+In terms of the role of engineers and technical managers, this notion of normalizing deviance. 
+Deviance is an anomaly. 
+It is a departure from the requirements. 
+And, if you normalize it, it means you accept it. 
+You accept it and, in fact, you try to profit from it by saying that it's proven that there 
+is no danger. 
+So this phrase normalization of deviance is an important sort of technical phrase that 
+our group used. 
+We had with us, actually, a faculty member from Boston College who had written a book 
+on the Challenger investigation. 
+She is a social scientist, and she worked very closely with us to try to put, what I 
+would call, the social science and organizational effects together. 
+That is Diane Vaughn. 
+You might bring her over some time. 
+She is a fascinating speaker. 
+But the thing that was interesting about Diane, not only was she a great colleague, she published 
+her first book on the Challenger accident, is there's an in-depth analysis of the cultural 
+flaws in the organization that led to the Challenger accident. 
+She published this book. 
+And she said well, you know, I got a lot of reaction from the book. 
+She said the Navy called, my old boyfriend called, the various industries called to have 
+her come and talk about safety culture. 
+NASA never called. 
+NASA never indicated any interest in her analysis of the cultural flaws within the organization 
+that led to the Challenger accident, which I think is another indication of the insularity. 
+That was, I think, an important input to our look at the organizational issues. 
+We got together as a result of all of this. 
+And, as I said, I wasn't deeply involved in, say, some of the privileged interviews having 
+to do with the individuals. 
+But certainly as a board, we came to this organizational cause which we considered to 
+be as important as the technical cause. 
+And the various words rooted in the Space Shuttle Program. 
+History and culture. 
+Original compromises that were required to gain approval. 
+The years of resource constraints. 
+The fluctuating priorities. 
+The scheduled pressures. 
+This mischaracterization of the Shuttle as operational rather than developmental. 
+Lack of agreed national vision for human space flight. 
+The cultural traits and organizational practices that were detrimental to safety that we're 
+allowed to develop including reliance on past success as a substitute for sound engineering 
+practices such as testing to understand why systems were not performing in accordance 
+with requirements. 
+Organizational barriers that prevented effective communication of safety information and stifled 
+professional differences of opinion. 
+Lack of integrated management across program elements and the evolution of an informal 
+chain of command and decision-making process that operated outside the organization rules. 
+A bit of an old-boy network in some sense. 
+And we should mention the lack of an agreed national vision for human space flight has 
+been the jumping off point for everything that has happened since with the new vision, 
+which is presumably going to determine what we do in the next ten years, so I think it 
+is great that all of you called attention to that. 
+Let me talk about our recommendations. 
+We made recommendations in basically three piles. 
+One of them are the near term recommendations which are the return to flight recommendations. 
+And these were monitored by a committee of 
+It was enormous. 
+In any case, we asked them to present a plan for an independent safety organization. 
+I think they went a little further. 
+We asked that they develop a method to do onboard repair. 
+Now, there was a big discussion about onboard repair. 
+It is very clear that it is much easier to do onboard repair for all sorts of different 
+reasons, including crew safety if you are going to the Space Station. 
+Because then you've got a safe house and all sorts of supplies. 
+It is like your recreation room. 
+If you're not going to the Space Station, it is considerably more dangerous, and that 
+is the fundamental issue with respect to a Hubble mission. 
+Because a Hubble mission is incompatible with going to the Space Station. 
+If you take this recommendation seriously, you either have to develop an autonomous onboard 
+repair, which is much more difficult than a Space Station onboard repair, or you cannot 
+have any Hubble mission. 
+So, this is a bit of turmoil in the political issues surrounding missions. 
+The other impacts, as I mentioned, not our recommendation, but this notion of having 
+a second shuttle standing by seems to have been internalized. 
+There were a number of other recommendations. 
+Our report is on the Web. 
+I mean more video cameras. 
+More onboard video that gets telemetered to the ground during the flight so you don't 
+have to wait until the vehicle gets back to see the video. 
+External video cameras launched during day. 
+Keep your sensors up to date. 
+I mean there was just a whole lot of I think 
+And the Return to Flight Committee was in charge of monitoring all of those. 
+And they have recently issued a report. 
+Incidentally, I got a copy of the Return to Flight report and donated it to the AeroLibrary. 
+It should be in the AeroLibrary. 
+And there was a very interesting minority report that was submitted by like about five 
+people which was just damming with respect to their observations about how NASA works 
+the safety issues. 
+Take it as the opinion of these five people who were on the Return to Flight Committee. 
+It makes good reading. 
+But that is all in the AeroLibrary. 
+Our midterm recommendations. 
+In some sense, we made these recommendations assuming the Shuttle Program would continue. 
+And I think we had this recommendation for an independent safety organization. 
+And what I thought was one of our most important recommendations was that if you intend to 
+fly the Shuttle past 2010, you should recertify it. 
+Now, certification is a very technical process where you have to go through every piece of 
+equipment and, in some sense, revalidate that it will satisfy the requirements. 
+Organization than to recertify the Shuttle? 
+At least that was my vision. 
+That would really be an extremely useful thing to do, to work together, to recertify the 
+Shuttle. 
+Now, unfortunately, evidently the Shuttle is not going to operate past 2010 so we will 
+see. 
+I mean they won't recertify it. 
+Now, I think what's going to happen is they're going to get up to 2009 and are going to say 
+oh, my gosh, we don't have any way to get to space. 
+There is going to be enormous pressure to keep the Shuttle operating past 2010. 
+And, of course, they will be late to need in terms of recertifying. 
+It is going to be a bit of a jump-all at that point. 
+It should be very interesting to watch. 
+Now, the long-term recommendation, of course, we made was that we need an agreed upon vision 
+for further manned space flight. 
+And so, from my point of view, we skip the midterm and we went immediately to the long-term 
+because with the President's new program that we have basically set this vision. 
+And, unfortunately, we have skipped some of the intermediate steps that would have strengthened 
+NASA as an organization and its ability to carry out a new mission. 
+I stand back watching, as all of this develops, having had this incredible background of being 
+a member of this Accident Investigation Board. 
+It looks like I landed the plane right on time. 
+Yes. 
+Incidentally, I brought this Halloween candy. 
+And I would really appreciate it if you guys would come and take it because it's not something 
+that my husband and I need. 
+And if it doesn't get eaten, would somebody please take it down and put it with the graduate 
+students downstairs? 
+Good. 
+Anyway, you had a question. 
+I am wondering if you think there might have been any effect on that if it was explicitly 
+stated that this is why we want the recertification to happen. 
+I don't know. 
+You know, it is hard to micromanage a big organization. 
+I personally was disappointed because I believed very strongly in this. 
+And I felt that it would be a way to bring the organization together around this set 
+of ideas. 
+So, that won't happen. 
+And we will see how they work with this "independent safety board" that they have put in place. 
+All of what we're doing is self-education. 
+It is organizational education. 
+It is self-education. 
+It is process education. 
+So, we will see how they will bring all that together. 
+The reason I asked that was because actually, in terms of reading this recommendation, I 
+read it a little differently. 
+I thought it was kind of a push to move past the Shuttle to say that recertification is 
+going to be too complicated. 
+Well, there might have been a little bit of that. 
+I mean it really was up to NASA to decide whether a process that was so resource-intensive 
+was worth doing, I mean given the fact that the Shuttle is in the sort of sunset of its 
+career. 
+I guess I felt that we should leave that to them but that they could not continue to operate 
+the way they were operating. 
+I think that was really the message. 
+They had to make a decision. 
+Sheila, the board's recommendation of the number of 2010 has had enormous impact. 
+I know. 
+Of course it has. 
+Very negative from my point of view. 
+Say something about how you picked that number and how flexible it is? 
+Well, recall we did this in 2004. 
+We wanted to give NASA enough time to get back to flying. 
+And, of course, the whole definition of what recertification means is a bit unclear. 
+In other words, I would think that NASA could have gone in. 
+I think what we saw was we needed to get a couple of flights under our belt, but we needed 
+to go back. 
+I think what we meant by recertification is a relook at the whole mission. 
+What is that thing called? 
+Mission rules? 
+No, not mission rules. 
+When they get together and decide whether they are going to fly. 
+Mission readiness review. 
+Flight readiness review. 
+We felt that the flight readiness review was broken and that part of the reason it was 
+broken is that there were too many requirements that were silly like the Shuttle had only 
+two wings instead of four because you'd need redundancy. 
+Wings are important, and if you really thought they were important you would have four instead 
+of two. 
+And every time they did a flight readiness review you would have to go through these, 
+what I would call silly requirements. 
+One issue about recertification was to try to narrow down to what were the key systems 
+that needed reexamination in the light of technology and what we know about the Shuttle? 
+That, in and of itself, would have been a very useful process that would have helped 
+this. 
+And so, I think what we saw is that there is a set of processes that need to be carried 
+out after a couple of successful flights that would really position the organization to 
+do its job. 
+But suppose someone had come back to you, or members of the board and said well, life 
+would be easier for us if we called it 2013? 
+Well, I would think if you're going to do that, that NASA should come forward with a 
+plan at the minimum of how they're going to operate the Shuttle safely through 2013. 
+They have not even thought about doing that. 
+They are carrying on with "business as usual". 
+Flight, flight, flight. 
+And they are not thinking about this more fundamental issue which would, I think, be 
+very useful for them as an organization of what are the critical issues if we wanted 
+to operate the Shuttle to 2013? 
+They just kind of got off the hook by saying 
+You know, pretty shallow. 
+Yes? 
+And this is going to have to be the last question, unfortunately. 
+Anyway, you're all invited to my office to see my big poster on the flight. 
+Your recommendation for not flying unless you have a safe house in orbit. 
+No, we didn't recommend that. 
+Oh, safe house in orbit. 
+OK. 
+If you would have said that at the beginning of the Shuttle Program, that would have cut 
+out dozens of flights. 
+Sure. 
+But, you see, at the beginning of the program, NASA was committed to a system that met its 
+requirements. 
+Once they backed off of a system that met it requirements, they left itself open to 
+operating a risky system. 
+And so then you come in, after having two accidents, and say OK, how can we operate 
+this system safety? 
+You've already demonstrated that you're willing to back off on requirements so how can we 
+identify what some key issues are so that you get back to operating safely? 
+What we fundamentally recommended was that you should develop onboard repair capability. 
+And that's really all we said. 
+And we sort of left open how they would do that. 
+And so they investigated a lot of things and decided that it would be a heck of a lot easier 
+if they could use the Space Station for a repair. 
+And so they themselves said OK, Space Station only. 
+That really was not our recommendation. 
+Although, we understood that it would be a lot easier to do Space Station repair. 
+OK. 
+Thank you very much. 

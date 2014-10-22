@@ -1,0 +1,1556 @@
+Let's get started. 
+Again, just putting things in perspective, Professor Cohen talked about how in a big 
+engineering design project you work through the various stages. 
+And the first stage is phase A where you come up with the basic concepts. 
+And I think the level of detail of the system and subsystem lectures that he is giving, 
+last lecture and today, we could sort of look at as being on kind of the phase A level to 
+show the basic feasibility and the overall structure. 
+Those of you from aero-astro have certainly been familiar with our approach to systems 
+engineering which we call CDIO. 
+Someone from aero-astro can tell me the C is conceive, design, implement, which actually 
+means manufacture and test, and operate. 
+So we're kind of dealing in these first few lectures. 
+And this could be looked at as phase A and then the detailed design, that's your phase 
+B. 
+That ends with the critical design review after which, in principle, you're supposed 
+to be ready to cut hardware. 
+And then you get into the phase CD where you actually build and test. 
+And then, of course, we operate. 
+My sort of background, the way I got into engineering, and I probably should have mentioned 
+this at the beginning as sort of truth in advertising is I was never trained as an engineer, 
+unlike Professor Cohen. 
+I was actually trained as an astrophysicist. 
+But, when I went to NASA, I spent so much time working with all the technical systems 
+and interacting with the engineers and the people who use them that I learned certainly 
+a lot about the way these systems are designed and particularly operated. 
+So my approach to a lot of these engineering situations is very much from an operator's 
+point of view. 
+And I will try to emphasize that as we go along. 
+Very important, right from the beginning of the design, I think that you think about how 
+you're going to operate the system. 
+We have had too many examples that I've come across and many people who have to actually 
+operate systems where you build something without really thinking of how the system 
+is going to be maintained and taken care of. 
+One of the things that we have been doing for the last few years is to take a group 
+of undergraduates down to the Kennedy Space Center every January, an interim activities 
+period, and have them spend a couple of weeks with the engineers and technicians who have 
+to maintain and operate the shuttle system. 
+And they hear lots of stories from the engineers and particularly from the technicians who 
+say, boy, I would like to have a chance to talk to the person who designed this little 
+system. 
+And I have to get my hand all the way around. 
+And it takes five hours to turn the bolt or something more fundamental. 
+And we will probably discuss this when we talk about the main engines. 
+The fact that originally the main engines were supposed to be reusable without being 
+taken out of the shuttle so that you could cycle them many times. 
+Well, it turns out that in order to get sufficient confidence that the engines are ready to fly, 
+we really do have to take them out after every flight. 
+And they are extensively borescoped when you look inside. 
+But some of the engineers in the main engine shop pointed out that, for instance, if certain 
+diagnostic test equipment had been built into the engine so that you could have taken data 
+as the engines were shutting down over and above the data that we actually get, possibly 
+we would have been able to reduce considerably the maintenance on those engines. 
+Again, the shuttle was the first time we had really tried to design reusability into a 
+space vehicle and engines. 
+And we've learned an awful lot. 
+So I think it's very important when we discuss the systems in the course of the term that 
+we don't just look at the detailed design but we also consider the operations. 
+That's very important. 
+In that spirit, Professor Cohen is going to continue his introduction to the shuttle systems. 
+And, Aaron, I will turn it over to you. 
+OK. 
+Thank you. 
+As Professor Hoffman said, I'm really giving you what I would call a technical management 
+overview because, when we talk about structures, on the 22nd Mr. 
+Moser is going to come and talk about structures and he's really going to go into the details, 
+how the loads were calculated, how the stressors were calculated, how NASTRAN was used, how 
+we came up with the basic structure. 
+But I'm just going to really give you sort of an overview on it. 
+And I think it's interesting to note that the structures may be a very good system to 
+look at for your project because it weighs a lot. 
+We certainly didn't have all the tools for calculations that you have today to make it 
+a more efficient structure. 
+The materials are a lot different. 
+But basically this structure, if you start at the front of it, the crew cabin, which 
+I showed you a little bit about being made, a welded configuration, and the forward fuselage 
+are basically an aluminum skin-stringer structure, very basic aluminum. 
+If you go back down to the mid-fuselage, which is the large part there, it's, again, a skinned 
+structure. 
+Interestingly enough, the forward fuselage and the crew cabin where made by Rockwell 
+International in Downey. 
+The mid-fuselage was made by General Dynamics in San Diego. 
+So we had various people putting the structure parts together. 
+The wings were made by Grumman. 
+So we had this vehicle being built all over the country coming to Palmdale, California 
+for assembly. 
+And the aft thrust structure was built by Rockwell. 
+The vertical tail, I believe, was built by Fairchild on Long Island. 
+Some of these places don't exist anymore. 
+But then you go back to the vertical tail. 
+Again, it is machined skins with honeycomb. 
+The aft fuselage, as you can see, is very complicated. 
+It has all the plumbing, all the wiring, all the auxiliary power unit, so it is a maze 
+of plumbing and wiring. 
+You could get lost in there and they'd never find you again. 
+But it is a maze of wiring and plumbing. 
+And it's made basically of aluminum. 
+But a lot of the support structure are boron/aluminum thrust structure panels with graphite epoxy 
+skin panels. 
+And then the payload bay doors, which was our innovative material going into large composites, 
+we use graphite epoxy, that was the first time that really a large composite structure 
+was used in a vehicle. 
+Now it's used quite commonly in the Air Force and a lot of places, but graphite epoxy were 
+the panels we used. 
+And that saved a lot of weight. 
+One of the problems we had, though, was when we built these panels we found we got moisture 
+trapped in it. 
+And, of course, the moisture, when you heat it up coming back it would pop the panels 
+off. 
+So, on the pad, we had to go in and drill little holes in these panels to be sure we 
+could get the moisture to escape. 
+So those are things you learn when you do new technologies. 
+But, as I said, Mr. 
+Moser is going to go through a very detailed explanation of this. 
+This may be something you want to consider because there could be a real innovative way 
+of reducing the weight and making the vehicle more robust, so I suggest you think about 
+that for the structure. 
+Now I'm going to talk a little bit about guidance, navigation and control. 
+And some people asked me yesterday where they could find some information on it. 
+Actually, in those orange or yellow books, I've forgotten what color they are, that we 
+showed you that are on-hold in the library, have a very detailed analysis and discussion 
+of how the guidance, navigation and control system was formulated. 
+And it is probably as good as you're going to find. 
+It was very early in the program. 
+It's a little bit different than it is today, but it's a very good description of the redundant 
+computer set, the fail-operational, fail-safe system. 
+So I think you could really get a lot out of going through that book. 
+I should just say it turns out that we have two sets of those books in the library and 
+they are on reserve so you can only use them for two hours at a time. 
+There really should not be any problem with everybody in the class having access to those 
+books when you need to go and look at them. 
+That will probably be the best source, except when Phil Hattis from the Draper Labs comes 
+and talks about the guidance system. 
+I will talk a little bit more about that. 
+This chart or this schematic or whatever you want to call it was originated by the Johnson 
+Space Center and Rockwell International. 
+It took us many hours but it basically is the architecture, I am going to go through 
+it in some detail, for the guidance, navigation and control system. 
+Now, this was the original one. 
+It is a little bit different today, and I will explain the differences that we have, 
+but this was basically the guidance, navigation and control system main architecture. 
+And you can see on the left side, and the left side is what I would call sensors. 
+First of all, in a very simplistic term, some of your experts in guidance, navigation and 
+control, but guidance, navigation and control, navigation is actually determining where you 
+are, guidance is getting to where you want to go and control is controlling the vehicle 
+and its stability and its characteristics around the center of gravity. 
+So that's basically control. 
+This is for the total guidance, navigation and control system. 
+Interestingly enough, the contractor for this was IBM Federal Systems Division. 
+We used their computer and they did the software. 
+Much of the hardware was designed and built by other contractors, and Rockwell International 
+basically did the integration. 
+And they did the integration on a system called the Shuttle Avionics Integration Laboratory. 
+It was basically a vehicle that was in the laboratory that had all the electronics, the 
+cockpit and everything in it. 
+It simulated the actuators. 
+The hydraulic system was simulated and the engines were simulated, but basically all 
+the hardware and software was in the Shuttle Avionics Integration Laboratory. 
+I imagine you spent some time. 
+We actually had two. 
+We had one in Houston and there was one out at Rockwell. 
+And, when Professor Cohen says that it was a vehicle, you have to appreciate that it 
+was actually laid out just like the shuttle so that they had the controllers, which were 
+in the aft end, like in the engine compartment, were a hundred feet away from the crew cabin 
+and the computers and all the lines, the data and power lines were laid out as closely as 
+possible to physically duplicate the layout in the shuttle because there was concern about 
+the timing of signals going back and forth. 
+And they wanted to run the simulation as accurately as possible. 
+And then, of course, you have to have a set of simulation computers to try to determine 
+the environment that the shuttle would be flying in so that it could make the inputs 
+to the rate gyros and the other parts of the measurement units to try to duplicate the 
+flight regime. 
+And here is an explanation of the alphabet soup of all the systems, subsystems, components. 
+On this side you see really the sensors. 
+That's the information that you need to do your navigation part of it. 
+And then, of course, that information then is sent to the computer through a multiplexer 
+demultiplexer, MDM, which basically is an analog to digital converter, digital to analog 
+converter. 
+The computer does its computations and then sends it to the effectors which actually change, 
+whether it's the RCS, reaction control system, whether it's the orbital maneuvering system, 
+whether it's the aerosurfaces, the SRB actuators, the solid rocket booster actuators, the main 
+propulsion system actuators. 
+So you've got sensors, computation and effectors. 
+Let me talk a little bit about one sensor which probably many of you can relate to, 
+and that's the IMU or the inertial measurement unit. 
+And Draper Labs is famous for its inertial measurement units. 
+I worked with Draper Labs or MIT Instrumentation Lab on Apollo, and we had the original initial 
+measurement developed by the MIT Instrumentation Lab in that vehicle. 
+The initial measurement unit has gyros on it to determine angles and it has accelerometers 
+on it. 
+And it is aligned with the star tracker. 
+It's basically a stable platform. 
+It's aligned with the star tracker to get a reference system in inertial space. 
+And when you make a maneuver you get acceleration and you send it to the computer. 
+And you integrate it once, you get velocity and you integrate it twice and you get position. 
+And it's also used during powered flight and it's used during entry but that then goes 
+to the computer. 
+So the inertial measurement unit is very critical. 
+Just to give you an example, here you have three of them and you have four computers. 
+I'm going to talk about the computers in a minute. 
+You have three of them. 
+You have to recognize when we went to the moon on Apollo we had one IMU and one computer 
+in the Command and Service Module, and we had one IMU and one computer in the Lunar 
+Module, except we did have a backup system called a strap-down system. 
+The primary system was built by Draper Labs, MIT, and the backup system was TRW. 
+So we had two different contractors. 
+Then you have rate gyros and accelerometer assemblies primarily for ascent, for the stability 
+of the bending of the vehicle. 
+Here's the air data transducers that we talked about yesterday for entry. 
+Then you have the microwave landing system, the tactical navigation, radar altimeter, 
+rendezvous radar. 
+These are all sensors you use during various phases of a mission, which again go through 
+the MDMs or multiplexer demultiplexers to the computers and then to the effectors which 
+change your position and velocity as need be. 
+Let me talk about the computers for a moment. 
+You see four computers. 
+That was the real test of this system. 
+We had four computers that were synchronized. 
+This vehicle, as we talked about yesterday, for aerodynamicists we decided to make it 
+statically unstable. 
+We saved a lot of weight. 
+By that I mean a regular airplane, a normal airplane that's stable. 
+When you get a disturbance it will still come back. 
+Without any augmentation it will come back to its original position. 
+With this vehicle, if you get a disturbance it will diverge. 
+So you had to continually have augmentation. 
+So you had to have a fail-operational, fail-safe system. 
+And that's why you have four computers. 
+It's fail -operationa/ fail-safe You could lose one computer and your fail-operational 
+will use another computer. 
+That means you have two left. 
+And you're fail-safe and you come home. 
+So that's what it is. 
+Now, the real concern about it is these computers are synchronized. 
+They essentially communicate with each other 
+Now, I'm recalling a lot of this from memory, but 440 times a second. 
+And they actually vote on each other to simplistic form terminology. 
+And if one computer is out, it votes it out and another computer takes over. 
+Basically that's it. 
+But the concern we had was that in doing this we could have a generic failure and lose all 
+computers or we could have what we call a two on two split. 
+And these would be sort of diabolical errors which would cause the vehicle to fail. 
+So we decided, after this was made, to put in a backup flight system, a backup computer, 
+a fifth computer. 
+Now, it turns out there was an argument there. 
+Should we have the fifth computer a different computer and different people or should we 
+have a same computer with different people? 
+And we argued long and hard on how to do it. 
+And we had a lot of experience with the Draper Labs. 
+The Draper Labs just did an outstanding job. 
+The MIT Instrumentation Lab just did an outstanding job on the Apollo vehicle, both on the Command 
+and Service module and Lunar module. 
+We went to the MIT Instrumentation Lab, Draper Labs, and asked them to actually take the 
+same computer but put it outside the loop. 
+It's not part of the redundant set. 
+It's outside the loop. 
+I didn't show the schematic right because it gets all the same information that the 
+other computers get, but it then can take over if the primary system fails. 
+Now, Phil Hattis did this work for the Draper Labs, for NASA in this backup system. 
+He's going to give you a lecture. 
+He's very good to lecture on this total system. 
+He can tell you about the total system. 
+We thought we'd put the backup flight system in just for a short period of time to give 
+us confidence in the primary system, but it turns out that we started putting things in 
+it that now we needed so we could not take it out. 
+So, it's really part of the major system. 
+That is a very different part of the system today. 
+I don't think we ever really had a diabolical problem in flight. 
+I think we did have one in the Shuttle Avionics Integration Laboratory one time when we had 
+a two on two split. 
+But when we did the approach and landing test where we had the Orbiter on top of the 747 
+and we separated the Orbiter and landed, I remember that first flight, I was sitting 
+in the Control Station at Edwards Air Force Base, and at that time I smoked a pipe, and 
+when we separated a big X came across the screen because we lost the first computer. 
+I guess the shock actually broke a solder joint in the computer. 
+The power shock from separating actually broke the first computer so we had to go to the 
+second computer. 
+I bit my pipe in two. 
+But it did prove that the redundant set did work because it took over and landed. 
+We had a very successful in-flight test, not planned, but it turned out to be a very successful 
+in-flight test. 
+Now, when you make the computations, you get the information on position that the computer 
+computes, it sends it to  the effectors. 
+The effectors, during the high part of entry, may be to the reaction control system, the 
+forward RCS system or to the aft, or it could be to the OMS systems if you're trying to 
+make a maneuver. 
+Or, when you get down lower in the atmosphere, it could be the aerosurface actuators. 
+And then, during ascent, it's to the solid rocket boosters or the main propulsion system. 
+So, those are the effectors. 
+The flight control system is a very interesting system for entry because, as you can envision 
+early in the entry you don't have any aerodynamics so your aerosurfaces aren't of any value to 
+you, you use the reaction control system. 
+But, as you get farther into the atmosphere, the loads become so high that the reaction 
+control system becomes ineffective and then you have to use the aerosurfaces. 
+So it's a blended system. 
+And the system has to know when to handle the aerosurfaces versus the reaction control 
+system. 
+And, of course, then you also have displays to the crew and actually information that 
+the crew could use to make certain decisions. 
+So that basically is the guidance, navigation and control system. 
+There is one additional change, that I don't have on this chart, which they have incorporated 
+the global positioning system in the shuttle. 
+The GPS is now part of the system. 
+It took a long time to do it because I remember it wasn't done when I left. 
+And were you still there when it was implemented? 
+Yeah, they did put it in. 
+And GPS you can essentially get position. 
+If you could get attitude then theoretically you could eliminate the inertial measurement. 
+And I don't think they do it that way. 
+But theoretically, the GPS, for you looking at the guidance system change, this again 
+becomes a very interesting system to look at. 
+Would you do it different today? 
+For example, the computer that was used, I cannot remember all the characteristics of 
+it, but it's basically the IBM 4 Pi computer, which is a very old computer. 
+It was probably made before many of you were using computers. 
+Or, weren't born. 
+Yeah, it is the early `70s. 
+This would be a very neat system to take a look at for your system. 
+Not only that, you could probably get a lot of support from Draper Labs and that type 
+of thing. 
+So it would really be a good system to take a look at. 
+And I'm sure you could make a lot of improvements. 
+Those improvements could theoretically be used on the new CEV, the crew exploration 
+vehicle. 
+I think it would land a lot of merit of you very smart people to take a look at the guidance, 
+navigation and control system. 
+Yes, sir. 
+In the air data transducers, were there more than just torpedo tubes and static cords? 
+That's all there was, I believe. 
+I think that was. 
+We had a lot of problems with those. 
+I think it's just very old technology. 
+Yes. 
+I was going to ask, how you got position information before GPS. 
+Position? 
+Well, I don't know exactly. 
+But it's got 13 satellites going around. 
+Well, there were two ways. 
+I mean the desire for GPS, of course, was to give the shuttle autonomous navigation 
+capability. 
+The shuttle with the star trackers and the IMUs, it has the autonomous ability to determine 
+its attitude, but it doesn't know where it is because the inertial measurement units 
+drift over time. 
+And so you need to be able to update the state vectors. 
+Originally, the only way you could do it was radar tracking from the ground. 
+You would track it. 
+You would get a state vector. 
+You would uplink the state vector and then the shuttle would know where it was. 
+And then periodically you would have to update it because of IMU drift. 
+Once we got the tracking and data relay satellite system installed, you do get navigational 
+information by the Doppler navigation and from the signals coming back and forth through 
+TDRSS, but it was generally calculated on the ground. 
+So it was not really until the advent of GPS that we got autonomous capability. 
+You need it for things like if you're going to deploy a satellite, for instance, you need 
+to know your position pretty accurately. 
+Because the satellite is going to take that position and has to do its burn accordingly. 
+And, obviously, for your reentry burn or for rendezvous it's critical that you know your 
+position. 
+When you're doing a rendezvous, the shuttle does have a rendezvous radar. 
+I don't know if we'll deal with that in detail. 
+Once you get close enough to the object that you're rendezvousing with such that you can 
+get it either with your radar, or they actually use the star trackers to optically track the 
+object, then you can start getting your relative position with respect to the object, Even 
+though you may not know your absolute position. 
+And so, from that point of view, the shuttle gets a certain degree of autonomy. 
+Maybe I'll just say one other thing about the computers because people are amazed at 
+how primitive the shuttle computers are. 
+But, like I say, the original idea and the concepts that we talked about, this was going 
+to be an airplane-like vehicle. 
+And originally they wanted to use some off-the-shelf hardware. 
+And, of course, the AP-101s, as they finally used them, were not off the shelf. 
+But these original computers had 128k of memory. 
+And the memory they used, I don't know if any of you have read back in the history of 
+computing where they actually had the little magnetic ring cores with the wires going through. 
+I mean this was really old stuff. 
+And they did finally replace that with a solid-state memory with a whopping 256k. 
+And, again, probably none of you have dealt with overlay technology but, back when I was 
+a graduate student and we were using computers to do complex astrophysical calculations, 
+sometimes you would have a program that was too big for the computer memory so you would 
+have the whole program on a tape recorder and you'd segment it into what they would 
+call overlays. 
+And then you would load it one part at a time and it would do its calculations. 
+And then you would stop and load the next batch of software. 
+Well, that's the way we have to run a mission. 
+The computers cannot hold enough software to do ascent, orbit and entry. 
+There are three segments of flight software. 
+You start the mission with the ascent software loaded. 
+Then, when you get up into orbit, you do what they call a major mode transition where you 
+basically punch a button and everything goes blank. 
+And you sort of sit there saying I hope this is going to load properly. 
+And the tape recorder chugs away. 
+And then it loads the orbit part. 
+And the same thing when you're getting ready for entry. 
+Now, the backup system they decided that they didn't want to take that risk. 
+That if something went wrong in a major way they wanted the whole flight software on the 
+backup system. 
+And that meant it had to be scrubbed. 
+The backup system is capable of flying the shuttle and getting it home safely, but there 
+are a lot of capabilities which the main computer system can do which the backup system cannot 
+do just because they're limited to the amount of software. 
+The one other thing I'll say is putting together this redundant set of four computers because, 
+as Professor Cohen said, the shuttle will not fly without the computers. 
+I mean it's absolutely flight critical. 
+Hundreds of times a second, every computer is looking at the data from all the other 
+computers. 
+And they are all voting. 
+And so you have this matrix, just to make sure you understand the way the system works. 
+If computer number one sees a problem with computer number three, it's likely that computer 
+three is also going to see a problem with computer one because they're doing something 
+different. 
+But if computer number two sees a problem with computer three and computer three sees 
+a problem with computer two and computer four sees a problem with computer three, now you've 
+got a three to one vote. 
+And so computer three will recognize that it is the problem and it will take itself 
+out of the set. 
+And that's what happened, well, in that case, the computer actually shut down. 
+I remember that big X. 
+I bit my pipe in two. 
+And, at the same time, all of this information has to go back and forth to the backup computer. 
+Because, if you're ever going to engage the backup computer, it has to be ready to go 
+at a split second's notice. 
+And there are situations where you can get a two on two split. 
+When we run through the simulations to learn how to work this, actually learning the ins 
+and outs of how to work the computer system is probably one of the biggest trainings. 
+The astronauts become more knowledgeable than the designers. 
+Yes? 
+If there is this danger of a two to two vote, was it ever thought about to have five computers 
+then? 
+Well, that's why we put the backup system in. 
+Oh, the backup system. 
+Yeah, the backup system. 
+That was why we put the backup system in. 
+It did a little bit more, too. 
+It was programmed by different people. 
+Even though it used the same computer, it was actually programmed and formulated by 
+different people. 
+So, that was one way of saying take away any, you might say, systematic errors that were 
+in the redundant set. 
+In other words, they kept the same software requirements document but the actual coding 
+was done by Draper rather than by IBM. 
+That was the other problem. 
+Suppose all four computers are doing the same thing but there was an error in the code which 
+never turned out so that something starts to diverge, what's your protection against 
+that? 
+There was a big argument in doing that. 
+The real argument said should you really have this or a different computer? 
+Should you really just say just do everything differently? 
+Just have a different computer? 
+A different everything? 
+And, of course, there are advantages to that and there are disadvantages to that. 
+So, we settled on this. 
+I think there was another question. 
+Was there a question back there? 
+Yes? 
+You said this was the first fly-by-wire system. 
+I was wondering what competing ideas there were besides having [four computer systems?]. 
+Well, fly-by-wire means when you put an input into the control system, whether you do it 
+manually or whether the computer does it, nevertheless, ultimately your command just 
+goes into the computer. 
+You put the stick to the left saying I want to do a left bank, all you're doing is telling 
+the computer you want to do a left bank. 
+And now the computer has to figure out what's my navigation state, where am I if I'm coming 
+down through the atmosphere, what's my altitude, what's the air pressure, what's my mach number? 
+And then it's programmed with aerodynamic control laws. 
+This is one of the big challenges. 
+Because, as I mentioned the other day, you hit the top of the atmosphere at mach 25, 
+you do your initial control with the RCS. 
+As the dynamic pressure starts to increase, first the ailerons, the roll becomes active 
+at about, I think, ten pounds per square inch, something like that. 
+You blend the roll control into your aerosurfaces. 
+At about 20, I think it's pounds per square inch, you can do the pitch control. 
+But because the shuttle is coming in at a 
+pretty much shadowed. 
+So for yaw control you actually have to keep using the RCS all the way down to about mach 
+one when the shuttle finally pitches down and the vertical stabilizer now has some effectivity. 
+The computer calculates all this information and it comes to the effectors, and you do 
+the control laws on that. 
+And the problem is that the flight control laws, which the computer has to use in order 
+to control the air surfaces in the RCS, are not constant on your way down. 
+I mean the flight control laws at mach 15 are very different from at mach 5. 
+And there is part of the flight regime, for instance, where if you want do a left bank, 
+you actually have to start by commanding a right yaw. 
+And then the cross-coupling terms in the aerodynamics actually causes you to go in the other direction. 
+It gets very complex. 
+And the flight control system is continually changing as the entry progresses. 
+And so the idea that maybe you should have a direct backup link between the pilot's inputs 
+and the aerocontrol surfaces, although it might give you a warm, fuzzy feeling, you 
+could not fly the shuttle directly. 
+Because to be able to take into account these change in control laws on the way down, you 
+just cannot do it. 
+In fact, the shuttle is uniquely, I mean, unless the shuttle knows where it is, if the 
+navigation state goes bad the shuttle cannot fly. 
+You could have the runway in sight, but if the shuttle's inertial nav state is wrong 
+you will lose control and you cannot land. 
+So it's a very complex system from that point of view. 
+This is a very, very, if you can envision the systems engineering that went into this 
+system, it takes aeordynamics, it takes flight dynamics, it takes electrical signals, it 
+takes guidance laws, navigation laws, hardware, software. 
+This is probably the biggest integration job, or systems engineering job. 
+It requires everything. 
+It also has to take into consideration aerodynamic heating. 
+I'm going to show you that in a minute, because you've got to be sure that you don't fly outside 
+the regime that you were designed for aerodynamically. 
+I think you had a question. 
+Just real quick, how big are those IMUs? 
+Because nowadays you can get a solid-state one not quite that big. 
+Well, I don't recall. 
+It's a box, sort of like a shoebox. 
+The Apollo IMU was about this big. 
+That was built for the Polaris vehicle. 
+It was one IMU and it was a three gimble platform. 
+And I remember it was a big issue. 
+A three gimble platform has a singularity, so you had to maneuver the Apollo vehicle 
+a certain way so you didn't get the singularity in it. 
+And one of our astronauts, Jim McDivitt, quite a famous astronaut who was a good friend of 
+mine, said he wanted a fourth gimble. 
+And there was no way we could get an IMU in that day in time with a fourth gimble. 
+So, what I did was gave him a fourth gimble to carry with him on his flight. 
+A little gimble system so he had a fourth gimble. 
+We didn't have the gimble lock problem on the shuttle because it was a four gimble platform. 
+But I remember we went through that with MIT Instrumentation many times because all you 
+could get at that time, because the IMUs were so big, a fourth gimble was almost impossible. 
+And McDivitt was a very good astronaut but he wanted the four gimbles. 
+In fact, he wound up being my boss. 
+Before we go on, let me just mention one more thing about the backup system. 
+Sure. 
+Go ahead. 
+The backup system actually takes a lot of care and maintenance and there's a lot of 
+money that goes into that. 
+And this is not a dead issue because in the design of the CEV, NASA is going to have to 
+make a decision. 
+There were some guidelines which were produced a couple of years ago out of the Johnson Space 
+Center with a lot of astronaut office input about what are the requirements in the future 
+for human space vehicles? 
+And they put in that you should have a backup computer system because basically that's the 
+way we did the shuttle. 
+And, actually, that was an afterthought. 
+And yet now it's being listed as a requirement. 
+And this is now being questioned for the CEV because it's a huge financial impact. 
+And so we're going to have to deal with these problems all over again. 
+It's an interesting thing to think about if some of you want to delve a little bit more 
+deeply. 
+I think this could lead to a very interesting activity for you. 
+Yes, sir. 
+Do backup computers have their own sensor or are they reading the same sensors? 
+The same sensors. 
+I just didn't show this very accurately because I looked at the chart, when I had it, I said 
+my God this is the wrong chart. 
+But this was the original chart before the backup system so I quickly penciled in the 
+backup system so I would remember to talk about it. 
+But, no, it has the same sensors. 
+It has all the same information. 
+But, again, most of those sensors are redundant. 
+Yeah, they're redundant sensors. 
+Not all of them but most of them. 
+Any one of the four computers can read any of these sensors. 
+It's not like sensor one is dedicated [to this computer?]. 
+The sensor input is put on a data bus, and they have multiple data buses. 
+Like four data buses in each of the computers can read all four data buses. 
+I mean there's just a tremendous amount of redundancy built in. 
+Yes, go ahead. 
+Did they ever use the star tracker to update your gyros? 
+The platform? 
+Yeah, they do that. 
+There is also a procedure if you totally lose attitude. 
+Then you have to go right back and manually take a star site and orient. 
+And that we've only had to do in a simulator. 
+To look at the failure history of this would be very interesting. 
+In my tenure, I know we lost one inertial measurement unit. 
+We lost that one computer during the approach and landing test. 
+I don't know what other failures we actually had in this system. 
+The MDMs, this box was made by Sperry at the time in Phoenix, Arizona. 
+And I've visited that many times because that is probably the most complicated electronics 
+box of this whole system other than the computer. 
+It's very, very complicated. 
+Yes, sir. 
+Computers have developed a lot faster so why do you still think that it will be a major 
+expense now? 
+I don't think it will be a major expense now. 
+As I recall, and you're absolutely right, NASA does not put a lot of money into development 
+of this technology because other people have done it. 
+It's so much more sophisticated than we have now. 
+We don't need it. 
+It turns out, though, at one point in time structures was the most expensive component 
+of a space craft. 
+Then, of course, there was propulsion. 
+And then there became avionics and software. 
+And avionics and software for the shuttle is very, very expensive. 
+It's probably one of the most expensive things. 
+I think today, in today's environment, with the technology we have in both software and 
+hardware, I think it won't be that expensive anymore. 
+So, I think you're right. 
+That's why I'm saying in redoing it, you could use new technology and really show how much 
+less it's going to weigh because the IMUs are probably going to be smaller. 
+You could reduce the weight, you could reduce the electric power and you could reduce the 
+cost. 
+But you're going to have another detailed briefing on this. 
+And Phil Hattis, I know him very well, I think he will do an outstanding job in explaining 
+it to you. 
+Let me just show you very briefly, we talked a little bit about this yesterday, but here 
+are some of the profiles that the guidance system has to be able to do. 
+It certainly has to take care of launch. 
+The abort modes, which are interesting, there is an abort mode that is a return to launch 
+site. 
+And I guess you would use return to launch site primarily for a main engine failure, 
+I guess. 
+If the main engine fails during ascent, you can go to a return to launch site. 
+Or, a total loss of cabin pressurization, something like that. 
+And I guess that's never been tried. 
+And I guess that's probably one of the most difficult maneuvers, most biggest fears the 
+astronauts have if they ever have to come back to return to launch site. 
+But, of course, the guidance system has got to be capable to take care of that. 
+Then you have  abort once around. 
+Again, when you have main engine cutoff, you have separation and you abort to once around. 
+Again, I guess that's primarily a main engine problem. 
+And then you have, of course, an abort to orbit. 
+And those are the three abort regimes you have. 
+Yes, sir. 
+Transatlantic landing? 
+Transatlantic. 
+Yes, you have transatlantic abort. 
+That's right. 
+You do have transatlantic abort. 
+Yes, thank you. 
+That actually drives the launch window, because 
+they don't launch?] . 
+That's right. 
+So, the guidance system has to take care of all those abort modes. 
+Again, I'm sure Phil will go through this with you. 
+But first stage guidance really consists of attitude and throttle schedules as a function 
+of relative velocity. 
+It's not completely open-loop, it's almost an open-looped system, but you do control 
+the thrust vectors of the engine and the solid rocket booster actuators. 
+And the key thing, though, where systems engineering comes into play, it has to get maximum performance. 
+But the angle tack history has got to be shaped to control aerodynamic loads. 
+Because some of the highest loads you have, and you will find out when Moser talks about 
+it, some of the highest loads you have on the structure is during ascent. 
+Control of maximum dynamic pressure. 
+And you have to provide the flight angle at SRB staging to allow recovery of the spent 
+boosters. 
+These are some of the constraints that you have. 
+And, again, this comes out to be a real systems engineering problem. 
+And for entry, entry really becomes a task in itself because one of the basic problems 
+you have to control is thermal control. 
+The thermal protection system, I should have pointed out on that structural slide that 
+the back face temperature of the tiles have to be at 350 degrees Fahrenheit. 
+While the surface temperature may be 15 to 
+to be at 350 degrees Fahrenheit because that's the limit of aluminum, so you've got to control 
+the guidance. 
+The thermal control for guidance is to keep the vehicle within the temperature constraints 
+in the peak heating region. 
+So, that's all got to be married together so that the tile system you design keeps the 
+back face temperature to within 350 degrees on the aluminum structure. 
+Then you go into equilibrium glide. 
+Constant bank angle, we were talking about, is modulated for drag control. 
+And then the transition guides the vehicle from the high out braking to the lower angle 
+of attack. 
+And then you basically land. 
+All this has to be tied together for your guidance, navigation and control system. 
+I have one more system that I'd like to talk about briefly. 
+Now, you're going to have another very detailed briefing on this. 
+This is the hydraulic system. 
+This ties in together with the other systems we talked about, the flight control system, 
+the guidance system, the Department of Flight Control, because the hydraulic system is three 
+systems. 
+It's a 3000 pound per square inch system. 
+And what does it do? 
+It basically is used during ascent and entry for it to control the thrust vector control 
+of the engines, for the body flap, for the elevons, for the rudder speed brake, the actuators 
+for the main engine, the doors for the external tank separation, main landing gear, nose wheel 
+steering and braking. 
+So, that's what the hydraulic system does. 
+If you lose your hydraulic system you had a bad day. 
+And there are three systems. 
+I do believe there is one place where there's a single point failure in the hydraulic system. 
+It's pretty hard to eliminate all single point phase. 
+I believe that. 
+When Henry Pohl talks, he's going to be doing a very detailed discussion on the hydraulic 
+system, you might ask him that. 
+I don't recall, but he'll tell you whether there is a single point failure in the hydraulic 
+system. 
+And this is a schematic of the hydraulic system. 
+I am not going to go through the details of it because I'm not sure I could explain it. 
+But basically this is the hydraulic system that shows how system one, system two and 
+system three is tied into the right outboard elevon, the right inboard elevon and so forth 
+and so on. 
+The main engines. 
+The external tank. 
+And we've never had a loss in the hydraulic system. 
+We did test the hydraulic system in what we call the flight control hydraulics laboratory 
+at Downey where we had actually all the hydraulic systems tied together with the computer system. 
+And actually flew the vehicle, what we called this iron bird, with a hydraulic system. 
+And we did have a failure there one time. 
+Early in the program, we had a single point failure and lost all the hydraulic fluid. 
+We had to go back and make a major change to the actuator system, to the hydraulic system. 
+Yes, sir. 
+I'm just wondering how the hydraulic system on the shuttle compares to the hydraulic system 
+on an aircraft? 
+An airplane. 
+Yeah. 
+I'm really not sure I can explain it. 
+I think there's not much difference. 
+Let me tell you the only difference. 
+I think airplanes have three hydraulic systems. 
+The shuttle started out with four hydraulic systems. 
+We actually started out with four, but it was so heavy and so complicated we decided 
+to go to three. 
+And I think the airplanes have three hydraulic systems, if I'm not mistaken. 
+Does anybody know? 
+I at least know quite a few that have three. 
+I don't know if all airplanes have three. 
+The big difference in it is that the hydraulic system in the shuttle is powered by what we 
+call an auxiliary power unit. 
+And that's what pressurizes the system. 
+And I think on an airplane it's powered by the engine itself. 
+But this system is pressurized by what we call an auxiliary power unit. 
+An auxiliary power unit is a box about this big. 
+It generates 135 horsepower. 
+And it's got a ten inch turbine wheel that goes about 10,000 to 20,000 RPM. 
+And actually it's fueled by hydrazine. 
+And it essentially pressurizes the system to get you up to 3000 PSI. 
+Again, if this auxiliary power unit doesn't work, we have three of them, it's a bad day. 
+And I think we did have some problems with one of the auxiliary power units at one time 
+during ascent. 
+But that's the major difference, I think, because I think we tried to copy pretty much 
+aircraft designs using the same type of hydraulic fluid and everything else. 
+So I think we copied their standard in using this, as I recall, except we're pressurized 
+by the auxiliary power unit. 
+Again, not to belabor the point, you're going to have a very detailed briefing or lecture 
+on the hydraulic system, the auxiliary power unit and the reaction control system, the 
+OMS system by Henry Pohl. 
+So, you will have more details on this. 
+Again, the hydraulic system might be another interesting thing to take a look at. 
+I hope what I'm trying to get across to you is how these systems all fit together. 
+You cannot do the guidance, navigation and control without the hydraulic system. 
+You have the aerodynamics and you have the aerothermodynamics. 
+You've got the structures and everything that has to fit together. 
+And you can imagine the systems engineering problem associated with trying to put all 
+that together. 
+Just to remind you of a few other things that you have to deal with. 
+When you're working with a space system that also makes it a little bit different from 
+designing for the ground. 
+For instance, you have a fuel tank with the hydrazine inert. 
+This is a generic problem with any liquid tank. 
+Once you're in weightlessness, how do you get the liquid to flow out? 
+This is actually a fairly traditional old-fashioned design where they have a diaphragm in the 
+tank. 
+And, on one side of the diaphragm, you pressurize it with either helium or nitrogen. 
+And that pushes the material. 
+It's basically sort of like squeezing it out of a bag. 
+The problem is that hydrazine is nasty stuff. 
+And in the orbiter maneuvering and reaction control systems they decided that, for reusability, 
+they didn't want to use diaphragms. 
+And so we'll probably learn more about some of the details. 
+But there's a very elaborate screen mechanism which uses surface tension to collect the 
+material. 
+And just getting liquids out of a tank into where you want to go is something you have 
+to worry about in space. 
+The second problem is a thermal problem. 
+You're not flying through the atmosphere so you don't have air cooling. 
+As you see, you've got the gear box. 
+You're generating a lot of heat. 
+And, actually, in order to cool, they use water spray boilers. 
+And you essentially, we actually do this to get rid of heat from the orbiter as well before 
+we open the payload bay doors which have radiators. 
+While those are closed, it has to be done with a water spray boiler. 
+And so you get rid of all your heat by putting it into a heat exchanger. 
+And you basically shoot liquid water. 
+And, of course, in a vacuum the water flash evaporates and that takes the heat away. 
+And so, although in essence the control system is similar to airplanes, even there, there 
+are a lot of special design features that have to be put in because this is a system 
+that has to work in space as well. 
+That's a very good point. 
+The cooling is one of the biggest differences. 
+And because this system is so complex and heavy and needs a lot of maintenance and uses 
+hydrazine, which is very nasty stuff, there have been, on various occasions, studies of 
+could this system be replaced by an electromechanical system? 
+And as motors become more powerful and battery and fuel cell systems are more efficient, 
+I think just about two years ago we gave up on the last effort, but it always turned out 
+to be too heavy. 
+To get an electromechanical system which had enough muscle to move these air surfaces around, 
+it is just beyond what we can do. 
+But that might be another good system to take a look at today. 
+It might be another good system. 
+The other thing. 
+You see where it has a speed control and safety for the APU controller? 
+The interesting thing about this turbine wheel, I forget the exact RPM, but it's pretty high. 
+I think it's at least 10,000 to 20,000 RPM. 
+If this shaft should break off, it's a very hard to control it in the box. 
+I mean it will go right through the box it's in and share the vehicle. 
+We've tried everything we know. 
+We've put protection around it. 
+We've put a lot of margin into the turbine wheel, into the shaft, but that's a very critical 
+thing. 
+And, as Professor Hoffman mentioned, there have been many exercises to replace the auxiliary 
+power unit. 
+And I think again this would be another good challenge to take a look at seeing what you 
+could do to come up with a different design for the auxiliary power unit. 
+But there will be other systems that you might want to look at. 
+But I thought I'd just give you a little discussion of some that I personally think are very pertinent 
+to look at. 
+That's the thermal protection system, the structures, the guidance, navigation and control, 
+the hydraulic system, including the APU. 
+And these, I think, would be a very good system. 
+Now, you might pick others, but these might be very good ones to look at. 
+Let me wind up my discussion by talking to you about what I think you ought to look for 
+in the system. 
+This is just a very simplistic chart, but this is my way of thinking about what you 
+do when you go about designing something. 
+You need to look at the functions. 
+As we pointed out yesterday, the functions are very important because, when we talked 
+about a thermal protection system , we looked at the functions of protecting the vehicle, 
+maintaining that back surface temperature to 350 degrees Fahrenheit. 
+We worked that to finite detail. 
+We knew exactly how thick the tiles had to be, what the characteristics had to be, but 
+what did we? 
+We forgot, oddly enough, that it had to be attached to the vehicle, which is sort of 
+dumb. 
+And you would think, my gosh, they ought to be able to do that. 
+But you're infinitely smarter after you find out your problem. 
+One thing you ought to do is really understand what functions have to be performed. 
+And you might say that becomes your functional requirements. 
+The whole thing is understanding your requirements. 
+Then you ought to understand what performance is required. 
+In other words, performance requirements. 
+You ought to have a first order of magnitude calculation of what kind of performance requirements 
+you need. 
+A lot of times this is going to have come from assumptions, talking to people, getting 
+experts involved. 
+But what kind of performance requirements? 
+It is going to have to be iterated, but what kind of performance are you thinking about 
+in this system? 
+Whatever the system may be, hydraulic system, thermal protection system, whatever. 
+Then we talk about the three-legged stool, as Professor Hoffman said. 
+We talk about schedule, cost and output weight under performance. 
+Because, as I told you before, the first thing you're going to wind up, in designing a system, 
+is that the weight is going to get too high. 
+Then you're going to find out that performance goes down. 
+You have schedule slips. 
+But the first thing that usually happens is you wake up in the morning and you find out, 
+my gosh, my system weighs a lot more, my subsystem weighs a lot more than they told me I could 
+have. 
+So, you've got to understand your weight. 
+And then you need to think about what is the available technology? 
+What is the technology available? 
+As somebody pointed out, today the avionics technology is probably pretty high up on the 
+ladder. 
+And you could probably pick something today right off the shelf. 
+Although, in my experience of the 30 years I had in the space program, I never was able 
+to find something that was off the shelf. 
+Space programs just don't usually allow you to take something off the shelf. 
+People told me to go do it. 
+And, once I went and did it, we changed everything. 
+But today, in the technology we have in the avionics, you may be able to get a lot off 
+the shelf. 
+So, what technology is available? 
+And then one of the key things, one of the biggest things you have to know is what are 
+the interfaces? 
+If you could see the multitude of interfaces that are required for the guidance, navigation 
+and control system, it takes into consideration all the interfaces you could think about. 
+And so you need to think about interfaces, whether they be mechanical, whether they be 
+electrical, whether they be functional. 
+So, you need to think about what interfaces you're talking about. 
+And, to me, those are some guidelines you need to think about. 
+Of course then we talk about cost and schedule. 
+Usually your cost is going to grow, unfortunately, and usually your schedule is going to slip. 
+And those are, what I would call, career limiting problems. 
+That's the best way to get fired, to have your costs go up and you schedule increase. 
+So, these are some of my guidelines for things you ought to look for when you try to design 
+your system. 
+I would be happy to answer any questions for you that you may have. 
+Yes, sir. 
+About taking technology off the shelf, I'm wondering, and I don't think, from what I 
+know, it was really thought of much during the shuttle, but the idea of maybe putting 
+something on the shelf, so to speak, the idea of designing something, a subsystem or something 
+so it would have the flexibility to be used in future systems. 
+Do you see where I'm going? 
+No, I don't think I quite follow what you're saying. 
+Try again. 
+Well, you said there wasn't really off the shelf technology available then but maybe 
+there is now. 
+The idea I'm thinking about is the idea of designing something not so much just for the 
+shuttle in this phase, but so that it could be used for other things. 
+Well, that's a very possible thing to do and would be a very good thing to do. 
+In my experience, and we tried something like that, usually this tends to start growing 
+into it. 
+You start saying, well, what is it really going to cost you to do that? 
+I know, when I was project manager, people would come to me with something like that. 
+And I used to be a pretty mean guy. 
+I'm not quite as mean as I used to be. 
+But that's the first thing I'd ask them, what about the cost, because that's what happens. 
+When you start trying to make multiple uses out of something, you usually drive the cost 
+up. 
+And that's what you  have  
+to be careful of. 
+Yes, sir. 
+I feel very strongly that had it not been for the MIT Instrumentation Lab or the Draper 
+Lab or the people they had there, the technology they had there, we wouldn't have gone to the 
+moon when we said we were going to doing it. 
+I mean I worked very closely with them, and I feel very strongly that Draper Labs, I keep 
+getting them mixed up, at that time the MIT Instrumentation Lab was really one of the 
+prime movers of the whole system. 
+It was really fantastic. 
+So the people working here, and you can take advantage of that, would be very useful for 
+you to do that. 
+Any other questions? 
+Well, I will be back on the 22nd. 
+And I look forward to working with you some more. 
+One more question. 
+Sorry. 
+Yes. 
+It has not as much to do with the subsystems but to the overall concept of the shuttle. 
+I was wondering why, if you know at all, the military thought it was important to have 
+the ability to capture a satellite and bring it back? 
+Was it because satellites were so expensive at the time and maybe they aren't as much? 
+Because I don't think we've really done that. 
+Well, it really wasn't the military. 
+Several satellites we did bring back. 
+I cannot recall which ones. 
+Westar and Palapa. 
+I have pictures of that a little later. 
+And we retrieved those. 
+And it turns out, interestingly enough, they were insured by Lloyds of London. 
+And that was the biggest salvage operation Lloyds of London ever achieved when they returned 
+those satellites, bigger than anything in the ocean they ever picked up. 
+In fact, they rang the bell. 
+When they have a big recovery, a big thing in Lloyds of London they ring a bell. 
+And they came down to serve somebody, whoever he was, I don't recall who he was, but he 
+was head of Lloyds of London. 
+And we had a big reception at the Johnson Space Center after we retrieved Westar and 
+Palapa. 
+I don't think the Air Force really had that much demand at the time, or it went away, 
+whatever it was, for retrieving payloads, but commercials did. 
+What the military was interested in was the possibility of refueling satellites in orbit. 
+That's right. 
+We did do that. 
+Because when you have recognizant satellites, very often you have to change their orbit 
+to get them over to the right place at the right time. 
+And orbital maneuvering fuel is a limiting commodity on satellites. 
+And these are very expensive satellites to build. 
+So if you have the possibility of refueling then, in principle, you could extend the life 
+of these very high value assets. 
+And we did do a demonstration. 
+Of course, the fuel, in most cases, is hydrazine which is very nasty stuff. 
+If you get it on your spacesuit you cannot come inside until you bake it off. 
+It's fairly dangerous. 
+And so we actually did do a demonstration just in the shuttle's cargo bay, but we've 
+never actually done a real refueling of a satellite in orbit. 
+But they're still working on it. 
+Now I think the military is still working on possibly robotic refuelling technologies. 
+For whatever the next version of the shuttle or crew vehicle would be, is it necessary 
+or even a good idea to have this huge cargo bay? 
+Well, I think that's what they're eliminating. 
+I haven't been that close to it. 
+But the CEV is going to be really a passenger carrier. 
+And then any cargo will be on an unmanned vehicle, I believe. 
+So, that's what they're separating. 
+Is that right? 
+I mean I haven't really been that close to it. 
+This is one of the guidelines now for future space vehicles, is to the maximum extent possible 
+separate humans and cargo. 
+If the original concept of the shuttle had been realizable that the shuttle would be 
+capable of flying frequently enough that it could basically satisfy all of our launch 
+needs then you can make the argument, well, all right, we're doing this and people are 
+in it to fly it and we'll just do it that way. 
+But given the fact that we cannot fulfill that goal then you have to ask why put humans 
+at risk just to take a satellite up in the cargo bay and launch it when we can launch 
+satellites using unmanned vehicles? 
+And, in fact, that was the decision after the Challenger accident, was any payloads 
+that are carried into space on the shuttle in general, I mean there were some exceptions 
+for various reasons, but you ought to be using the shuttle to do things where you need people 
+to do them. 
+And some of those things, for instance, to service in the Hubble or the assembly of the 
+space station, although even that could be argued that, had we planned it differently, 
+we might have been able to do it without making such extensive use of the shuttle. 
+But there we do make full use of the big cargo bay. 
+But future human space vehicles, the CEV will be basically a people carrier with a small 
+amount of cargo. 
+And any time you want to launch large amounts of cargo you will do it without people. 
+Let's take a one or two-minute break. 
+I'm going to get my computer set up. 
+Let me put this down here. 
+I want to give you a short presentation just to bring everybody up to a certain level of 
+familiarity with what the shuttle does and what it looks like. 
+And, again, I tend to look at this from an operational point of view. 
+This will be informal, you know, ask questions as we go through. 
+As we've said, the two critical phases of shuttle operations and what makes this such 
+a unique vehicle is it launches vertically like a spaceship with a tremendous amount 
+of power. 
+And it lands. 
+You look at this, and you have to remind yourself that it looks like an airplane landing and, 
+yet, a half an hour ago this was a spaceship going in orbit around the earth. 
+So it really has been a spectacular technological achievement. 
+Let's go through some of the maintenance operations, what is actually done to the shuttle. 
+We've talked about it a little bit, but I think if you actually see some of the images 
+it will help to give some reality to some of this. 
+After the shuttle lands, here it's landing on the runway at the Kennedy Space Center. 
+And, as we mentioned, all of this is a bird sanctuary so sometimes you have to chase the 
+birds away. 
+And there's a problem from time to time with crosswinds. 
+There is only one runway so, if you get wind blowing across the runway at more than 15 
+knots, you cannot land. 
+And so that's also a constraint sometimes to launch because when you take off you always 
+have to be able to turn around and come back and land here, just like you have to be able 
+to land over in Europe or Africa. 
+And so there are a lot of launch constraints. 
+What they do is, this was actually hooked up back on the runway, but they hook up air 
+conditioning units. 
+They have to purge. 
+There's an ammonia boiler. 
+Remember we talked about getting rid of heat as you're coming in using water spray boilers. 
+But, once you get below 100,000 feet, the pressure is actually above the triple point 
+of water and you cannot flash evaporate anymore. 
+And so they switch from a water boiler to an ammonia boiler. 
+And so, after the shuttle lands, there are ammonia fumes all over the place. 
+If you've looked at pictures of shuttle servicing on the runway, sometimes if there isn't actually 
+wind blowing they bring around a big fan to blow the ammonia way. 
+And everybody has to stay upwind of the ammonia. 
+And there is also the possibility, of course, that there might be a hydrazine leak or who 
+knows. 
+Anyway, the orbiter has to be safe. 
+And you have the people come out in what looks like space suits. 
+Escape suits they call them. 
+Self-contained, I don't remember the acronym. 
+But, in any case, we're bringing the orbiter back to the hanger area where it will undergo 
+a lot more than 14 days of servicing. 
+I remember, again, just to give you a sense of the state of mind before we were actually 
+operating the shuttle, as a new astronaut back in 1978. 
+Remember the shuttle didn't fly until '81. 
+We were getting a series of lectures on all the shuttle systems. 
+And I remember the lecture they gave us on turnaround, which was supposed to take 14 
+days. 
+And we got a briefing from the people who were planning the turnaround. 
+And I remember they told us we've studied this really carefully, and we just don't think 
+it's going to be possible to turn the shuttle around in 14 days. 
+We've cut out every unnecessary step and we think it's impossible to do it in less than 
+We were talking about it's supposed to make 
+There is no way they can make more than 40 flights a year. 
+People just didn't have a concept of how complex it was going to be to operate this vehicle 
+because it is such a complex vehicle. 
+To operate it safety is difficult. 
+Now sometimes it lands in California. 
+And, in that case, you put it on the 747. 
+This is the same bipod fitting, just to essentially duplicate the way that the orbiter is put 
+on the external tank, and the tail pod is, of course, for aerodynamics. 
+And that was also the configuration for the approach and landing tests. 
+And, actually, later, I think, in the middle of October, Gordon Fullerton who was one of 
+NASA's premier test pilots, he still flies, I mean I'll have to find out from him how 
+many different types of airplanes he's flow, he's just an amazing guy, but he was actually 
+in the shuttle during that first approach and landing test. 
+So he can tell us about what it was actually like test flying the shuttle, as well as being 
+on the third orbital flight test. 
+Yes? 
+Were they carrying anything on the airplane? 
+You mean inside here? 
+Yeah. 
+No, this is not your opportunity for a transcontinental vacation trip. 
+people. 
+They also have an airplane flying about 50 miles in front of this checking for turbulence. 
+And, in the early days, they had a chase airplane as well. 
+I told people they were crazy trying to get them to do this because I thought it was the 
+dumbest thing I heard of. 
+Now a look at some of the details. 
+Remember we talked about how the engines are taken out? 
+You get a little bit of a view here inside the engine compartment. 
+I had the chance, on numerous occasions, to actually go inside the engine compartment. 
+I mean it's just amazing. 
+You get these huge big pipes. 
+And it really helps when you're going to be using a system like this. 
+We spent a lot of time in the simulators. 
+And you'll flip a switch, and that switch controls what they call the main fuel shutoff 
+valve. 
+It's a big butterfly valve about 17 inches in diameter inside this huge pipe. 
+And you sit in the simulator and you flick the switch and the talk back shows that the 
+thing is closed. 
+And then you actually go in the compartment and you look and there's this huge pipe and 
+this area. 
+And you realize this huge thing that's moving around. 
+And it kind of gives a sense of realism. 
+And, in fact, that's one of the big safety concerns. 
+When the fuel is flowing, the butterfly valve is in a vertical position so the fuel flips 
+by it. 
+Obviously, it's an unstable situation. 
+If it goes out just a little bit then the fuel flow can slam it closed and you've got 
+an explosion on your hands. 
+So that was a major consideration. 
+This is the body flap. 
+So, you can see all of the plumbing. 
+And all these red things are removed before flight, stickers. 
+It's a very, very complex process. 
+And they pull the engines out after every flight now. 
+That's the thing, all of the platforms have to be designed so that they fold up and they 
+fold down so that you can get access to all the places. 
+I mean it's a very complex system. 
+And a lot of the equipment, the launch platforms and everything, as we mentioned, were adapted 
+from the Apollo program. 
+But the hangers, which we call the OPF, the orbiter processing facility was built specifically 
+for the shuttle. 
+The tiles we talked about. 
+I mean that's just a huge amount of work replacing, maintaining and testing the tiles. 
+This is inside the cargo bay. 
+You've got the fuel cells. 
+You've got hydrogen and oxygen cryogenic tanks. 
+Helium pressurization tanks. 
+Nitrogen for your atmospheric system. 
+This is the bulkhead in front of which on one side you have the engine compartment. 
+On the other side you have the crew compartment. 
+And, like we mentioned, this has to be done essentially in clean-room conditions and yet 
+it's on the scale of a battleship. 
+So, it's a real challenge. 
+This is the forward window. 
+On maybe one in every five flights we'll get a little ding on the windshield from a little 
+piece of usually orbital debris. 
+In fact, more often than not, it turns out to be little paint chips. 
+Whenever they do that they remove the window, they replace it and do a chemical analysis 
+to see whether it was a micrometeorite or a piece of space debris. 
+The windows, actually there are three panes. 
+There's a redundant pressure pane. 
+The two panes on the inside are capable of holding pressure and the outer is a thermal 
+pane. 
+This is one of the orbital maneuvering system pods. 
+These are removable because, again, they contain nitrogen tetroxide and hydrazine. 
+And we mentioned the fact that these are called hypergolic fuels. 
+When you bring them together they ignite spontaneously, as opposed to hydrogen and oxygen you need 
+a spark igniter. 
+So, in that one sense, it's a nice system because when you want to use them in your 
+reaction control and you only want a very tiny tenth of a second pulse, you don't have 
+to worry about an igniter which is a potential failure point. 
+You just squirt in the hydrazine and the nitrogen tetroxide. 
+But they're very nasty stuff. 
+They are extremely toxic and, of course, highly combustible and they are very corrosive. 
+So, these pods are serviced in a place far away from where the other activities take 
+place for the orbiter so just in case there is a leak or an explosion it's not going to 
+take down the rest of the critical facilities. 
+This is the orbiter maneuvering engine, and then they also have these smaller reaction 
+control engines. 
+And there are two aft pods. 
+And all the fuel tanks with the hydrazine and nitrogen tetroxide are in here. 
+The aft system, the two pods, they actually have inner connects so that you can actually 
+cross-feed from one system to the other. 
+And all of that stuff has to be hooked up. 
+The forward system is independent. 
+You cannot cross-feed to that. 
+The landing gears. 
+We talked a little bit the other day about the tires. 
+These things sit up in space for two weeks at a time. 
+You've got to worry about thermal control. 
+I mean can you imagine if you had a slow leak and you found out that your tire was flat 
+before you started your reentry? 
+And then, of course, the problem of sealing this against the hot gas. 
+The tiles on the edge of the doors for the landing gear, that's a very critical section. 
+Anyway, after typically about a three month turnaround in the hanger they wheel the orbiter, 
+actually, originally it was pulled over on its own wheels, but that required that they 
+then stow the wheels in this big vertical assembly building. 
+This is the vertical assembly building. 
+Hopefully you've seen pictures of it. 
+It's huge. 
+It was actually built to assemble the Saturn rockets. 
+It's much taller than we need for the orbiter stack, but it has been adapted. 
+So, what goes on here is it's wheeled into the big vertical assembly building. 
+There it is actually on the inside. 
+You just don't get a sense of the size of this building from any picture that can be 
+taken. 
+You have to be there and see it to really appreciate it. 
+In the meantime, you remember the solid rocket boosters are recovered after every flight. 
+And the Liberty Star and I think the Freedom Star, that's the NASA Navy. 
+These boats are positioned out offshore. 
+And they actually have divers who go down and put in plugs and floatation devices so 
+that they actually float the boosters. 
+And they drag them back where they're disassembled and cleaned up. 
+The actual segments, which contain the fuel, are shipped back to Utah to Thiokol which 
+is now ATK for cleaning, refilling. 
+And the other parts, the nozzle and the top, which contains the electronics and the parachutes, 
+those are serviced in Florida. 
+And then they're brought in segments into the vehicle assembly building where they are 
+stacked. 
+And remember those are the segment sizes. 
+Some of these are assembled in the factory. 
+Those are the so-called factory joints. 
+And then were these come together that's the so-called field joint, and that's the joint 
+that failed in the Challenger accident. 
+This gives you a sense of the size of those solid rocket motors in the way the solid fuel 
+is put in. 
+And they do all of these tests to look for the roundness of the motor and the flatness 
+of the propellant. 
+Yeah? 
+Is that the fuel itself? 
+It is. 
+Although, what confuses me about this is I'm not sure which segment this is because most 
+of the fuel is actually put in with a star pattern in it and they actually shape the 
+way it's loaded so that you shape the thrust profile. 
+And I've not been able to get a good explanation of why that is not the case here. 
+In any case, this is now the process where they lift one segment, they put it down on 
+top of another. 
+Of course, all of these are hazardous activities. 
+And nobody is allowed, except for the critical personnel, nobody's allowed in the VAB when 
+they're doing this just in case there is a problem. 
+And then they actually put all of these bolts in to join up the field joint. 
+And now, of course, after Challenger we have a new and improved O ring configuration. 
+Now we have the two solid rocket boosters sitting on the mobile launch platform. 
+And, again, you can see you have to design all of these platforms so you have access. 
+Now, the external tank we talked about. 
+This is in [UNINTELLIGIBLE]. 
+This has actually been damaged, not too heavily, but it did suffer damage from Katrina. 
+This is the oxygen tank upfront. 
+Notice how small this is compared to this is the big hydrogen tank. 
+And then this is actually the front side, but this is then turned around and the two 
+are joined together inside the outer shell. 
+And, of course, the solids are joined to the external tank, the orbiter is joined to the 
+external tank, so basically the external tank needs a strong back mechanism inside it because 
+that's ultimately what's tying the whole stack together. 
+And the trust from the solids and the thrust from the main engines, ultimately they're 
+linked together through the external tanks. 
+So the tanks themselves, the hydrogen and oxygen tanks don't have a lot of beefy structure. 
+But going through this is a very heavy structure. 
+Yeah? 
+The hydrogen tank there is about the diameter of the overall structure? 
+Yeah. 
+That gives another idea of the scale. 
+This is cleaning and polishing inside the big hydrogen tank. 
+I mean, again, the scale of all of this, it's important to get a sense of what's involved 
+in taking care of these vehicles. 
+Do you know if they actually had to go in and scrub it by hand? 
+I guess. 
+I mean the scrubbing is only part of it. 
+The inspection is the really critical thing, to see if there is anything that's not quite 
+right. 
+One thing that's interesting, the use of liquid oxygen, liquid hydrogen is wanted so much 
+because of its higher performance. 
+But, on the other hand, if you would do something like liquid oxygen and kerosene you would 
+get a much smaller tank or some other propellant. 
+And there is a tradeoff. 
+I think today people are realizing, especially from the Russians, the Russians don't really 
+use liquid hydrogen. 
+You get a lower ISP but your tanks become so much smaller to deal with. 
+And hydrogen is very hard to deal with. 
+It's very hard to find the hydrogen level, and hydrogen is very hard to deal with. 
+My second flight, do you remember? 
+That was the one with the hydrogen leaks, remember that? 
+We were supposed to launch in May of 1990. 
+And we went down. 
+And before they fill the system they do a helium leak check. 
+And, of course, helium, for those of you who have worked with vacuum systems, helium will 
+leak through anything. 
+And, if the system is tight against helium, they figure it is tight. 
+The problem is that that's done at ambient temperature. 
+And, when you fill it with the cryogenic hydrogen, everything contracts. 
+And so things which were vacuum-tight at ambient temperature are not always vacuum-tight. 
+But the problem is you don't know that until you fill it, which is only done a few hours 
+before a launch. 
+So, we had gone down to the Cape. 
+We were in medical quarantine. 
+And we just got the message about six hours before launch there's a hydrogen leak, launch 
+is scrubbed. 
+They did some checks. 
+They drained the tank. 
+They did another helium leak check. 
+It was fine. 
+We had gone back to Houston. 
+We came back. 
+The same thing happened. 
+How long did it take? 
+Well, in the end, we made six trips over the course of six months. 
+And we didn't launch until December. 
+And, actually, another one of the shuttles also had a hydrogen leak. 
+They actually alternated us. 
+They pulled us off the launch pad. 
+They put somebody else on. 
+I mean what had happened was they had somewhat changed the procedure of installing some O 
+rings in these big hydrogen lines, and it required a process where the workers were 
+actually working in an area where they couldn't see. 
+And the O rings were being installed slightly wrong. 
+But it was just terribly difficult to track that down. 
+So, yeah, there are a lot of problems using cryogenic fuel. 
+Now, the other thing is if you have a fully staged vehicle with a separate first and second 
+stage, one of the things that you learn in rocket propulsion classes is that in the first 
+stage the specific impulse is not nearly as important. 
+What's really important is to get a lot of thrust. 
+In your upper stages having a high ISP becomes much more important in terms of the payload 
+that you can carry. 
+So, if you had a fully staged vehicle, and, in fact, that's the way Saturn worked. 
+The first stage of Saturn was kerosene and liquid oxygen and the upper stages were cryogenic 
+with hydrogen and oxygen just for that reason. 
+OK, let's move on. 
+Now we have the external tank, again, suspended in the vertical assembly building. 
+That's lifted up and joined between the two SRBs. 
+This is the feed line where the oxygen comes down and this is where these two feeds lines, 
+this is the hydrogen. 
+And then the orbiter has two corresponding feed ports where the hydrogen and oxygen comes 
+into the engine. 
+And, actually, when you fill the tank on the pad, you actually put the hydrogen and oxygen 
+into the orbiter. 
+And it flows from the orbiter back then into the external tank. 
+And it was on this oxygen fitting from the foam that they put around this, was what fell 
+off in the recent Discovery flight where they did get a big piece of foam. 
+OK, so now we go back. 
+Remember we brought the orbiter over into the vertical assembly building? 
+Now, you put this strong back to hold the orbiter. 
+And this is really spectacular. 
+I mean you lift the whole orbiter up off the ground and tilt it up. 
+And you basically hang it and lower it. 
+And these are big pieces of equipment and yet you need millimeters of accuracy. 
+So, very skilled crane operators, to say the least. 
+Now we have the orbiter and the strong back laid down in position and all of the mating 
+is done. 
+And we're on the pad. 
+Excuse me, we're on the mobile launch platform and they put the crawler transporter underneath 
+it and then they roll it on these specially prepared pads which have very, I don't know 
+how deep it goes into the ground, but this is heavy river gravel. 
+Most of the boulders are about the size of your fist, but after one or two trips of the 
+orbiter it's crushed down to the size of pea gravel. 
+And then they have to replace it with new stuff. 
+And, of course, as you're going out to the pad, when you're rolling up to the launch 
+pad, you're actually going up at an angle. 
+And so this whole system, you can see the crawlers down here, each one of these treads, 
+each single piece of the tread weighs a ton. 
+Just to give you a sense, it goes about one or two miles per hour top speed. 
+It takes hours to get out there. 
+And it has to be capable of staying level to within a few degrees, even as you're climbing 
+the ramp up to the launch platform. 
+What are those things supporting the [UNINTELLIGIBLE]? 
+The whole stack is basically sitting on the two SRBs. 
+The skirts of the SRBs is taking the weight. 
+These are the fuel inputs which are connected through the other side where the hydrogen 
+and the oxygen run into the shuttle. 
+And, from there, the way I showed you before, it goes into the external tank. 
+Did they also keep it tilted back? 
+Did it have the tendency to [UNINTELLIGIBLE]? 
+Each of the SRBs has four bolts. 
+Actually, they give us, as a souvenir after a flight, they give us the big nuts that are 
+explosive bolts. 
+There are eight, four on each of the SRBs. 
+And, essentially, that's what gives it its stability. 
+Again, this is a hill. 
+It's a little hard to see the perspective, but keeping the whole thing steady. 
+And we talked about how you can see this track here where the payload change-out room eventually 
+could come around and cover the shuttle to give it protection. 
+This is actually going up the hill to get up. 
+And it's just a pretty picture that I like. 
+And here we are. 
+This is nice because you have both shuttles on the launch pad. 
+This is a big water tower. 
+In order to protect the launch pad against flame damage, and also to protect the shuttle 
+against acoustic effects, they actually get a shockwave when you ignite the engines which 
+can bounce back and do some damage. 
+Shortly, about 15 seconds before T zero, they open up the valves. 
+And all that water flows with little jets. 
+If you've seen pictures of a launch, sometimes they show that as part of the launch sequence. 
+In fact, in another class, I will show you some of the details of an actual launch picture. 
+That's the water deluge, and that goes for about 30 seconds. 
+And that cushions the acoustic load reflected back to the shuttle. 
+OK, that's enough pictures on the pad. 
+Oh, I know what I wanted to show. 
+This is called the white room. 
+And that's how the crew goes in. 
+You take an elevator up to here. 
+And then that actually joins up with the hatch. 
+So the hatch is sitting open. 
+And you put on your parachutes and the last few pieces of equipment to get in. 
+And this is a view inside the white room. 
+This is, I guess, from our last flight in 
+And, when you go out on launch day, the big thing that you notice that's different is 
+there are very few people on the pad, only the essential personnel. 
+And the whole stack is creaking because it's now filled with the cryogens and everything 
+is shrunk and it's sort of alive in a very strange way. 
+So, we talked about the mission profile. 
+I won't deal with this. 
+And I do want to talk about some of the shuttle aborts, but we will do that another time because 
+I want to get finished with the slides. 
+I did want to show you, after Challenger they introduced a bailout. 
+We did mention that the basic survivability for the crew requires an intact orbiter. 
+It used to be that it needed an intact orbiter landing on the ground or ditching in the ocean, 
+which was kind of an unlikely survivability because you're going to hit the ocean at 200 
+knots and probably break up. 
+So now there are circumstances where you can lose more than one engine during launch or 
+you might have to do an emergency de-orbit where you basically can be flying along at 
+And so that's really the only situation which the bailout system protects you against, but 
+there is a collapsible poll. 
+The reason for that is because the aerodynamic studies show that if you just jumped out of 
+the open hatch with a parachute the airflow would carry you back on top of the wing and 
+you'd hit the OMS pod, and that would not be a good deal. 
+So, you actually hook yourself to this escape poll. 
+And that takes you down below the wing, and then you can open the parachute. 
+And we actually practiced this where you go out into a swimming pool using the escape 
+poll. 
+These are some actual tests conducted by Army parachutists in, I think, a 141 Transport. 
+The system has been tested in flight, although never with the shuttle. 
+And that's the test where they have a simulated hatch and you basically jump out into the 
+swimming pool. 
+Once again, into the white room. 
+You can see the hatch out here. 
+And that's the last thing that they'll do, is they close the hatch. 
+Then they pressurize the shuttle by about 
+integrity before a launch. 
+And then we launch. 
+As you can see, you're burning hydrogen and oxygen in the main engines. 
+What's coming out there is just hot steam, not very visible. 
+Most of the smoke, the noise and everything come from the solid rocket boosters. 
+However, you do need these engines. 
+In fact, people have calculated that if you tried to take off without these main engines 
+pushing up on the shuttle that the attachment between the shuttle and the external tank 
+would probably fail. 
+Each of the main engines is about, well, it's a half a million pounds of thrust in vacuum. 
+It's slightly under 400,000 pounds at sea level. 
+You've got a little over a million pounds coming from the main engines, but these are 
+putting out almost three million pounds a piece. 
+So, most of your early thrusts in the first two minutes are coming from the solid rocket 
+boosters. 
+And it's a pretty rough ride. 
+I mean there's a lot of vibration. 
+When you go through mach 1, which is max Q, maximum dynamic pressure, the vibrations are 
+even more pronounced. 
+The first time on my first flight, I really thought the wings were going to come off, 
+there was so much vibration. 
+But, of course, they don't. 
+But I'd love to get a hold of it. 
+I actually saw a high-speed, well, a slow motion picture actually looking at the tail, 
+as you go through max Q. 
+And you can actually see the tail fluttering back and forth like that. 
+I mean the aerodynamic loads on the vehicle during ascent are significant. 
+And you do actually have to move your elevons to what's called load relief in order to take 
+the stress off that. 
+I really like this. 
+It gives a sense of the power that you're sitting on top of to get up there. 
+And that's just a nice picture of riding the fire. 
+OK, so you get up in orbit and you drop the external tank. 
+And, although now they're going out of their way to take even better close-ups of the tank 
+to look at the foam shedding. 
+We've been doing that, in fact, throughout the history. 
+Now they especially time the launch so that you're guaranteed to drop the external tank 
+with good lighting conditions. 
+That didn't used to be a constraint to launch but it is now. 
+You can also, by the way, see how the atmosphere quickly fades out into space. 
+And that's a telephoto so it actually makes the atmosphere look even thicker than it really 
+looks. 
+OK, so there is the orbiter in space. 
+That was actually after it had delivered a payload. 
+This was taken from the space station. 
+And just a quick reminder of all the different things that we've used the orbiter for. 
+Launching satellites, you've seen that picture. 
+This is a payload assist module to take the satellite from the shuttle orbit up to geosynchronous 
+transfer orbit. 
+We have used it extensively for satellite repair in orbit. 
+This is the Intelsat where it was put into orbit by an expendable rocket, but into a 
+bad orbit because of underperformance. 
+And they managed to get it into a shuttle compatible orbit. 
+And I won't go through the whole history. 
+Why there happened to be three people out there is a whole story in itself. 
+This is one of the satellites. 
+Again, the satellites were put into orbit by the shuttle. 
+And the shuttle deployment was fine, but the payload assist module, which you saw before, 
+did not perform properly. 
+And so the two satellites were stranded in a useless orbit. 
+We actually brought them back to the ground. 
+They were refurbished and re-launched again on expendable rockets. 
+The shuttle has also been used as a space station with the space lab on in the inside 
+to carry out scientific experiments. 
+This is a large pressurized module which is put into the cargo bay. 
+And the original idea, as Professor Cohen mentioned, was you could just take your laboratory 
+equipment off the shelf, plug it in here, 
+be just like working on the ground. 
+Well, it never was. 
+But, having said that, I think the space lab program, as a whole, was extremely successful. 
+And then it's been used to service the Mir Space Station. 
+We certainly added several years of useful life to the Mir Station because we could carry 
+up a lot more equipment than the Russians could themselves. 
+And that also gave us an opportunity to get some US astronauts on long duration space 
+missions. 
+And then, as you all know, we're using the shuttle to construct the International Space 
+Station. 
+And hopefully we'll get more of it built before too long. 
+The shuttle is also an excellent platform for performing EVAs, space walks. 
+And that's a picture of when we went up and repaired the Hubble Space Telescope. 
+I cannot overestimate the capability that the shuttle gives us as a work platform in 
+orbit. 
+We can do this sort of complex EVA activity on the Space Station, but once we retire the 
+shuttle we've essentially lost that capability. 
+To have the manipulator arm and to be able to use people and the robotic arm to move 
+equipment around, it's just a very powerful work platform. 
+That's one of my favorite pictures floating up there. 
+This is a pretty picture of firing the orbiter maneuvering engines just to start your descent 
+into the atmosphere. 
+Despite the fact that you're going at 18,000 miles an hour, you only have to slow down 
+by a few hundred feet per second in order to lower your perigee down to essentially 
+the surface of the earth so that half an orbit later you intersect with the atmosphere. 
+And, of course, that produces the aerodynamic heating which you can see on the outside. 
+This is looking out to the front. 
+That's kind of a dull glow. 
+It starts out as a deep red and then it gets orange and yellow and finally white on the 
+outside. 
+The most spectacular thing, you know, you're a meteor. 
+This is a picture that was taken from Houston. 
+This is at about 250,000 feet at about mach 
+Space Center. 
+The shuttle is flying like this. 
+If you look up at the overhead windows, you can actually look back into the wake. 
+And this is really spectacular because you have these different colors, and it's sort 
+of shimmering around. 
+And every once in a while, when I would be looking at this, you'd see a big bright light. 
+And I would think boy, I hope that was nothing important. 
+You may have heard that on the last flight they discovered that some gap fillers were 
+protruding. 
+And so Steve Robinson went around and actually pulled some of them out. 
+But they've probably been doing that the whole time and just have come off. 
+I mean this little point where you have the convergence of the shockwaves, this is about 
+It's a spectacular visual view. 
+And then, again, at this point we're just going subsonic flying like a glider and ready 
+for touchdown. 
+So, I hope that gives you some sense visually of what goes on in the course of a shuttle 
+flight with an emphasis on the maintenance operations. 
+Without appreciating how complex it is to operate this system, I think it's hard to 
+really make the link between the original concept and the difficulties we've had in 
+getting the shuttle to perform in terms of the turnaround maintainability. 
+So, again, just wrapping up, that's kind of my farewell picture, the shuttle was an amazingly 
+ambitious concept. 
+And, I think, what has been astounding is how well the shuttle has been able to perform 
+and do all the things that it was designed to do in terms of the satellite launching 
+and being used as a science platform, performing EVA, repairing satellites, building space 
+stations. 
+It has given us experience and capability to learn how to do things in earth orbit which 
+we never had before. 
+And, as I say, we may well miss them once we retire the shuttle. 
+But where we really did get it wrong, and this will be one of the things that we'll 
+look at when we deal with the individual subsystems, is in the operations. 
+It turned out to be a lot more complex, expensive and delicate to operate than had been anticipated. 
+So hopefully there will come a time when we set out to design another reusable vehicle, 
+possibly a reusable winged vehicle. 
+And I think a lot of what we've learned from the shuttle will be folded into that. 
+It still is a question of how re-usable the next crew exploration vehicle, the CEV will 
+be. 
+Re-usability has been put in as a requirement, but that remains to be seen. 
+And certainly the experience that we've gotten from the shuttle is going to make people look 
+really, really closely at what assumptions we're making about the reusability whenever 
+we do this again. 
+OK. 
+Next Tuesday will be the last in kind of the conceptual part of what we're doing. 
+Professor John Logsdon from George Washington University is a very well known space policy 
+analyst. 
+He did a seminal study on the Apollo program and has also written a lot and done a lot 
+of research on the origins of the shuttle. 
+And so he'll talk to us then. 
+Let's see. 
+I had promised to post everybody's emails on the Web, and I got diverted and didn't 
+get that done. 
+But I will do that before tomorrow, you know, in terms of forming your teams. 
+Put together an idea of what system you would like to work at. 
+If you're not able to form up as part of a team between now and Tuesday, just give me 
+what your own personal preference is. 
+And then we can look and see if different people are interested in the same system. 
+We'll let you all know and help you form up teams. 
+I'll make sure your email is there in the student view. 
+as a group. 
+That's fine. 
+If not, if you haven't hooked up with somebody, just let us know what system you're interested 
+in working at and any ideas you might have of what you're going to look at. 
+Really, this is just a very, very short write-up essentially to get you started. 
+And that way, if you have any questions, we can talk about it next Tuesday. 

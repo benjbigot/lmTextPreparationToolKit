@@ -1,0 +1,169 @@
+## once the transcriptions have downloaded, a manual check is required.
+## some keyword to check manually
+# segments containing [NOISE]
+in vim do 
+#:bufdo! %s/\[\([A-Za-z?", -]\+\]\)/ NOISEEVENT /gc
+
+# check also [NOISE] split on several lines as well as not well formatted sequences
+
+# look for ']' and '['
+
+# check speaker names format they have to use only dot '.', space and underscore
+# check patterns like [? for inaudible words?] sustitute them by NOISEEVENT
+
+# Check also: Mr. and Ms. Dr. Pr., Jr
+
+
+
+
+=====================================================================
+=====================================================================
+Oppenheim DSP lectures
+MIT RES.6.007 Signals and Systems, 1987
+    by MIT OpenCourseWare
+    26 videos
+    50,492 views
+    20 hours
+Signals and Systems was developed in 1987 as a distance-education course for engineers. 
+An introduction to analog and digital signal processing, including discrete- and continuous-time signals, linear time-invariant systems, feedback, and data processing. 
+====== http://www.youtube.com/playlist?list=PL41692B571DD0AF9B =======
+======================================================================
+
+=======================================================================
+MIT Lectures on Aeronautics
+MIT 16.885J Aircraft Systems Engineering, Fall 2005
+    by MIT OpenCourseWare
+    23 videos
+    7,213 views
+    40 hours
+16.885J offers a holistic view of the aircraft as a system, covering: basic systems engineering;
+cost and weight estimation; basic aircraft performance; safety and reliability;
+lifecycle topics; aircraft subsystems; risk analysis and management; 
+and system realization. 
+Small student teams retrospectively analyze an existing aircraft covering: 
+key design drivers and decisions; aircraft attributes and subsystems; 
+and operational experience. Oral and written versions of the case study are delivered. 
+For the Fall 2005 term, the class focuses on a systems engineering analysis of the Space Shuttle. 
+It offers study of both design and operations of the shuttle, with frequent lectures 
+by outside experts. 
+Students choose specific shuttle systems for detailed analysis 
+and develop new subsystem designs using state of the art technology. 
+http://ocw.mit.edu
+========== http://www.youtube.com/playlist?list=PL35721A60B7B57386 =====
+========================================================================
+
+========================================================================
+Aerospace - Advanced Control System Design
+    by nptelhrd
+    40 videos
+    7,329 views
+    38 hours
+Advanced Control System Design by Dr. Radhakant Padhi, Department of Aerospace Engineering, 
+IISC Bangalore For more details on NPTEL 
+visit http://nptel.iitm.ac.in 
+================= http://www.youtube.com/watch?v=SzNtrmk8_HA&list=PL2936356E07178528 ======
+============================================================================================
+
+=============================================================================================
+Aerospace - Introduction to Aerospace Propulsion
+    by nptelhrd
+    40 videos
+    9,202 views
+    36 hours
+Introduction to Aerospace Propulsion by Prof. Bhaskar Roy and Prof. A. M. Pradeep, 
+Department of Aerospace Engineering, IIT Bombay For more details on NPTEL 
+visit http://nptel.iitm.ac.in 
+========== http://www.youtube.com/watch?v=9csz-XXHP6I&list=PLB26AE7D08F245B18 ==============
+============================================================================================
+
+=============================================================
+Ocean - Applied Thermodynamics for Marine Systems
+    by nptelhrd
+    27 videos
+    12,230 views
+    23 hours
+Lecture Series on Applied Thermodynamics for Marine Systems by Prof.P.K. Das, 
+Department of Mechanical Engineering, IIT Kharagpur. 
+==============================================================
+================http://www.youtube.com/playlist?list=PL6F80A607A9B85AB3=========
+
+
+
+=====================================================================
+MIT - Thermodynamic and Kinetics
+No playlist
+http://www.youtube.com/watch?v=TDqx8Zv1rRo
+
+=======================
+=======================
+
+===============================================================
+=======  Aerospace - Turbomachinery Aerodynamics =============
+    by nptelhrd
+    40 videos
+    12,956 views
+    36 hours
+Turbomachinery Aerodynamics by Prof. Bhaskar Roy,Prof. A M Pradeep, 
+Department of Aerospace Engineering, IIT Bombay. 
+For more details on NPTEL visit http://nptel.iitm.ac.in 
+================================================================
+=== http://www.youtube.com/playlist?list=PLC1E9E61F956C56D0 ===
+
+
+
+===================================================================
+Aerospace - Introduction to Aerodynamics
+    by nptelhrd
+    46 videos
+    7,059 views
+    44 hours
+Introduction to Aerodynamics by Dr. K.P. Sinhamahapatra, 
+Department of Aerospace Engineering, IITKharagpur. 
+For more details on NPTEL visit http://nptel.iitm.ac.in 
+======= http://www.youtube.com/playlist?list=PLbMVogVj5nJRMx9Ou8luatlFpTpZJTxu2 =========
+
+==================================================================
+Aerospace-Introduction to Helicopter Aerodynamics & Dynamics 
+    by nptelhrd
+    26 videos
+    5,158 views
+    31 hours
+Introduction to Helicopter Aerodynamics and Dynamics by Prof. C. Venkatesan, 
+Department of Aerospace Engineering, IIT Kanpur. For more details on NPTEL 
+visit http://nptel.iitm.ac.in 
+======================================================================
+===== http://www.youtube.com/playlist?list=PLAE677E56C97A7C7D =====
+
+=====================================================================
+Civil - Fluid Mechanics
+    by nptelhrd
+    42 videos
+    69,187 views
+    37 hours
+Lectures by Prof. T.I.Eldho Dept. of Civil Engineering IIT Bombay. 
+=====================================================================
+=== http://www.youtube.com/playlist?list=PL3F50D04B70A5B935 ========
+
+
+=====================================================================
+Ocean - Wave Hydrodynamics
+    by nptelhrd
+    25 videos
+    3,645 views
+    20 hours
+Wave Hydrodynamics by Prof. V. Sundar, Department of Ocean Engineering, IIT Madras. 
+For more details on NPTEL visit http://nptel.iitm.ac.in 
+=====================================================================
+========= http://www.youtube.com/playlist?list=PLbMVogVj5nJSIKXXOIET_6TREFF40tMF5 =====
+
+========================================================================
+Aerospace - Instability and Transition of Fluid Flows
+    by nptelhrd
+    39 videos
+    3,263 views
+    35 hours
+Instability and Transition of Fluid Flows by Prof. Tapan K. Sengupta, 
+Department of Aerospace Engineering, IIT Kanpur. For more details on NPTEL 
+visit http://nptel.iitm.ac.in 
+======================================================================
+==== http://www.youtube.com/playlist?list=PLBC66ADC62E59C06B =========

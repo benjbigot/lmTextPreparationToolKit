@@ -1,0 +1,1309 @@
+In that case, I will move on to introduce Colonel Gordon Fullerton who got is bachelor's 
+and master's degree from Caltech in mechanical engineering, did ROTC and went on to the Air 
+Force where, well, I guess he has flown, in the course of his career about 135 different 
+types of airplanes. 
+He flew F86 interceptors, B47 Bombers before going to Air Force test pilot school in the 
+mid `60s. 
+In '66, he was chosen by the Air Force for the Manned Orbiting Laboratory which was going 
+to be the Air Force's Space Station. 
+That program was cancelled in 1969 and the MOL, well, some of the MOL astronauts came 
+over to NASA and became NASA astronauts. 
+That was in the heyday of Apollo. 
+And Gordon was support crew on the last four Apollo missions. 
+Then went on to be the test pilot on three of the first five approach and landing tests. 
+If you remember, that is when the Shuttle Enterprise, which was not designed for orbital 
+flight but was designed to test basically the last 50,000 feet down to the ground, was 
+dropped from the 747. 
+Went onto pilot the third Shuttle flight, which was one of the orbital flight tests. 
+That was the flight which landed in New Mexico. 
+And then commanded STS-51F which was the first flight of the instrument pointing system. 
+That was also the flight, I am trying to think, where you lost the engine, which we talked 
+about. 
+That was the one flight where we had an engine shutdown. 
+And we went over that in some detail. 
+I think they should hear about it from what it seemed like inside the cockpit, now that 
+they have heard kind of the technical details. 
+In any case, after leaving the Astronautic Office, Gordon has moved into pilot's heaven 
+which is Edwards Air Force Base, the Dryden Test Flight Center where he basically spends 
+all his time. 
+Well, not all of his time because there is management stuff as well. 
+Unfortunately, that is the price you pay. 
+But basically he gets to fly airplanes for a living. 
+And lots of different kinds, including the career aircraft and the B52 which launches 
+various test aircraft and a whole bunch of other airplanes. 
+If you remember in the whole systems engineering approach to things, we talk about the conceived 
+design, manufacture, test and operation. 
+So this is basically the final lecture and this is the test and operation of the Space 
+Shuttle from a pilot's point of view. 
+So, with that, I will give it to you, Gordon. 
+Thanks. 
+I was sitting at your place back in 1958 when I was a grad student at Caltech for a year 
+before heading off to the Air Force. 
+Wow, almost 50 years ago. 
+But the real blessing of my life is to be able to do what I love to do for as long as 
+I have done it, beyond all reason. 
+Anyway, I hope to share some of that with you this morning. 
+This is my first time through this pitch. 
+Feel free to holler out any questions as we go and we will stumble through it together. 
+I planned to talk about three different phases of the orbiter test program. 
+The first were called ALT, the Approach and Landing Test, that consisted of really 13 
+flights, five captive inert flights where the enterprise was flown on top of the 747 
+but nobody in the cockpit. 
+The controls were locked. 
+That was to clear the envelope for the kind of unlikely looking combination of a 747 with 
+an orbiter on top. 
+And then there were three "captive active" flights where we were manned up in the orbiter 
+with the systems running, the electronics, the hydraulics were active. 
+The controls were free to move a little bit, not full throw. 
+And we also determined how high the combination could get. 
+Because altitude was not 50,000 feet, it was more like 28,000 feet max even with the 747 
+engines over boosted. 
+Followed by three "free flights" were we actually pushed the button, munched off the top and 
+glided to a landing. 
+The orbital flight test, prior to the Shuttle Program, OFT consisted of four flights. 
+STS 1 through 4 of varying durations. 
+STS-1 was planned for just a couple days to get up and get down and have a look at how 
+things looked after it flew. 
+STS-2 was supposed to be five days. 
+They had a fuel cell problem that cut their flight short, unfortunately for the crew. 
+Then I was on STS-3. 
+We were scheduled for seven days. 
+And, because of a raging dust storm at the planned landing site, we got an extra day. 
+A real blessing. 
+With no tests to do, we had a free day on orbit. 
+And ended up with eight days. 
+STS-4 planned and flew seven days, landing on the fourth of July with President Reagan 
+out there to watch. 
+And then we got into operational flights of which there had been a lot. 
+Something over a hundred. 
+The last flight to fly, the return to flight was STS-114, but the number system went through 
+a couple of phases. 
+There have not been 114 flights. 
+I don't know how many it has been, but there had been a bunch. 
+I will talk about three, well, more than three flights, but the ALT flights. 
+If you have to have a crew patch, that is a major hurdle that you have to overcome. 
+When you are assigned to a crew, get the patch designed and then get it approved by upper 
+management. 
+Part of the OFT, STS-3 in 1982 and finally then an operational flight 51F in 1985. 
+Prior to any of these flights, I worked into a dream job for really systems engineering, 
+I guess, and for a pilot. 
+I had been to test pilot school. 
+I was intrigued with all the airplanes I flew with a cockpit design and was very aware of 
+the flaws of cockpit design. 
+It seems like sometimes engineers lie awake nights trying to make it hard to operate subsystems. 
+I got in at the beginning of the orbiter crew interface and became, before it was over, 
+sort of the Czar who was responsible to sign off all the drawings, lots of reviews. 
+It was a great responsibility because I was immediately and early into subsystem design 
+because you have to know what the subsystem does to make any intelligent choice of what 
+the controls and displays should be. 
+This is a view of, not the Enterprise, but probably, I don't know whether it is a simulator 
+or the real airplane, they look alike, but one of the orbital capable shuttles. 
+This is like the little old ladies always say when you're out on display for Armed Forces 
+Day and look at all the things, how do you remember what they all do? 
+Well, that really is a challenge to make things straightforward. 
+And I became painfully aware, especially later on when we had a lot of experiments coming 
+in, that engineers in their little ivory tower building a system in the lab are so totally, 
+personally familiar with how their stuff works that it doesn't bother them that the switches 
+are unlabeled or labeled illogically. 
+And they bring that all in and want to put it in the orbiter. 
+And when the crew says wait a minute, I have to remember, before I turn on switch A, switch 
+C and D have got to be turned on in this order or the whole thing will blow up? 
+And they say oh, yeah, that is the way it is. 
+And they know it so well personally. 
+And, yet, when you are overwhelmed with a whole lot of experiments, I am sure you ran 
+into it on your flight, that all the stuff that is just totally familiar to the guy that 
+invented it becomes a challenge when you are faced with a whole lot of them and a limited 
+amount of time to learn it. 
+And so, standardization of what the scheme, especially in the software. 
+While there are a lot of gadgets, in fact, if you count all the switches, gauges, circuit 
+breakers, upstairs, downstairs and the mid deck, there are about 2,100 total in the orbiter 
+cockpit. 
+But the real challenge is what shows up on the screens here. 
+So the software was a bigger thing in making them all play together. 
+Here is a higher view in the overhead panel above your head. 
+And the forward cockpit has a lot of other switches. 
+An example of what I am talking about, this array of switches right here controls the 
+reaction control system valving and then the orbital maneuvering system. 
+Back in Apollo, which I worked on when I first came to Johnson Space Center, I learned, while 
+lying many hours in the Apollo crew simulator, that that had the worst cockpit every designed 
+by man. 
+As an example, it had a helium pressurization system to push the propellants for the reaction 
+control jets out of the tanks and then the valves that went to the various arrays of 
+thrusters all around the command module. 
+And one would think logically, if you have something to turn on the helium, you label 
+that helium on/off. 
+And then the manifold, the next branch in the Christmas tree manifold would be system 
+A versus system B or something like that. 
+And, in fact, it had names like that. 
+But they put the switches in a long room and labeled them A through H, right there on the 
+panel. 
+No clue as to what you were throwing, so every move you made in the cockpit, some of these 
+things were critical, required you to either be a metal giant or open a checklist and say 
+to pressurize system B, I have got to throw B on and then A next and then H last or something 
+like that. 
+Obviously, unacceptable. 
+It became my career and mania to try to improve that. 
+The first orbiter simulator built was called the OAS, Orbiter Aeroflight Simulator. 
+It was on a moving based platform like the standard airline simulators you see today. 
+This is Fred Hayes and I sitting in the cockpit. 
+This one was built originally to be the Enterprise. 
+And the Enterprise was OV-101 in the scheme of things, a numbering of orbiters as they 
+were built. 
+The plan was to retrofit it later to make it into orbit capable. 
+But before the ALT program it had just what you needed and only that to fly in the atmosphere 
+very short flights. 
+But this is our first chance to look at what we had and what we were getting into as far 
+as pilot concerns. 
+Now, I guess you have had all the subsystems, right? 
+You were all completely briefed and experts on subsystems by the people that had preceded 
+me here in the course. 
+I will give you, though, a quick review here, the avionics system. 
+The Shuttle is build with inside the outer mole line as the pressure vessel that is roughly 
+back to the forward bulkhead of the payload bay and is imbedded inside basically aluminum 
+structure with a thermal protection system applied to the outside. 
+And most of the avionics are in racks right up here, right in there with you in the cockpit 
+on the middeck. 
+The stowage lockers are aft of the racks full of black boxes and lots of wires. 
+And the other place there were avionics is back here just after the aft bulkhead of the 
+payload bay. 
+And there are some areas where they put items like rate gyros and accelerometers. 
+A lot way back. 
+From a systems engineering standpoint, Fred Hayes and I were out at Palmdale where they 
+built all the orbiters. 
+It seems like the testing always happens after 
+And we were out there way after midnight in the cockpit participating in the first time 
+they were going to close the loop between the rate gyros and the flight control system 
+which is contained back up here in the nose and the general purpose computers. 
+The whole orbiter was suspended on some big airfield bag so it had compliance to move. 
+And the hydraulic system was on powered by a facility hydraulic source. 
+The elevons were powered and the rudder speed brake was powered and the process let us down 
+for the very first time that we were going to close the loop between the software up 
+here and the rate gyros particularly and accelerometers mounted in the back. 
+And it was a milestone. 
+And we had people stationed around the back to see if anything spit out hydraulic fluid 
+or whatever. 
+Anyway, we went up to the glass shield and pushed the button to go into CSS, Control 
+Stick Steering, which hooked the stick up now to the flight control system. 
+I will never forget. 
+We pushed the button and a rumble started. 
+And the rumble built very rapidly to a violent rumble. 
+I mean we were being bounced around the cockpit. 
+This is 150,000 pounds of airplane dancing on these rubber bags. 
+And it didn't take us long to say this doesn't feel good. 
+We pulled the button that downloads back to direct control so there is no feedback. 
+And the upshot of it was that these rate gyros are mounted on this flexible bulkhead. 
+And that had been taken into account properly. 
+And so there was a structural resonance that was just diversion. 
+In spite of all the Grounds tests down at Downy and the Iron Bird mockups and everything, 
+when we put it in the real airplane it tried to jump off the supports. 
+And Fred and I were in the cockpit, our eyes were big, and we called the control room which 
+were people back in an adjacent room. 
+It seems like most spacecraft tests, traditionally, are done with engineers all locked up in windowless 
+room, no view of the real hardware. 
+Down at the Cape they are miles away when the spacecraft is either out on the pad or 
+in the main checkout building. 
+And so they said no, the procedure says this is OK and we want you to re-engage. 
+We tried one more time. 
+And this time the guy stationed in back that were watching said this doesn't look good. 
+They started hollering on the loop so we pitched it off. 
+And we went into a raging argument. 
+We need to complete this test, the engineers were saying. 
+And we were saying we don't want to break something. 
+And they got people out of bed down in California, controls engineers. 
+And so, it was a memorable night. 
+The resolution was finally a redesign of the mounting area back there and reanalysis of 
+the vibrational modes of the aft bulkhead sorted all out. 
+Here is what we had for a crew interface. 
+You saw in the earlier picture, upfront three CRTs, monochrome, green, it was either green 
+or nothing on the screen, and we had two keyboards, three CRTs. 
+There was always this little concern, when you are punching on a keyboard, you want to 
+be sure it is selected to the CRT you think you are doing something on. 
+Another marginal design, but that is what we ended up with. 
+You notice we have a hexadecimal keyboard here. 
+We have some strange keys called item and electric and ops which had to do with this 
+truly unique way you cause things to happen through software. 
+And lots of things were critical through software. 
+And then this rather dim green screen. 
+This was way before the days, I guess, Bill Gates was still here at MIT or maybe even 
+hadn't registered yet. 
+I don't know. 
+It was way before Windows 1.0. 
+And so it seems almost comical now when you compare it to even modern airliner crew interface 
+with glass cockpits, but we were breaking new ground here. 
+And it, even at the time, seemed antiquated because that is all they were willing to embrace 
+in the way of computer control and design. 
+And it was unique. 
+And it causes lots of headaches and delays. 
+The big thing about the orbiter with its data process system, the decision was made that 
+everything is going to be done with these all powerful general purpose computers in 
+which there were five in an array that worked together. 
+Flight control, system management, navigation, inertial subsystem control of everything. 
+And so, the result was the software loads, as they were built, had lots of flaws when 
+they came down, yet we couldn't fix them. 
+We had cases as dumb as a display that showed the Freon loop A pump on. 
+And, when it got through the entire software belt, it was backwards. 
+It would say off when it was really on. 
+Seems like a simple fix, right? 
+Go back to the programmer and rewrite the code. 
+But we couldn't do it. 
+We had to live with it for a long period of time through training until another whole 
+load was built. 
+Because the load that would fix this dumb little bi-level mistake was also the one that 
+steered you during ascent. 
+So everything was frozen and there was great fear of changing anything that would ricochet 
+through to something truly critical. 
+And so, even when we got to STS-3, we flew with a book about this thick of program notes 
+that told you, line after line, what was wrong, what was backwards, what was a trap. 
+And really a big challenge to the crew to embrace and live with because there just wasn't 
+time in the program to build another load, check it out through all the different labs 
+that had to certify it. 
+That is load for modular software where you can change something here and be assured you 
+are not bollixing up something else in the same machine. 
+OMS, RCS. 
+These are the two pods. 
+On either side of the vertical tail are a couple big OMS, propellant tanks, oxidizer 
+and fuel hypergolic. 
+We didn't need any ignition system. 
+As soon as these came together in a thruster you had thrust. 
+And there were, I think, 44 main thrusters. 
+Here are four yaw jets firing out to the side. 
+S&B pitch jets. 
+The same thing repeated on the other side. 
+And up in the nose are the forward RCS. 
+They had jets that fired up and out to the side and down. 
+And I mentioned the controls in the cockpit, which we did. 
+One of my great successes was getting the orbiter panels to be arranged in a plumbing 
+layout so that you could see what you were pressurizing when you turned on the helium 
+for a given let and that sort of thing. 
+Helium tanks are what pressurized in a really cleaver system of OH control. 
+That is when you are in zero G and you have propellant floating around randomly. 
+And you turn on the helium to push it toward the outlet. 
+If the outlet is uncovered, the helium is going to squirt right out. 
+But they had an elaborate system of surface tension kind of baffles that kept and trapped 
+fuel near the outlet of the tank so that when the thrust came on and all the propellant 
+went down where it should, it sort of recharged this chamber at the bottom of the tanks to 
+keep it flowing smoothly and not lose all the pressurization. 
+I remember my first impression of what reaction control jets would be like was based on science 
+fiction movies where you would see the spacecraft out there and there were little squirts of 
+jets that nudge you around. 
+And we went out to the Ground test facility at White Sands on a fieldtrip out there where 
+they actually had the forward RCS setup, and they were going to do real firings of the 
+main jets out there. 
+And we were probably a couple hundred feet away from the test setup. 
+We were out there waiting for this sequence of jet firing to start on a test. 
+And the first firing of one of the main jets, which are right up around 900 pounds thrust, 
+was just this short pulse. 
+And everybody went about three feet off the ground. 
+I mean it was like you fired a howitzer. 
+It was just stunning. 
+Wham, wham, and it just blew you away. 
+And the realization of we are going to be in the cockpit here, and these things are 
+firing right outside the windshield. 
+They did. 
+In space, the ignition transient ricochets through the structure. 
+You can hear this kind of bombing effect. 
+But once they are on, if it is a long duration firing, it is silent. 
+And the same way visually, you can see a flash when the fuel is led a little bit in front 
+of the oxidizer to make sure you don't overheat something. 
+And so, there is incomplete combustion at the ignition. 
+You can see a flash go out there. 
+But what is on during an OMS burn, for instance, when these OMS engines are firing and you 
+are looking back at the aft, you see the flash and they are on and they are pushing and you 
+can feel it. 
+But otherwise invisible is the way I remember. 
+On the other hand, there are vernier jets, little guys. 
+I don't know if they are shown here. 
+But there are little 25 pound thrusters or something used 98% of the time on orbit. 
+You really are doing that kind of thing with the vernier jets. 
+And you cannot hear those or see anything when they are going off. 
+In fact, we got everybody quiet and kind of held onto the walls just trying to see if 
+we could barely detect when a vernier jet fired physically in a cockpit. 
+Interesting. 
+The orbiter is one giant heat transfer machine. 
+Lots of calories of heat energy pumped around from one end to the other. 
+And so, there are water loops within the cabin that transfer the heat to Freon loops. 
+The fluid is pumped through the radiators to reject heat. 
+In spite of all these heat rejection systems then there are heaters everywhere, whole banks 
+of heaters to keep stuff from freezing. 
+Then for the landing and takeoff phases, there are flash evaporators that flash water and/or 
+ammonia. 
+When you are down in the atmosphere you use ammonia to cool the loops. 
+And, of course, the payload bay doors are closed. 
+And it turns out STS-3, a major test of it was test all these loops and how the structure 
+responded to long durations of given attitudes with the sun shining on one side and cold 
+space on the other side and how the structure would distort or hopefully not distort and 
+how all that system would work. 
+As it turned out, if you like lots of redundancy, this is probably the weak point I thought 
+in the whole orbiter design, we've got three engines. 
+We proved that you can get there with only two. 
+But the Freon loops, there were two redundant through the radiators. 
+And if one Freon loop pumped quick you are in a severe emergency. 
+That means stop everything and power down severely. 
+Turn off all the computers except one, get in a proper attitude and go into a panic reconfiguration 
+to come back and land. 
+Originally, the design had three Freon loops. 
+It could use one and go on with no concern. 
+But, as it turned out, the heat loads were so high and the weight criticality determined 
+that all we had electrical power to run were two loops. 
+And so we ended up with a single Freon loop which fortunately, as far as I know, never 
+failed. 
+But if it had it would have been a crash deorbit landing under severely powered down conditions. 
+While it is kind of mundane and people don't think about it as a primary system, the thermal 
+control really was critical. 
+Payload bay doors, this is a busy chart but indicates these are really complicated. 
+And you don't just go chunk close like the bomb bay on a B52 and it is closed. 
+To close the payload bay doors you get them close and then the latches along the bulked, 
+all in a zipper fashion, have to sequentially close. 
+And then you go down the center section to latch the two left and right doors together. 
+All software controlled. 
+And there was a lot of concern that we address on STS-3 particularly about whether this is 
+all going to work. 
+If you have been floating around with these pointed to dark space, would they distort 
+to where the zipper scheme would work? 
+We worried about it enough that part of our emergency training, contingency training, 
+a lot of time was spent underwater in the neutral buoyancy tank looking at a system 
+going out EVA with a series of come-alongs, you know, the kind of things you use to pull 
+the motor out a car, that kind of thing, that we could go down there and hookup and latch 
+the doors shut to actually manually get them shut and then latch them shut with these. 
+Fortunately, that has never been used. 
+And this complex system has worked good, but it was scary the first time we flew it on 
+STS-3. 
+That was a big concern. 
+What I have got here is hydraulic system. 
+Hydraulics are hydrazine powered turbines that run at some ridiculous RPM, like 200,000 
+RPM to drive hydraulic pumps back here in the backend. 
+And then they are crucial during launch because they have got to hold the elevons in position. 
+But they also have to provide the muscle to gimbal the main engines and keep you steering 
+straight during launch. 
+During entry they are what you use to fly when you get into a dynamic pressure situation. 
+Control the rudder speed brake and the body flap. 
+The body flap is a big surface that sticks out underneath the main engine bells and is 
+a slow moving trem device. 
+The body flat is always moved. 
+You go through this mach 25 to mach zero envelope. 
+And the trem conditions necessary with these big elevons varies a lot. 
+So, to desaturate the elevons and keep them basically faired with the wing, the body flap 
+is your trim device. 
+And it is like this row of tables long and this wide. 
+I remember asking to see the motor. 
+It is driven by a whole lot of mechanical advantage by a hydraulic motor. 
+A guy took me around. 
+I couldn't find the actuator for the body flap. 
+He showed me. 
+The motor was this big around and this long, a little hydraulic motor. 
+So you can do anything with mechanical advantage. 
+But it didn't have to move very fast. 
+Finally, on the system pictures here, the RMS. 
+Hopefully, you have heard about this. 
+It was built by Spara up in Canada. 
+The Canadians main contribution to the orbiter program. 
+A pretty magical device. 
+It can go on either side, but for our flights mounted on the left-hand side or the right 
+if you're looking out the back windows at it. 
+And it had joints logically called the shoulder joint, elbow, wrist joint. 
+All electric motor driven. 
+But the interesting thing was a control. 
+You had hand controllers mounted in the aft part on the right console in the back where 
+you looked out. 
+And you could work in the mode where you actually drive in the end left, right, up, down, in, 
+out without regard to whatever joint was done. 
+That is all resolved by the software. 
+And worked well. 
+The end effector was a cleaver kind of a hallow cylindrical device. 
+It would rotate inside and three cables that would be curved around the periphery inside 
+this cavity when activated. 
+I put this over a post on whatever you wanted to grab onto with a knob on the end. 
+You go over the post and then rotate the inner barrel and the cables would wrap up and grab 
+onto the post. 
+And then they would retract in to rigidize. 
+And that was the grabber on the RMS. 
+And we flew this on STS-3. 
+I will show you later. 
+Anyway, that is the subsystem review. 
+Let me show you how things went during approach and landing tests. 
+Now, let's see. 
+I have never figured out how to imbed video and PowerPoint so I am going to be doing it 
+manually. 
+Any questions while we are waiting on this to come up? 
+Well, this is the desert around where I live and a Gila monster and a Joshua tree to set 
+the scene. 
+And here you have OV-101. 
+The numbering system, as it turned out, is kind of interesting. 
+They built OV-99 as the structural test article. 
+It was strictly built to be in the lab and do all the structural testing on it. 
+the backgrounds and the desert roads to get over to Edwards in these scenes. 
+And 101 was the ALT airplane. 
+You can see kind of phony looking RCS. 
+It has, as I mentioned, only the systems that you needed to fly atmospheric flight. 
+This was a big thing getting it across the country. 
+It had a Pitot boom on it. 
+It has just simulated thermal protection. 
+Styrofoam painted to look kind of like they thought the space vehicles would look but 
+wasn't real. 
+It was put in the mating and docking device which is at NASA Dryden where I work now. 
+Hoisted it up. 
+And then the 747 and 905, the first Shuttle carrier aircraft, was pulled under and they 
+mated them up. 
+I remember flying out to Edwards and seeing this unlikely combination. 
+And the first time I saw the two together, I thought they cannot be serious. 
+But then I realized I was going to be in it. 
+There were 13 total flights. 
+This is a taxi test. 
+When you have an aerodynamic test you can sneak up, and so you do baby steps. 
+This was just a high speed down the runway to see if it would rotate and if anything 
+would shake alarmingly. 
+And that will look good. 
+Preparations proceeded for the first of the captive inert flights. 
+This is Fitz Fulton and Tom McMurtry, both real good friends, and they were the crew 
+on the 747 for this first milestone flight. 
+A lot of people were out watching and wondering if it would fly, which it did very well. 
+And off it went. 
+You notice a longer front attached structure there. 
+And the orbiter is purposely on there at angle of attack to produce lift. 
+I flew a 747 for ferry flights now and to haul orbiters back to the Cape when they land 
+at Edwards, as the last one did. 
+And the nose, that front bipod is much shorter so that the orbiter is down for less drag 
+for the combination. 
+But this setup here was so that we could get the orbiter off the top and not the tail. 
+There is a rumble. 
+The crew noticed a shaking. 
+It is still the case when you fly. 
+These vertical fins were added onto the horizontal stabs to increase directional stability because 
+the orbiter blanks a lot of flow over the normal vertical. 
+In fact, they overdid it a little bit. 
+There is too much structural stability which has resulted in the weird situation. 
+Your cross-wind limit, when you have an orbiter onboard, is greater than when it is not because 
+you have so much directional stability and a crosswind. 
+There is a strong weathervaning and you run out of normal rudder without an orbiter, so 
+you are good only to 15 knots crosswind with the orbiter on. 
+The limit is 20 knots. 
+And it is a good limit. 
+I have flown them both ways in cross winds. 
+And, indeed, at those numbers you run out of rudder as you land and are rolling out. 
+The strong weathervane intensity is leading you out this side of the runway. 
+Anyway, that looked good. 
+And so I came back and we had a big post-flight party. 
+ALT was great for parties. 
+We had 13 post-flight parties. 
+And, at the same time we were doing the ALT flights, we are developing a Shuttle training 
+aircraft. 
+This is Gulfstream II with big side force generators on the belly. 
+That is an airborne simulator. 
+The left seat is set up with orbiter instruments. 
+And the right seat was the standard gulfstream cockpit that had flown thousands of dives 
+at the ground in the SGA preparing for the whole idea of first time for sure unpowered 
+landing that you have to do right the first time. 
+And back in the simulator here for lots more runs. 
+And it was a great time because everything was brand new, very interesting. 
+This is a camera and an actual model. 
+This is before the days of computer generated video. 
+It flew the little camera down to landing. 
+And we learned a lot about [NOISE OBSCURES] 
+characteristics. 
+One that we really wondered about, when you made a lateral input to roll the orbiter in 
+the simulator, it would bang you. 
+It was this lateral lurch, we call it. 
+It would jolt you sideways. 
+And we thought this cannot be real. 
+It doesn't make any sense. 
+No airplane we ever flew does that. 
+We squawked it. 
+They came back and said the equations are all worked out so we live with it and thought 
+it was just an artifact that snuck in there and didn't worry about it. 
+Now, the captive-active started where we actually got in and cranked things up. 
+On the second flight, I was chasing in a T-38. 
+And Engle and Truly were in the cockpit. 
+And I noticed a shiny look on the side. 
+That big X on the CRT is what happens when the computer that is driving that CRT quits. 
+That is sort of the panic symbol when the X shows up. 
+Anyway, I noticed a leak, as it turned out to be. 
+We had that severe hydrazine leak. 
+Hydrazine is bad stuff to have leaking. 
+And one of the APU supply tanks let go. 
+Plus, they had an over temp. 
+We found things that were wrong that made these captive flights worthwhile. 
+If we had just gone and launched off on the first one, it could have been more exciting 
+than it needed to be. 
+We had five of those. 
+And Fred Hayes and I got the odd numbered flights, one, three and five. 
+Five more post-flight parties. 
+And then we decided we were ready to go. 
+Well, this is the last of the captive-active flights. 
+The scheme by which we plan to get off of here and not take off the tail of the 747 
+was that the 747 would go as high as it could go. 
+It could get up to around 27,000 feet with engines over-boosted. 
+Pratt & Whitney said you could go this long with extra power. 
+And then nose over and speed up to 240 knots. 
+It was climbing maybe to 190, 200 knots. 
+With a little downhill push, we got up to 
+At 240 the SEA pilots would go to idle power and air brakes up to put drag on the carrier. 
+At that condition of 240 knots and the angle of attack of the orbiter, it was actually 
+lifting more than its own weight. 
+So the result is we really dropped the carrier, as it turns out. 
+There is three-quarters of a G difference between the two. 
+And so, we got a lot of use. 
+For some reason Fred's left shoulder, he is in the left seat and he mashed the separation 
+button after Fitz on the carrier aircraft hollered "carrier ready," that is they were 
+back at idle with the speed brakes up, pushed the go button and bang, all seven explosive 
+bolts would blow. 
+Control Room was in Houston, strange enough. 
+We are talking to people back in the old JSC Control Room when we are out at Edwards flying 
+these flights. 
+It was just like they were there. 
+And we were coming up on a condition. 
+And this was in August of '77. 
+All the ALT flights happened in 1977. 
+You notice there is a tail cone on here. 
+The tail cone was flown on the first three flights. 
+That makes a big difference. 
+It smoothes the flow s that the buffet on the tail, the carrier aircraft was less, and 
+it just about doubled the L/D of the orbiter. 
+We are going to arm. 
+And we had two chases, one off to the right and in trail separation. 
+Just like the engineer said and the load cells that we had on there, testing exactly which 
+was the thing tugging before we did it, said we could do straight up. 
+This is slow motion. 
+Nothing is leaking. 
+The vortex is out at the wing tips causing condensation and away we went. 
+And simultaneous with this bang that shutters through the airplane with all these explosive 
+volts a big X on the CRT in front of me. 
+We had cue cards and we had practiced this. 
+My job, while Fred flew, he actually got a vertical clear from this chase pilot and then 
+rolled into a bank and a lateral clear from the guy that was chasing from behind and knew 
+that it was OK to push over. 
+Because we are only now at 200 knots and we wanted to get to 300. 
+And it took a considerable pushover to get up to speed. 
+Meanwhile, I am pulling circuit breakers on rate gyros and turning off accelerometers 
+at our preplanned procedure to accommodate flaws in the redundancy management. 
+When you lose one computer you also take out part of the sensors in the flight control 
+system. 
+And, to be sure that a subsequent failure wouldn't put you in worse shape, it took about 
+a minute's worth of manual reconfiguration on my part. 
+And I kind of missed the whole first part of the flight. 
+When I turned around I realized hey, this thing is flying good, it is smooth and is 
+on speed. 
+And Fred was flying. 
+We flew a rectangular pattern out of a downwind leg here as we nosed over. 
+And I got my chance to roll into a left 90 degree turn and fly base leg. 
+And, as I put the stick over to roll, we got this big lateral arch just like the simulator 
+said. 
+It just stunned me. 
+Son of a gun, they were right after all. 
+It was just the nature of something flying at high alpha and rotating about a stability 
+axis and the cockpit gets slid sideways. 
+It has big elevons so it flies like a fighter. 
+It really does. 
+And you are doing it all with a little stick that doesn't move much. 
+Anyway, we came down final at 290, I think it was, flared out. 
+My job was to put the gear down, a critical function. 
+And we are landing on lakebed 1-7 on the dry lake at Edwards which is something like ten 
+miles long, so we have pretty good margins there. 
+And Fred took the airplane back from ALT and I got to fly base leg. 
+But we touched down at about 185, I think it was, nice and smooth. 
+It was beautiful. 
+The speed brake comes out to help cushion the de-rotation, nose gear down and he raised 
+a little dust as he rolled to a stop. 
+So it was a good day. 
+Now, we had a really good post-flight party after this one. 
+And see the rudder speed brake flared there and the elevons fold up. 
+And so, now Fred truly did it again. 
+A couple weeks later or thereabouts they got their turn and they did much the same flight, 
+repeated it. 
+Oh, one thing. 
+You see the Pitot boom out there. 
+The Pitot boom is strictly on the Enterprise, put out there to get good air data out in 
+front of this big blivit of an airplane which is hard to get good measurements. 
+Let me get the next one going here, if I can figure out how to get out of this. 
+The excitement came later. 
+On STS-1, I looked out there when were on final, I had to look out and look at the Pitot 
+boom, and it is going through an arch of about three feet. 
+It was built with the perfect resonance of everything else with the airplane, and it 
+was just a blur out there going back and forth. 
+And I really thought it was going to break off. 
+Was that your only Pitot source or did you have the normal ones [OVERLAPPING VOICES]? 
+Good question. 
+Somehow we had at least inertially derived ones. 
+Everything looked good. 
+And, actually, it still put out good airspeed, even though it was a blur. 
+And I think the beta averaged out. 
+Anyway, it wasn't a problem we noticed other than visually it looked like it was going 
+to break off. 
+They changed and stiffened it up so it wasn't a problem on subsequent flights. 
+Now, you can see here we are at free flight four now which was the other crew's turn. 
+The tail cone is off and our final pressure glide slope with the tail cone on was 11 degrees. 
+With tail cone off it was 23 degrees, halves your L/D. 
+So you really are in a steep dive. 
+Normal ILS into Logan out here would be 2.5 degrees so you are coming down gangbusters. 
+And it is even worse in ALT than it was in the orbital missions which were coming down 
+with the same configuration but much heavier. 
+Heavier you've got more gravity working for you and you can fly shallower. 
+It doesn't seem to figure, but that is the way it is. 
+So 19 degrees is a normal return from orbit. 
+Final pressure glide slope we were up in the 
+Kind of catching up a little. 
+One of our jobs on the flight preceding this was to try the braking. 
+We just let it roll out on the first couple flights. 
+They wanted to do brake tests. 
+And Fred jumped on the brakes after we touched down and another resonance problem, interaction 
+between the structure and the anti-skid, and I thought it was going to break the airplane. 
+It was just violent shuttering, shaking, everything rattling in the cockpit. 
+And I hollered to Fred, get off the brakes, we are going to brake something. 
+He said no, the card says we have got to do max braking. 
+I was pleading with him to get off the brakes, which he did. 
+Easy fix. 
+When they flew the next flight here they did hard braking, and it was smooth. 
+They went in to change the resister and the feedback electrons, and that did it. 
+I mean it was instant fix. 
+So there still is reason to do flight tests because surprises happen. 
+Now free flight five, it turns out there was a little brake here. 
+We are back at Houston and Prince Charles, who wasn't married yet at that time, came 
+by on a visit. 
+And we gave him a ride in the simulator. 
+He had some flying time. 
+And he got into a horrendous PIO. 
+I mean he was out of control and crashed in the simulator. 
+And felt bad. 
+And we said that is because you're not used to the stick and everything. 
+And that was his tour. 
+Now, for this flight, he was actually out along the runway. 
+They had him out there so he could watch. 
+The objective here was to land on the concrete runway, put it right on the line, there is 
+a white line 5,000 feet down, and Fred was really working at it, putting in a lot of 
+inputs. 
+Look at the elevons going there. 
+You see them? 
+And he is making roll commands. 
+And so we logged a couple landings. 
+And down and rolled to a stop. 
+Afterwards, we called out and he came up to say hello. 
+He said oh, you made me feel good. 
+You guys did as bad as I did. 
+There he is right there with his binoculars. 
+Well, that scared everybody to death. 
+It looked worse from outside than it did in the cockpit. 
+And the flight control flaw that we found, though, was serious. 
+You've got elevons that do both pitch and roll. 
+So, in the software, when you are asking for both pitch and roll at the same time, it has 
+got to decide which one do I move? 
+This is just a supposition of what would come. 
+The software had to give priority. 
+And they decided to give priority to pitch. 
+And roll was taken second priority when you had to limit the commands to the elevons to 
+within the capability of the hydraulic system. 
+The result was a lag in roll response when you are working pitch hard. 
+And the lag was up around two-tenths to three-tenths of a second. 
+You may be aware if you studied flight control systems. 
+Any kind of system that has a quarter second delay between input and response is asking 
+for a PIO, Pilot Induced Oscillation. 
+And we had a big time in roll. 
+Fred was clanking back and forth to stop and roll trying to level the wings out there that 
+first skip. 
+I heard the controller banging over there. 
+And I suggested if you get off maybe it will damp. 
+We're doing this and, sure enough, that is what he did. 
+He stopped the inputs, the airplane damped right away and then it went OK. 
+But it was something we had to fix, obviously. 
+Here is a picture just a micro-second after liftoff on one of the last two. 
+Well, there was a decision with a lot of debate about do we go back and fix the flight control 
+and fly some more ALT? 
+But this is a huge production and it was costing time and we weren't getting into orbit. 
+A decision was made now we will do it in simulators and in-flight simulators and fix the problem, 
+but press on. 
+That was the end of ALT, at the end of which, when you do flight tests, you talk about opening 
+the envelope of an airplane. 
+Well, the envelope of the Space Shuttle is 
+And in ALT we got the four miles and 0.3 mach. 
+It is really down in the lower left corner, but worth doing. 
+Test results. 
+I mentioned as we went we had that APU fuel leak. 
+Fixed it. 
+Didn't come back. 
+The buffet lifter drag was right on what we expected, no surprises there. 
+Handling qualities were good, even with the lurch. 
+It was not a problem. 
+I mentioned the Pitot boom, the anti-skid. 
+SCA did the job, although it struggled to get up. 
+With the tail coming off, it could only get to about 18,000 feet. 
+So this was not a good program to build up your flying time. 
+It was about a total, in three flights, of about 12 minutes of flying time. 
+And the biggie I mentioned was the handling qualities and the PIO tendency that we fixed 
+with lots of studies later and changes in the way the control equations were written. 
+And, as a final thing, they did some more flights with the nose lowered down and determine 
+what the ferry flight performance of the combination is. 
+I, later after flying in space, checked out on the 747 and still fly it on the ferry flights. 
+And it does the job. 
+It burns lots of gas. 
+I figured out that the combination across the country, the mileage is about 300 feet 
+per gallon, so a football field per gallon of fuel. 
+It goes about 1.5 times its own length when we get on the gas, but it gets there. 
+I don't have to buy the fuel. 
+A lot of people said wasn't this scary, ALT? 
+Actually, from a risk standpoint, we had ejection seats. 
+If anything had gone wrong, anywhere along the line, we could have pulled the handle 
+and jumped out. 
+The scariest part of it was when we got in, and during the captive flights, we would just 
+walk up a stairway and crawl through the hatch. 
+And the same way getting out. 
+But after the captive active flights, we would land still on the orbiter. 
+And they had this cherry picker to get us out. 
+Now, the situation here is it's a round hatch hedged at the bottom. 
+They only wanted on person at a time on the end of this thing. 
+You open a round hatch and then they bring this up, the guy on the ground. 
+And he doesn't want to get too close and ding so he leaves about this much of a gap from 
+this round hatch which is 60 feet above the ground that you have got to crawl out on your 
+knees, then stand up and then make the leap across the thing onto this wobbly cage up 
+there. 
+That is how our captive actives went. 
+Where you wearing flight suits for all these tests? 
+Yeah, we were wearing flight suits and helmets like you would in a 518 or any fighter. 
+Not pressure suits. 
+We didn't have a severe cabin pressure risk at 25,000 feet. 
+Let me get into the full screen mode here. 
+I put in some thoughts about what is different when you test an aircraft versus a spacecraft. 
+With an airplane you can do little baby steps, incremental tests. 
+You can do static runs of the propulsion up to the full power in the airplane itself. 
+Then you taxi it slow and then faster and faster down the runway. 
+You can rotate the nose a little bit. 
+The first flight you will fly slow and leave the gear down and then land it soon and check 
+everything. 
+And you could hold off for a perfect day to do it. 
+And then you go faster and faster to expand the envelope. 
+If anything goes wrong you can peel off and get back on the ground quick. 
+And, as I mentioned, you can always pull the handle and bail out if things go really bad. 
+When you have a spacecraft it is all or nothing. 
+You have got to use the propulsion at its full power. 
+All the critical systems and subsystems have got to work. 
+You cannot make a quick abort. 
+Long delays like days are sometimes required to get back to the conditions where you can 
+make an appropriate landing. 
+And the weather could turn sour at the time. 
+When you are going to flight test the spacecraft you have got to have a lot of redundancy in 
+the design to allow for the bad day that has to carry it through in a considerable amount 
+of time. 
+You necessarily have got to test everything to the limit, wind tunnels, CVD, thermal vacuum 
+because the environment is lots more stressful. 
+You have got to have a lot of instrumentation so that you can tell what did go wrong or 
+be sure that everything went right. 
+You are talking about an army of controllers in a control room to pull it off with a complex 
+system like the Shuttle. 
+And lots of simulation to get everybody trained. 
+A biggie is to verify the software. 
+I mentioned the software is guaranteed to be wrong on the first release and several 
+subsequent. 
+It is just the nature of building software. 
+And so getting that checked out is a major one. 
+Procedures. 
+When we flew the orbital flight, the stack of checklists just laid on top of each other 
+was about this high, for 51F, and it weighed 
+It was called the Flight Data File. 
+And then lots of time and expense getting everybody really ready to go. 
+And being sure that when you're going into an unknown part of the envelope that the margins 
+on the flight control are adequate. 
+So the surprises and the aeroderivatives that hit you can be accommodating. 
+I have rambled on a long time here. 
+We can take the five-minute break, I can answer questions, however you want to do it. 
+Maybe it's time for a stretch. 
+Let's do a two-minute break. 
+These people are tough. 
+All right. 
+Break is over. 
+The next assignment for me was being put on an orbital flight test, and specifically STS-3. 
+A two man crew, Jack Lousma, a Marine, and myself from the Air Force, we were in pressure 
+suits, you will notice there, and on ejection seats in the Columbia. 
+This is OV-102. 
+And our countdown went smoothly. 
+This was in March of '82. 
+And this is a signature moment in your life when the SRBs light. 
+I mean it looks smooth and nice as we are flying through a cloud here on launch, logging 
+weather time I might add, but it is rough and noisy and rattley. 
+And the acceleration is right away, and it builds up to 3Gs. 
+When the main engines are throttled back, the whole 3Gs. 
+And so, it is no doubt you are on your way somewhere really fast wherever the solids 
+want to go. 
+Everything worked good right up to MECO. 
+And the external tank, as you saw, drifted away. 
+And then here come the first order of business, opening the payload bay doors so we can start 
+rejecting heat with the radiators that are mounted on the inside. 
+We are tailed down. 
+And as you watch here, we are going right over Los Angeles at the time. 
+This is just north of LA. 
+You can see LA. 
+Sorry, this is Santa Monica, LAX and  Palos Verdes right there. 
+Anyway, the first thing we had to do is get out of Theodolite, that is a sighting device 
+that surveyors use, and take a daunting number of readings on little targets that were pasted 
+around inside the payload bay and on the doors to measure where they were. 
+And we did that through the flight all the way along. 
+It wasn't fast enough. 
+Out in front of the nose there were some dark patches. 
+That is where tile were, white tile, and fell off during launch. 
+They actually found some washed up on the beach. 
+Fortunately, none of the black tile on the bottom fell off but we did lose some on the 
+top. 
+Zero G is really one of the delights. 
+There are two really good things about flying in orbit, weightlessness and the view out 
+the window. 
+And that is like nothing that you experience, even flying high-performance airplanes. 
+We had the RMS cranked up. 
+That was my job as RMS operator. 
+And we had a package in the back, the plasma diagnostic package to grab and move out there. 
+There are some things that show you the housekeeping area. 
+In the corner there is the john. 
+And long duration spaceflight exercise is important. 
+It is really not a big deal on a seven-day flight. 
+Jack is a Marine, as I mentioned. 
+He has got to have his daily ration of pushups, so here we go. 
+How about a one-handed pushup, Jack? 
+How about a no-handed pushup? 
+This is a quick summary. 
+We went our seven days. 
+And the lakebed at Edwards, they had a really wet spring, was unusable, so we went to White 
+Sands, New Mexico. 
+The first day, right as we are about to light the OMS engines to start deorbit, they said 
+hold off because this terrible dust storm is going on. 
+And then we waited a delightful day with nothing in the flight plane much to enjoy ourselves, 
+and then came down the next day. 
+Now we find another gotcha in handling quantities here. 
+Right here Jack thought the nose might be coming down too fast and tried to stop it, 
+and ended up doing a little wheelie. 
+Subsequent analysis showed that the whole response of the vehicle changes when you are 
+down on the main gear only. 
+And nobody thought of that. 
+It would seem like, well, they are worried about pitch in the air but not while you are 
+rolling on the main gear trying to de-rotate. 
+So it resulted in more software changes. 
+Another thing we learned, they were pushing for auto-land. 
+We flew the whole turn onto final and down final hands off in auto-land. 
+The program wanted to take this out of the hands of the crew, so here on the third flight 
+they had us sitting there watching the airplane fly down to pre-flare. 
+And then the first chance Jack got to grab the stick was at the last minute to do the 
+flare and landing. 
+And that was dumb when you look back, really dumb. 
+And so, now all flight commanders, if it has been auto down to 40,000 feet where you go 
+subsonic, we will fly manually all the way down to get a feel for the airplane. 
+It makes a lot more sense. 
+That is the way flights are done now. 
+Here is where we started from orbit. 
+This is how Cape Canaveral looks. 
+Right here is the shuttle landing strip that is down there. 
+You can see it. 
+And the launch pads are these two dots. 
+And so, that is where usually a shuttle flight starts and ends. 
+Here is a picture of our payload bay on STS-3. 
+And we did have a payload. 
+Previous crews had pretty much empty payload bay, but we had an environmental measurement 
+thing, a lot of instrumentation. 
+Then this PDP, Plasma Diagnostic Package that we actually had something to grab with the 
+manipulator arm, as you see here. 
+I looked around and found, I don't know if you can recognize this, but that is Cape Cod 
+back there. 
+A picture of MIT. 
+Not a good picture. 
+There have got to be lots of better ones. 
+And here is where we ended up, the White Sands area near Alamogordo, New Mexico. 
+What we learned, this is a pretty cryptic summary. 
+Training was a real problem. 
+The first two crews that flew STS-1 and STS-2 had all the attention of the training people 
+in the simulators. 
+They had priority, properly so. 
+We, on the third flight, had low priority and really struggled. 
+And what we found, when we got in the simulators, is when they didn't work right nobody could 
+explain why. 
+Many times we try on ascent and crash and burn. 
+And you always were scratching your head is this real? 
+Is this the way the orbiter flies or is it some flaw in the simulator? 
+Early on you are developing not only the orbiter but the training facilities. 
+And the people didn't understand the system. 
+We had more exposure from ALT to subsystems than the people that were supposed to be the 
+experts. 
+It was a group learning process and a long way from what happens now when crews go in. 
+And they get the straight word right from the beginning on how things are. 
+The tiles fell off. 
+Not good. 
+They changed the bonding scheme, improved the quality control and, fortunately for the 
+program, no critical tiles fell off. 
+But that was alarming. 
+We looked out there, we reported it, took pictures of it looking at these gaps in the 
+system right out in front of the windshield. 
+But Ground said don't worry, that is a cool area during entry. 
+Entry is at 40 degrees angle of attack so it is cool on top. 
+They were right. 
+Everything was fine. 
+Another tile thing was after the flight, actually, delay that. 
+It was really more after the next flight. 
+I mentioned how the ride is. 
+The first two minutes were rough and exciting. 
+The next six or seven are unbelievably smooth when you get on the main engines, and then 
+more vibration that you are getting sitting in the chairs now. 
+And it is just a steady relentless push. 
+It is just a spectacular right. 
+But you are back in the seat. 
+Had an APU oil overheat during that 3G part. 
+Actually, about two minutes before MECO, Ground called and said we needed to shut down one 
+APU. 
+We were up past the point where we could live without all three APUs running. 
+I had a chance to test what I worked on years previously with the cockpit design. 
+You are concerned about visibility when you are squashed in the seat at 3Gs and access. 
+And the APU switches, we had to put them down here. 
+And, I remember worrying specifically, if we have got to get to the APU switches, the 
+guy on the right seat under 3Gs, can he lift the helmet and look over there and find the 
+correct switch? 
+And you do not want to shut down the wrong one, one of the good ones. 
+And it turned out, I guess with the adrenaline lifting this heavy helmet at 3Gs, I did it 
+without even thinking about it and went right to the switch. 
+So it worked. 
+General habitability was good in the orbiter. 
+The first time anybody lived there for eight days. 
+A good way to think about living in the orbiter, think of it as a camping trip. 
+You go on a camping trip you don't worry about hot water, showers and all the niceties of 
+home. 
+You get in that frame of mind and it is fine. 
+The food is adequate, the facilities are OK, although in our case the toilet ground to 
+a halt. 
+It is a drum that rotates to centrifugally sling all fecal material out and contain it. 
+And it ground to a halt. 
+We were in a real camping trip for a while on that, although it worked out. 
+The arm worked great, RMS. 
+The main jets I mentioned earlier. 
+Of course, you don't use the main jets much. 
+It would be hard to sleep with them booming away, but you use the Verniers most of the 
+time. 
+Verniers are critical to smooth operation over long periods of time. 
+We spent a lot of time, for instance, tail sun. 
+For like three days we put the tail right at the sun and stayed in that inertial attitude. 
+And so it cooked the backend while the front end of the orbiter is cold. 
+We took all the Theodolite measurements, opened and closed the doors. 
+All of that worked fine. 
+The systems handled it. 
+A lot of it was ground analysis. 
+And how the temperatures were, were extensively instrumented. 
+And we did notice a strange thing. 
+Not strange but it became apparent. 
+When you are in orbit, when you are on the sunny side of the earth, as soon as the sun 
+comes up it is high noon bright, but there is no atmosphere around to diffuse the light. 
+When we were at tail sun, it is hidden behind perfectly eclipsed by the aft structure. 
+And so, there is no sun ball to be seen anywhere, even though it is bright sunny from just the 
+reflections of the structure you can see out the window. 
+I noticed, looking at the radiators, which are very, very smooth concave surfaces out 
+there and shiny silver colored. 
+It looked like there were bright diamonds all along the surface when we were tail sun. 
+And I finally figured out it was just little specks of dust on the radiators, which you 
+wouldn't even notice normally. 
+But exactly tail sun, the sun's rays are coming right down exactly tangent to that surface. 
+And the least little thing on it would flare. 
+And interesting effect which took me a while to figure out what all these bright spots 
+on the radiators are. 
+Entry on STS-3 was done to an about 1:00 in the morning landing at White Sands, New Mexico. 
+We started the entry. 
+Halfway around the world it is dark, and most of the entry was in the dark. 
+The plasma light show that happens, as you get down in the atmosphere, the ionization 
+that happens produces a spectacular scene out the windshield. 
+I mean it also had us thinking about the missing tiles that are going. 
+But a night entry is really a show. 
+The next flight was a day entry which was not nearly as spectacular. 
+I mentioned about grabbing the stick too late, unfair to Jack, and then the de-rotation. 
+Now onto part three. 
+How am I doing? 
+I might make it yet. 
+STS-51F was a whole different situation than the earlier test flights. 
+One big difference is there were seven people instead of two. 
+With seven we had to add a little bit on the patch to put the extra two names. 
+This is the ninth flight. 
+There are nineteen stars. 
+Primary experiments. 
+This was a science flight. 
+It was a space lab but without the laboratory. 
+All equipment in the payload bay full stem to stern with telescopes mostly. 
+And all the telescopes mounted on the pointing system we had were solar telescopes. 
+So we had the sun in the accurate part of the sky. 
+Here is Orion and Leo, the backwards question mark. 
+Nineteen stars. 
+A lot of symbology here. 
+A short entertaining video. 
+We had seven people, including three mission specialists, which Dr. 
+Hoffman was when he was down in Houston. 
+And we had two payload specialists, guys who were not full time astronauts. 
+They were solar physicists. 
+And they were the experts on the solar telescopes that we had and went along to fly. 
+First try here at main engine ignition ended three seconds after ignition. 
+We felt the spacecraft rock around, the noise and then nothing. 
+And we had a pad shutdown because the left engine, the automatic system detected a failure, 
+a slow-acting valve and it shut us off. 
+So we are there wondering if we are on fire and whether we ought to race out and so forth. 
+It was tense for a while but there wasn't a fire, just this automatic shutdown. 
+We crawled out. 
+We were told there would be a two-week delay, so we took the kids to Disneyland and had 
+a good time, went back home and started the whole training cycle again. 
+And came back two weeks later and got a good start this time. 
+But not after lying on our back on the pads strapped in for five hours because of some 
+software glitches that had to be fixed and computers reloaded and tested. 
+And one of our reports was five hours is the limit. 
+I mean you are lying on your back with your feet up in a pressure suit strapped in. 
+That is more than is reasonable to ask prior to launch. 
+On the way up, well, I will mention that later. 
+Here is the instrument system. 
+This baby was built in Germany. 
+It is this gimbal device that held these four solar telescopes and the star trackers. 
+Here is a physics experiment. 
+The OMS engines are lit and produces one-sixteenth of a G. 
+The thrust of the orbital maneuvering engines. 
+If you are trying to sleep, that is what happens when the OMS engines come on. 
+And you saw the water going across. 
+It is déjà vu. 
+We had the same old PDP package on this, but with a difference this time. 
+We took it out of the payload bay and brought it up here. 
+That is my right ear you are looking at in profile out the window. 
+It is crowded up there with seven people up on the flight deck all trying to get a view 
+here, but we let go of it. 
+And it had a momentum wheel in there to cause it to spin up slowly. 
+And we backed away from it and flew a couple of very challenging loops around it. 
+Here is a sequel to the hairbrush. 
+This is not me. 
+It is Story Musgrave who has the same hairdo as I do. 
+And he is getting spiffed up for the TV show. 
+That is all we did is horse around for seven days. 
+It got extended a day to eight days again. 
+And this landing was back at Edwards, runway 
+lots of heat waves. 
+This landing was by far the most forward CG because we still had all that equipment in 
+the payload bay. 
+And we were almost the heaviest orbiter landing, so getting the nose down before it fell down, 
+crashed and broke the nose gear was one of my primary concerns on this one. 
+More about the actual launch itself. 
+There is the customary view. 
+They put a camera right in close and got this really close-up view, but it was about 5.5 
+minutes after this picture. 
+We had delayed five hours. 
+It is late afternoon so very quickly heading out over the Atlantic we were in darkness. 
+And then, bang. 
+Remember the left engine got us on the pad abort? 
+Well, the center engine shut down. 
+We were at 3Gs and all of a sudden we are at 2Gs or something like that. 
+Instant square wave cutoff and acceleration. 
+Looking there and confirming the center engine shut down. 
+What happened was there are a number of sensors on the main engines. 
+The particular one that got us was the fuel high pressure turbo pump. 
+A piece of machinery running at 75,000 RPM high pressures. 
+The high-tech gear that makes the main engine so efficient, IISP, but really run at the 
+limits of metallurgy and technology. 
+The sensor that senses the output temperature was a series of four platinum wires in the 
+cavity in the output of that turbo pump. 
+They had some tendency for the wires to burn through. 
+When they burn through, they showed over-temp was the electrical result of a burn through, 
+one of these sensors. 
+Well, we had two burn throughs. 
+And the software said that must mean there are two sensors that say you are too hot, 
+I will shut the motor off. 
+And it did. 
+With no reaction we just kept going straight and smooth, but it now put us into what is 
+called an abort. 
+Well, here is the crew. 
+There are seven of us. 
+I need to practice this more. 
+But, anyway, it was a two shift operation. 
+We were going to work around the clock, so we had a red team and a blue team. 
+And I was the commander so I had a striped shirt. 
+Abort to orbit. 
+We had to call from the ground, confirm what we knew already, which means turning that 
+rotary knob to ATO, abort to orbit, kind of an oxymoron in a way. 
+It is not really an abort. 
+It is pressing on and pushing the button behind it. 
+It loads the software in to do a couple of things, lower the insertion target. 
+We had tried to get as high orbit as performance would permit, but now we are going lower. 
+Engine down costs you total performance. 
+And we also started dumping OMS fuel. 
+We had to turn on the OMS engines, and we ended up dumping 4500 pounds of OMS fuel, 
+a little bit of extra thrust but a significant loss of weight to allow the remaining performance 
+to get us to an acceptable orbit. 
+And, interestingly, the last sim we did in training in Houston, before we went to the 
+Cape to fly about two days before, was an integrated sim where we are tied into all 
+the controllers and everybody is working as a team. 
+And the very last run we had was an ATO, abort to orbit. 
+And, son of a gun, that is what we did. 
+We always had trouble starting a watch. 
+And you try to do everything internally on the crew so that if you lose communication 
+with the ground you can complete the emergency properly on your own. 
+On ATOs before, we had to start a stopwatch at the time we started the OMS dump. 
+And we had a chart to go in to find out how many minutes of OMS dump we needed to do given 
+at what velocity we lost the engine. 
+And Story's job was to do the watch. 
+In the excitement of all the other stuff we had to do to get the OMS on, we would always 
+forget the watch. 
+But this time he got the watch going so we actually did it right. 
+And we knew that when we got to where we burned out all the available fuel, which we did, 
+we went to a fuel depletion cutoff, that we would be really close to having to do right 
+away another OMS burn to get an acceptable orbit. 
+We are right on the boundary, as it turned out. 
+We dumped the right amount of OMS, every last drop of main propellant gone, we were just 
+on the boundary of not having to do the first OMS burn and we could relax 45 minutes later 
+halfway around the world to do the final circularization. 
+So it worked out good, except we were in a lot lower orbit than we had planned. 
+And everything about this space lab flight depended on the orbit, so we were into a giant 
+re-plan. 
+Here is a nice picture of the IPS. 
+Gordon, I also explain the situation of the inhibit switch on and off. 
+I don't know how much you were aware of what was going on there in the cockpit. 
+There is a switch in the cockpit. 
+You have a lot of parameters that are monitored in the software on the main engines which, 
+if they go out of tolerance, will shut the engine off. 
+In fact, that is exactly why we lost the center engine. 
+But, right after that engine shutdown, we were in a state where we really don't want 
+to lose another engine. 
+Because if, with only one left, we did not have the performance to get to orbit, we would 
+have had to have gone to Zaragoza, Spain and land in the middle of the night where it was 
+a 10,000 foot overcast and raining. 
+I mean if we pulled that off we would have deserved some kind of metal. 
+And so, as a preplanned procedure, when you lose one engine before, the point where you 
+can stagger into orbit on one remaining engine you inhibit the limits. 
+You throw a switch that says you're telling the engines to keep running regardless of 
+over-temps or anything because you take the chance, which is a big one if something let 
+go, to not be susceptible that got us for the first engine, that is a sensor failure. 
+And so we did that. 
+We inhibited the limits until we got to a point in the energy profile where we were 
+Press to MECO means that you are now at a velocity where you can make it into acceptable 
+low orbit on one engine if you should lose another one. 
+Press to MECO then the plan was we will re-enable the limits so we are not hanging it out on 
+a possible second engine failure. 
+And we would accept a second engine failure because we knew we could make it on one engine. 
+So we did that, the call came up, we went to enable. 
+And then, before we got there, we got another call from the ground that said go back to 
+inhibit. 
+Well, it wasn't time to get a full explanation. 
+We dutifully did it. 
+What they saw on the ground is more failures on the right engine. 
+Remember the left got us on the pad abort? 
+The center engine shut down on the way up. 
+And, to make everything equal, the right engine, the same sensors they can see on the ground, 
+it is not visible in the cockpit, each of those four platinum wires they saw starting 
+to go. 
+Clearly a design problem here. 
+And they could tell those were going to go and get us that second engine, so that is 
+why we went back to inhibit for the rest of the way. 
+It made a good war story, but we got there. 
+We started operating the IPS. 
+A platform built in Germany with all the telescopes. 
+These are start trackers to align where it is. 
+And this baby could point. 
+The spec was one arch second of accuracy. 
+An arch second is the size of a dime. 
+If you are standing at the capital and looking at dime at the Lincoln Memorial, that is how 
+much. 
+But, when we cranked it up, it didn't work worth a hoot. 
+They just couldn't get it to stabilize or point where it was supposed to. 
+And, for three days, the payload specialists and the MSs were in constant communication 
+with the ground. 
+And they patched the software in a major way and kept sending up new software loads to 
+get this thing to work. 
+And viola, on the third day they finally got it right, then it worked well and got a lot 
+of good solar science. 
+Just an aside, when you are looking at pictures from space, you tend to think you walk around 
+out here and the atmosphere is this big ocean of air above you, right? 
+Lots of air way up there. 
+This little bitty blue line right there, barely perceptible, there always appears on any sunlit 
+picture showing the limb of the earth, that is the same blue as the scattering that causes 
+the sky to be blue. 
+And that is how thick it is. 
+It is just this little thin shell of atmosphere around. 
+At 18,000 feet three miles up you have lost half the atmospheric pressure. 
+And that is laying on an 8,000 mile diameter globe. 
+And so that is where all of human history has happened, in that little shell over there 
+laying around the globe. 
+A philosophical point for you engineers. 
+What is flying on orbit like? 
+Well, it is one of the 215 pounds of checklist. 
+Here I am checking propellant usage against what we've got and where we are because we 
+dumped 4,500 pounds of crucial fuel that we needed to make the planned most maneuvers 
+that ever been done in the orbit on our mission. 
+We didn't want an extra blip out of an RCS thruster, and it worked very well. 
+We got through seven days and even had enough to have another day of science on the eighth 
+day. 
+Flying is mostly watching the clock. 
+Everything happens according to time. 
+And, since you have 16 sunrises and sunsets every 24 hours, you never know what time it 
+is without looking at a watch. 
+And you are looking at a crew activity plan with everything laid out. 
+And we even had an alarm system you could set in the CRT to make a tone to wake you 
+up. 
+It is a lot of clock watching to pull off a complex mission like this. 
+It is just the way life is on orbit. 
+Now, here is one of our really serious high-level scientific objectives. 
+This was the official name, the Carbonated Beverage Test. 
+I don't know if it was an MIT guy or not. 
+He was a real serious academic type. 
+An Indian I think. 
+Anyway, he built a Coke can that had a lot of pressure regulators in there and laminar 
+flow annular things. 
+So many that this Coke can only held four ounces of Coke. 
+But he talked to the White House. 
+Reagan was president. 
+And somebody on the staff approved we are going to fly these Coke cans and see if they 
+had a system to provide pop in orbit with the regular kind of carbonation and dispense 
+OK. 
+We got the briefing and we had the four stowed in a locker. 
+And I got them out at the start of the test. 
+But 30 days before launch, all of a sudden this big thing came down. 
+Pepsi got wind of this experiment and went to the White House staff and they got Pepsi 
+put on. 
+Pepsi went into a crash program to fly more cans of Pepsi. 
+Here is Carl trying the Pepsi. 
+You notice that looks a lot like a shaving cream can. 
+Well, that's how the Pepsi came out, just like shaving cream, this frothy ball of stuff. 
+I mean theirs was the last minute deal. 
+It didn't have any pressure regulators in it. 
+It just went out there. 
+Now we worried about having to make a judgment, which tasted better. 
+Well, the problem was we didn't have any kind of refrigerator so they are both warm. 
+Warm pop is not my favorite. 
+And so, they were not anything anybody fought over, either kind. 
+If you let the Pepsi float around it would coalesce a little CO2 in random fashion, but 
+the physics of it, Carl found by blowing very carefully on the edge you could get it spinning 
+up. 
+And spinning Pepsi would have the froth at the poles and the liquid around the equator. 
+And we always had a tall guy standing by in case it drifted into something. 
+This is the end of the experiment here. 
+He got it into his mouth without touching any of it. 
+We had the same PDP but, as I mentioned and as you saw in the movie, we let go of it. 
+We actually maneuvered all around the orbit and looked at the wake through the plasma, 
+let go of it. 
+The proximity ops were very extensive and challenging and many, many maneuvers. 
+That is in the Caribbean. 
+The tongue of the ocean. 
+A spectacular coral reef around very deep water. 
+Here is the Gibraltar. 
+The rock, I believe, is out on the point. 
+The Mediterranean here and the Atlantic here. 
+You've heard you cannot see borders in space. 
+Not true. 
+This is Israel this way and Egypt this way and the Gaza strip along here, which has been 
+in the news as of late. 
+And in the same area the Dead Sea, the Sea of Galilee. 
+Here is most of Israel in one picture. 
+A little closer to home. 
+This is most of New Jersey. 
+Long Island. 
+There is Manhattan. 
+Hudson River and East River. 
+There are about 10,000 copies of this picture. 
+This is Southern California. 
+This is San Diego right here. 
+Los Angeles. 
+And, in high rise print, you can see water here which is San Francisco Bay. 
+And the center of it all is the Antelope Valley right here where I live and where Edwards 
+is right here. 
+This is the San Andreas Fault right through here. 
+Closer up of LA which, at the end of 51F, we came right by Catalina Island, right up 
+the Harbor Freeway into Edwards. 
+And we went by Harbor Freeway at about mach 
+And closer up of the dry lake at Edwards. 
+And the landing. 
+Flight test results most of which I have mentioned already. 
+And, to finish up, I have reports on a memory stick here, the pilot reports we wrote as 
+crews which you can take at your leisure. 
+If you are interested, copy it off. 
+They are available. 
+Not great works of art, but the specific things that we learned on doing the flight test. 
+And these are just thoughts of transitioning into operation from test mode, which I got 
+to see the whole gamut from beginning to full operational. 
+I apologize for running over. 
+I don't think anybody minded. 
+As you see, everybody is listening very intently. 
+Thank you very much for taking the time. 

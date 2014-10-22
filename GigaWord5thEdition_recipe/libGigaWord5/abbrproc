@@ -1,0 +1,415 @@
+#!/usr/local/bin/perl
+
+###############################################################################
+# This software is being provided to you, the LICENSEE, by the Massachusetts  #
+# Institute of Technology (M.I.T.) under the following license.  By           #
+# obtaining, using and/or copying this software, you agree that you have      #
+# read, understood, and will comply with these terms and conditions:          #
+#                                                                             #
+# Permission to use, copy, modify and distribute, including the right to      #
+# grant others the right to distribute at any tier, this software and its     #
+# documentation for any purpose and without fee or royalty is hereby granted, #
+# provided that you agree to comply with the following copyright notice and   #
+# statements, including the disclaimer, and that the same appear on ALL       #
+# copies of the software and documentation, including modifications that you  #
+# make for internal use or for distribution:                                  #
+#                                                                             #
+# Copyright 1991-4 by the Massachusetts Institute of Technology.  All rights  #
+# reserved.                                                                   #
+#                                                                             #
+# THIS SOFTWARE IS PROVIDED "AS IS", AND M.I.T. MAKES NO REPRESENTATIONS OR   #
+# WARRANTIES, EXPRESS OR IMPLIED.  By way of example, but not limitation,     #
+# M.I.T. MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANTABILITY OR FITNESS #
+# FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE LICENSED SOFTWARE OR      #
+# DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS,        #
+# TRADEMARKS OR OTHER RIGHTS.                                                 #
+#                                                                             #
+# The name of the Massachusetts Institute of Technology or M.I.T. may NOT be  #
+# used in advertising or publicity pertaining to distribution of the          #
+# software.  Title to copyright in this software and any associated           #
+# documentation shall at all times remain with M.I.T., and USER agrees to     #
+# preserve same.                                                              #
+###############################################################################
+
+# abbreviation preprocessor for WSJ
+# assumes 1 sentence per line
+#
+# 1. map "x.y." -> "x. y."
+# 2. convert Roman numerals with appropriate left context into cardinal no.s
+# 3. expand abbreviations and word translations
+#	expands remaining Roman numerals into ordinal no.s
+# 4. map isolated letters: "x" -> "x."
+
+# Minor modifications by David Graff, Linguistic Data Consortium, in
+# preparation for publishing on cdrom;  Aug. 11, 1994.
+
+
+$file="abbrlist";		# default abbreviation file
+
+for($i=0,$j=0;$i<=$#ARGV;$i++)
+{	if($ARGV[$i] =~ /^-/)
+	{	if($ARGV[$i] =~ /^-v/) {$vflg=1;}
+		else {&perr("illegal flag: $ARGV[$i]");}
+	}
+	else
+	{ #	if($file) {&perr("multiple file arg");}
+		$file=$ARGV[i];
+	}
+}
+@ARGV=();
+if(!file) {&perr("no abbreviation file specified"); }
+
+if(!open(FILE,$file)) {&perr("cannot open abbreviation file"); }
+while(<FILE>)
+{	if(/^#/) {next;}	# comment
+	s/\n//;
+	if(!$_) {next;}		# blank
+	$y=$_;
+	s/^(\S+)\s+//;		# extract 1st word
+	$x=$1;
+	if(!$x) {&perr("no word: $y");}
+	if(!$_) {&perr("no value: $y");}
+
+	if($x =~ /^\*r/)		# left context for roman numeral
+	{	if(!/^[a-zA-Z]{2,}$/)
+			{&perr("illegal roman: $x");}
+		tr/a-z/A-Z/;		# map to UC
+		$romanlc{$_}=1;
+	}
+	elsif($x =~ /\.$/)			# abbreviations
+	{	if($x !~ /^[a-zA-Z][a-zA-Z\.]+\.$/)
+			{&perr("illegal abbreviation: $x");}
+		$x =~ s/\.$//;
+		$abbrev{$x}=$_;
+		if($x =~ /[a-z]/)
+		{	$x =~ tr/a-z/A-Z/;	#UC version
+			tr/a-z/A-Z/;
+			$abbrev{$x}=$_;
+		}
+		if(length($x)>$maxabl) {$maxabl=length($x);}
+	}
+	else				# translations
+	{	if($x !~ /^[a-zA-Z\.&\/-]+[a-zA-Z]$/)
+			{&perr("illegal translation: $x");}
+		$trans{$x}=$_;
+		if($x =~ /[a-z]/)
+		{	$x =~ tr/a-z/A-Z/;	#UC version
+			tr/a-z/A-Z/;
+			$trans{$x}=$_;
+		}
+		if(length($x)>$maxtrl) {$maxtrl=length($x);}
+	}
+	$n++;
+}
+if($vflg) {print STDERR "$n lines read from file\n";}
+
+while(<>)
+{ ###########################  abbrevproc ####################################
+	s/\n//;
+
+	if(!/^<\/?[spa]/)			# protect sgml
+	{	s/&/ & /g;			# &
+		s/(-+)/ $1 /g;			# -
+		s/\// \/ /g;			# /
+
+		@input = split(/\s+/);
+		@output=();
+		for($field=0;$field<=$#input;$field++)
+		{	$_=$input[$field];
+			if($vflg) {print "in: $_\n";}
+			if(/_/)
+			{	&perr2("illegal _: $_\n");
+				s/_//g;
+			}
+	
+			s/^(\W*)//;		# strip front
+			$front=$1;
+	
+			s/(\W*)$//;		# strip back
+			$back=$1;
+			if(/\.?'[sS]$/)		# possive
+			{	s/(\.?'[sS])$//;
+				$back="$1$back";
+			}
+			elsif (/^[A-Z]+s$/)	# eg Cs or Xs
+			{	s/s$//;
+				$back="_s$back";
+			}
+			if($back =~ /^\./) {$ptbkflg=1;}
+			else {$ptbkflg=0;}
+	
+if($vflg) {print "f=$front, m=$_, b=$back\n";}
+			$len=length($_);
+							# roman numerals
+			if($field>0 && $len<=5 && $front eq "" && /^[IVX]+$/ &&
+				($x=&geto()))
+			{	$x =~ tr/a-z/A-Z/;	# map lc to UC
+				$x =~ s/^\W//;	   # strip initial punct from lc
+				if($romanlc{$x})	# left context check
+				{	if($front) 
+					{	&pusho($front);
+						if($front !~ /[\w]$/)
+							{$appendflg=1;}
+					}
+	
+					if(/^I$/) {&pusho("one");}
+					elsif(/^II$/) {&pusho("two");}
+					elsif(/^III$/) {&pusho("three");}
+					elsif(/^IV$/) {&pusho("four");}
+					elsif(/^V$/) {&pusho("five");}
+					elsif(/^VI$/) {&pusho("six");}
+					elsif(/^VII$/) {&pusho("seven");}
+					elsif(/^VIII$/) {&pusho("eight");}
+					elsif(/^IX$/) {&pusho("nine");}
+					elsif(/^X$/) {&pusho("ten");}
+					elsif(/^XI$/) {&pusho("eleven");}
+					elsif(/^XII$/) {&pusho("twelve");}
+					elsif(/^XIII$/) {&pusho("thirteen");}
+					elsif(/^XIV$/) {&pusho("fourteen");}
+					elsif(/^XV$/) {&pusho("fifteen");}
+					elsif(/^XVI$/) {&pusho("sixteen");}
+					elsif(/^XVII$/) {&pusho("seventeen");}
+					elsif(/^XVIII$/) {&pusho("eighteen");}
+					elsif(/^XIX$/) {&pusho("nineteen");}
+					elsif(/^XX$/) {&pusho("twenty");}
+					elsif(/^XXI$/) {&pusho("twenty-one");}
+					elsif(/^XXII$/) {&pusho("twenty-two");}
+					elsif(/^XXIII$/)
+						{&pusho("twenty-three");}
+					elsif(/^XXIV$/) {&pusho("twenty-four");}
+					elsif(/^XXV$/) {&pusho("twenty-five");}
+					else
+					{	&perr2("illegal roman: $_");
+						&pusho($_);
+					}
+	
+					if($back)
+					{	if($back !~ /^[\w]/)
+							{&appendo($back);}
+						else {&pusho($back);}
+					}
+					next;
+				}
+				
+			}
+								# abbreviations
+			if($_ eq "St")			# St. or St
+			{	$back =~ s/^\.//;
+				if($front ne "" && $back ne "")
+				{	&perr2("Cannot resove St.: $input[$field-1] $input[$field] $input[$field+1]");
+					$x=Street;	# Wild guess
+				}
+				elsif($front) { $x="Saint"; }
+				elsif($back) { $x="Street"; }
+				elsif($input[$field-1] !~ /^[A-Z]/
+					&& $input[$field+1] =~ /^[A-Z]/)
+					{ $x = "Saint"; }
+				elsif($input[$field-1] =~ /^[A-Z]/
+					&& $input[$field+1] !~ /^[A-Z]/)
+					{ $x = "Street"; }
+
+				elsif(!$back && $input[$field+1] =~ /^[A-Z]/)
+					{ $x = "Saint"; }
+				elsif(!$back && $input[$field+1] eq '-' &&
+					$input[$field+2] =~ /^[A-Z]/)
+					{ $x = "Saint"; }
+				else
+				{	&perr2("Cannot resove St.: $input[$field-1] $input[$field] $input[$field+1]");
+					$x=Street;	# Wild guess
+				}
+
+
+				if($front) 
+				{	&pusho($front);
+					if($front !~ /[\w]$/) {$appendflg=1;}
+				}
+	
+				&pusho($x);
+
+				if($back)
+				{	if($back !~ /^[\w]/) {&appendo($back);}
+					else {&pusho($back);}
+				}
+				next;
+			}
+						# abbreviations (end with .)
+			if($ptbkflg && $len<=$maxabl && /^[a-zA-Z][a-zA-Z\.]+$/)
+			{	$x=$abbrev{$_};
+				if($x)
+				{	if($front) 
+					{	&pusho($front);
+						if($front !~ /[\w]$/)
+							{$appendflg=1;}
+					}
+	
+					&pusho($x);
+					
+					if($field<$#input || $back =~ /[!?]/)
+						{ $back =~ s/^\.//; }	# rm .
+					else			# end of sent
+					{	$back =~ s/^\.('s)/$1./;
+						if($back =~ /\..*\./) # 2 .'s
+						      {$back=~s/\.([^\.]*)/$1/;}
+					}
+
+					if($back)
+					{	if($back !~ /^[\w]/)
+							{&appendo($back);}
+						else {&pusho($back);}
+					}
+					next;
+				}
+			}
+					      # translations (do not end with .)
+			if($back eq "" && $input[$field+1] =~ /^[-\/&]$/)
+			{	$x=$input[$field+2];
+				$x =~ s/(\W*)$//;
+				$xback=$1;
+				if($x =~ /\.?'[sS]$/)		# possive
+				{	$x =~ s/(\.?'[sS])$//;
+					$xback="$1$xback";
+				}
+				elsif ($x =~ /^[A-Z]+s$/)	# eg Cs or Xs
+				{	$x =~ s/s$//;
+					$xback="_s$xback";
+				}
+				if($trans{"$_$input[$field+1]$x"})   # eg. AT&T
+				{	$_="$_$input[$field+1]$x";
+					$field+=2;
+
+					$back=$xback;
+					if($back =~ /^\./) {$ptbkflg=1;}
+					else {$ptbkflg=0;}
+					$len=length($_);
+				}
+			}
+			if($len<=$maxtrl && /^[a-zA-Z\.&\/-]+[a-zA-Z]$/ &&
+				($x=$trans{$_}))
+			{	if($front)
+				{	&pusho($front);
+					if($front !~ /[\w]$/) {$appendflg=1;}
+				}
+	
+				&pusho($x);
+					
+				if($x =~ /\.$/) { $back =~ s/^\.//; } # only 1 .
+				if($back)
+				{	if($back !~ /^[\w]/) {&appendo($back);}
+					else {&pusho($back);}
+				}
+				next;
+			}
+ 					# eg. Cs, but not As Is Ms Us
+			if($len==1 && /^[B-HJ-LN-TV-Z]$/ && $back =~ /^_s/)  
+			{	if($front)
+				{	&pusho($front);
+					if($front !~ /[\w]$/) {$appendflg=1;}
+				}
+	
+				&pusho("$_.");
+	
+				if($back)
+				{	if($back !~ /^[\w]/) {&appendo($back);}
+					else {&pusho($back);}
+				}
+				next;
+			}
+								# split x.y.
+			$x=$_;
+			if($ptbkflg) { $x.='.'; }
+			while( $x =~ /^[a-zA-Z]\./) { $x =~ s/^[a-zA-Z]\.//; }
+			if($x eq "" || $x =~ /^[sS]$/) #pattern (a.)+s? accepted
+			{	$y=$_;
+				$y =~ s/\./. /g;	# x.y. -> x. y.
+				if($x) { $y =~ s/ ([sS])$/$1/; }   # reattach s
+	
+				if($front) 
+				{	&pusho($front);
+					if($front !~ /[\w]$/) {$appendflg=1;}
+				}
+	
+				&pusho($y);
+	
+				if($back)
+				{	if($back !~ /^[\w]/) {&appendo($back);}
+					else {&pusho($back);}
+				}
+				next;
+			}
+			&pusho($input[$field]);			# not processed
+		}
+	
+		$_=join(" ",@output);
+		s/\s+/ /g;
+		s/^ //o;
+		s/ $//o;
+		if($vflg) {print "ab:\t$_\n";}
+
+#############################  lettproc  ######################################
+		@output = split(/\s+/o);
+		for($field=0;$field<=$#output;$field++)
+		{	$_=$output[$field];
+			if($vflg) {print "le: $_\n";}
+	
+			if(/^['][nN]$/) {next;}		# Spic 'n Span
+			if(/^[`'][nN]['`]$/)		# Rock 'n' Roll
+			{	s/(^[`'][nN])['`]$/$1/;	# 'n' -> 'n
+				$output[$field]=$_;
+				next;
+			}
+			if(/^[`'"]R['`"]$/)		# Toys "R" Us
+			{	$output[$field]='"R"';
+				next;
+			}
+			if(/^o'$/) {next;}		# Man o' War
+
+			s/^(\W*)//;		# strip front
+			$front=$1;
+	
+			s/(\W*)$//;		# strip back
+			$back=$1;
+			if($back =~ /^\./) {next;}
+	
+			if(/^[b-zB-HJ-Z]$/) {s/$/./;}	    # put . at end
+			$output[$field]="$front$_$back";    # of single letter
+		}
+	
+		$_=join(" ",@output);
+
+		s/ _//g;	# attach final s for Cs or AFLs
+		s/_//g;		# clear _
+		s/ - /-/g;
+	}
+	s/\s+/ /g;
+	s/^ //;
+	s/ $//;
+	if($_) {print "$_\n";}
+}
+
+sub pusho				# pusho($x): push output
+{	if($appendflg)			# global: used for fronts
+	{	$appendflg=0;		
+		&appendo(@_[0]);
+	}
+	else {push(@output,@_);}
+}
+
+sub appendo				# appendo($x): append to output
+{	$appendflg=0;		
+	if($#output < 0) {&perr("appendo: output empty");}
+	$output[$#output] .= @_[0];
+}
+
+sub geto				# geto(): get last output
+{	if($#output < 0) {print STDERR ("geto: output empty\n");}
+	return $output[$#output];
+}
+
+sub perr
+{	print STDERR "abbrevproc: $_[0]\n";
+	exit(1);
+}
+
+sub perr2
+{	print STDERR "abbrevproc: $_[0]\n";
+}

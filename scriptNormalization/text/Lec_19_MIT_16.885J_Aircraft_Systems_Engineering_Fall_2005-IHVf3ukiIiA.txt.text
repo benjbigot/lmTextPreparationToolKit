@@ -1,0 +1,1624 @@
+This will be Professor Cohen's kind of last complete lecture, although, on the last day 
+of classes the plan is we're going to take some of the time just to talk over what we've 
+done and review things. 
+And it will be really oriented towards general aspects of systems engineering. 
+And, Aaron, I will turn it over to you. 
+Thank you. 
+Today, I'm going to lecture primarily on systems engineering but management as it relates to 
+systems engineering. 
+I have several checks and balances. 
+And, of course, today I've got people from the Draper Laboratories and people from the 
+predecessor to Draper Laboratories, MIT Instrumentation Laboratory are going to check me to see if 
+I say the right thing. 
+First of all, I would like to say to you as a class that I read your last submission reports 
+and really thought they were outstanding. 
+They show a great deal of interest, a great deal of understanding and a great deal of 
+initiative. 
+And so, I really compliment you. 
+And I'm sure your final reports will be better, but they really were very, very, very good. 
+You've heard a lot of people talk previously, starting with, in my way of thinking, Dale 
+Myers who was sort of the person who started the program in Washington at the time. 
+You didn't hear from another very important man, George Miller, who was really Dale's 
+boss at the time. 
+But George is still alive, is still doing very well. 
+And you didn't hear from a lot of other people. 
+You did hear from Chris Kraft which sort of set the tone, you might say, for a very interesting 
+and understanding man who really knows what he's doing and says what he thinks. 
+But there are several other people that I would like to talk about that had a great 
+bearing on my career in terms of systems engineering. 
+There were two people, both who have passed away. 
+One is Joe Shea. 
+And Joe was a very remarkable engineer. 
+He was program manager of the Apollo Program at the Johnson Space Center, then left and 
+became Vice President of Raytheon here and then became a professor at MIT in the Aero-Astro 
+Department. 
+And I thought he maybe taught the forerunner to this course. 
+He taught systems engineering. 
+And Joe Shea was actually the best systems engineer I've ever met, so I am going to talk 
+a little bit and give you some understanding of my interaction with Joe. 
+The best job I ever had, you might say, really, is I've had a lot of different jobs, but my 
+first job was really working with the MIT Instrumentation Laboratory where I met a great 
+number of people. 
+I'm not going to mention everybody because it would fill up the time. 
+They taught me systems engineering, but had it not been for the MIT Instrumentation Laboratory 
+we wouldn't have gone to the Moon on the schedule we went on. 
+They really did a fantastic job, all these people. 
+I mean they were just you might say giants. 
+There were great people at Rockwell, at North American Aviation such as George Jeffs and 
+great people at Grumman such as Joe Gavin and other places, but I have to say that the 
+MIT Instrumentation Lab really carried the ball on understanding how to do guidance, 
+navigation and control. 
+And if you read some of the comments by George Low, who is the other person I am going to 
+talk about, George Low is another giant. 
+He says the most complicated system on the Apollo spacecraft was the guidance navigation 
+system, if you read what he said. 
+And could you really hit a target 240,000 miles away and bring it back? 
+But let me get back to Joe Shea. 
+I said he was a great systems engineer. 
+And Joe Shea taught me a couple of things. 
+One, he taught me not to be afraid to make a decision. 
+He said the fact that you are in charge, the fact that you have looked at all the information, 
+the fact that you know the details, you are the best one to make a decision. 
+And if you could make a timely decision and your battering average is a little over 60% 
+you're doing very well. 
+But the fact you made it timely and the fact that you understand it, you can make a change. 
+You can change if you are wrong. 
+And that always stuck with me, not to be afraid to make a decision. 
+Because many times as you go through your role in systems engineering you're not going 
+to have all the information to make a decision on a timely basis. 
+It is just not going to be there, especially if you do a program that pertains to advanced 
+technology, advanced research and development. 
+That is one thing that is important. 
+Another thing that Joe Shea brought to the table. 
+During the Apollo Program, before we had Joe Shea, we would sit around a conference table 
+in the early `60s trying to figure out what systems engineering was, but we couldn't really 
+explain what we had to do. 
+We didn't know what we really had to do. 
+But when Joe Shea came, he brought with him the insight of what you needed to do to do 
+systems engineering. 
+Now, this is the Apollo stack as you see in on the pad you might say. 
+The launch vehicles. 
+The launch vehicle. 
+The first stage, second stage. 
+Then you get to the lunar module, the command and service module, launch escape tower. 
+That is what it looks like on the pad. 
+Well, Joe Shea gave me probably the toughest job and one of the most important jobs that 
+I had in my career. 
+He said, Aaron, you are going to be in charge of resolving all the ICDs, the interface control 
+documents. 
+That is all the interfaces between all the stages, between the command and service module 
+and the lunar module, between the command and service module, lunar module and the stack, 
+between the command and service module, lunar module and the launch complex. 
+There were about a thousand ICDs involved in that. 
+And that was a formidable task because an interface control document you cannot design 
+without the interfaces being defined, and you cannot define the interfaces without the 
+design. 
+So it is really a chicken and the egg type of thing. 
+And it turns out that was a turning point in my career because we did do that. 
+In fact, a little sideline, a little interesting story. 
+He anointed me to do this job but didn't just leave me there. 
+He took me to the contractors, he took me to the MIT Instrumentation Lab, he took me 
+to Rockwell, he took me to Grumman and he took me to the Marshall Space Flight Center 
+and Kennedy Space Center. 
+And the funny part about it, he took me in to see von Braun, which I didn't know about. 
+I didn't know von Braun. 
+And he said, Wernher, this is Aaron Cohen. 
+We were in his big office at Marshall. 
+He said he is going to resolve all the ICDs, all the interface control documents. 
+And Wernher von Braun said that is wonderful. 
+What is an ICD? 
+So I knew I had a problem there right away that the head charge of Marshall didn't know 
+what an ICD was. 
+But that was a little bit of a sideline on it. 
+I did have the job to actually resolve all the interface control documents. 
+And that turned out to be one of my most interesting, most challenging jobs as a young engineer. 
+It really taught me systems engineering, because one of the important parts of system engineering 
+is understanding where the interfaces are and how you get the interfaces resolved. 
+And you could imagine trying to get Grumman at that time at North American Aviation and 
+MIT Instrumental Labs to agree on an interface document. 
+I mean it wasn't the easiest thing in the world to do. 
+Yes. 
+Did you have a question? 
+I was just wondering, aside from technically making sure that the interfaces are working 
+and everything, what is involved in resolving an ICD? 
+That's a good question. 
+Well, first of all, I am going to talk a little bit more about ICDs in general. 
+ICDs you can define in several categories. 
+One is mechanical or physical ICDs, bolt hold patterns, just how things bolt together. 
+The other, you might say, is electrical ICDs, what kind of electrical signals are sent and 
+electrical interfaces. 
+And the other are functional ICDs. 
+One of the big ICDs we had to resolve was a term called Guidance Reference Release. 
+Marshal had an inertial measurement unit in their instrument unit, and we had to have 
+that synchronized with our system or with the system in the command and service module. 
+What is involved in it is you sit down and you talk. 
+You have a draft ICD. 
+And we had these big meetings. 
+We had them at the Kennedy Space Center. 
+I don't know if you've ever been to the Kennedy Space Center, but we actually fill the firing 
+room with people. 
+And each group had a certain set of draft ICDs, and they would sit down in working groups 
+and decide what had to be done to get the interface compatible in terms of the three 
+phases Physical, electrical and functional. 
+And you just work out the details. 
+Aaron, probably now in the 21st century, we ought to add data ICDs. 
+Data ICDs, yeah. 
+Well, now things have changed probably a lot since I've been involved in it. 
+I mean remember Mars Polar Lander. 
+We had English units coming over. 
+Yeah, that's right. 
+And the people thought they were getting metric units. 
+So the data ICDs are also critical. 
+You know, and a lot of things are very simple and mundane. 
+I could tell you a story with the crew. 
+When we said you're going to have in-flight maintenance with the crew. 
+And we gave the crew to change out a component, but instead of taking the screw out very easily, 
+we had actually put Loctite in the screw so we couldn't undo the screw. 
+There are very simple interfaces that have to be resolved. 
+Some are mundane, some are very sophisticated. 
+I don't know if that answers your question. 
+The problem is there is no F=ma. 
+There is no closed form solution that tells you exactly how to do it. 
+You just have to sit down and work it because the design hasn't been complete but you have 
+ideas. 
+You float ideas, you negotiate, you arbitrate and then you come up with a decision. 
+The main thing is you've got to make a decision, and somebody has to be there to make a decision. 
+That was my job, to make a decision. 
+That was what Joe Shea left me with. 
+And people that know him will agree that he was an outstanding engineer but also probably 
+one of the best systems engineers. 
+Larry, do you know what course Joe taught when he was here? 
+Yes, systems engineering. 
+He taught this course? 
+Yes. 
+I thought he taught this course because I know I came up and gave a lecture for him. 
+Until he was taken ill. 
+Let me talk about another person that was very prominent in informing my career. 
+His name was George Low. 
+After Joe retired, George Low became the Apollo Program Manager at the Johnson Space Center. 
+And George was very much a disciplinarian. 
+He always had time to see you. 
+But there were several criteria in seeing you. 
+You had to tell him what your subject was, how long he wanted and why you wanted to see 
+him. 
+So when you met with him, if you asked for 
+And no matter how important the job was, if you didn't finish was you had to say in 15 
+minutes you were out the door. 
+And you only did that once. 
+But you didn't ask for too much time either because you got penalized if you said you 
+needed an hour and you only took 30 minutes. 
+So, he was very much a disciplinarian. 
+He actually, after he retired from NASA, after he retired from the Apollo Program became 
+Deputy Administrator at NASA and was very instrumental in the Shuttle Program and then 
+retired and became president of Rensselaer Polytechnic Institute. 
+So, George had a very illustrious career. 
+He passed away several years ago. 
+One incident might be of interest to you, and I recall it very vividly. 
+I don't know if everybody else does, but we were getting ready to go to the Moon on Apollo 
+This is on Apollo. 
+And you monitor all the systems very carefully. 
+And we were monitoring the inertial measurement unit in the lunar module which is right here. 
+And for some reason or other the drift rate changed fairly drastically. 
+Now, it was still in spec. 
+The drift rate was still in spec but it changed. 
+And to get to the lunar module and change out an inertial measurement unit on the pad 
+is pretty hard to do. 
+First of all, the lunar module has very little structure to it. 
+It is made out of Reynolds Wrap really. 
+I mean it doesn't have very much structure to it. 
+And so we reviewed it with all the people involved, reviewed the data and we concluded 
+very clearly that there was nothing wrong with it. 
+And so we went to George Low and we told him a unified story, the MIT people, the MIT Instrumentation 
+people, the Rockwell people, everybody, the JSC people. 
+And George Low listened very attentively and then said can you explain why it changed? 
+And we said no, we're going to change it out. 
+That is the thing that always stuck in my mind. 
+If there is something that you don't understand then you need to take some action to fix it. 
+And to me that was a very important part of my learning process. 
+And so, those were the people you might say that really had an effect on my systems engineering 
+thought process. 
+The other thing I want to talk about with you today is you heard a lot of people talk 
+that I would class as subsystem managers. 
+You heard Tom Moser talk about structures. 
+I don't know if I can recall them all. 
+Al Louviere talk about the mechanical systems. 
+You heard Bob Ried talk about aerothermodynamics, Bass Redd about aerodynamics, Henry Pohl about 
+reaction control systems, auxiliary power units and hydraulics, Walt Guy about environmental 
+control systems. 
+You heard of these people. 
+These people are what I call subsystem managers that actually, in some regards, work for me 
+and, in some regards, didn't work for me. 
+And that is what you call a matrix management system. 
+Now, I'm going to talk about matrix management. 
+Matrix management was actually a very popular management system several years ago. 
+I don't know if it is used today or not, but matrix management is a type of management 
+basically used by large organizations. 
+Primarily what it is are large projects organized with teams that work on a functional rather 
+than a project basis. 
+In other words, these people I just talked about actually had two bosses. 
+They had a boss in their engineering organization, a very famous man named Max Faget. 
+And then they had another boss, which was so famous, me. 
+And I was their boss that controlled the project's cost schedule and performance. 
+And they actually reported to me on that. 
+But they actually had two bosses. 
+And so, you do that for several reasons. 
+You do that in order to conserve resources. 
+And many large companies do that. 
+The other way of doing it, actually, would be to put all that engineering talent in the 
+project office. 
+And you could see the advantages and disadvantages. 
+I will show you more explicitly the advantages and disadvantages on that. 
+The advantages are that you have a dedicated organization. 
+The disadvantages are that when the project is over there is no place for these people 
+to go. 
+And I don't know what you use. 
+You have a matrix at the Draper Labs today. 
+I'm not that close to industry. 
+Do most companies use matrix today? 
+Yes, most aerospace companies. 
+There are too many projects that change all the time and somebody has to be responsible 
+for the people. 
+See, that's an interesting part. 
+We, at the Johnson Space Center, didn't have that many projects. 
+We only had really maybe one or two projects, but we still used matrix management because 
+there is a check and balance on matrix management which you don't get on centralized or project 
+management. 
+There is advantage to it. 
+There are some disadvantages to it. 
+His rotation lab was project-oriented at the time when we did Apollo. 
+You were project-oriented because you had one project and you were just project-oriented 
+all NASA project. 
+So, there are advantages and disadvantages. 
+I had some dealings with Ford Motor Company, and I think Ford Motor Company actually uses 
+matrix management. 
+I think most large companies use matrix management today. 
+Anyway, that's really the advantages and disadvantages of matrix management. 
+And a lot of things I have already said. 
+Under matrix management, all the people who do one type of work are in a pool. 
+For example, all the engineers in one engineering department report to an engineering manager. 
+That is what I said. 
+They all report to an engineering manager. 
+In this case, the name was Max Faget. 
+And if you do history in the Space Program, Max Faget becomes a very prominent name. 
+He was really, you might say, the original designer of the Mercury, Gemini and a lot 
+to the Apollo spacecraft configuration. 
+So, you will run into his name time and time again. 
+But, the interesting part about it is that Max and I used to go at it tooth and nail. 
+I mean his people would want to do something like a Walt Guy. 
+Walt at that time was a very stubborn person. 
+And he would want to do something and I wouldn't want to do it. 
+Well, he would go to Max. 
+And then Max and I and Walt would have a meeting at the Summit with Chris Kraft. 
+It was a common point. 
+We all went to see Chris Kraft. 
+Sometimes I won and sometimes I lost, but I learned actually to love it. 
+Even though it frustrated me, I learned to love it because there was that check and balance 
+on me that I could not do something that was going to actually be wrong. 
+Somebody else was going to catch me if I did something wrong. 
+Now, I honestly do not know today what NASA uses, whether they use matrix management on 
+the Shuttle program or on the Space Station program or how they are going to do it. 
+Do you have any idea? 
+The Shuttle was certainly much more project-oriented. 
+We don't have the same, I mean there is an engineering division at JSC, but during the 
+Shuttle that was -- It started out matrix management. 
+I think it really decreased, and there was no more Max Faget running things in that same 
+way. 
+And so that, in my mind, at least in my way of thinking, is probably one reason why problems 
+occurs, because you don't have that independent check and balance. 
+There is a very good reason why matrix management, I think, is important, even though you don't 
+have a number of projects that would cause you to do matrix management. 
+Well, this says these same engineers may be assigned to different projects and report 
+to a project manager while working on that project. 
+Therefore, each engineer may have to work under several managers to get his or her job 
+done. 
+And that is what I was saying. 
+It just turns out that you do have that type of problem in doing that. 
+Proponents suggest there are two advantages to matrix management. 
+First, it allows team members to share information more readily across task boundaries. 
+Second, it allows for a specialization that can increase the depth of knowledge. 
+You can see how, if you have a matrix manager, you can call on more resources to go back 
+to your home organization facilities in terms of testing. 
+I have worked under, and when I was in industry, total project organizations. 
+And it has a lot of advantages and disadvantages also. 
+The disadvantage of matrix management is that employees can be confused due to conflicting 
+loyalties. 
+I mean was Walt Guy loyal to Max Faget or was he loyal to Aaron Cohen? 
+Now, Max actually gave him in raises but  I controlled the dollars for the project. 
+But, you're right, that is what counts. 
+They call that pink ticket. 
+He was actually pink ticketed to Max and actually worked for me. 
+And I had to use all my persuasion to get him to do the type of job. 
+Properly management cooperative environment, however, can neutralize these disadvantages. 
+In Apollo there was one program. 
+Right. 
+For example, we had Air Force, Navy and NASA. 
+Right. 
+And we were doing accuracy evaluation for each one. 
+And we were developing the whole software from scratch for each one. 
+It was different language and different computers and you couldn't compare results. 
+Right. 
+And when you have one engineering organization that does the same at least you can compare. 
+You have the check and balance. 
+Right. 
+That's a very good point. 
+Yes, Jerry. 
+Whether you a project organization, you had your thumb on the people who had to produce. 
+In the matrix organization, off times the engineering manager would shuffle his man 
+right out from under you to another project. 
+Oh, that's right. 
+That's what I had to contend with. 
+On the other hand, my strong personality and my good will kept it from going that way. 
+And there was a certain amount of esprit de corps that they wanted to get the job done. 
+In the end it is the people. 
+It's the people. 
+It doesn't matter what organization. 
+That's right. 
+If the people are wrong, no organization is going to work. 
+Well, that's absolutely right. 
+You have to have the right people. 
+Well, that's why I brought some of these people to talk to these students because these people 
+were the people I worked with. 
+Even though we argued at times. 
+There was nobody that argued more than Henry Pohl and I did, but he is usually always right. 
+But you can learn to live with it. 
+Matrix management can put some difficult on the project managers because they must work 
+closely with other managers and workers in order to complete the project. 
+The functional mangers may have different goals and objectives. 
+I was saying this as I present these charts, but I think you can visualize that. 
+And don't hesitate to ask questions because you've got a lot of people here in the room 
+today that can help answer these questions. 
+Yes. 
+The point about checking and balance. 
+You have several managers. 
+Yes. 
+From my understanding, you have maybe a functional manager and then you have [OVERLAPPING VOICES]. 
+Well, let me tell you what I mean by check and balance. 
+Let me give you a specific example. 
+Let's say Henry Pohl on the reaction control system wanted to do more testing or wanted 
+to do more stability testing. 
+And I looked at my budget and I looked at where we stood in the schedule, and I said 
+we just cannot afford that, we're just not going to do that. 
+I made an arbitrary decision. 
+Well, Henry would be very upset about that and he would go to Max, his functional manager. 
+And Max would say boy, you're right, Aaron is crazy. 
+He would then call a meeting with Chris Kraft between Henry, Max and myself to decide what 
+we were going to do. 
+And then Chris was the final word, the man you met. 
+He's a pretty strong guy. 
+And if he agreed with Max, if Max had a convincing story, he would turn me around and then we 
+would do the testing. 
+And I would just have to find the money some place. 
+But if I could convince Chris that Max was overdoing it then I would win. 
+And normally I lost, but that is OK. 
+Do the engineers in any of these organizations out of matrix management feel that they have 
+too many managers? 
+Well, it is frustrating to them a little bit. 
+Yes, they did. 
+It's frustrating because they had to feel that they were working for two different people. 
+And it is a little bit confusing to them. 
+I mean they had two loyalties. 
+That's what I pointed out. 
+They essentially had two different loyalties. 
+One to their functional manager who paid their salaries and the other to me who really had 
+the money for the project and the schedule. 
+So, yes, it is a very tough thing to do. 
+But, as you could tell, by talking to these people that experienced it both in Apollo 
+and in the early days of Shuttle, they were very satisfied with the results. 
+That is why it is very frustrating to some of us to see the way things are going because 
+we carried over most of these people you talked to or are here in the room today worked on 
+Apollo and then went and worked on Shuttle. 
+We had the same process. 
+We had the same Joe Shea, George Low process that we did. 
+Yes. 
+Well, that's absolutely true. 
+Your decision-making process in matrix management turns out to be a little bit more cumbersome 
+than if you have direct control. 
+In other words, if you have your thumb on everybody you can get a decision pretty quickly. 
+On the other hand, you can violate some good checks and balances so you give up the process 
+of a rapid decision-making process versus having some good checks and balances. 
+Does that answer your thoughts? 
+OK. 
+I am going to leave that subject, unless there are any other questions on it. 
+Can I just bring up something? 
+Sure. 
+And I welcome your opinion on this, Elliot. 
+And that is there has been a big change in NASA recently which is affecting management. 
+And that is because NASA has gone over to what they call full cost accounting which 
+means that during all of this time the engineering organization maintained their engineers. 
+That's true. 
+They paid the salary and then they would be assigned to projects as required. 
+The system, as it's now working, is it's supposed to be much more like in industry where the 
+time of every engineer has to be billed to a specific project. 
+And if you don't have a project to bill your time to, ultimately you become redundant. 
+And so, those of you who read Aviation Week and Space News, I hope all of you do, are 
+aware that NASA is doing a lot of downsizing. 
+It puts a lot of constraint on management. 
+Now, in industry, obviously people have to be paid for. 
+But are there always enough projects to bill people to? 
+Well, there is never a situation that you have the exact number of people. 
+You're either short of many people, which is now the situtation at Draper, or you don't 
+have enough money. 
+What you do, in a place like Draper, we have our own money. 
+It's called internal research. 
+And we use some money [NOISE OBSCURES] 
+and we keep those people. 
+But those have to be people the company believes can be used in the future. 
+There is no point in keeping people that nobody wants. 
+Actually, the matrix system, and I talked about it with Jerry because we are doing the 
+evaluation, that is why I have to leave, is really sorting the people out. 
+Because when it was a big project, it was a big family. 
+The guy owned them. 
+He knows them. 
+That's true. 
+Now, you work at the function organization and we send you to work, he wants the best 
+people for his project. 
+He will say well, I don't want this guy. 
+Now, if it is a mediocre guy, we will say look, you cannot have the best. 
+But if it is somebody who is very weak we will say for one time, OK, maybe he didn't 
+get along with the program so put him in another program. 
+But if we get the feedback, it doesn't work there, we know there is a problem. 
+In that way we weeded out a lot of people that, if you have the old system, probably 
+will stay and make us less efficient. 
+NASA will be more efficient now, I think. 
+I think that is true. 
+On the other hand, it causes a lot of pain. 
+It is very difficult to let people go but that is part of management. 
+It's not just going to parties. 
+That's right. 
+Yes, there is a question. 
+I guess another angle on the "very tough to let people go" I've noticed that it is extremely 
+difficult from a bureaucratic standpoint to let somebody go in government. 
+And I'm just wondering with full cost accounting, OK, you've decided it is time for this person 
+to go, but there is just a lot of politics and bureaucracy paperwork to go through to 
+get somebody out of the organization. 
+There are civil service laws which have to be complied with. 
+It is difficult. 
+And, I have to say, I agree with Elliot. 
+In the long-run I think NASA will become more efficient. 
+Well, to answer your question, there are several ways to let people go. 
+One is if they've really done something bad. 
+You have a board and you go through it and you release them. 
+The other is if you NASA has a downsizing, which is called a RIF, reduce in force. 
+Then you can arbitrarily let people go. 
+I didn't mean to interrupt you, Jeff, but those are two ways. 
+I will just add the third way, which NASA is also doing, is you can offer what they 
+call buyouts. 
+They offer up to $25,000 if you will take early retirement, so a lot of people do that. 
+And companies, not government, have a much easier time. 
+I don't know how Draper is, but companies have a much easier time letting people go 
+than other places. 
+But that was about all I was going to say on management. 
+Now I'm going to get into, you might say, the interesting land of systems engineering 
+and talk about systems engineering a little bit. 
+My charts are sort of yellow because they go way back. 
+It turns out systems engineering has been studied a long time a lot. 
+And there are many aspects of systems engineering that some people in the room may or may not 
+agree with. 
+I've had time to reflect a little bit from my days at NASA in both Apollo and Shuttle 
+and in Space Station. 
+And I was, as I say, Director of the Johnson Space Center, I was Deputy Administrator, 
+Acting Deputy Administration under Goldin for a year, and then I taught at A&M. 
+And all that time I have had time to reflect and I have had time to do some, you might 
+say, research of what I thought systems engineering was and how you explain it. 
+I want to try to do that today. 
+People in the room may or may not agree with it but it is my thought process. 
+And it turns out that much of this information was gathered from studies done by the military, 
+mil specs on systems engineering. 
+They have spent an awful lot of money studying systems engineering. 
+And many of these charts are plagiarized, you might say, from those studies and they 
+look sort of like they are yellow. 
+And they are. 
+But let's start off with systems engineering heritage. 
+Systems engineering, as we pointed out, is not new. 
+The pyramids, you know, that was a real systems engineering problem. 
+I don't know how they did it but it was a real systems engineering problem. 
+I don't know if even Jim Nevins could do that. 
+That was a tough job. 
+Broadcasting service and standards. 
+Now, most of the time when you talk to people about systems engineering, in fact, I've done 
+a lot of research on that, they talk about systems engineering as operations research. 
+Well, I don't think that can be further from the truth of systems engineering. 
+I think it is a tool maybe used in systems engineering, but it is not really systems 
+engineering. 
+The RAND Corporation developed the systems analysis. 
+The Bell Labs telephone systems. 
+That was, of course, where Joe Shea came from. 
+Joe Shea came from the Bell Labs at the time. 
+NASA military systems, and these are mil standards. 
+And the Army. 
+And then systems engineering management guide for Belvoir Defense Systems Management College. 
+There were a lot of studies done for systems engineering. 
+And we, in Apollo, were trying to do systems engineering in the 1960s for Apollo, is when 
+we tried to start to do it. 
+By the way, these charts are not on the Web but I will give these to Jeff and they will 
+be on the Web. 
+Trans-highlighting the need for increased systems engineering, there is a need to manage 
+the total picture in the area of increasing system size and cost, but even a small project 
+has systems engineering. 
+If you can think of how you design a bicycle, how you design an automobile, I mean these 
+are very complex problems. 
+They are not simple. 
+They are really systems engineering problems. 
+But the increasing technological growth and specialization, increasing systems complexity, 
+you know, the PC is a fantastic systems engineering problem. 
+And I guess Bill Gates saw the need for a true systems engineering job and made a lot 
+of money on it in terms of what he did understanding systems engineering. 
+Increasing sensitivity to environmental factors and increasing costs of life cycle. 
+All those things make the trend in systems engineering important. 
+And, as I look at your reports, wherever you got it, I think you have a pretty good knowledge 
+of what systems engineering is. 
+So, I am not sure this lecture is going to help you that much because I think you do 
+look at it from a systems engineering standpoint. 
+By the way, my last topic is going to be cost analysis. 
+I'm sure you're waiting to hear that because cost analysis is very hard for you to come 
+to grips with. 
+And I am going to talk a little bit about how you would go about doing a cost analysis 
+which may not dot all the Is and cross all the Ts for you. 
+But I am going to try to do that. 
+We're going to take a break at about 11:00 and then I will have some time to go through 
+cost analysis. 
+Well, what is systems engineering? 
+I don't know. 
+You may not agree with this, but systems engineering is the application of scientific and engineering 
+to transfer an operational need into a description of system performance parameters and of systems 
+configuration through an iterative process. 
+Now, let me give you a needs statement. 
+When President Kennedy said we are going to send men to the Moon and return them safety 
+within a decade that is a perfect needs statement. 
+It doesn't tell you how to do it, he didn't put a cost constraint on it, he did put a 
+time constraint on it, and he told you what you had to do but didn't tell you anything 
+about how to do it. 
+That is a very good needs statement. 
+I don't know if he did that for that reason, but he gave the public and NASA a very good 
+needs statement. 
+Now, our job was to transform an operational need into a description of system performance 
+parameters and the system configuration through an iterative process. 
+And that is an exercise left to the student. 
+That is not easy to do, but that is really what you need to do. 
+Now, to integrate technical parameters and insure capability of all interfaces, that 
+is what I talked about. 
+You talked about physical, functional and program interfaces. 
+They call them different things but basically interfaces become a very important part of 
+the systems engineering process. 
+And the other factors into the total engineering are to meet cost, schedule and technical performance. 
+What is that? 
+I think Professor Hoffman talked about that. 
+That is the three-legged stool. 
+It is schedule, performance and cost. 
+It is a continuous tradeoff because you are going to have a criteria. 
+Whereas, President Kennedy didn't give us a cost, he did give us a schedule and, to 
+a certain extent, performance. 
+But he didn't give us a cost. 
+Now, as it turns out, cost always becomes a factor. 
+It always becomes a factor. 
+But those were the things that really comprised, you might say, in simple-minded terms systems 
+engineering. 
+I cannot emphasize those enough. 
+Now, I don't know if that is how you visualize systems engineering or how everybody in the 
+room visualizes systems engineering but that and the design process is really what systems 
+engineering and design is all about. 
+Now, whether we utilize that always in design of our projects I cannot say. 
+I think we could have done a better upfront job in systems engineering on the Shuttle. 
+I really think we could have. 
+I see things we could have done differently on the Shuttle today if we really practiced 
+a true systems engineering process. 
+It is very difficult to do because you can stay in this systems engineering loop a long 
+time and not get anything done. 
+There is an old adage, if you never get out of this loop, you could do something, do something 
+and do something and never get anything done, so you've got to be very careful with that. 
+What is the role of systems engineering? 
+Technical customer interface requirements definition. 
+Requirements definition sound very, very simple, but requirements definition is probably one 
+of the hardest things you have to do, is to find out what the true requirements are. 
+And, unfortunately, requirements do change as a function of time as you go through the 
+phase of the program. 
+But requirements definition is very, very difficult to do and very important to come 
+to grips with. 
+As JR Thompson talked to you, I don't know if you recall JR's review of the Shuttle main 
+engine, SSME. 
+He said had they widened the throat a little bit they would have reduced the complexity 
+of the design and development of the main engine. 
+Made it much more reliable but you would give up some performance. 
+Now, why didn't we do that? 
+Because there was a requirement to advance technology. 
+And I think JR made a very, very important point there that those are things you need 
+to look at early in the program. 
+So, requirements definition are very important, extremely important. 
+And it is very difficult to get to the bottom of it. 
+Requirements definition is a task in itself. 
+And then, of course, there is a requirements management analysis and flow down audit. 
+And then, again, you get interface management. 
+Risk management is becoming a big item today. 
+You heard Bob Siemens talk, and I didn't mention Bob Siemens. 
+He is another very, very important man in this whole era of Apollo and down to Shuttle. 
+His role cannot be stated too highly. 
+He did a fantastic job. 
+His risk management was very interesting. 
+I heard him talk not too long ago. 
+And he said that the risk management in terms of cost and in terms of human life for the 
+Apollo program was accepted, not only by the executive branch, the legislative branch but 
+the public. 
+So, risk management needs to be accepted. 
+And that is one thing that is very, very important. 
+Understand what the risk management is in terms of life, in terms of cost and in terms 
+of what it is going to do for you. 
+So, risk management is very important. 
+And it is the function of the systems engineer to bring that to bear. 
+Performance management, design process, so forth and so on. 
+Technology need identifier. 
+I had the reputation of not wanting to advance technology mainly because of budget constraints 
+and I wanted to go with given technology. 
+Is that right? 
+I don't know if that is right or not, but the point being is that technology can drive 
+a program. 
+The fact that you have to develop the technology can drive the program. 
+These are what the role of a systems engineering needs to do to figure out how they are going 
+to handle technology, if they are going to advance technology or not. 
+What is a system? 
+A system is a complete solution to a defined need in its full environment over the prescribed 
+life. 
+The system includes hardware, software, documentation, human resources, nonhuman resources, esoteric 
+factors. 
+It includes almost everything you can think about. 
+Software turns out to be a big driver today. 
+Software in the system turns out to be one of the largest drivers. 
+Some of you asked me, and I hope it helped, what was the cost of the Shuttle Guidance 
+and Navigation System. 
+I don't know who asked me for that. 
+Somebody asked me. 
+Was that helpful to you, the number we gave you? 
+The Shuttle. 
+They wanted to know the Shuttle. 
+But the fact is it didn't separate the cost of the software and the hardware. 
+And the hardware came on pretty much on cost but the software was a lot higher. 
+It was exponentially growing. 
+Software turns out to be, I don't know, Jerry, do you want to say a word on software? 
+Well, the problems of software were the issues of validation, verifying tests and retests. 
+And then every once in a while somebody would come along and say well, but we really ought 
+to add this. 
+And adding on was a killer. 
+Well, as Bill Tenel used to say, it is sort of the garbage dump for things you couldn't 
+do in the hardware. 
+The number that I remember is at some point, when you wanted to change one line of code, 
+IBM wanted $1 million. 
+Each time for one line of code because they had to change the whole software, so that 
+is why they have the software control mode 
+That's right. 
+I remember when I retired, Dave Leestma, who was head of the Astronaut Office at the time, 
+said that he thought he could get a change through. 
+I forgot. 
+It was something to do with return to launch site. 
+I don't remember what it was but it was some kind of program he wanted to put in. 
+He talked to everybody and they all approved it, and it came to me and I turned it down. 
+And he said at my retirement party, now Aaron is leaving, maybe we can get it approved. 
+But software changes do increase the cost of the program. 
+A simple system example. 
+Space Shuttle. 
+Your house. 
+Electronic calculator. 
+Freeway. 
+The Golden Gate Bridge. 
+Rapid transit. 
+Computers. 
+A system really involves everything. 
+Almost everything you can think of is a system. 
+The other thing that is interesting is this chart right here. 
+You may have seen this charge before, you've seen it different ways, but the importance 
+of systems engineering, the systems engineering is doing the right thing right. 
+As system increase in complexity and value, early system decisions become increasingly 
+important. 
+It shows that actually in the impact of program funding, when 10% of the program funding is 
+accomplished you have actually committed 90% of your dollars, systems engineering systems 
+have actually committed 90% of your dollars, so that means early decision-making on systems 
+engineering. 
+And whether you were going to make the engine throat wide or not actually impacts the program 
+very heavily earlier. 
+That is why systems engineering is so important. 
+Systems engineering is requirements in solution management. 
+Understanding analysis, allocations, so forth and so on, which really affect performance, 
+cost and schedule. 
+And there is the three-legged stool again. 
+This really says that if you remember certain parameters, the continued tradeoff between 
+cost, schedule and performance is really one of the most important things you can understand 
+that is really a systems engineering job. 
+One thing I would like to talk about is the attributes of a systems engineering. 
+Systems engineers are very hard to come by. 
+They really are very hard to come by, and it is almost hard to tell you how to become 
+one. 
+I mean there are courses you can take, but one thing I would suggest you do, if you really 
+want to be a systems engineer is you specialize in one technical area. 
+Whether it be structures, whether it be thermodynamics, heat transfer, guidance and control, control 
+systems, specialize in one area. 
+That is the first step. 
+You need to be competent and show your competency in one area, but then you need to broaden 
+out a little bit and look at how people actually operate. 
+Good judgment of technical competence in others. 
+Ability to build trust of team customer management. 
+And this is what this course is about, to work as a team and to have relationships with 
+each other. 
+I don't know if it was true at MIT, but many years ago in universities it was very bad 
+to work as a team because you tended to rely on each other. 
+And they wanted to have independent research, independent development, so students were 
+not really encouraged to work as teams. 
+I don't know if that is true at MIT but it was certainly true at some universities I 
+knew. 
+I don't know. 
+Was it true? 
+Well, we've gone through a major shift. 
+And I think the rest of the country is as well from individual to team effort. 
+Yeah, team effort. 
+Particularly in engineering. 
+That's right. 
+When I first went to A&M, they thought it was terrible. 
+Some of the professors thought it was terrible working as teams. 
+The difficult that all the top universities have is you guys are all admitted on the basis 
+of your high school or I guess in graduate school your college grads, so those are individual 
+efforts that got you here. 
+Now we're saying put the emphasis on team activity. 
+The Japanese have traditionally done that far better than we have. 
+That's right. 
+I just wanted to strengthen what you said because a lot of people think that a systems 
+engineer should be a "Jack of all trades" and should know a little bit about everything. 
+Absolutely not true. 
+You have to be very good in one specific area, and that is your baseline. 
+That's right. 
+The most difficult thing in engineering as a manager is to make a decision when the guy 
+who comes to you knows about the subject more than you because he is the expert. 
+And the only way you can do it is by knowing how an expert behaves. 
+And, in your area of expertise, you can make that judgment. 
+Some people are confused on this, but I think that I 100% agree with you. 
+You have to be an expert in one field, otherwise it won't work. 
+I should say there have been a lot of discussions among the faculty in the Aero-Astro Department 
+and perhaps in other departments as well as to when systems engineering should be taught. 
+Should it be taught at the undergraduate level? 
+And right now the guiding philosophy in the Aero-Astro Department is to devote undergraduate 
+time really to building up expertise in the individual subject matter, as Elliot said. 
+The idea being that wait until you really have a good grounding as an engineer in one 
+or more specific subjects, and then, at the graduate level, that is time enough to actually 
+look at systems engineering as a discipline so that you can draw on the expertise that 
+you have built up. 
+That is not a universally held decision. 
+And there are people who make a good pedagogical case that you can actually start teaching 
+principles of systems engineering right from the freshman level. 
+And, in the whole CDIO philosophy that our department tries to follow, we try to develop 
+these principles which we think will then be useful as you get into more technical aspects 
+of systems engineering levels. 
+We always try to balance the technical expertise with the systems level thinking. 
+Yes, Jerry. 
+I would like to point out that in the organizing teams, a key important feature of that is 
+to have that systems engineer who is organizing the team and setting up the meetings to know 
+why and who should be attending. 
+I attended a number of Space Station meetings when I had these product teams where every 
+company in the world was there. 
+And you had 50 people sitting around and there were only four who were real contributors, 
+and the others I could swear were falling asleep. 
+You fundamentally have to have good management in team setups. 
+Well, you're absolutely right. 
+Of course, one of the problems with Space Station, in all honesty, if you had tried 
+to devise a management system that was complex the Space Station system would have won because 
+it is probably the most complex management system. 
+In fact, I tried to explain it to the Bob Gilruth one time, who is another man I should 
+have mentioned. 
+He was the Director of the Johnson Space Center. 
+And he came to see me and his eyes just rolled back in his head. 
+He couldn't figure out what I was talking about. 
+So, you're right. 
+But, you know, the other person that agrees with you, Elliot, is Chris Kraft. 
+Chris Kraft feels very strongly about becoming an expert in one field before you tackle something. 
+Self-motivated. 
+Able to motivate others. 
+In matrix management, that becomes a good systems engineer, if you're able to motivate 
+others. 
+Methodical. 
+Analytical. 
+Intuitive. 
+Questioning. 
+Open-minded. 
+I think that is one of the key points, being open-minded. 
+If you make a mistake be ready to accept the mistake and correct it and make a change to 
+it. 
+That is very important in systems engineering, especially if you have to make some important 
+decisions. 
+Confident. 
+A good communicator. 
+High level of integrity. 
+So, that is really some of my background on systems engineering. 
+Now, let's talk a little bit about more how you go about doing it. 
+Thank you, Elliot. 
+A system is generally considered a conglomeration of objects that perform a specific function. 
+And you can think of those. 
+I mean you can think of all those in the laptop computers you have, many things like that 
+which we talked about. 
+And I mentioned this before. 
+This is what I say. 
+It is a postulate or whatever you want to call it. 
+What is important for the whole system is nearly identical to what would be the best 
+in the long-run for each of its components. 
+However, what is best for each individual constituent may not be the best for the whole 
+system. 
+And so that really is something you need to keep in mind. 
+That is really the postulate of systems engineering. 
+It may be the right thing for the system but it may not be the right thing for the total 
+configuration. 
+And the systems engineering process is the customer/user need analysis, mission requirements, 
+functional analysis, system concept, development, tradeoffs, design. 
+Now, this is systems engineering as it pertains to design. 
+Now, there is systems engineering as it pertains to operations, but this is systems engineering 
+as it pertains to design. 
+Design optimization, requirements flow down, telecommunication, design insurance, verification 
+audit and then you go through this iteration process. 
+In fact, this is what you do in your mind. 
+I am sure you do that. 
+When I taught this, when I spoke about this to several professors, my friends at Texas 
+A&M, they say well, there is nothing in this. 
+They said it is all commonsense. 
+And, to a greater extent, it is commonsense. 
+But the problem is do you really practice it? 
+Do you really have a process in place and do you really practice it? 
+And we find that we don't really practice it too well. 
+And we say this over and over again. 
+But the three factors of systems engineering will be the cost, schedule and performance. 
+And that is the famous three-legged stool that we talked about many times. 
+But that really is the essence. 
+And, you as an engineer going to work and getting paid, that is what you're going to 
+be paid for, getting a product out the door that essentially meets the cost schedule and 
+performance. 
+You look quizzical. 
+Excuse me. 
+No, go ahead. 
+The statistic that you gave. 
+After 10% of the project funding then you have 90% of your requirements defined, do 
+you think that function there might change today now that we have faster prototyping 
+tools? 
+It could change, yes. 
+This was done some time ago. 
+Technology is changing. 
+Rapid prototype is changing. 
+CAD design. 
+A lot of things are changing. 
+It might be not quite as dramatic, you might say, but it is still going to be there. 
+A lot of your system engineering decisions are going to affect your end product very 
+early in the game. 
+And one reason why that 90% gets locked in is because of the difficulty of making changes 
+once you've got all the plans drawn. 
+That's right. 
+And so, to the extent that CAD systems make it easier to change drawings and propagate 
+changes throughout the system, it may be that making certain changes are less expensive 
+than they might have been. 
+As Jerry said about software, you start changing your software around, you've got to do re-verification 
+and so on. 
+Certainly, to the degree that modern techniques might make things more flexible, that number 
+might get pushed down a little bit. 
+But generally, once you've gone through preliminary design review, you have basically set the 
+parameters of your project and things have a momentum and it really does get harder to 
+change. 
+And, of course, once you've gotten to the critical design review -- That's right. 
+At that point you're starting to cut metal. 
+And then, once you've actually started to build something, the price of changes goes 
+up astronomically. 
+When we did the Apollo Program we started in '61. 
+It is my guess that by '64, and not too far into '64, I remember June of '64 we had the 
+implementation meetings with Apollo. 
+By that time all the hardware definition was in place. 
+That's right. 
+The program went on after that. 
+And the only thing that kept growing or changing was software, but the basic hardware picture 
+was pretty much the nail was in, in 1964, three years into the program. 
+Well, as Jeff said, once you start cutting chips and start cutting hardware it is pretty 
+hard to make changes. 
+If I could clarify. 
+What exactly is it that is being locked in? 
+Well, usually your requirements. 
+Primarily what your requirements are is the big driver. 
+And then, once your requirements are defined, you can actually start your iterative process 
+of design. 
+Once you get your functional performance requirements defined, you then start your design iteration 
+and you start locking into things and, pretty quick, you start cutting hardware and software. 
+Hopefully you have gotten a sense, from all of the lectures on the subsystems of the Shuttle, 
+the degree to which they interact with one another. 
+That's a good point. 
+I mean imagine if halfway down the road there had been a major change to the thermal protection 
+system which had bumped the weight up by, say, 20%. 
+Imagine the ripples that that would have affected. 
+Or, if somebody wanted to change the requirements for cross-range, after you had done the basic 
+design of the system. 
+Let me give you a very real example in that. 
+We had the wing basically designed. 
+And you know that the landing gear comes up in the wing box. 
+Well, we came to the conclusion that if you blew one tire on touchdown you could blow 
+all the tires. 
+And so, what they wanted to do is increase the number of tires that went into the wheel 
+well. 
+And that was pretty late in the program. 
+I mean we had already decided, from the systems engineering point of view, we were going to 
+have the number of wheels we had and go up into the wheel well. 
+But then came along a study that showed well, if you blew one tire you're liable to lose 
+the vehicle on touchdown. 
+They wanted to go put more tires into that wheel well. 
+Well, can you imagine what that would do? 
+That would be redesigning the whole wing when the wing was built, so we lived with that. 
+We lived with that with some risk, but you didn't make the change to it. 
+That's the type of thing that gets into it. 
+And I'm sure there are a number of items I could talk about that would cause that problem 
+to occur. 
+Sometimes if you come up with a problem that really would be fatal, you've got to change 
+it. 
+You've got to stop, yeah. 
+And one of the examples being the O ring seal on the solid booster. 
+In retrospect, people have said we should have changed that at the beginning. 
+Now, who knows? 
+If on one of the Shuttle flights a tire had blown and we had lost the entire vehicle, 
+there would have been an accident investigation board. 
+And they would have gone back and said we were flying with an untenable system. 
+And we should have made that change. 
+And that is where the engineer who has become a manager is really faced with a tough potentially 
+life or death decision. 
+And there is always an element of risk, but if you try to take out all the elements of 
+risk you will never fly. 
+Well, that's absolutely right. 
+And so how do you make that judgment? 
+As I said, that is why they pay you such a big salary. 
+Well, the interesting part about that is after the Challenger accident my deputy, who became 
+a very good friend of yours, Paul Whites, who was an astronaut, a Navy fighter pilot. 
+And our job was to get the Shuttle flying again after the Challenger accident. 
+I thought I brought it with me. 
+We found this picture of a ship on a very ominous sea. 
+It said a ship in the harbor is safe, but that is not what ships are built for. 
+You could make it so safe that you could never fly or you could never fly cross-country or 
+you could never take a train. 
+You've got to use some judgment. 
+And, of course, that risk today, that risk level today is not very well accepted. 
+A point I was trying to make is that during the Apollo Program it was accepted. 
+We knew we had to take risk. 
+Tell me when you want to break, Jeff. 
+Do you want to break now? 
+This is probably a good time. 
+OK. 
+We will take about a five minute break. 
+I want to get to cost, but I have got a few more things to say. 
+Let me talk about process. 
+We had a contract with Ford Motor Company, and I showed this to Ford Motor Company of 
+a design process I would go through. 
+And they said that is very interesting, we studied for a long time and this is exactly 
+what we use to understand the need. 
+And the need was not the Ford Edsel. 
+That was not a good needs statement. 
+But you need a need, you need a need analysis 
+Well, I tell you. 
+You need to talk to Henry Pohl. 
+Henry Pohl, who heard lecture, still has an Edsel. 
+Henry is probably one of the few people that still has an Edsel in his garage. 
+Henry has a lot of things like that, but Henry still has an Edsel. 
+But you need to do a need analysis, understand what the need means. 
+You need a function structure. 
+And, actually, in some of your reports I saw very good examples of all these. 
+Now, maybe not in all the reports, but I saw somebody talking about the needs, somebody 
+talking about needs analysis, somebody talking about function structure requirements. 
+The hardest thing for engineers to do, especially young engineers to do, is to make some assumptions 
+and constraints and do some preliminary calculations. 
+It is very difficult for them to do that. 
+They like to see F=ma. 
+And I once mentioned that to Joe Shea, and he said I am glad you were still on your formula 
+when I talked about F=ma. 
+You need some calculations and then you need to do some conceptual designs. 
+And that really is, you might say, the design process. 
+And you can use various forms of it, but that is probably the best form of it you can think 
+about. 
+Systems engineering. 
+Interdisciplinary activities. 
+Customer need. 
+Functional identification requirements. 
+Iterative design process with reviews at various stages. 
+Conceptual, preliminary and final designs. 
+And that is what Professor Hoffman was talking about. 
+As you go downstream very quickly on that it becomes harder and harder and harder to 
+make changes. 
+Let me now stop with systems engineering, not that I couldn't go longer. 
+But let me stop with systems engineering and talk to you about a subject you're probably 
+having more problems with than anything, and that is how you do a cost analysis. 
+And, unfortunately, I am not going to give you a closed form solution for it. 
+There is none. 
+Not only that, I did the 90-day study when President Bush was president. 
+I stood on the steps of the Smithsonian. 
+Dick Truly appointed me to do it. 
+And that study was really paned by everything. 
+Because they said give us a cost analysis. 
+And I really thought they wanted to know what it was going to cost so I told them. 
+Well, they didn't like it. 
+And, in all honesty, I really wasn't that high because it was a 30-year project. 
+I gave them the cost for a 30-year project actually building launch vehicles, technology. 
+But, nevertheless, I had my day in the barrel on cost analysis. 
+Let me talk a little bit about cost estimation techniques. 
+It turns out some of you were trying to use it. 
+Here are the cost estimating techniques. 
+Expert interview. 
+You talk to an expert in the field, if you can find one. 
+Parametric analysis. 
+I am going to spend most of my time talking about parametric cost analysis because I think 
+that is the one that pertains to an engineering design course. 
+Parametrics. 
+Because it is in terms that you understand, weight, performance, that type of thing. 
+I am going to talk about that. 
+Analogies. 
+And then the engineering which is really, you might say, the grassroots or the buildup 
+of what it is going to cost for engineering hours, manufacturing hours and that type of 
+thing, which is pretty hard to do. 
+I am going to go through those. 
+Now, some of you have tried to do some of these. 
+Some of you have tried to call contractors to find out what a particular thing was going 
+to cost. 
+Some of you have tried to find out what the Shuttle Guidance and Navigation System cost. 
+You were trying to do it, but it's not easy to come by. 
+You call a vendor and he says well, he will quote you, but he wants to know what you're 
+going to use it for. 
+It is hard to do. 
+I know it is very, very hard to do. 
+And they want to know how many hundred you are going to buy. 
+I don't minimize the job you have in trying to do a cost estimate, but you've got to recognize 
+that, as an engineer and you go out and start to work, they are going to want to know what 
+this thing is going to cost you and what allies you have to make. 
+Now, these are the cost estimating techniques over the project cycles. 
+You can see, as the project goes along, you have this so-called parametric method, analogies, 
+judgments, system level CERs, cost estimate relationships. 
+And that is a very key thing, cost estimate relationships. 
+I am going to talk more about that, but let me tell you what a cost estimate relationship 
+in a very simple-minded approach is. 
+Let's say you're going to go buy a house. 
+What is the first thing you want to know about buying a house? 
+How many square feet do you have, right? 
+You take how many square feet you're going to have and you usually know about what it 
+cost per square foot in the area you want to buy a house in. 
+You multiply that and you get a rough estimate of the house. 
+Now, there is another factor that goes into that. 
+There is the culture. 
+Where you are going to build this house is going to affect the cost per square foot. 
+If you build it in a very expensive neighborhood 
+because I know Houston. 
+If you're going to build it in Clear Lake where NASA is, it is one culture. 
+If you build it in River Oaks where the very wealth oil people, it is another culture. 
+The cost per square foot in Clear Lake is much lower than the cost per square foot in 
+Clear Lake. 
+You can get a rough estimate, but that is a very simple-minded CER. 
+It is a cost estimate relationship. 
+They become very, very complicated when you talk about past history, when you talk about 
+weight of spacecraft and so forth and so on. 
+I will develop a little bit of that. 
+General subsystem CERs and calibrated system CERs. 
+But these are the parametric methods. 
+And you can see where they are used, analogies and judgment. 
+And they are used for a certain period of time. 
+Then, when you get to the phase B or CD, you talk about component buildup estimates, detailed 
+estimates and vendor quotes. 
+That is sort of the schedule. 
+And this was provided by the cost technology over the project cycles by the Lunar and Mars 
+Exploration Office. 
+That goes way back. 
+It has abolished and now restored again. 
+So, that is the cycle you go through. 
+And, of course, you're in really the phase A so it is going to be pretty hard for you 
+to do the direct methods. 
+Even though you might try, it is going to be pretty hard for you to do that. 
+You almost have to use some type of a parametrics. 
+And I am going to talk about how you do a parametric. 
+I am going to talk to you about how you do both of them. 
+And this can get you into more trouble. 
+Cost estimates get you in a lot of trouble. 
+How many in here are familiar with what we call a work breakdown structure? 
+OK, good. 
+Work breakdown structure is really the management tool that is needed in doing a project. 
+Whenever you get a project you form a work breakdown structure which is a hierarchical 
+breakdown, the work necessary to complete a project. 
+Work breakdown structure elements should be identified by title, by numbering system that 
+performs the following functions. 
+It identifies the level of the breakdown structure element, it identifies the higher level to 
+which the breakdown structure would be integrated and shows the cost. 
+That is the key thing. 
+It shows the cost account number of the element and how much it costs, how much labor hours 
+is going to take. 
+That is a very, very important tool. 
+In fact, when you go out and work in industry, actually, if you become a member of a work 
+breakdown structure, you're graded on how well you perform under this work breakdown 
+structure. 
+That is the tool they grade you on. 
+We will put these charts on the Internet. 
+Roll of the work breakdown structure. 
+Project and technical planning and scheduling. 
+Cost estimating and budget formulation. 
+Project status reporting and plans such as specifications and drawings. 
+Now, those that raised their hands, where did you learn to do work breakdown structure? 
+Can anybody answer me? 
+Where did you learn to do that, those that said you were familiar with it? 
+Yes, sir. 
+I learned it here at MIT. 
+Did you? 
+Very good. 
+They taught you. 
+That's very good. 
+What course was it? 
+It is not a course. 
+It is my research. 
+Oh, your research. 
+Did you find it hard to do? 
+I found it initially difficult, but once I realized how to work it, I definitely saw 
+the benefits of that approach. 
+Very good. 
+Well, it is an important tool that you need to do. 
+And that is why it is probably a little hard for you to do cost estimation because you 
+are not used to some of these things you need to do to get the cost done. 
+Well, some of the basic elements of cost estimation is understand the product, develop a detailed 
+work breakdown structure. 
+Did you do that for this project? 
+No. 
+That is OK. 
+I didn't mean to put you under the gun. 
+Understand the development of the culture. 
+Understand the culture. 
+It turns out the NASA culture is pretty high level because it does involve risk. 
+And I will give you a little story about. 
+Somebody asked von Braun one time why NASA had to gold plate everything. 
+He said because you made it out of pure gold it would cost too much. 
+It is not that they gold plate everything, but it is that you really have a life concern 
+in a very hostile environment. 
+You have to understand the development culture. 
+Gather data from close analogs, develop the cost estimate relationships. 
+There are textbooks that show you how to develop CERs. 
+There is a large society called parametric cost analysis. 
+And in that you can get how to develop CERs. 
+I am not suggesting you necessarily do that because it is very, very time consuming, but 
+just know that they do exist. 
+There are, by the way, very sophisticated computer programs, which I want to talk about, 
+that develop the CERs for you based on inputs you give them. 
+These programs are very expensive. 
+One is called PRICE. 
+I will show you what the other one is. 
+And it was actually developed by RCA. 
+It now is owned by the Martin Company. 
+Or was owned by the Martin Company. 
+Group CERs according to the work breakdown structure. 
+And you need to quantify the risk and the method. 
+Estimate the cost, spread the cost and do a reality check. 
+Those are some of the things you need to do. 
+Now, understanding the costing and the analysis process, as I said, you need to understand 
+the project, participate in the design team activities. 
+Scoping, inheritance and complexity. 
+Identification of content, schedule and goals. 
+Collecting cost, estimating inputs by weight statements, technical characteristics, preparing 
+the estimates, CERs, translating labor hours and dollar hours. 
+And this is a lot of details that you are not going to have time to do, but you do need 
+to understand the complexity that doing cost analysis entails. 
+It is very, very difficult and very hard to do. 
+And you have groups set up to do that. 
+But, on the other hand, engineers working on a project are going to be called upon to 
+do it because you are the best source of information that they have to do it. 
+Here is the basic building block of the parametric cost estimating, is the relationship of the 
+cost estimating relationship. 
+And the dependent value variable is cost. 
+The independent variable is something that you can understand. 
+It is weight, power, ISP and so forth. 
+They are specific engineering terms. 
+And there is some relationship between weight, certainly for structures, there is certainly 
+a value based on historical data points of weight of the structure, the type of materials 
+and so forth on the CER, the cost relationship. 
+So, that is how it is developed. 
+A lot of students had a very difficult time using this program because they didn't know 
+how the CERs were developed. 
+It frustrated them because here was this magic program that calculated the CERs for them. 
+Right, Josh? 
+Josh is one of my students. 
+And they had a very difficult time trying to understand how to use the program because 
+they couldn't understand how to do the CERs. 
+But there is a methodology in it. 
+And there are many books that explain it. 
+The other thing that is important, as I pointed out, is the cultural variable. 
+The cultural variable is this. 
+See, this is one, unit dry weight. 
+And it can show us the total cost, but it can show that for aircraft you're on one culture 
+plane, on an unmanned spacecraft you're on another cultural plane, on manned spacecraft 
+you're on another cultural plane and on a planetary spacecraft you're on another cultural 
+plane. 
+That is a very big issue. 
+One of the issues with NASA they say, to get the cost down for NASA, is you need to change 
+the cultural plane. 
+Of course, if you change the cultural plane you probably have to give up something. 
+You probably would give up some risk in terms of safety or margin. 
+So, you have got to recognize that the cultural variable is a very strong indicator. 
+Are you happy to note that the aircraft is so low and everybody flies on an airplane, 
+but that is the cultural variable that it shows. 
+For a structure, you can see how the structure varies based on the cultural plane. 
+When you were talking about like using square footage as a rough estimate for a house, and 
+in the space business we do use weight as kind of a substitute. 
+You can translate from weight into cost. 
+And yet people always point out, well, yeah, but a kilogram of aluminum structure costs 
+a lot less than a kilogram of computer chips. 
+But, nevertheless, when you put everything down when you're designing a planetary spacecraft, 
+they do have these estimated relationships. 
+If you're going to have a project which lands 
+Mars, we do have these relationships. 
+Because, in general, we figure that the ratio of hardware and software and computer chips 
+to aluminum and all that is roughly similar. 
+But if you are going to try to build something that is fundamentally new, which involves 
+a lot of new technology, then of course you can go way off of these rough estimates. 
+To get a good understanding, you might say a very quick understanding, you might go to 
+the NASA website and get parametric cost analysis. 
+It will give you a very good understanding of what you can get. 
+And you can get some of these programs off the Internet today. 
+They are not very sophisticated but they do have some CER relationships, as Jeff was talking 
+about. 
+It might be a little bit more difficult for some of the items. 
+Structures would be an easy item to do but, unfortunately, I don't think anybody is doing 
+that. 
+But it would even be good for the avionics system, I think, in life support. 
+Yes. 
+Are these software packages basically just a large database? 
+They are basically a large database that you put in the data. 
+In fact, they are so sophisticated now, you can put in the software, the type of software 
+you are using, the number of lines of code and, based on the CER for that particular 
+subject, it can tell you how much it is going to cost per line of code. 
+It is very, very sophisticated. 
+And NASA uses it quite a bit. 
+Yes? 
+With this software, you must have to update it very, very frequently because of technology 
+changes. 
+They update it very frequently. 
+That's right. 
+And that is why they are so expensive. 
+They are very expensive, but they update them. 
+For example, I started using it at A&M, and they didn't have even a software package in 
+there for composites. 
+Now they have one for composites. 
+And there are a lot of these which are proprietary and you cannot even get access to them. 
+I mean the Aerospace Corporation has compiled a huge database of costs of a lot of components 
+historical to how much it was estimated, how much it actually cost. 
+And so NASA and the DOD often go to Aerospace to do cost analysis for them. 
+And, of course, Aerospace charges. 
+And they don't release their database because it is proprietary. 
+Knowledge is power and money in this situation. 
+They put a lot of work into putting the database together. 
+Yes. 
+Were you able to try to use it? 
+Did you try to check it out? 
+And, of course, it may not have the update as this gentleman was talking about, but it 
+has a certain amount. 
+You could do a pretty quick analysis. 
+I would suggest you try to do that because I know that I had looked at it, and there 
+are ways to do it. 
+Now, you've got to be careful of the results because sometimes the results become pretty 
+high. 
+But you've got to be careful of the results and look at it pretty carefully. 
+This is another development of cost scaling law. 
+This happens to be weight versus -- You can see the two different cultural planes, known 
+cost and weight, unknown cost from a given weight. 
+This is basically how they generate the CERs. 
+It is a process. 
+It isn't an analytical process, but there also is a lot of empirical data that goes 
+with it. 
+And, as Jeff said, it is based on a large database. 
+Now, cost estimation, I am telling you hard it is to do and you probably already know 
+it. 
+But, for a cost estimation, now, this is after you get over the errors of parametric cost 
+analysis. 
+Now we're talking about how you do a cost analysis when you're really trying to figure 
+how you go forward to ask for a budget. 
+You need fairly detailed information. 
+It is unrealistic for designers to give cost information for conceptualist designs, but 
+designers must be able to make rough cost estimates. 
+That is what I am saying, that you do need to be able to make rough cost estimates. 
+Now, if you are trying to make a detailed cost estimate, and that goes back to the work 
+breakdown structure, you need the number of labor hours and number of people on the project. 
+I mean people is probably going to be the most expensive. 
+You need the number of labor hours, the number of people on the project. 
+During the Shuttle Program, Orbiter Project Manager, I used to call my counterpart at 
+Rockwell every Saturday morning. 
+And we would go through how many people we had on each work breakdown structure for each 
+contractor. 
+We would talk about it to be sure we had the budget to cover it. 
+And then, of course, we had to be sure we got the product out the door. 
+But the number of labor hours, the number of people on the project, the length of time 
+these people are going to be on it, the overhead rates, office space, computer, benefits, cost 
+per hour of a person basically is what you are looking for, that is how you really do 
+a cost estimate. 
+And, of course, it is going to vary, depending on the locale of the contractor. 
+What are the cost drivers? 
+Now, here is where the cost comes out, some of the things that Dr. 
+Hoffman was talking about. 
+The errors in the design. 
+Change in requirements. 
+Core interface definition. 
+Technology development. 
+Poor communication. 
+Poor teamwork. 
+These are all elements of systems engineering that have gone awry, that have not gone in 
+the right direction. 
+But this is what caused the cost to go up. 
+In my experience, the biggest problem in cost estimates have been the changes in requirements. 
+That is really the thing that has caused most of the problems. 
+That is why you need really good definition requirements and not change it. 
+Technology development, that can cost you a lot of money and sometimes you have to go 
+forward with it. 
+Now, this is old data. 
+This is 1993 data, but I got this from a contractor a long time ago. 
+First of all what you need to do, and of course it is a lot different, I don't know if it 
+is higher or lower today with CAD systems, this was before they really used CAD systems, 
+but this the average cost of an engineering drawing. 
+And it goes through how you do it. 
+It is probably the labor rates are higher today. 
+The average hours per drawing are probably lower. 
+But this says in 1993, the rate is an estimate for 1993 government year of about $3,000 in 
+average drawing, so you have to figure out how many drawings you need. 
+I mean that is a good way to understand the cost estimate of what it is going to be. 
+You need to know how many drawings you need and you need an understanding of the cost 
+settlement. 
+The elements of cost during manufacturing then are the number and complexity of the 
+drawings, cost of a drawing, number and complexity of machine and fabricated parts and what the 
+parts are made out of. 
+Aluminum, steel, titanium, nickel, inconel and so forth, because some are more complicated 
+to machine than others. 
+But some are used in the Space Program, some are not. 
+Titanium was becoming more and more important. 
+Other things of manufacturing are tolerance of parts. 
+It turns out engineers tend to, you might say, put extra tolerances on parts that they 
+don't need. 
+And that can cause parts to be very, very expensive. 
+The finish of parts, the quality of parts, assembly, complexity and time qualification 
+of checking a test. 
+I remember my first day at work, when I worked for RCA, I was designing a microwave tube, 
+magnetron. 
+I was a terrible draftsman, as a matter of fact. 
+That was a long time ago. 
+I would probably be better with CAD systems. 
+But I sent out this part to the shop. 
+And this guy coming in showing this stogy out in the machine shop. 
+At that time we sat in these big bullpens, each person at a desk, and I had my name on 
+my desk. 
+He comes in this big room and says where the hell is Cohen? 
+That is me. 
+He said this is the dumbest drawing I have ever seen in my life. 
+How do you expect anybody to make this part? 
+So, you have to be sure you understand what you are doing. 
+It turns out I learned to work with that guy and became good friends. 
+That never happened again, but he wanted to know where the hell was this Cohen who put 
+out this dumb drawing? 
+He said there is no way I can make this part. 
+And that was a small part, but you need to understand the complexity of the part and 
+what you're putting out to the shop. 
+But today they have checks and balances. 
+And, with the CAD systems, I am not even sure this is accurate anymore. 
+This about brings me to the close of what I wanted to talk to you about, but let me 
+just give you one final chart. 
+And then I would like you to ask some questions about anything I talked about or anything 
+anybody else covered that you heard about. 
+I would stress that for you today in your course is to try to use parametric cost analysis. 
+That is what I would think you should do. 
+At least that is what I think you ought to do. 
+And I think you can get information off the Internet that will allow you to do something. 
+Now, it may not pertain to all projects. 
+I am not saying you have to do it, but it might be the thing to do. 
+It is going to be very difficult. 
+Doing the right thing by creating a work breakdown structure in trying to do that, it is going 
+to be very difficult for you to do it in this course. 
+But the parametric approach to cost, hardware costs are not produced from parts less than 
+labor tables, so you don't need that. 
+They are produced from general measures of the impact of such items costs and in preparing 
+inexpensive and more realistic and manageable costs based on cost estimating relationships. 
+You might want to do some reading on cost estimating relationships, and there are a 
+lot of references to that, just to be sure you understand what I am talking about and 
+what they are so it is not a complete mystery to you so you get a better feel for what it 
+is. 
+A lot of textbooks have cost estimating relationships. 
+CERs make use of characteristics that can be readily quantifiable such as weight, size 
+and to estimate variables that are difficult to quantify such as cost and production schedules. 
+As I said, parametric models can range from a simple arithmetical relationship to a sophisticated 
+computerized model so they can be very, very complicated or very simple. 
+And I suggest you try to do that. 
+Let me just show you what the programs are, not that you will be able to get them, but 
+when you get out of industry, if I can find them here. 
+Well, it may not happen. 
+There is certainly a lot of information. 
+Here is the price model. 
+That is price H. 
+And you can actually do structural weight material types, tolerances. 
+You can actually do electronics, digital, analog technology. 
+So, you do have quite a bit of latitude of what you do. 
+Now, you're probably not going to get that program here because it is pretty expensive 
+and pretty hard to do. 
+But when you go out in industry or government there is a very high probability you will 
+be using some of these programs. 
+And Johnson Space Center uses this one and the Marshall Space Flight Center uses this 
+one, CRH. 
+There are two programs that are used by NASA, I know, and they are becoming more and more 
+important as we go ahead. 
+Aaron, one thing you haven't discussed in all this discussion of cost is margin. 
+And, as a manager, you have to deal with that, so maybe you can make a few comments on that. 
+Sure. 
+Well, let me start off this way. 
+What Professor Hoffman is alluding to is that when you create a budget you want to have 
+some type of reserve or margin over and above your cost estimate. 
+And that takes care of several things. 
+It takes care of changes, it takes care of I forgots and it takes care of inefficiencies. 
+Studies have found that in a high technology program for the first time you are about 30% 
+inefficient, so you are only about 70% efficient. 
+Now, this was data that was taken some time ago. 
+You are 70% efficient, so you need to allow some type of margin in that for your inefficiencies. 
+If you do that and you talk about changes and you talk about I forgots, your reserve 
+becomes very high. 
+And normally your boss, the guy that is over you is not going to let you have that much 
+money. 
+One of the investigations we had on me during the Shuttle Program, because my cost was growing, 
+a very famous man came in to be head of the program named General Abrahamson. 
+Many of you may have heard of General Abrahamson. 
+While he did the investigation, he said, Aaron, you need a large reserve. 
+He didn't know he was going to become manager of the program. 
+When he became manager of the program, I had this large reserve in there, he was reviewing 
+and said you cannot have that much reserve so he wacked it down. 
+But you do need a reserve because you're not going to make it without a reserve. 
+And, I don't know if you noticed or not but in the papers I gave you on the cost of the 
+Shuttle system, it had about a 30% reserve in there. 
+When I did the study for the 90-day study, I had a 50% reserve in there because I felt 
+that was a pretty far out program and you needed a reserve. 
+You need to fight for your reserve, but I guaranty you're not going to get everything 
+you think you need. 
+Yes, sir. 
+For something like aerospace, every time you do a cost estimate, they talk about it, look 
+at it and say, well, let's increase that by 
+And often, even once you've done that, you still don't come under budget. 
+I mean look at the ISS or the Airbus 380 that is going out. 
+Why? 
+Well, again, it is really because -- First of all, it is primarily for the inefficiencies. 
+You just cannot do a high-tech program. 
+Look at what it cost to do the Big Dig, to drive it home. 
+It is very difficult to do a good cost estimate, but that is the problem that Congress sees 
+with government programs today, both the Department of Defense and NASA, that they cannot do a 
+good cost estimate. 
+The current program says they are going to do the CEVing and go to the Moon for $104 
+billion, which is 55% of what it cost to do the Apollo Program in current year dollars. 
+And that is going to be interesting to see if they can do it. 
+It is tough to do. 
+But really I think the biggest problem is your inefficiencies. 
+Of course there are changes and I forgots. 
+Interesting enough, though, you may or may not believe this, and you probably won't but 
+I will say it anyway, it turns out that the studies done for the Shuttle Program, for 
+the Orbiter actually, in real year dollars, met the cost if we would have gotten the inflation 
+rate. 
+We lost the inflation for two years, which Dale Myers fought for vigorously with OMB. 
+If we would have gotten the inflation for those two years, we would have met cost for 
+the development cost. 
+Not for the operational cost, but for the development cost we would have come pretty 
+close to it. 
+We didn't really miss it that far. 
+In Apollo, I'm not sure, you would need to ask Dr. 
+Siemens, but the story goes is that NASA came in with an estimate. 
+And at that time the administrator, Webb, looked at it and said that is fine and he 
+doubled it, and so Apollo did very well. 
+I think Bob Siemens has told that. 
+The story we heard was it was on their way over to the White House that he said our final 
+estimate, we've put all the factors and everything in, is $10 billion. 
+And Webb said, OK, we will tell the President 
+I am sure Bob Siemens would know. 
+Yes, sir. 
+Aaron, I wanted to ask you about the location of the reserves. 
+Not just dollar reserves, but my experience as a payload [NOISE OBSCURES]. 
+The model I have been faced with is that the mission manager has a reserve for crew time 
+or for weight of something but, down on the project level, you would really like to go 
+and have your own. 
+And so there was a tendency for everybody but the lowest level, from the individual 
+experiment up to say, well, I am going to put in a little bit of pad rather than count 
+on the fact that I can go up to the mission manager and ask him for some reserve later. 
+Well, that is the danger with that. 
+You are absolutely right. 
+Everybody would like to put their own reserve in. 
+Of course, being a project manager, I thought the reserve ought to be at my level. 
+But actually, John Yardley was my boss in Washington, and he thought he should handle 
+the reserve. 
+And the subsystems managers wanted their reserve, right? 
+Wanted their reserve. 
+And John Yardley was another person I should have mentioned. 
+John actually basically pulled the reserve up and handled it in Washington. 
+There is a certain efficiency, I assume, in having all the reserves centralized so that 
+there is not a lot of waste down to lower levels, but you have to have the confidence 
+that you are going to be able to draw on it. 
+Right. 
+And with that John would partial out some. 
+What he would do is be sure that you weren't double reserving him or triple reserving him. 
+And then he would allocate it to me. 
+I know he had a rule of thumb. 
+When JR Thompson went up, you heard JR talk, he always asked for more than he needed, so 
+John would give him less. 
+When I went up, I always asked for less than I needed, so he would give me more. 
+He had a good feel for his managers. 
+That is what he told JR one day. 
+Normally, you wind up handling it. 
+If you have a good program manager at the top you normally wind up handling it there 
+and he parcels it out based on the fact there is no double bookkeeping. 
+Yes. 
+My experience at Draper is typically there are two different ways of estimating. 
+One was called top down and the other was bottoms up. 
+And traditionally bottoms up would always stick their reserve in some way and top down 
+would always say I want to know what your reserves are because I want to bring it up 
+to the top. 
+And that was a constant argument. 
+Then when you got to submitting your proposal often the customer didn't want to know about 
+this extra money and then you would have to shove it back in and hide it, in a sense, 
+by padding things. 
+Handling costing in reserves is, to some extent, at least in my experience, a psychological 
+thing dealing with customers and your management. 
+And it has always been one where you shuffle that reserve around. 
+But this gentleman asked the question about why does it appear that NASA never can stay 
+on their budget? 
+That is really a tough question to answer. 
+I don't know. 
+I mean I have a personal feeling on it, but I think the basic problem you have is that 
+it is a high technology program. 
+It is one of a kind and it is a lot of inefficiencies. 
+When you come to work every day, you don't know exactly what you are going to do. 
+You have a technology development that costs. 
+You have I forgots. 
+You have changing requirements. 
+Changing requirements are something that systems engineering ought to be able to control. 
+I forgots are something systems engineering ought to be able to control. 
+Inefficiencies, to a certain extent, systems engineering ought to be able to control. 
+That is one of the purposes, in all honesty, that are concentrating on system engineering 
+at such places at MIT and other schools to allow the future generation of designers and 
+developers in working that they can have a budget and then stay on the budget. 
+Maybe in your generation you will be smarter and able to control it, but it is not going 
+to be an easy job. 
+That is one thing I would say. 
+Let me just make one other comment. 
+We cannot estimate too much. 
+That you've got to always keep in mind this triangle of cost, performance, schedule. 
+If you are working on a project where the schedule is fixed like Apollo then that better 
+ring the bells to say that I need more reserves. 
+And maybe that is what was going on in Jim Webb's mind when he said if we really have 
+to get this done by the end of the decade, I better make sure that I am not going to 
+be constrained by cost and so I will double it. 
+The other thing that you have to take into account with the performance is how much new 
+technology is this program going to require? 
+Because the new technology, that is the hardest thing to estimate the cost. 
+That's right. 
+And so, if you have a new technology program then your margins better be big enough to 
+accommodate that. 
+That is why, for the CEV, they are really going out of their way to saying, to the maximum 
+extent possible, we don't want to develop new technology for the CEV. 
+We want to use Shuttle parts wherever we can, Apollo heritage. 
+We want to build it out of things that we know and we understand so that we hopefully 
+can keep the cost as low as possible. 
+And we will see how it all works out. 
+Yes, sir. 
+It seems to me that you often times have the pressure to give a cost estimate on the low 
+end of what you believe it to actual be just so the project might be more appealing [NOISE 
+OBSCURES]. 
+That is certainly another part of the  
+whole political thing. 
+And not just from the political point of view of presenting your estimate when NASA presents 
+the estimate to Congress, but then you have the contractors who want to get the contract 
+from NASA. 
+And you have certainly had experience with this. 
+How do you deal with the contractor who low-balls and then assumes that they will be able to 
+make it up later on? 
+Low-balling really should not be tolerated. 
+And they try to do that, not tolerating it, but you are absolutely right. 
+When I did this 90-day study, I really felt they wanted to know what it was going to cost, 
+so I had a 55% reserve in there because I really felt that there were so many unknowns 
+with it. 
+And, of course, that didn't go over very well. 
+They said my study actually killed the projects. 
+But I told them what it was going to cost. 
+And then this is a subject for another lecture entirely, which I am not sure that we are 
+going to do in this course, but there are many different ways to let out contracts, 
+fixed price contracts, cost plus contracts, award contracts. 
+And all of those can have an impact on the ultimate cost of your project. 
+And they all have their utility depending on how well the technology is known and what 
+is the time pressure. 
+Again, cost, performance, schedule. 
+And you asked about Airbus. 
+I don't know the specifics of Airbus contracting, but I am familiar with ESA. 
+And, because of some of the peculiarities of the European system, they tend to use fixed 
+price contracts a lot more than we do here. 
+And sometimes it works but sometimes you get really burned on it because contractors are 
+not going to go into bankruptcy because they cannot deliver on their fixed price contracts. 
+You try to go fixed price on the CEV and it would cost you a fortune. 
+Those are very good questions. 
+Unfortunately, we don't give you very firm answers on cost. 
+But at least you are thinking and I appreciate your thought process. 
+It is very encouraging to hear you ask those types of questions. 
+Have a good weekend. 
+We will see you on Tuesday. 

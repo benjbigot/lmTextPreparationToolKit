@@ -1,0 +1,22 @@
+
+
+The wikipedia dump can be downloaded at:
+http://en.wikipedia.org/wiki/Wikipedia:Database_download#English-language_Wikipedia
+
+simple usage:
+
+# bunzip2 -c enwiki-latest-pages-articles.xml.bz2 | python WikiExtractor.py -c -o ./extractedWiki/
+
+for directory in $(ls extractedWiki ); do  
+	mkdir -p ./cleanWiki ./forLM;
+	echo $directory
+	for file in $(find ./extractedWiki/$directory -type f); do
+		echo ./cleanWiki/$directory_$(basename $file .bz2)
+		perl cleanWikipedia.pl $file ./cleanWiki/${directory}_$(basename $file .bz2) ./article.lst
+		perl getTextinArchive.pl ./article.lst
+	done
+done
+
+
+
+		

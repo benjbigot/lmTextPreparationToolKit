@@ -1,0 +1,1655 @@
+Walt Guy's biography is on the website. 
+I hope you've had a chance to look at it. 
+I will just say briefly that I guess, of all the lecturers coming, that Walt is the only 
+one who is still actually working actively for NASA. 
+He is head of the Automation, Robotics and Simulation Division, division chief at the 
+Johnson Space Center. 
+But that is not what he's talking about there. 
+He's talking about the job that he used to do for about 20 years which was head of environmental 
+thermal life support and crew systems. 
+And, of course, the crew system includes all the space suits and the good stuff that I 
+was fortunate enough to get to use. 
+So I've got a personal debt of thanks to Walt. 
+Aaron, I think you wanted to say a couple of things so I will pass the microphone to 
+you. 
+Yes, I would like to say a few words about Walt. 
+We've worked together for many years. 
+And Walt Guy has the very unique capability of being not only an outstanding engineer, 
+a technical person, but he also has a very unique capability of being a great or outstanding 
+project manager, program manager. 
+No matter what task you gave Walt, he could deliver the product on performance, on schedule 
+and on time. 
+He has that unique capability. 
+And he's done that from the Apollo Program through the Shuttle Program. 
+And I think you're really in for a treat to hear Walt talk about the environmental control 
+systems. 
+He has a lot of information to offer you so, without further ado, let me turn it over to 
+Walt. 
+Thank you, Aaron. 
+As Aaron said, we worked together over several programs over a long period of time. 
+I was noticing the picture. 
+I'm sure that wasn't put there for me. 
+But my current responsibilities are the robotic arm you see there. 
+That is a shuttle arm. 
+Of course there are station arms also. 
+Grapple fixture over here on the left. 
+And the little jet pack on the tumbling crewman there is part of my current responsibilities. 
+The 20 years that Jeff mentioned, I was responsible for the development of the Shuttle spacesuit. 
+So it was like it was meant for me anyway. 
+What I'd like to do is talk about the design. 
+I know in the syllabus it said environmental control systems. 
+So where did all the rest of the stuff come from? 
+If you go back in perspective, the Mercury, Gemini, Apollo Program had the classical thing 
+that aerospace calls environmental control systems. 
+It was basically a cabin system. 
+It took care of the living quarters for the crew. 
+But in the Shuttle era the responsibility of that system expanded to include more than 
+just the cabin and, thus, the very long hard to say name. 
+These are the subsystem elements of the environmental thermal control and life support system. 
+The first area I am going to -- These are the areas, the subsystems. 
+The first area is the cabin atmospheric revitalization system. 
+This is a long way of saying to take care of the atmosphere in the cabin. 
+Humans are pollutants and this is the system that takes care of that. 
+The cabin atmospheric pressure and composition, this is obviously to maintain the pressure 
+and enough oxygen for breathing. 
+The third is the cabin thermal control, and that is the classical environmental control 
+system. 
+But, for Shuttle, we've added some functions. 
+One is the water and waste management subsystem. 
+There are some hygiene functions required, there are some recharge of the spacesuit's 
+backpack, management of the fuel cell water system, the fuel cells of the electrical power 
+supply and provide a lot of extra water. 
+Also, the vehicle at this point, has a dedicated active thermal control system that takes care 
+of all of the systems in the vehicle, not just the cabin systems. 
+And then last is the airlock support subsystem. 
+This is the EVA crewman's portal to space. 
+And so the environmental thermal control and life support system covers all these areas. 
+What I will do is go through each one of those. 
+The first is the cabin atmospheric revitalization system. 
+Its functions are CO2 and trace gas removal, humidity control, environmental cooling and 
+atmospheric circulation and ventilation. 
+Again, I will talk each about these. 
+But I do want to mention that there is a uniqueness about space and that there is no convection 
+so circulation is important. 
+Also, because of the fact that there is no convection, getting rid of the body heat, 
+the latent heat requires a ventilation of the crew. 
+So each of these areas ended up as part of the system design. 
+This is an overview silhouette of the Orbiter. 
+I will use this throughout the presentation. 
+As you can see, part of the system we're talking about now, the atmospheric revitalization 
+system is located upfront where the crew is. 
+It is beneath the floor. 
+And we will be talking about the systems in the remainder of the Orbiter as we go along. 
+This is a simplified schematic. 
+I would like to start at the cabin fans. 
+These are redundant. 
+Each fan will do the job. 
+The next in line is the CO2 scrubber followed by the cooler, the cabin heat exchanger. 
+There is a bypass around that for control of the amount of cooling that is needed. 
+As you are aware, the Shuttle can fly with few or many crewmen. 
+It turns out, as time has gone on, we fly pretty much a full compliment. 
+But the original design was to fly a small number of crewmen. 
+Also, this does give you temperature control. 
+The same heat exchanger provides the condensation of the water from the atmosphere. 
+Therefore, you get humidity control. 
+And then that is collected. 
+The gas continues on. 
+It is now chilled and is provided out to the flight deck and the middeck to the crew. 
+Then the gas from the cabin is then drawn back in through some flight deck avionics 
+and back through the fans. 
+So this is the basic systems schematic. 
+I might pause here a moment to sort of explain the role of the government in the development 
+of the Shuttle. 
+As you know, the prime was Rockwell. 
+It was their job to build the vehicle. 
+But the government philosophy, management philosophy was to have ownership of the technical 
+aspects of the design. 
+So we had basically no excuse. 
+If it didn't work it wasn't because the contractor did something wrong. 
+We had to have ownership. 
+In fact, Aaron, as the project manager, would probably look to us first as the reason for 
+a problem as opposed to Rockwell because we were the conscience of the program so we should 
+have made sure they didn't do it wrong and provided whatever technical insight to Aaron 
+to make sure he made the programmatic decisions to make sure things were not done wrong. 
+Very early in the Shuttle Program, I was responsible for an engineering organization. 
+And that engineering organization wanted to own the design of the environmental thermal 
+control and life support system. 
+We acquired a chamber. 
+This is a near atmospheric chamber. 
+It is a square so it is obviously not shaped like the Orbiter cabin, but the volume was 
+appropriate. 
+And it did allow a sealed environment for testing. 
+It would take a couple of PSI delta Ps. 
+That's about all it would take. 
+We developed a -- [COMMENT FROM HOFFMAN], No, that was a different one. 
+OK. 
+We developed an environmental control system or an atmospheric revitalization control system 
+and placed it inside to do early testing. 
+As you can see here, this is the fan package. 
+The CO2 scrubbers are here. 
+Heat exchange package over here. 
+And you can tell we're not current in terms of calendar-wise. 
+The CO2 and trace gas removal, the requirements were to maintain less than 7.6 millimeters 
+of mercury. 
+This is certainly to provide a habitable environment for the crew. 
+This is higher than sea level but the medics agreed that that was a completely adequate 
+level for CO2. 
+The CO2 absorption came from the humidified cabin gas so the system had to accommodate 
+that as a feed stream. 
+The absorbent selected was lithium hydroxide. 
+The equation was a lithium hydroxide reacted with the CO2 to produce lithium carbonate, 
+water and heat. 
+And this was a single use system. 
+It turns out that the lithium hydroxide was an old solution. 
+The previous spacecraft had used the same solution, but pretty much their solution was 
+unique purchased production of lithium hydroxide. 
+When we entered the Shuttle era, we were hoping for a long duration. 
+And the idea was to use the commercial products to get away from special production. 
+And so we looked around. 
+And the Navy was producing a screened special production run for their submarines. 
+So there was a lot of use there. 
+And so the production was reasonably upo. 
+We decided to use the Navy grade. 
+And so we brought it in and put it in the test bed that I just showed you and did some 
+tests, and it didn't work worth a darn. 
+You notice the loops here show that our use of the canister was much more rapid that we 
+had hoped for. 
+The nice beautiful deep loops here are a process that we developed to screen the Navy LiOH 
+so that we didn't have to create a new production capability but were able to test the LiOH 
+that came off their production line and get a LiOH that was much more humidity tolerant. 
+The key here turned out to be not the chemical itself but its ability to produce good performance 
+over a wide humidity range. 
+So we were able to screen that and make that a viable non-special production run LiOH. 
+The lithium hydroxide, I said, was an old solution. 
+All previous spacecraft have been pretty short mission. 
+And even the Shuttle was a short mission. 
+But the specification for Shuttle said that it should have a capability of going 28 days, 
+and 28 days is not a short mission, at least not in Shuttle parlance. 
+The engineering part of the organization said, well, why don't we go with a regenerative 
+system? 
+SkyLab had just been successfully flown with a regenerative system, something that wouldn't 
+have all this expendables because 28 days worth of lithium hydroxide for seven crewmen 
+fills everything up with lithium hydroxide. 
+There is no room for anything else. 
+So we began to look at a regenerative system that could be used. 
+Actually, it was proposed as part of the original Shuttle development. 
+But, at that point, the 28-day mission was considered a special case and the design case 
+was the shorter missions. 
+And, in fact, there were even projected to be a lot of short missions. 
+The idea that the Shuttle was a space truck. 
+It would take stuff up, dump it out and come home. 
+And so the lithium hydroxide was a lighter system than a regenerative system. 
+The lithium hydroxide was placed into the vehicle as a basic design. 
+But, when the Space Lab era came along, we needed longer missions. 
+We flew about four or five times in this 13 to 16 day range, and those missions did require 
+a lot of lithium hydroxide. 
+And so it was proposed to use an absorbent that was regenerable, and the one that was 
+selected was a solid amine. 
+The absorbent is a polymerized ethyleneimine. 
+Its designation is RNH, and I don't really know why. 
+The absorption actually comes in, in two steps. 
+First there is a reaction with water to create the Freon. 
+And then that is then reactive with the CO2 to give you another free ion, but the CO2 
+is now captured. 
+The desorption then with the heat and vacuum gives you back your original amine. 
+So if you pack this in a bed, and what we used was an expanded metal foam heat exchanger 
+that you could fill all the holes with the solid amine and put the passages adjacent 
+to each other so that you could use the heat of absorption to do your desorption on your 
+other side. 
+And all you would need to do is expose it to vacuum. 
+It was a very simple system. 
+It worked fine for the three or four missions. 
+I'm not sure how many missions it was used. 
+But it was an adjunct. 
+It was added in, put onto the floor, and then it was taken back out when it was no longer 
+needed because it was just wasted load. 
+Yes. 
+For the lithium hydroxide, the product LiCO3, is that a solid form or a gas form? 
+No, it's a solid lithium carbonate. 
+And that goes in the canisters that you remove? 
+Right. 
+When you remove the canister it's a big lump. 
+OK. 
+Finishing up the CO2 and trace removal, we go to the trace removal and use the simple 
+system of activated charcoal. 
+And, in fact, it is packed into the same canister that the lithium hydroxide is packed into. 
+It is a single use. 
+There is a configuration, I believe, now operationally where the entire canister is activated charcoal 
+so it can be used for cabin gas cleanup. 
+So, if you had an issue that you needed to clean the cabin up, you could do that with 
+a canister just of charcoal. 
+The next area is the environmental cooling and humidity control. 
+I mentioned on the schematic that we have a cabin heat exchanger. 
+The front part of the heat exchanger basically is your reduced cabin gas temperature. 
+The backend of the heat exchanger is where the condensing occurs because we get the gas 
+below the dew point and, therefore, the water drops out. 
+The heat exchanger has the characteristic that, as the water collects at the outlet 
+of the heat exchanger, there were some holes drilled, actually, in the thin passages so 
+the water can be sucked out. 
+And it has the nickname "slurper." So it slurps the water out. 
+It takes about 2% of the flow. 
+So, as the cabin fan produces the flow through the heat exchanger, about 2% is siphoned off 
+in the slurper. 
+And that carries the water to the centripetal water gas separator. 
+This is a device that basically spins the airstream. 
+It's an airstream with water and trained. 
+It spins the airstream. 
+The water goes to the outside. 
+It is collected in a trough and there is a pitot tube in the trough that the water impinges 
+on, and we get about a 40 PSI delta head with that. 
+It's just a pump basically, a pitot pump. 
+The atmospheric circulation and ventilation is the next part of the system. 
+As you know, we're still in atmospheric revitalization. 
+There are the redundant fans that I mentioned. 
+Each fan will do the job. 
+There is also flight deck and mid deck duct system. 
+It looks very complicated but there are only several points I want to make here. 
+This is the atmospheric revitalization system I mentioned before. 
+As you see, it is below the floor. 
+This is the mid deck here. 
+This is the flight deck. 
+So it's below the floor of the mid deck. 
+The gas exits the heat exchanger. 
+It goes up. 
+There is some aft mid deck ventilation exhaust. 
+It goes on up to the flight deck and exhausts on the flight deck. 
+Also there is a section that goes on the forward side of the cabin through the forward control 
+console and blows in the face of the crew. 
+The return is back through some avionic areas to provide cooling, and then back down to 
+the system. 
+This is a complicated picture, but really it is a very simple flow system. 
+This becomes important later in our discussion because good mixing turned out to be a really 
+important parameter. 
+Not just cooling. 
+OK. 
+The second. 
+Remember we had six? 
+This is the second element. 
+This is the atmospheric pressure and composition control. 
+The first job is the 14.7. 
+The Shuttle selected sea level, the idea being we could not have a lot of special designed 
+equipment. 
+Shuttle was intended to be a less expensive spacecraft than the previous ones. 
+And so a sea level atmosphere gave us no questions about human survival and gave us a lot of 
+opportunity for using more standard equipment and not specially designed equipment. 
+There was a requirement, though, for a PSIA total control, but this was only for an emergency 
+de-orbit. 
+The problem statement is that you got a hole in your cabin. 
+Don't know how you got it but you have it. 
+And the idea is the system has to be able to sustain the crew for a de-orbit. 
+And I don't know who made up the number but 
+We have an emergency return, 169 minutes. 
+The system has to be able to accommodate that keeping the total pressure at or above 8 PSI. 
+So there has to be enough flow capability, enough consumables to do that. 
+The half-inch hole was a programmatic decision. 
+I cannot speak for where the number exactly came from, but it probably had to do with 
+meteoroid debris kind of analysis that said what type of hole you could expect. 
+Anyway, that was the design for the system. 
+The next aspect or element of the system is the O2/N2 partial pressure control. 
+At the total pressure of 14.7, we wanted sea level which is about 3.2 PSI oxygen. 
+At the 8 PSI, we wanted it to be survivable but the oxygen could be less. 
+Obviously, people live in Denver so that works. 
+There are also crew breathing masks which can be used in conjunction with low oxygen 
+partial pressure. 
+The cabin had to have both positive and negative relief. 
+It had to store the oxygen and nitrogen, and it had to provide pressurization for the water 
+management system. 
+Remember earlier I talked about the more pervasive requirements? 
+The water and waste management system now is placing requirements on the atmospheric 
+pressure and composition control. 
+This is a silhouette again where basically here you see the oxygen tank, which is 3300 
+PSI oxygen tank. 
+There are nitrogen tanks on both sides. 
+These are high pressure tanks all 3300 PSI. 
+The relief valves are shown here. 
+And there is an O2/N2 supply panel which has all of the valves and regulators and everything 
+on it. 
+This system, however, though, gets most of its oxygen from the cryogenic tanks. 
+So that is only just shown as an inlet. 
+These tanks are basically part of the power control system. 
+Electrical power is hydrogen and oxygen fuel cell. 
+We use a lot less oxygen than they do so the storage was integrated. 
+And then we use the oxygen for most of the uses. 
+It comes from the main tanks. 
+This is a schematic. 
+I will start right there. 
+This is the cryogenic system. 
+This is the main cryogenic system. 
+This is not part of the tankage of the pressure and composition control system. 
+It goes through a restrictor. 
+This is stored in a super critical state so the delivery is somewhat limited. 
+And so this goes through a restrictor so that we don't decrease the pressure too fast in 
+the cryogenic tank. 
+It comes on down through a regulator that regulates down to 100 PSI. 
+And that comes on down to two regulators. 
+One is the normal regulator, the 14.7, and the other is the 8 PSI regulator, both of 
+which are available depending on which cabin mode you're in. 
+If you go over this way you will see the nitrogen. 
+The nitrogen goes through its own regulator, and it is regulated at 200 PSI. 
+And that's important because that is contrasted to the 100 here. 
+Next the nitrogen goes through an on/off valve, a solenoid that is connected to partial pressure 
+sensors of oxygen. 
+And, if you're making up cabin gas, you have to make a choice as to whether you want nitrogen 
+or oxygen. 
+And that choice is made by this system and a simple on/off valve. 
+There is no sophisticated control system. 
+This is a simple on/off valve. 
+If the cabin needs pressure but doesn't need oxygen then this valve is open and the 200 
+PSI basically backs down the oxygen system. 
+There is a check valve here, no oxygen flow because you get nitrogen. 
+At the point that you need oxygen, this valve closes, then there is no 200 PSI anymore. 
+Therefore, the 100 PSI provides oxygen to the regulators. 
+It is a very simple design. 
+Off the top of your head, what kind of failures did you have during qual test that really 
+bothered you? 
+The regulators were produced by Carlton, and the regulators were derivatives of regulators 
+they had been building for years. 
+So the regulator functions really were pretty good. 
+But the early problem we had was the pressure tolerance wandered and didn't have as good 
+a pressure tolerance. 
+And they did make some mods to correct that. 
+But the more significant issues got into flow issues. 
+Their test capability was pretty limited. 
+And when you're talking about very high flow cases you have to do something with the gas 
+to make the regulator think that it is in an operational environment. 
+And so we did a lot of testing, and I will show you that in just a second, for the high 
+flow cases. 
+Let's see. 
+There is a redundant system. 
+It is not shown in this schematic but there are two of these, just like this. 
+This is the pressurization for the water and waste management system you see here. 
+I would say there is a crossover to the redundant system so that you can do mix and match. 
+If you have a problem in both systems, you can mix and match the capabilities. 
+Also, the oxygen system provides the emergency breathing system. 
+It also provides oxygen to the air lock for recharge of the backpack. 
+We will talk about that later. 
+And I believe that's it. 
+So, for normal pressure, we have 14.7. 
+And you have the automatic pressure regulator, basically on/off valve and the regulator. 
+The partial pressure is controlled by the 
+that. 
+It is a very simple system. 
+The oxygen partial pressure does have another set point at the PSIA goes down to 2.45 PSI. 
+And I will show you that in a minute. 
+For cabin pressure relief, the problem statement really is why do you need relief? 
+Well, what if one of those lines breaks? 
+You've got 3300 PSI tankage. 
+It is all plumed together. 
+The crew, God forbid, step on a line and break it, and now you've got all this nitrogen rushing 
+in. 
+You don't want the cabin to explode, right? 
+So you need a relief valve. 
+And the relief valve was set at 16.2. 
+And, again, that is one of the high flow cases that we ended up testing. 
+The system was designed with three relief valves. 
+Any tool will do the job. 
+That is just a redundancy philosophy. 
+Sometimes you will see two items where either one does the job. 
+In this case, this is a very critical issue so there is a double redundancy here. 
+For the negative pressure protection, there is an 8 PSI delta relief valve. 
+In fact, there are three of those. 
+You don't need the two to operate, but there are three. 
+This is for the return that I just showed you. 
+If you come back with a hole in the cabin, the cabin is at 8 PSI, you cannot reverse 
+flow through that hole. 
+That is not going to work. 
+You don't want the cabin imploding on the crew so you've got to make up, as you come 
+in the lower altitude, obviously the higher pressure, you've got to get that gas back 
+in the cabin. 
+So that's what that is for. 
+OK. 
+This is the other pressure vessel that was used as a test site. 
+This was called the Environmental Test Article. 
+Rockwell gave it that name. 
+What they planned to do with this device, when they built it, was to do all the wiring 
+runs and the plumbing runs in there. 
+It was going to be a mockup. 
+It turned out they built a rather beefy tank. 
+In fact, maybe they got one very inexpensively. 
+I'm not sure how they ended up with it, but they got it. 
+They did do all the secondary structure, so it had the right shape inside. 
+And so it turned out they didn't end up using it. 
+They went onto other methods. 
+And so it ended up leftover in the program. 
+We convinced Aaron that he ought to give it to us, and he did. 
+This is what it looks like in cutaway. 
+You see here all the secondary structure, it was in boxes but we put it all in. 
+Foamed it in so that the volume was right, so the cabin volume was essentially perfect. 
+It had the flight deck. 
+It had the mid deck. 
+It had the lower deck for the environmental control system. 
+But we also asked Aaron to give us the cert hardware, which he did. 
+So we had the cert hardware underneath the floor. 
+And the pressure control system we're talking about, actually, is on this back wall. 
+That is a picture of it. 
+What we did is faithfully run the lines. 
+In fact, we even use the same line material, same fittings, same everything. 
+So we faithfully duplicated inside this test article the volume and the geometry and the 
+system. 
+All the ventilation ducts you saw, all those were in place. 
+We will come back to it later, but you'll notice on the back wall of this test facility 
+there is an airlock hatch. 
+And later on I will tell you where that goes. 
+But this is the control panel and the nitrogen/oxygen system. 
+This is test data. 
+We did some testing to see how the system worked. 
+This was testing of basically the on/off oxygen control system. 
+Let me see if I can walk through this simply. 
+We're working total pressure here, oxygen partial pressure here. 
+During this first interval the oxygen is on. 
+What we're doing here is we're breathing it down. 
+And, when we hit the lower limit so that the regulator wants to do something, then the 
+oxygen partial pressure starts up because the regulator comes on. 
+Now, the total pressure is maintained because that is what the regulator is supposed to 
+do, maintain total pressure. 
+But as it maintains the total pressure it is doing it with oxygen and, therefore, the 
+partial pressure is going up. 
+When it is satisfied, that is enough partial pressure of oxygen, then the solenoid valve 
+opens and you see the nitrogen come on. 
+Now, you remember the nitrogen feed was at 
+So there is a little jump. 
+That is just a mechanical artifact of the regulator. 
+If you change the inlet pressure it regulates slightly differently because it is a balance 
+system. 
+You see a little jump there. 
+And then, during this period, the pressure is maintained. 
+But we're breathing off the oxygen because we've got the oxygen fenced off now. 
+And then when the pressure is satisfied and the solenoid goes back the other way then 
+we again start the oxygen again. 
+So the system worked quite well. 
+If you notice the tolerance band spec-wise was pretty wide, the system operated on a 
+very narrow brand so we were very pleased with that. 
+Normally that is important. 
+Not only because it shows you that you do have a good sensitive system, but you cannot 
+always. 
+There is drift. 
+You need a little tolerance in your band here to have a decent system design. 
+Yes. 
+Does this change a lot when you have the crew performing high metabolic activity? 
+The cabin is so large that it really doesn't know. 
+The cycles would be different, obviously, because you consume more oxygen, you would 
+need more oxygen. 
+So the on/off cycle would favor longer oxygen cycles. 
+But, in the big picture, there is really not a lot of change. 
+What was this time period? 
+It looks like this was about three hours maybe. 
+That might go to two hours for a cycle. 
+I mean not really very much. 
+Sorry. 
+Does microgravity have much effect on circulation? 
+There is no circulation in microgravity. 
+It just lays there. 
+You push it or it doesn't go. 
+Diffusion is a driving force, so if you're really, really patient, even at zero G you 
+can wait, but you cannot stay alive that way. 
+But, yes, you do have to have ventilation. 
+Still in the atmospheric pressure and composition control. 
+This is the emergency breathing equipment. 
+We used plug-in face masks. 
+There are some uses for the mask that require a carry on bottle to give portability, but 
+the vehicle does have plug-in capability. 
+The masks were purge-type masks. 
+You're probably not familiar much with masks, but there is a mask called a rebreather which 
+basically your lung power does all the work and you only purge enough to keep the CO2 
+down and you keep rebreathing. 
+And then the purge-type is every breath is a fresh breath, and you then exhale and the 
+gas goes out in the cabin. 
+And that's the type that this is because the cabin needs the oxygen. 
+I mean it's not going anywhere bad. 
+It is OK that it's not completely spent. 
+It's good. 
+That's like a scuba mask, right? 
+I don't scuba. 
+Sorry. 
+But I think the answer is yes. 
+With scuba, you take in the air and then you blow it all out. 
+I mean there are scuba rebreathing systems, but the typical scuba gear is not. 
+Rather than raising your hand, if you make a noise of some kind. 
+Sorry. 
+I don't mean to ignore you. 
+The mask can be used in a contaminated environment and the mask can be used if the concentration 
+of O2 is low to give you a better oxygen level. 
+This is the PSIA test that we did. 
+Actually, a series of tests. 
+But this is data from one. 
+As you see, we started up in the 14.7 range. 
+We simulated the hole. 
+The pressure immediately starts down. 
+The partial pressure of oxygen we let degrade to about the 2.2 range. 
+This is a different set point. 
+Remember I told you on the oxygen sensors we have two set points? 
+This is the second set point. 
+And so we have the lower oxygen partial pressure. 
+The system came down. 
+The PSIA regulator, which is always online, captured the pressure decay, caught it, and 
+the solenoid valve popped back and forth to keep the oxygen OK because we're losing now. 
+We're going out this half-inch hole. 
+And the system worked just fine. 
+This did have the crew on the masks because that is livable, you can live there, but the 
+mask is a better environment. 
+This is a mask case. 
+This was a requirement that came on later. 
+The design is the design now. 
+The vehicle exists so we have to now operate the vehicle with accommodations for operationally 
+what we want to do with it. 
+And a new requirement developed and was imposed on the vehicle. 
+And that requirement had to do with the space suit for the EVA operation. 
+The Shuttle spacesuits are basically 100% O2. 
+And the classical way of going EVA from a sea level environment was a four hour prebreathe. 
+Actually, as much as six hours depending on how conservative the medics were at the time, 
+that number varied around some, to prevent bends. 
+But it was determined that if you accommodized at 9 PSI for about 12 hours then you only 
+required a really short prebreathe. 
+And the suit-up time, which gave you 30 to 
+tune-up to your prebreathe as part of your suit-up operation. 
+And so that was viewed as a much better way to do EVAs than the previous way. 
+The masks are useful but are not very comfortable. 
+So, if you have to keep them on for a long period of time, they're not very comfortable 
+at all. 
+Also the medics were very concerned about mask leakage, that if there was any nitrogen 
+inflow that that could break the prebreathe. 
+But our system isn't designed for 9. 
+We have a 14.7 and an eight, but we don't have a 9, so we needed a manual procedure. 
+But before that could be accepted there were some issues that had to be evaluated. 
+And we had to do testing on each of these issues. 
+The first is the flow rate acceptability at 
+Obviously, the less dense gas you're not going to get the same mask flow rate. 
+And we had to make sure that that ventilation was going to be adequate. 
+And testing proved that it was. 
+The next is a thermal acceptability. 
+There are really two aspects to this. 
+One is the fan itself is cooled by the environment, so if the environment doesn't provide as much 
+cooling to fan itself it could overheat. 
+Also, the electronic equipment, some of which is air cooled, the less dense gas could be 
+a problem there. 
+It turned out that could be controlled with load control. 
+That could off load power and make that acceptable. 
+The CO2 performance at 9 PSI, we needed to make sure that was OK. 
+It turned out that, of course, the 9 PSI case, we don't care about the lithium hydroxide. 
+The purge flow is so great there is no CO2 problem. 
+But at 9 PSI for 12 hours you have to get performance out of the lithium hydroxide. 
+So we checked that and that worked out fine. 
+And the last item was the ventilation adequacy. 
+We do have a press and depress. 
+You've got to come down to 9 and you've got to go back. 
+And both of those adjust the gas mixture. 
+And so we wanted to prove that that was OK. 
+And so we went to the facility that we were talking about and ran this profile. 
+Now, this profile was created by our-- yes? 
+Well, that's what I just said. 
+Yes, it does. 
+The air-cooled equipment is going to run hot. 
+If you want to cool that equipment, it will become a little clearer later, but the equipment 
+is in equipment bays. 
+And so, with the less dense gas, you need to have some of that equipment turned off 
+so that the cooling that is available is adequate. 
+So you do load control, get rid of some of the electronics. 
+And, therefore, the air that's left, the atmosphere that is left can cool the equipment. 
+And then when do you increase the pressure back to normal after the EVA? 
+After the 12 hours. 
+No, actually it's before the EVA. 
+Well, I'm not sure what they do now. 
+When you're all finished with your EVAs then you bring the cabin back. 
+Because, typically, you do multiple EVAs. 
+And so, from one day to the next, you just keep the cabin at, actually, we use 10.2 now 
+rather than 9, but I think you have to certify it for 9, right? 
+This was an early certification for 9. 
+Yes. 
+But wouldn't it have been easier to simply design the whole system for 9 from the beginning 
+if you had [OVERLAPPING VOICES]? 
+Well, this was not a Shuttle requirement. 
+This was an operational requirement that occurred after the Shuttle specifications were set. 
+You're correct. 
+If we knew it ahead of time it would have been much easier to do it all for 9 PSIs, 
+exactly. 
+It would have just been a third condition. 
+But, as Jeff pointed out, we changed our mind. 
+The first was 9 and now we're at 10.2, so we're not consistent. 
+As we learn, we change our mind. 
+And the 10.2 was selected later. 
+Our mission operations people that do the crew time lining and all, they created this 
+procedure. 
+And so we tested it. 
+This has a simple depress cycle. 
+You come from 14.7. 
+You hesitate at about 11 and replenish the oxygen. 
+You do that twice. 
+You then do manual control down at the 9 psi level. 
+You notice the oxygen partial pressure here is always maintained by these adjustments, 
+and also during the manual period you select what you want. 
+And then when you come back, the procedure was to increase the nitrogen and then finish 
+the top off with oxygen. 
+That was thought to be completely acceptable because the oxygen level, at this point, is 
+completely viable. 
+And so doing the nitrogen first and topping it off with oxygen was thought to be an acceptable 
+way to operate. 
+So we did the test and this is what happened. 
+We were all nice and comfortable with our oxygen partial pressure. 
+And you see the area next to where we were repressing. 
+We depleted the oxygen substantially. 
+And the mid deck and even the flight deck, we depleted the oxygen. 
+And I've only shown you half the data. 
+If you look at the rest of the data, you see where the oxygen went. 
+These equipment bays that I mentioned earlier, the avionics bays and other equipment bays 
+are basically isolated volumes from the cabin. 
+So, as the pressure comes up, what you're doing is you're pressurizing these areas with 
+cabin gas, which is oxygen and nitrogen, you're pressurizing these areas with nitrogen only. 
+Basically, you are depleting the partial pressure here. 
+You're increasing the partial pressure here. 
+You remember partial pressure. 
+You just count the molecules. 
+That's all you have to do. 
+Basically, we're putting more oxygen molecules here and we're taking them out of these areas. 
+And, therefore, they are going down. 
+This is just a picture of one of the bays. 
+You see all the empty space around the equipment. 
+That is where the gas is. 
+We came up with an alternate procedure which is to simultaneously put the oxygen and nitrogen 
+in together. 
+And, of course, there is the 9 back to 14.7. 
+And you notice that solved the problem. 
+There is still some dip at the supply area because the mixture is lean. 
+We need from 9 to 14.7, 5.7 PSI total pressure increase. 
+But we only need 2.5 up to 3.2 oxygen. 
+This is a mixture, but it's a lean mixture. 
+So there is still some slight loss, but the only area that came under an issue is near 
+the inlet where the O2/N2 supply panel is. 
+And, of course, you can just avoid that area. 
+Well, I should say that that area happens to be right around the bathroom. 
+And so, before we repressurized the Shuttle, the commander would say anybody who has to 
+use the bathroom use it now because for about ten, fifteen minutes, while we're depressurizing, 
+it's off limits. 
+OK. 
+Next item. 
+This is the water and waste management area. 
+This is one of the six items. 
+We have potable and waste water inventory management. 
+We're continually producing potable water, as you know, and waste water. 
+We have to dump them, we have to use them, so that is part of the requirement of this 
+system. 
+We have to store water for drinking, food prep and waste water storage. 
+It has to be dumped to space. 
+Commode and urinal for human waste collection. 
+And we provide water for an evaporative heat sink, which we will talk about later, called 
+the flash evaporator. 
+Yes. 
+This is an outstanding example of systems engineers, this total system that Walt is 
+talking about. 
+We can really see the interaction between all the systems and the spacecraft. 
+This really is a systems engineering problem. 
+Potable water, we take all the fuel cell byproduct water and use it. 
+So it is basically in a fluent to the power system. 
+We do have a launch storage capability for water and we do provide sterilization. 
+The sterilization is iodine. 
+We started out designing a silver ion system. 
+It turned out that we had manufacturing problems and the company ended up going out of business, 
+so we reverted to iodine. 
+The Lunar Module used iodine. 
+Waste water, the condensate from the cabin humidity control and urine and the urine pretreat. 
+Urine has to be pretreated to bind the urea. 
+If you don't, you get a lot of ammonia. 
+It uses a chemical called Oxzone. 
+It's an acid. 
+I'm not really sure what it is. 
+This is where the system is located. 
+This is one of the simpler schematics. 
+The water tanks are here. 
+The water comes from the fuel cell. 
+As I said, by the way, the delivery is about 
+So there is a lot of hydrogen dissolved in the water. 
+The water is collected in the fuel cells on the hydrogen side, so there is a lot of hydrogen. 
+There is a hydrogen separator here. 
+Otherwise, your tanks would end up full of hydrogen which is what you don't want. 
+You will get water in the tanks. 
+The hydrogen separator is a silver palladium metal. 
+It is catalyzed. 
+It is basically porous to hydrogen but not to water. 
+If you expose the backside to the vacuum it pulls the hydrogen off and the water goes 
+through just fine. 
+I will say that there still is a rather high gas content in the water that you drink. 
+And that gas, of course, evolves once it gets inside your stomach with predictable results. 
+Yes. 
+In fact, all sorts of systems that Jeff could explain. 
+They have slinger systems and all sorts of systems to get separation because it is not 
+really possible to get all the gas out of the water. 
+OK. 
+There is a dump system. 
+There is a potable waste dump to vacuum. 
+There is also a vacuum vent, which I will show you what that is all about. 
+And then the flash evaporator that I mentioned, and I will mention more later, is in the back 
+of the vehicle and it has a redundant water feed system both sides. 
+This is a schematic. 
+Start at the same place. 
+Water from the fuel cells goes through the hydrogen separator and then into this bank 
+of tanks. 
+The tanks are pressurized. 
+They are yellow bellows tanks. 
+On the back side of the bellows is nitrogen. 
+On the forward side, of course, is the potable water. 
+There is a hydrophobic filter on the downside of each tank. 
+If a bellows were to leak, you don't want water into your nitrogen system. 
+So this is a filter to prevent that. 
+I mentioned the twin flash evaporator feeds. 
+There they are. 
+This is the dump nozzle here. 
+The potable water system provides water to the crew so there is a regular water interface 
+and a chilled water interface here. 
+I believe that is it. 
+I remember there were more problems with Apollo than there were with Shuttle. 
+I'm sorry. 
+I don't remember. 
+I'm not sure. 
+Maybe that was on Apollo. 
+Basically that means you put your water into a plastic bag. 
+And now you can actually swing it around like so. 
+And so the water will go to the outside and the gas is in the inside. 
+So that actually separates them and you can squeeze the gas out through a valve. 
+On-orbit trash storage, there is an overboard bleed for odor control. 
+It's a very small overboard bleed to vacuum. 
+And the human solid waste collection and storage is also vacuum dried and stabilized. 
+This is a waste management picture. 
+The subject we were just talking about is the vacuum vent. 
+That vacuum vent does vent the commode area where the feces are. 
+That vent also provides a vent for the water separator. 
+It also provides a vent for airlock depress for EVA. 
+So this is the vacuum system. 
+The urine is collected and trained in a liquid. 
+Well, let me say that different. 
+The urine, after it has been separated from the gas stream, is stored in a waste tank, 
+as is the humidity from the cabin atmospheric revitalization system. 
+And then that is pressurized from the pressured composition control system and is dumped overboard. 
+This waster is not used for anything. 
+It is basically dumped just to do inventory management. 
+The next picture explains a little better about the commode and the urinals themselves. 
+The urinal originally had a unisex interface cup. 
+It turned out that didn't work very well, and so later flights there was a custom male/female. 
+And later there were even some more customizing for the crew, I believe, but I don't have 
+the details on that. 
+The urinal itself, obviously for urination, there needs to be some way to make the urine 
+go where you want it to go. 
+And those were done in fan separators. 
+So there is gas pulled in the cup. 
+And in training the urine, the urine then comes down and goes through the separators. 
+This is also a centrifugal-type separator. 
+And then that is sent to the head that is created here. 
+Then puts that waste water urine in the waste system. 
+The EMU spacesuit, it also has a condensate drain after each EVA, and it also goes through 
+this same system and into the waste tank. 
+The commode. 
+Basically there is a seat. 
+The seat has a small opening. 
+The commode itself is basically a cylinder or a tub. 
+And there is a slinger in the bottom. 
+So the slinger basically distributes the paper and the fecal matter on the outside wall in 
+a thin layer. 
+The vacuum then can dry that so that it deactivates it so it does not end up either any odor or 
+creating any kind of bacteriological issues. 
+But the entrainment of the fecal material so that it, in fact, hits the slinger, is 
+done with an air flow. 
+The air flow comes in around the seat itself. 
+That requires good contact with the seat. 
+It also requires positioning. 
+Positioning turned out to be an early issue, or reliable positioning, and so a trainer 
+was put together that had a camera here. 
+And the trainer, I might add, was discretely located in a non-observable place so that 
+it could be used in privacy, the comings and goings, and also the use of the facility itself. 
+And they told us it was not hooked up to a tape recorder. 
+Just to elaborate on that. 
+Basically, the problem is it really is a rather small opening. 
+And it just doesn't feel natural to know where to put yourself down. 
+And it actually did lead to significant messes on orbit. 
+I won't go into any more detail. 
+But the idea is that you would position yourself the way you thought it should be, and then 
+you would turn on the lights. 
+And there is a TV screen in front of you. 
+I'm not making this up. 
+So that you could see how close you are to the bull's-eye. 
+Enough said. 
+The cabin thermal control is another one of the subsystem elements. 
+It is a circulating liquid cooling system. 
+It provides the heat sink for the atmosphere itself. 
+It also provides the ability to reject that heat to the spacecraft cooling system because 
+you've got to get rid of it out of the cabin. 
+It has some avionics cold plates, some air cool avionics, support the crew in the airlock 
+and a portable water chiller. 
+This is the location. 
+You will notice the avionics bays are listed here with their little circulation systems. 
+The liquid system then services each of those, the chill or the condensing heat exchanger. 
+And this is the place that the cabin system connects to the spacecraft system, on the 
+aft bulkhead right here. 
+We will see the other half of this system in a little bit. 
+This is a schematic that is very complicated looking but it is fairly simple. 
+Let me show you the air piece first. 
+Look at the black lines. 
+Those are twin fans. 
+It goes through the air-cooled avionics through the heat exchanger to get rid of the heat. 
+There are some cold plated avionics in each bay, so you take care of the cold plated and 
+the air-cooled in this bay and in this bay and in this bay. 
+Now you've got all of the electronics taken care of. 
+I should have started this up at the pump. 
+Sorry about that. 
+Here is the pump and we will come down. 
+It also takes care of the forward and overhead window mounts around the window for thermal 
+control. 
+And the hatch is just a way to keep those thermally stabilized. 
+Back in the early flights, we had something called DFI, development flight instrumentation. 
+It was a special instrumentation package. 
+It was also liquid cooled. 
+And then this is the heat exchanger to the spacecraft system. 
+It is a Freon system. 
+This is where the main heat is rejected right here. 
+On the other side of this you've got cool liquid. 
+It turns out this is water. 
+We go through the liquid cooling garment which is the spacesuit cooling garment, the water 
+chiller, go through the cabin heat exchanger to cool the cabin and condense the water out 
+and then back to the pump. 
+I failed to mention the IMU. 
+It has triply redundant fans. 
+It pulls air through it. 
+And that is also cooled by this gas stream. 
+Anyway, this is the cabin thermal control system. 
+These functions, I just said each one of them so I won't repeat them. 
+Cabins circulating liquid cooling loop. 
+As I mentioned, water is the coolant. 
+Water is actually a very good coolant. 
+And, if you have any requirements that push you that way in your designing thermal control 
+systems, you like water. 
+Water is completely nontoxic so it can be around the crew. 
+Leaks don't make any difference. 
+It has a very high CP. 
+It's a really good fluid. 
+The problem with water is freezing. 
+You don't want to freeze it and you don't want to get it so hot that it turns into steam. 
+But if you can stay within the boundaries it is a good fluid. 
+And that is what this is. 
+Redundant pumps, I showed you that on the schematic. 
+The liquid gas heat exchanger, I showed you that before. 
+Cold plates for electronic cooling and the window hatch mount. 
+The circulating gases that I mentioned for the avionics, the cabin gas was used as a 
+coolant. 
+You saw the redundant fans and the doubly redundant fans. 
+I mentioned earlier, and someone commented on it, that the promise early on was the Shuttle 
+could be a less expensive development activity if we used off the shelf avionics, the kind 
+that aircraft use. 
+And that's a good promise. 
+It turned out that that's not a very good, not as good a solution for thermal control 
+as liquid cooled. 
+Liquid cooled is a much more efficient way of providing a heat sink to electrical equipment. 
+When you blow the cabin gas through it then you end up with the problems of if you change 
+the pressure in the cabin, which we talked about. 
+That can effect cooling. 
+Also you have to put out a lot more power. 
+You have to blow a lot more gas than you do power to move the liquid around, so it's not 
+a very good thermal solution. 
+And actually the promise of less expensive avionics I don't think was actually fulfilled, 
+although that's somebody else's topic and not mine, because I think everything was pretty 
+well custom. 
+It did potentially complicate the thermal control system for a good goal. 
+And how well that goal was met, somebody else will have to speak for it. 
+Another one of the subsystem elements of the spacecraft. 
+Well, we usually take a two minute break when we're about halfway through. 
+Certainly. 
+Why don't we take our two minutes now and then we will pick it right back up? 
+From an engineering standpoint, it is much better to cool with liquid. 
+If you use cold plates, it is much more efficient. 
+You get a good reliable heat sink. 
+And you can then design your thermal conduction paths so that out of the avionics box you 
+make sure the heat goes to the cold plate. 
+And you use a lot less power. 
+You can pump water a lot more efficiently for the cooling capability than you pump gas. 
+Is that what happens on the Shuttle now or do you have a mixture? 
+This is the air-cooled part of the loop and here are the cold plates. 
+Let's get the class back. 
+Thank you very much. 
+I am sorry. 
+Did you see what I was pointing at here? 
+Yeah, you put both. 
+Yeah, and this is one bay. 
+And they have both cold plates and the air-cooled here, here and here. 
+There they are. 
+Of course, when you go outside the vehicle there is no more air so all the external equipment 
+is cold plated. 
+Was there another question? 
+What kind of design changes would you have to make in order to go strictly to completely 
+liquid cooled electronics? 
+Well, if you're trying to use off-the-shelf and it is air-cooled already, there is a cabinet 
+right there full of it. 
+If it is air-cooled already then you have to stay with that concept. 
+If you're custom designing then, from the very beginning, you say I'm custom designing 
+this to be liquid cooled. 
+And then the internal design is such that there are conduction pads to the base plate 
+so that it can be cooled. 
+OK. 
+I guess previously to that all of our spacecraft were liquid cooled. 
+Apollo was, wasn't it? 
+Yes. 
+Because you had to be able to take those spacecraft down the back? 
+Right. 
+We evacuated the cabin both in the Command Module and the Lunar Module. 
+And Gemini, too. 
+This is the spacecraft active thermal control system. 
+This is the vehicle level. 
+So now, even though we're still under this ETCLSS, we are not talking the classical environmental 
+control anymore. 
+This is a bigger picture. 
+Also the reason the word active is stuck in here was a left over from previous programs, 
+too. 
+For example, on Apollo we had several heat rejection systems. 
+Not a single one. 
+And we also did a lot of passive thermal control on Apollo. 
+We had a mission mode called "barbeque" which is basically you roll the vehicle very slowly 
+so you normalize the environment. 
+If you leave the same side toward the sun all the way to the moon that side gets really 
+hot. 
+This is the active system to get away from heaters and/or vehicle level control. 
+There is an on-orbit. 
+We have a radiative heat sink. 
+We also have an evaporative heat sink on orbit. 
+During ascent and entry we have two heat sinks, both of which are evaporative. 
+We have a circulating liquid system. 
+We take heat from the cabin, from the fuel cells, hydraulics, all the cold plate avionics 
+and electronics, and payloads, we do cooling for payloads. 
+All of these are the functions of the active thermal control system. 
+This, as you notice, is a lot busier than some of the others have been. 
+You will notice the radiators here on the side wall. 
+This is the doors. 
+When closed up there are no radiators. 
+When opened the underside of the payload doors are your radiators. 
+And this is on both side, obviously. 
+That same heat exchanger that I showed you before that interfaces with the cabin is right 
+here. 
+The cabin load is dumped there. 
+Fuel cell load is dumped here. 
+The fluid is a Freon 21. 
+There is a Freon 21 pump package. 
+The payload heat exchanger is here, I believe. 
+Mid body cold plates. 
+Aft cold plates. 
+Each radiator side has its own flow control system. 
+The evaporative heat sinks, one is the flash evaporator that I've shown you a couple times 
+before. 
+I will describe it a little better in the minute. 
+It is here. 
+It uses water. 
+There is an ammonia boiler here that is also an evaporative heat sink. 
+And when we're on the ground there is a GSE connector for the GSE heat sink. 
+More than you would ever know. 
+In fact, this is the most complicated, integrated thermal test ever run at JSC. 
+And I will show you a picture of it in a minute. 
+We actually tested all of that together. 
+And it all had to work together. 
+And it gets worse as we go along. 
+I will show you all the integration factors as we go along, but it changes from mission 
+mode to mission mode. 
+It changes within mission modes as to how the system works. 
+And I will try to describe that. 
+OK, so this sort of gives you the feel now. 
+Keep in mind, geometry is going to play an effect here as to how you plum the system 
+up. 
+So Freon is running through all of those lines there to the radiators? 
+It will be a little clearer in a minute. 
+This is a schematic. 
+Let's start at the radiators. 
+On a good day, this is doing the job for you. 
+All the radiators are getting you nice cool liquid. 
+The radiator uses a bypass system, so you will see the bypass around the radiators. 
+It is good to remind yourselves that heat load can be tremendously different. 
+And the high level mission phases, a lot of electronics, a lot of crew activity, the vehicle 
+is alive and pumping out the power and, therefore, pumping out the heat. 
+If you ever did one of those 28 day missions we talked about, which was a spec requirement, 
+you can imagine this vehicle is almost quiescent. 
+It is doing very little. 
+You're trying to link them the mission. 
+So you're doing hopefully experiments or something in SpaceLab. 
+You're doing something else. 
+The vehicle is not working for you very hard. 
+Just as an example, we have five computers. 
+And we use all five during ascent and entry, the active phases for safety, but once you're 
+on orbit, when you have a long mission like that, you actually power down all but two 
+of the computers. 
+That is just it. 
+And there are a lot of other systems which you power down. 
+And that way you're limited in missions by the electrical energy which is limited by 
+the amount of hydrogen and oxygen you can carry for fuel cells. 
+So, by powering down, you extend your mission. 
+And, of course, you will also reduce the heat load. 
+And, when you reduce the heat load, you've got to find some way to make that same radiator 
+work for you at a very low heat load. 
+So it has the capability of getting rid of a lot of heat. 
+If you don't want it to get rid of that much heat, because you don't have it, then you 
+have to go to bypass system. 
+Anyway, the next thing in the loop is the GSE heat exchanger. 
+On the ground you don't have radiators working so you use the GSE heat exchanger. 
+Then there is the ammonia boiler. 
+When you reenter the ammonia boiler gives you the ability to operate with an evaporative 
+heat sink prior to the connection of the GSE, and so it is part of the thermal control system. 
+The next is the flash evaporator. 
+And you'll notice there are two flash chambers here. 
+One is called the high load and one is called the topper. 
+And I will talk about that a little more later. 
+Then the nice cool liquid, however it was cooled, all these cool it. 
+However it was cooled is then available for the vehicle. 
+And there is one more little heat load, and that is the cryogenic oxygen that we're bringing 
+in. 
+We also warm it up with this coolant loop. 
+So the flow then goes to the aft cold plates. 
+And then the flow also goes to the cabin heat exchanger and the payload heat exchanger. 
+You notice these are either or. 
+And that's because sometimes you don't even have a payload heat exchanger use so you don't 
+use it. 
+Sometimes you have a lot of use for it. 
+And maybe, for example, SpaceLab and Space Station have kind of an arrangement. 
+You wouldn't be in the cabin as much so you can divert that. 
+It allows you to use the capacity in either of two places here. 
+Then you come on down and come through your pumping package, there are redundant pumps. 
+Then you go the fuel cell heat exchanger because now you've used the nice cold fluid up. 
+And so the fuel cell can stand the warmer temperatures. 
+Also some cold plates. 
+Now, it might have occurred to you, it occurred to me, why did we waste our nice cold fluid 
+on these cold plates? 
+Why didn't we put those cold plates down here so we could have had more cold fluid for our 
+cabin heat exchangers? 
+And the answer is geometry. 
+Those are way in the back. 
+The cabin is in the front. 
+After you've come forward from the flash evaporator, which is in the back, to the cabin, you don't 
+want to go back to pick this up. 
+You wouldn't want to have to go back to the back of the vehicle and then back forward 
+again, so this is a geometry problem. 
+We have cold plates here. 
+We also have cold plates here. 
+They come forward. 
+The hydraulics heat exchanger is the last thing on the loop and then back to the radiators. 
+We will talk about that a little more. 
+The functions of the active thermal control system. 
+Collect the waste energy from all the systems. 
+We just talked about that. 
+And rejected radiatively to space. 
+That is our first choice. 
+Our first choice is to use the radiators. 
+It turns out that the radiators in some heat load environments don't do the job. 
+You have a high load and a bad environment, you cannot get rid of all the heat. 
+Also, we are producing a lot of water, so something constructive has to be done with 
+this water. 
+The fuel cells are pumping it out because every time you make a kilowatt you've got 
+more water to use. 
+So we decided to augment the space radiators with the evaporative heat sink at these high 
+load cases. 
+This gives us an ability to accept a radiator system that cannot really do the job by itself 
+but make it completely adequate for some of the low heat load cases, but in the high heat 
+load cases then it is augmented by water. 
+Now, when you want to get rid of water and you don't have some of this bad environment 
+you can actually throttle the radiators down. 
+And, if you throttle them down, then you force the evaporative heat sink to come online and 
+do the job for you. 
+In other words, you change the set point on the radiator. 
+Normally we use 40 degrees set point. 
+If you change it to 56 degrees and let the water take you from 56 back down to 40 then 
+you artificially get rid of water. 
+It is a good water dump system. 
+During ascent, over 100,000 feet we use the water boiler. 
+The flash evaporator. 
+Not a water boiler. 
+That's a Freudian slip, I guess. 
+The Apollo had what's called a water boiler. 
+It was a nightmare. 
+We said never will we do that again, so we ended up with a different design for the Shuttle. 
+The reentry system below 100,000 feet is ammonia. 
+It will carry you all the way to the ground and on the ground until you get the GSE. 
+Water won't carry you because water won't evaporate less than 100,000 feet, but the 
+ammonia will so that's the reason it is there. 
+Let's talk about the radiators themselves. 
+The two payload bay doors are a mirror image of each other. 
+They are radiators on each side that are exactly mirror image. 
+I don't know what happened there. 
+Anyway, this is supposed to say that the radiators on these two sides are mounted and are plumbed 
+in two separate cooling loops. 
+The reason for that is there is always a redundant loop. 
+Obviously, you have to be able to take a failure and still have a good system. 
+If you run both loops through both radiator sides and you took some sort of collision 
+hit then you could wipe out both of your cooling loops in one hit. 
+And so that is unacceptable. 
+By plumbing the systems up with mirror image radiator systems on different loops then you 
+can still use the capacity together. 
+But if you lose one side you still have half your capacity left. 
+And plus you have your evaporative heat sinks to make up the difference. 
+So we can survive with a door out. 
+I mentioned the dual set points before. 
+I also mentioned the bypass thermal control. 
+I mentioned the dual set points, 40 and 56. 
+If you're trying to burn up some water you go to 56 and you use the difference in water. 
+The radiators, we have two different kinds of radiators. 
+We have the single-sided that are on the back of the vehicle and some two-sided ones on 
+the front of the vehicle. 
+The reason for that is when you open the door you expose the underside of the door. 
+If you have radiators on the underside of the door then you've exposed your radiators. 
+But if you lift the radiator panel off the door, because the doors go way down, then 
+you can see the underside. 
+It's not as good, you don't get a full view of the heavens, but it does get rid of heat. 
+And so we needed that extra capacity. 
+On the front four panels they are the two-sided and on the back four they are single-sided. 
+The radiators themselves are made out of a honeycomb aluminum structure. 
+The tubes were imbedded in the structure so that the surface was smooth, and that was 
+because we wanted to use a silver Teflon tape for our thermal control coding. 
+For previous vehicles we always painted the radiators, painted them white. 
+If you look at the alpha epsilon white paint, it is pretty good. 
+I think Apollo was 0.18 alpha and epsilon about 0.92. 
+That's pretty good. 
+The market had moved along. 
+Technology had advanced and there was not the silver Teflon out there. 
+And what the silver Teflon does is the silver gives you the reflection which is good and 
+the Teflon gives you the radiation which is good, so you get the best of both worlds. 
+Silver Teflon was about 0.05 epsilon and about 
+You lost a slight amount in epsilon and gained a lot in alpha, so basically you could ignore 
+the sun which is what you'd like to do, is ignore the sun. 
+It turned out the silver Teflon had some issues. 
+We tested the radiators. 
+The radiator was not a slam dunk with eight panels, four of which are two-sided. 
+Effectively you have 12 panels. 
+You have fluid going through those in parallel tubes. 
+You're trying to guaranty that the fluid all goes where it's supposed to go. 
+And, therefore, the viscosity of Freon, which is very low, analytically said it was all 
+right. 
+But we wanted some testing to prove it so we did test the entire radiator system. 
+And, in that test, all the silver Teflon fell off. 
+It is a really good thermal coating but it doesn't seem to be very practical. 
+It turned out that the problem was adhesive. 
+We did a little adhesive work and the materials people came up with a Permacel that worked 
+perfectly. 
+They have never come off again. 
+In fact, we get 10, 12 years out of the radiators, lots of time. 
+The problem that the Permacel couldn't solve was beneath the tape you could get very small 
+little out-gassing of the materials. 
+Almost all materials outgas some. 
+Basically, we would put bubbles underneath the tape. 
+We went to a perforated. 
+There are millions of little holes in this tape. 
+And it is placed on the vehicle and it stayed on just fine. 
+It wasn't very long, though, that people began to worry about the focusing of this silver, 
+that the doors are curved upward. 
+And so there is a focal point there that is a very, very hot point. 
+And there was concern that that's really not a good thing to have. 
+If we could make the surface less specular and more diffuse without losing the alpha 
+and epsilon we would have a better design. 
+And so they dimpled it. 
+Now we have Permacel dimpled, perforated silver Teflon tape. 
+It works great. 
+The flash evaporator. 
+Water is the flash evaporator's evaporant. 
+This was a brand-new design. 
+The water boiler on Apollo was no good. 
+It was a problem. 
+The flash evaporator is a very simple concept. 
+You have a chamber. 
+You run your coolant around the chamber that you want to be cooled. 
+And you spray water on the walls of the chamber. 
+And, if the pressures are all right, the water will flash. 
+You won't get ice. 
+It will go straight to steam. 
+Steam will go overboard and it will all be wonderful. 
+And if you can convince a program manager of that good luck. 
+Anyway, the way to convince a program manager is to show him good test data. 
+During the development, we developed this process of spraying the walls and not getting 
+water carryover which will obviously freeze up your steam duct. 
+Which you don't want. 
+But, as the design evolved, we had to get more sophisticated because we needed this 
+flash evaporator to burn up the extra water when we didn't need the fuel cell water. 
+And we did that with that 40 to 56 set point. 
+And so we needed a small evaporator that could handle that. 
+It was called the "topper." It tops off the radiator. 
+But when the doors are closed there is nothing else to get rid of your heat, now you need 
+a loss of capacity. 
+And so the second chamber was the hallowed chamber. 
+Together they do the whole job. 
+When the radiators are working only topper, you can come home with this system functional 
+and make it home. 
+It turns out we never did freeze up the steam duct so that part was good. 
+It turns out that we had some freezing in the chamber. 
+And, in fact, we had to develop a process that acknowledged that that could occur. 
+And how would we flush it? 
+It is called "flushing." And so we did develop a process. 
+And it has never failed. 
+The flushing process always works. 
+And we have had on several occasions, I probably cannot count them for you, but four of five 
+times maybe over the Shuttle flights we've had some freezing inside the cavities. 
+There is a non-propulsive overboard vent. 
+That was the one going out both sides for the topper because it could be used for very 
+long times during the mission and you might be pointing or whatever you might be doing. 
+But when you're coming home the high load is just a big out the side of the vehicle 
+type duct. 
+The ammonia boiler, its heat sink is ammonia. 
+As I mentioned before, it evaporates all the way to the ground where the water won't. 
+The redundant boiler is here. 
+Up here there are no redundant boilers. 
+These two chambers have redundant everything. 
+They have redundant feed water systems and redundant control systems, redundant spray 
+nozzles, redundant everything, but the chamber is a chamber. 
+You get what you get. 
+They are redundant boilers is the way the ammonia boiler gets its redundancy. 
+It was designed to be utilized during entry and on the runway until the cooling is available. 
+It turns out that we don't do that anymore. 
+It turns out operationally we learned that if we cold soak the radiators before we shut 
+the doors and then bypass them and come home on the flash evaporator that there is a lot 
+of heat capacity still left in those radiators. 
+There is a lot of fluid out there and it is cold. 
+And so we can actually go all the way to wheel stop on the radiator. 
+And so at 175,000 feet we start flowing the radiator. 
+And at 100,000 feet the flash evaporator is off and we cold soak all the way home. 
+And after wheel stop the ammonia boiler cranks up. 
+I mentioned the Freon 21, the low viscosity. 
+We got an excellent performance out of that. 
+The low viscosity is really, really important, as much parallelism as we have. 
+I didn't really give you the numbers. 
+In the single panels we have 26 tubes. 
+In the two-sided panels, I believe, there are 66 tubes. 
+Lots of tubes. 
+Lots of parallelism. 
+It is awfully easy to get flow instability in a thermal system like that but the Freon 
+loop does great. 
+We have redundant pumps, all liquid heat exchangers and cold plates. 
+This is that chamber that I told you. 
+If you can look right down here, this is one person. 
+In fact, there is a radiator panel. 
+This was during buildup. 
+Twice we tested the flash evaporator in this environment once as part of the integrated 
+system with all the radiators and once by itself. 
+And twice we tested the radiators, one as part of the integrated system and once by 
+themselves. 
+So we did essentially three large tests. 
+And the one that had the entire system in it, had all the cold plates, had everything 
+in it, as I said, is the most sophisticated thermal test we've ever done at JSC. 
+And it proved that the system could work. 
+It also proved that we had to tune the flash evaporator nozzle because it was wrong. 
+But we did get the data, we did prove it was wrong and we got it re-machined. 
+A machine out of columbium, somebody else will have to answer why. 
+And so it was a problem for Aaron to go get us another one, but it fixed it and it was 
+successful. 
+You can have a command module and a service module and a stack configuration in side that 
+chamber. 
+And it had a solar and full vacuum. 
+It was a manned chamber then. 
+It is not now. 
+After Apollo-Soyuz, it hasn't been manned since then. 
+It's still available for testing but is not manned. 
+It has a sister chamber 100 feet that way where all of the EVA testing is done. 
+A good example, I think, of how the Shuttle Program built on a lot of Apollo-- The same 
+thing at the Cape where a lot of the launch hardware was adapted is the Shuttle Program, 
+you know, you heard about the budgetary constraints. 
+The Shuttle Program never could have afforded to build something like that. 
+But luckily a lot of this equipment was built during Apollo when the money was much more 
+available. 
+If you have been keeping count, we're getting toward the end here. 
+I did want to mention, before we left the main orbiter systems, that there was some 
+rotating equipment life testing that we did for the program. 
+The equipment we're talking about here is the cabin fan, the water gas separators, the 
+avionics bay fans, cabin coolant and the vehicle coolant pumps. 
+The life requirement was 100 missions, and that was calculated by somebody to be 20,000 
+hours. 
+If you could show 20,000 hours of successful operation, you had the design life of the 
+hardware. 
+We set up a laboratory to run the equipment. 
+It was obviously a low-maintenance lab. 
+We collected data and checked in the room occasionally to see if everything was all 
+right. 
+It turned out that all the equipment passed the 20,000 hour requirement. 
+We did learn something, though, that some of that stuff was so noisy. 
+Oh, it was noisy. 
+There was some work done on some muffling, but the hardware itself was all good. 
+We are at the end. 
+Yes. 
+Were there noise requirements [AUDIENCE QUESTION]? 
+Yes, there was a cabin noise spec. 
+And, yes, it had to be met. 
+And I don't remember how it was met. 
+We put mufflers on some of the equipment. 
+Maybe some insulation inside of the ducting, I'm not sure. 
+If we have time, COHEN: I will tell a little anecdote here. 
+I chaired the Change Control Board. 
+The medical organization came to see me and said that the cabin was very, very noisy and 
+it was going to really do a detriment to the astronauts. 
+And it was very expensive in terms of dollars and weight to really get all the cabin fans 
+and cabin environment down to the level they wanted. 
+I thought for a moment. 
+I go out to California a lot. 
+I go out to Rockwell and stay in motels that are on the Los Angeles freeway. 
+And I said you don't see me worried about my ears in staying in those freeways and not 
+being able to sleep and having all that noise. 
+And the doctor looked at me for a moment and said, well, you're already deaf. 
+And I said what did you say? 
+But we did have to make some modifications of it to actually reduce noise. 
+Let me interject one item. 
+I think somebody asked the issue about the IMU. 
+We decided to pick the IMU off the shelves, and it was air-cooled, to really do it right. 
+If we would have done it right, we would have picked an IMU which was compatible with liquid 
+cooling rather than redesign it. 
+But we decided to stick with the IMU that was air-cooled. 
+Whether that was the right decision to make, I don't know. 
+It seemed like it was because I think we've only had one problem with an IMU. 
+I don't think we've had many problems with the IMU. 
+But that is a little anecdote that I thought of. 
+That's a program manager's trait. 
+Probably the air-cooled IMU was a less expensive option. 
+It might have cost a little in terms of thermal efficiency, but that is only energy power. 
+And power was available so it was a good tradeoff. 
+This is the last of the subsystem areas. 
+This is the EVA airlock support. 
+The Environmental Thermal Control and Life Support System does support the airlock. 
+It maintains the cabin pressure and composition during the airlock repress and depress. 
+This is really a requirement back on the ARS and the pressure and composition control system 
+because airlock use basically dumps cabin gas and then you repress the airlock. 
+It is a requirement that you cannot upset the cabin while you're doing the EVA function. 
+We also provide the service and cooling umbilical. 
+If you have any kind of mental picture of being in the airlock, the crew is connected 
+with cooling and oxygen through an umbilical so they don't use the consumables in their 
+spacesuit. 
+And so that is provided by the ETCLSS. 
+Heat rejection, the crew wears a liquid cooling garment. 
+And the cooling for that is done by the vehicle until you go EVA, of course. 
+Then the recharge. 
+We supply the backpack O2 recharge from the 
+We supply the water to recharge for the sublimator. 
+NASA is overrun with acronyms. 
+EMU is extra vehicular mobility unit, which means nothing but spacesuit and backpack. 
+So the spacesuit and backpack uses an evaporative heat sink and it uses a sublimator. 
+And the idea there is it's a device that exposes a layer of ice to space and then it sublimates 
+and you get your cooling from that as opposed to putting a liquid water on a surface and 
+flashing it. 
+Anyway, that has to be serviced. 
+That water is provided from the system. 
+And then the condensate that the crew brings back, EVA, that's a sweaty job. 
+That condensate goes back into the system. 
+So the airlock support is another part of this system. 
+In fact, that is the sixth part. 
+So we are through. 
+This is a picture of the airlock. 
+Not really the airlock. 
+This is the test chamber that we built to put the equipment in. 
+You'll notice it has the right hatch in it. 
+And, if you can recall back an hour and a half ago, I showed you a picture where there 
+was this hatch basically on the backside of the test chamber. 
+We hook those together. 
+Because, as I said, as you depress and repress the airlock it affects the cabin. 
+So we needed a test environment that had both those simultaneously. 
+But the difference is this has to go all the way to vacuum. 
+So we connected this to our vacuum system. 
+And, when the crew is inside this, it is a manned vacuum test. 
+And when the crew is inside the other test chamber it is basically sea level or, at most, 
+And I think the last picture is a spacesuit inside the airlock. 
+And this is just a little cutaway showing the airlock. 
+This was mounted on the back of that chamber you saw earlier. 
+If you bring that picture back up, I will talk to that for just a minute and then we 
+will have some questions. 
+Before every flight, one of the things that we do is that every EVA crewmember takes his 
+or her spacesuit into that EVA test chamber, into the airlock test chamber so you actually 
+get a chance to take your own suit down to vacuum. 
+And particularly, before you do your very first EVA, it is really a confidence builder 
+because the physical sensations that you get in a suit -- And remember you're at about 
+a 4 PSI pure oxygen environment. 
+Your body, the inside of your mouth feels a little different. 
+There are funny sounds with the fans inside the suit. 
+The sorts of things that you don't want to experience the first time when you actually 
+go outside into space. 
+It is much better to do it here in a controlled environment where if there is a problem -- Actually, 
+you are supported because of the weight of the suit. 
+It doesn't look like there is anybody in this suit. 
+But, when you're in this suit, you're actually supported by a cable to the ceiling of the 
+chamber which is on quick release bolts. 
+You're suspended up here. 
+And, if you ever have a problem, they can release this, repressurize the chamber within 
+about 30 seconds. 
+I think that's the limit for a manned rated chamber. 
+You're going to be able to repress in about 
+and all from the top, and get you out of your suit and get you to the medics. 
+This is just an inverted bell jar. 
+The hatch is not sealed. 
+When you depress it just like pulls it out and seals due to the pressure difference. 
+You just lift the top off. 
+Yet another example of the extensive testing that we go through before every mission. 
+I might add one more thing, which I forgot actually to add earlier. 
+The manned rating is a term used in manned spacecraft which means that you've specifically 
+tested it and said that its design is worthy of supporting a human. 
+The airlock had to provide that function. 
+So Aaron was faced with man rating the airlock. 
+And manned test capability is very scarce. 
+In fact, JSC may be the only place anymore that can do it. 
+Anyway, we volunteered to do that as part of our test program as a programmatic requirement. 
+Not as testing or watching or confirming anything, but as a prime part of the test program was 
+the manned rating of the airlock. 
+And that was done in Houston. 
+That is an interesting thought. 
+If my memory serves me correctly, one of the problems we had in the early part of the Manned 
+Space Program was doing some chamber runs McDonnell-Douglas with a two-gas system where 
+we actually lost the heat [NOISE OBSCURES] 
+in the chamber and almost lost a test subject. 
+And that was when Apollo decided to go to 
+And that is what led up to the fire on the pad. 
+It went to 100% oxygen at 16 pounds per square inch with an invert over the hatch for another 
+reason. 
+And that is really if you can realize that 
+Stainless steel is not self-extinguishing at 16 PSI. 
+And, of course, that's what we were up when we had the Apollo I fire on the pad. 
+It was a function of doing some test work with the combined atmosphere. 
+So you have got to be careful that sometimes you don't over-react the thing. 
+Then we went back to a different type of atmosphere. 
+Did you have a question? 
+The systems you've been describing today seem to take up a lot of space in the Orbiter like 
+other systems. 
+How did you negotiate and manage other subsystems for the space and the volume in the way that 
+you wanted? 
+That is a good question but you're asking the wrong person. 
+We are the government. 
+We hired a contractor to design the vehicle. 
+Now, the design aspects of it, the philosophy of it, the functionality of it we were very, 
+very integral with. 
+We watched, we audited, we said that looks smart, but we didn't go and say put that cold 
+plate here and put that heat exchanger there. 
+The vehicle integrated design was Rockwell's. 
+Let me tell you how it was done. 
+Actually, in those years we didn't have CAD/CAM systems. 
+What we did is used everything on mockups. 
+We did mockups. 
+The system was laid out of what to do and the functions of what they had to do and the 
+plumbing. 
+And this was all laid out on a mockup. 
+And basically that was how it was negotiated in terms of what you need. 
+In today's environment you wouldn't do that. 
+You would use electronic capability. 
+You would use your CAD/CAM systems. 
+You would actually draw it up on your computer. 
+In fact, the 777 was built that way. 
+The 777 at Boeing, they didn't use hard mockups. 
+They used electronic mockups. 
+And that is what we would do today. 
+And it would be much easier. 
+You would probably call all the engineers together. 
+You would sit down and show how the equipment was laid out, get a satisfactory buyoff on 
+it and do it much more rapidly and much more quickly. 
+In the future, what you will be doing is actually use a CAD/CAM system or CAD system to actually 
+negotiate the space you need for it. 
+That is a good question. 
+And it was based on purely that you would get drawings, mockups, go out and lay it out 
+in a soft mockup or hard mockup. 
+You would get the engineers to come out, the manufacturing people to come out and say this 
+is how it is going to look and then get a buyoff on it. 
+Today you wouldn't do it that way. 
+You would do it all electronically so it would change. 
+Well, let me ask you a question. 
+Of all the work you've done in the Shuttle what was your biggest concern in getting ready 
+to fly or during the flight? 
+What did you have the biggest concern about? 
+I was young and confident. 
+I don't know that I had a specific area that I was really concerned about. 
+Like these people right here, right? 
+Young and confident. 
+I did recognize, though, but it did result in the integrated tests that I showed. 
+I did recognize that we had the most highly integrated thermal control system ever conceived. 
+And it had, as I said, modes within modes. 
+It changed modes with respect to the vehicle phases. 
+It changed modes with respect to operation. 
+We had 9 PSI that went to 10.2 PSI. 
+We had 8 PSI. 
+We had thermal control loops, ammonia boilers, flash evaporators, so I did recognize the 
+sophistication. 
+In fact, we proposed early on to use that large chamber in an integrated vehicle test. 
+Not we, me, but the big we looked at an integrated test like the Command Service Module was tested. 
+And that was viewed to be impractical. 
+It was cut it off at the bulkhead. 
+You could do the forward cabin part and then do the aft section, but that was viewed to 
+be impractical. 
+But it still was a very integrated design. 
+All the systems engineering that was there created that inner-dependency. 
+And I think I was smart enough to know that there was certainly some potential risks there. 
+Remember in the very beginning of this I talked about ownership of all the technical aspects? 
+We had ownership. 
+We believed that what we had done was prudent, appropriate, and we believed it would work. 
+It wasn't like you bought something and you hope it works. 
+Can you say a word of what you think, this is looking in your crystal ball, about the 
+CEV? 
+Do you think it's going to have a very similar type system or have you thought about that? 
+Well, we hope so. 
+Our new administrator has sort of back to the grassroots philosophy, or at least right 
+now. 
+And so we hope that the CEV will be developed with a lot of government involvement, that 
+the government will have ownership again of the technical aspects of the design. 
+If that happens then I think a lot of the experience that is around and a lot of the 
+free-thinking and the independence that the government can bring to that, there is another 
+school of thought that says keep the government out of the way and let the contractor go do 
+their thing. 
+And, obviously, you wouldn't get that position from me but there are people that believe 
+that's the right way to do it. 
+Do you think the system will look pretty much like this or similar to it? 
+Well, similar, yes, I do think so. 
+I believe that the very tight schedule for the CEV is going to put a lot of pressure 
+on the program manager to go with the tried and true. 
+So I don't think there is going to be innovation that has risk with it. 
+Maybe there will be innovation that is good engineering, but I think the innovation with 
+risk will be very much minimized. 
+Because taking Shuttle offline in 2010 there is going be a lot of pressure to get this 
+vehicle finished. 
+I think that is going to breed some conservatism on the design side. 
+We talk about considering operation while you're doing the design, but there were always 
+things once the design was made. 
+Well, like you mention, once we came up with a requirement for a 10.2 cabin we had to develop 
+workarounds. 
+And one of the other things that after the system is designed, we then start to figure 
+out how can it fail and work on malfunction procedures. 
+And I know that the malfunction procedure for loss of two coolant loops that was probably 
+the worst simulation case that we ever had to deal with. 
+I am curious to get your opinion. 
+Walt described how we have two independent cooling loops so that in principle one failure 
+won't take them both out. 
+Now, I don't remember what it was, but they did discover a single point failure somewhere 
+in there which I think was corrected but where you could have lost both of the cooling loops 
+with a single failure. 
+The only failure I remember is one that John Young used to worry about. 
+It had to do with if you did lose a radiator that that could bleed your accumulator down. 
+And so they did add an isolation valve so they can isolate the radiator side. 
+But the idea was to obviously not lose your fluid with a single hit. 
+That even though you have a nice completely functional thermal control system it is useless 
+because it has no fluid. 
+We did have an emergency de-orbit procedure for loss of two Freon cooling loops. 
+And, of all the things that we practices, that was the hairiest because it was absolutely 
+time critical. 
+At this point, you have no way of getting heat out of the cabin so you cannot ultimately 
+cool your electronics. 
+The cabin gets hot, your electronics get hot so you have to do an immediate de-orbit. 
+Hopefully you're within range of a landing site. 
+And then you turn off all the equipment that you can possibly turn off, including most 
+of your computers. 
+And, when you're riding down through entry, you basically watch the temperature of the 
+computer. 
+And, as each computer would get up to its failure temperature, you would then switch 
+on the next computer, transfer the data, you know, turn off the computer which has just 
+about failed, and hopefully you could make it to the ground. 
+And I know the instructors that would lead us through this exercise said that the information 
+they had gotten from the thermal analyst was that nobody was really sure whether we could 
+make it. 
+I don't know what your opinion was or not. 
+We practiced it. 
+But obviously, I think I've told you, nobody has ever died in a simulator. 
+But you never know whether the thermal model that they use in the simulator is really going 
+to duplicate the way the Shuttle is going to behave in an absolute emergency situation 
+like that. 
+We survived in the simulator but I don't know what your feeling is. 
+Well, we do address the thermal model accuracy. 
+We do specific testing to validate the thermal model so we do have pretty good confidence 
+in those. 
+But the real issue in overheat is that when does a piece of equipment stop working in 
+an overheat situation? 
+I mean there is no magic number. 
+It is not like at 143 degrees it is OK and 
+And it varies with age, it varies with equipment and it varies with a lot of things. 
+So there wasn't really a precise answer as to how long you could keep everything functional 
+and come home. 
+Yes. 
+You talked earlier a little about oxygen and nitrogen mixing in the cabin. 
+I was wondering if there is a way to really study that on the ground since you're not 
+in a DoD environment. 
+How do you know there are not pockets of nitrogen sitting around that an astronaut can stick 
+his heat into? 
+Very good. 
+I just forgot to mention that earlier. 
+The testing that we ran, we had to set it up very carefully. 
+If you notice, there is a flight deck and a mid-deck, so obviously buoyancy is going 
+to mix that stuff for you. 
+What we did is set up a thermal condition where less than one degree thermal gradient 
+everywhere in there had to exist before we ran the test. 
+And that was to guaranty that we had no help from the naturally induced circulation. 
+But you are absolutely right. 
+That test would have been a useless test without neutralizing the gravity effects. 
+And actually the first time that I did the spacesuit test in there we actually used the 
+So I actually had to go in the day before, take the cabin to 10.2, spend the night and 
+then we could do just a 40 minute prebreathe. 
+For most of the other tests, when you go in, in order to avoid the inconvenience and expense 
+of staying through the night, you go in early in the morning. 
+And then you're coming right from a sea level environment. 
+So, before you go down to 4 PSI in the suit, you actually have to prebreathe pure oxygen 
+for four hours. 
+As Walt said, that was the alternative. 
+You basically just get in your suit. 
+You can either bring a book and read your book or they will pipe music into you if you 
+want to give them a CD, or I guess there was an audiocassette in those days, or they have 
+a little black and white TV monitor. 
+And you just sort of sit there for four hours. 
+And the problem is you're not allowed to go to sleep. 
+That would be the easiest thing, but they want you actually to move around because when 
+you're moving your muscles you're actually then doing a better job of de-nitrogenating. 
+So you have to stay awake. 
+And if you don't say anything for more than about 10 minutes they will pipe something 
+in and say, Jeff, are you awake? 
+But this was a very, very useful facility. 
+I mean they used it for all different sorts of things. 
+And I guess that was the one new facility which was built for the Shuttle specifically. 
+Yes. 
+Jeff mentioned several times the 10.2 and I talked about the 9. 
+The 9 was the original design, but the issues with the 9 PSI had to do with the oxygen percentage 
+got too high. 
+And so there was much concern about flammability. 
+The idea was if you could raise the pressure up some to 10.2 then that would be less of 
+a flammability issue. 
+But then the problem became at 10.2 that the suit at 4 PSI was too much of a drop. 
+If you're in the bends while diving, somebody mentioned diving earlier, scuba, you could 
+usually use a two to one. 
+If you don't reduce pressure more than half you're probably OK. 
+You're probably not going to get the bends, but half of 10.2 is not 4. 
+And the suit is at 4, so there was that issue again. 
+They raised and bumped the suit up a little bit and got it up to 4.3 and went to 10.2 
+and developed the prebreathe protocols that made that acceptable. 
+That is sort of how it balanced out. 
+That was another operational move later. 
+And, as Walt said, you're spending enough time, once you get in the suit and you purge 
+all the nitrogen out, and so you're sitting in a pure oxygen environment, you've got to 
+do a bunch of tests and check out communication tests and cooling tests. 
+You basically are not losing much time by having to spend 40 minutes prebreathing. 
+The whole thing worked out pretty well. 
+And it will be an interesting question on how they designed the CEV because the CEV 
+has to be compatible with docking to the Space Station which works at a sea level environment. 
+But, on the other hand, if you're going to take the CEV into a situation where you want 
+to do a lot of space walks, you probably want to be able to operate it at more like 8.5 
+or 9 PSI so that you can go right into a spacesuit without an extensive prebreathe. 
+And, of course, people are always trying to figure out could we design the spacesuit to 
+work at a higher pressure? 
+But then you give up maneuverability. 
+We will talk about that in another lecture that I will be giving on EVA systems. 
+Walt, thank you very much. 
+I enjoyed it. 

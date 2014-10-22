@@ -1,0 +1,75 @@
+deux repertoires
+/in /out
+
+
+file pour voir quel est l'encodage du fichier
+avoir le terminal en utf-8 ça aide
+iconv pour convertir le fichier UTF-8
+
+
+faire un dos2unix si les fichiers textes viennent de windows
+
+peut etre utiliser file pour recupere automatiquement le type d'encodage
+iconv -f $(file $toto | cut -f2 -d" ") -t UTF-8 toto -o out/toto
+
+faire un file pour verifier les fichiers quin'ont pas pu etre convertis en UTF8
+normalement il y a des caracteres non utf8 style \Ux
+
+
+ensuite c'est du perl
+on a besoin de Number::spell pour convertir les nombre en lettres.
+
+on peut tout faire d'une traite
+le dos2unix, le iconv, le filtrage perl et le rapport
+
+outil de comparaison des texte sous nautilus tres pratique
+
+je vais le faire en python
+charger et faire une grande ligne.
+
+On ne fait pas du while mais on ouvre le fchier pour charger le contenu dans une unique ligne que l'on splite.
+on vire les espaces multiples et les tabulations tres regulierement. 
+
+fournir aspell dans un fichier a cote.
+
+
+Normalisation des acronymes
+ils contiennent un pattern A.B.1.C => A_B_1_C or B.A. => B_A
+e.g. i.e. will be tokeinzed too.
+
+si en fin de ligne tanpis le texte s'enchaine sans saut de ligne
+$_ =~ s/[A-Z0-9a-z]\.{2}/
+they work for B.A They are agents
+L'espace apres le point final est indispensable sinon on ne capture pas l'acronyme
+on a besoin de poser l'hypothese un minimum quele texte original n'estpas completement incense.
+On assume que les phrases sont termines par un point et commencent par une majuscule et son separes par un espace.
+des lors on peut tout se permettre.
+
+Utiliser le modele de langue pour verifier que je traite tous les cas;
+Je prends sa these pour verifier eventuellement.
+1- on splitte sur cette hypothese en une phrase par ligne
+2- les parentheses, brackets et accolades
+3- les acronymes on les protege pour cela je vire les underscores en premiers pour je scelle les acronymes par des underscores.
+4- les sequences numeriques
+5- les caracteres speciaux que l'on transforme en autre chose: £ en pounds; $ en dollars € en euros- a l'ecrit les currency sont plutot devant a l'oral c'est derriere -les points de decimales $89.90, le pourcentage. verifier la decimale utilisee pour ces regles voir avec le n-grams.
+les tirets en moins, en plus en plus ou moins etc...
+6- la liste de caracteres speciaux on peut faire du lettre par lettre pour les remplacer par des espaces.
+7- la transformation des nombres en lettres
+8- la decapitalisation en dernier
+
+puis apprentissage du modele de langue.
+iArpa et arpa avec un smoothing et on fait du 10-grams.
+
+separation en une phrase par ligne.
+on remplace l'espace par un saut de ligne.
+$_ =~ s/\. [A-Z]/\.\n$1/g
+On coupe aussi pour les ? et ! suivis d'une majuscule uniquement car il n'y a pas de raison que le debut de phrase suivante ne soit pas une majuscule.
+
+marquage des espace entre les caracteres speciaux et les ponctuations
+si le sigle
+
+
+
+
+
+

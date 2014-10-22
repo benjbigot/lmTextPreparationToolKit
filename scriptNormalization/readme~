@@ -1,0 +1,47 @@
+
+The directory contains the following subdirectories
+
+./inFiles
+./inFile.backup
+./outFiles
+./log
+
+
+################################
+linux requirement
+# dos2unix: fileformatconverter
+# iconv: charset converter
+
+################################
+Perl requirement
+# Number::Spell  to conver numeric to letters
+# sudo cpan -i Number::Spell
+
+you'll may need to update cpan
+# sudo apt-get install build_essential
+# sudo cpan 
+# make install
+# install Bundle::CPAN
+# install Number::Spell
+# if it fails check the log to see if some depencies have be installed first
+
+###############################################
+# to install irstlm #
+
+ download the tar.gz file from http://sourceforge.net/projects/irstlm/
+#  tar -xvf irstlm-5.80.05.tgz 
+#  cd irstlm-5.80.05/trunk
+
+#!# you'll may need to install automake and libtool first
+
+ the following lines will install irstlm in /usr/local/irstlm/bin
+# sh regenerate-makefiles.sh --force
+# ./configure
+# make
+# sudo make install
+
+ Then copy the following line in your ~/.bashrc file
+# export PATH=/usr/local/irstlm/bin:$PATH
+and run
+# source ~/.bashrc
+##############################################
